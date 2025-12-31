@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/390-6"/>
+          <FRBRuri value="/us-hi/act/hrs/390-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/390-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/390-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/390-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/390-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_390">
+        <num>Chapter 390</num>
+        <heading>Employee Benefit Plans</heading>
+        <section eId="sec_390_6">
+          <num>390-6</num>
+          <heading>Rules</heading>
+          <content>
+            <p>§390-6  Rules.
+The director shall adopt
+rules pursuant to chapter 91, necessary for the purpose of this chapter. [L
+1969, c 162, pt of §2; am L 2003, c 61, §5]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

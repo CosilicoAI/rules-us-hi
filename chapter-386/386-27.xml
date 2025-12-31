@@ -1,0 +1,342 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-27"/>
+          <FRBRuri value="/us-hi/act/hrs/386-27"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-27/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-27/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-27/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-27/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_27">
+          <num>386-27</num>
+          <heading>Section 386-27</heading>
+          <content>
+            <p>§386-27  Qualification and duties of health
+care providers.
+(a)  All health care providers rendering health care and
+services under this chapter shall be qualified by the director and shall remain
+qualified by satisfying the requirements established in this section.  The
+director shall qualify any person initially who has a license for the practice
+of:
+(1)  Medicine or osteopathy under chapter 453;
+(2)  Dentistry under chapter 448;
+(3)  Chiropractic under chapter 442;
+(4)  Naturopathic medicine under chapter 455;
+(5)  Optometry under chapter 459;
+(6)  Podiatry under chapter 463E;
+(7)  Psychology under chapter 465; and
+(8)  Advanced practice registered nurses under chapter
+457.
+(b)  To remain a qualified provider under this
+chapter a health care provider shall:
+(1)  Comply with guidelines established by the
+director on the frequency of treatment and reasonable utilization of health
+care and services;
+(2)  Conform to limitations established by the
+director for charges on services under medical fee and other fee schedules;
+(3)  File timely reports required under section
+386-96;
+(4)  Avoid unnecessary and unreasonable referrals of
+injured employees to other health care providers;
+(5)  Refrain from ordering unnecessary and
+unreasonable diagnostic tests and studies;
+(6)  Remain available as a treating health care
+provider to injured employees and as an advisor to the director in proceedings
+under this section; and
+(7)  Comply with all requirements established under
+this chapter and by rules and decisions adopted and issued by the director
+pursuant to this chapter.
+(c)  Any health care provider who fails to
+comply with subsections (a) and (b) may be subject to such sanctions deemed
+just and proper by the director which may include:
+(1)  Disallowance of fees for services rendered to an
+injured employee;
+(2)  Forfeiture of payments for services rendered to
+an injured employee under this chapter;
+(3)  Fines of no more than $2,500 for each violation;
+(4)  Suspension as a qualified provider; and
+(5)  Disqualification as a provider of services under
+this chapter.
+(d)  No sanction shall be imposed by the
+director under this section except upon submission of a written complaint which
+shall specifically allege that a violation of this section occurred within two
+years of the date of the complaint.  A copy of the complaint shall be sent to
+the health care provider charged promptly upon receipt by the director.  The
+director may establish an advisory panel of health care providers consisting of
+three members, one selected by the complainant, another selected by the health
+care provider charged, and the third selected by the director who shall assist
+the director in any case arising under this section.  Fees for services
+rendered by members of the advisory panel shall be paid for by the special
+compensation fund.  No member of the advisory panel shall be liable in damages
+for libel, slander, or other defamation of character of any party for any
+action taken while acting within their capacities as members of the advisory
+panel.
+The director shall issue, where a sanction is
+ordered under this section, a written decision of findings following a hearing
+held upon not less [than] twenty days written notice to the complainant and the
+health care provider charged.  No violation shall be found unless the director
+determines that the violator acted in bad faith.  Any person aggrieved by a
+decision of the director may appeal the decision under section 386-87.
+(e)  In any case arising under this section,
+the injured employee treated by the health care provider charged with a
+violation of this section shall not be a party to the proceeding and shall not
+appear unless called as a witness before the director or the appellate board. 
+Charges for services rendered by the health care provider alleged to be in
+violation of this section shall be suspended pending action by the director and
+the appellate board in cases on appeal.
+In any case in which fees for services rendered
+by a health care provider are disallowed by the director, the health care
+provider shall be ordered to forfeit payment. [L 1985, c 296, pt of §5; am L
+2009, c 11, §48; am L Sp 2009, c 22, §11(2); am L 2016, c 183, §7; am L 2020, c
+44, §6]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_27__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All health care providers rendering health care and
+services under this chapter shall be qualified by the director and shall remain
+qualified by satisfying the requirements established in this section.  The
+director shall qualify any person initially who has a license for the practice
+of:</p>
+            </content>
+            <paragraph eId="386_27__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Medicine or osteopathy under chapter 453;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Dentistry under chapter 448;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Chiropractic under chapter 442;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Naturopathic medicine under chapter 455;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Optometry under chapter 459;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Podiatry under chapter 463E;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Psychology under chapter 465; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Advanced practice registered nurses under chapter
+457.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_27__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To remain a qualified provider under this
+chapter a health care provider shall:</p>
+            </content>
+            <paragraph eId="386_27__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Comply with guidelines established by the
+director on the frequency of treatment and reasonable utilization of health
+care and services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Conform to limitations established by the
+director for charges on services under medical fee and other fee schedules;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>File timely reports required under section
+386-96;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Avoid unnecessary and unreasonable referrals of
+injured employees to other health care providers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Refrain from ordering unnecessary and
+unreasonable diagnostic tests and studies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Remain available as a treating health care
+provider to injured employees and as an advisor to the director in proceedings
+under this section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Comply with all requirements established under
+this chapter and by rules and decisions adopted and issued by the director
+pursuant to this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_27__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any health care provider who fails to
+comply with subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="386_27__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="386_27__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>may be subject to such sanctions deemed
+just and proper by the director which may include:</p>
+            </content>
+            <paragraph eId="386_27__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Disallowance of fees for services rendered to an
+injured employee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Forfeiture of payments for services rendered to
+an injured employee under this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Fines of no more than $2,500 for each violation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Suspension as a qualified provider; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_27__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Disqualification as a provider of services under
+this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_27__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>No sanction shall be imposed by the
+director under this section except upon submission of a written complaint which
+shall specifically allege that a violation of this section occurred within two
+years of the date of the complaint.  A copy of the complaint shall be sent to
+the health care provider charged promptly upon receipt by the director.  The
+director may establish an advisory panel of health care providers consisting of
+three members, one selected by the complainant, another selected by the health
+care provider charged, and the third selected by the director who shall assist
+the director in any case arising under this section.  Fees for services
+rendered by members of the advisory panel shall be paid for by the special
+compensation fund.  No member of the advisory panel shall be liable in damages
+for libel, slander, or other defamation of character of any party for any
+action taken while acting within their capacities as members of the advisory
+panel.
+The director shall issue, where a sanction is
+ordered under this section, a written decision of findings following a hearing
+held upon not less [than] twenty days written notice to the complainant and the
+health care provider charged.  No violation shall be found unless the director
+determines that the violator acted in bad faith.  Any person aggrieved by a
+decision of the director may appeal the decision under section 386-87.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_27__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>In any case arising under this section,
+the injured employee treated by the health care provider charged with a
+violation of this section shall not be a party to the proceeding and shall not
+appear unless called as a witness before the director or the appellate board. 
+Charges for services rendered by the health care provider alleged to be in
+violation of this section shall be suspended pending action by the director and
+the appellate board in cases on appeal.
+In any case in which fees for services rendered
+by a health care provider are disallowed by the director, the health care
+provider shall be ordered to forfeit payment. [L 1985, c 296, pt of §5; am L
+2009, c 11, §48; am L Sp 2009, c 22, §11(2); am L 2016, c 183, §7; am L 2020, c
+44, §6]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

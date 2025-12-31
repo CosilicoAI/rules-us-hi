@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-6"/>
+          <FRBRuri value="/us-hi/act/hrs/245-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_6">
+          <num>245-6</num>
+          <heading>Payment of taxes; penalties</heading>
+          <content>
+            <p>§245-6  Payment of taxes; penalties.
+At
+the time of the filing of the return required under section 245-5 and within
+the time prescribed, each wholesaler or dealer shall pay to the department the
+taxes imposed by this chapter, required to be shown by the return, including
+the unpaid amount of taxes imposed by this chapter.
+Penalties and interest shall be added to and
+become a part of the taxes, when and as provided by section 231-39. [L 1939, c
+220, §7; RL 1945, §5756; am L 1953, c 125, §13; RL 1955, §125-6; am L Sp 1959
+2d, c 1, §16; HRS §245-6; am L 1993, c 220, §11; am L 2000, c 249, §§6, 20(2); am
+L 2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

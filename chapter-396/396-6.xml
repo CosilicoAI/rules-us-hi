@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/396-6"/>
+          <FRBRuri value="/us-hi/act/hrs/396-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/396-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/396-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/396-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/396-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_396">
+        <num>Chapter 396</num>
+        <heading>Occupational Safety and Health</heading>
+        <section eId="sec_396_6">
+          <num>396-6</num>
+          <heading>Section 396-6</heading>
+          <content>
+            <p>§396-6  Employer responsibility:  safe place
+of employment; safety devices and safeguards.
+(a)  Every employer shall
+furnish to each of the employer's employees employment and a place of
+employment which are safe as well as free from recognized hazards.  No employer
+shall require or direct or permit or suffer any employee to go or be in any employment
+or place of employment which is not free from recognized hazards that are
+causing or likely to cause death or serious physical harm to employees or which
+does not comply with occupational safety and health standards, rules,
+regulations, citations, or orders made pursuant to this chapter except for the
+specific purpose of abating said hazard.
+(b)  Every employer shall furnish and use
+safety devices and safeguards, and shall adopt and use practices, means,
+methods, operations, and processes which are reasonably adequate to render such
+employment and place of employment safe.
+(c)  No employer shall construct or cause to be
+constructed any place of employment that is not safe, and no employer shall
+occupy or maintain any unsafe place of employment.
+(d)  Every employer shall make such reports as
+the Secretary of Labor may require pursuant to Public Law 91596 section 8(c).
+(e)  Each employer shall make, keep and
+preserve and make available to the department such records regarding the
+employer's activities relating to this chapter as the department may prescribe
+by regulation as necessary or appropriate for the enforcement of this chapter
+or for developing information regarding the causes and prevention of
+occupational accidents and illnesses.
+The department shall prescribe regulations
+requiring employers to maintain accurate records of, and to make periodic
+reports on work related deaths, injuries and illnesses other than minor
+injuries requiring only first aid treatment and which do not involve medical
+treatment, loss of consciousness, restriction of work or motion, or transfer to
+another job.
+(f)  All employers shall be required to post
+prominently in the working place all posters and information provided by the
+department for posting as well as notices informing employees of their rights
+and obligations under this chapter. [L 1972, c 57, pt of §1; am L 1974, c 152,
+§3; am L 1976, c 95, §6; gen ch 1985]
+Case Notes
+Statute recognizes limited exception relating to employees
+permitted on premises to abate specific hazard.  59 H. 53, 575 P.2d 1299 (1978).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="396_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every employer shall
+furnish to each of the employer's employees employment and a place of
+employment which are safe as well as free from recognized hazards.  No employer
+shall require or direct or permit or suffer any employee to go or be in any employment
+or place of employment which is not free from recognized hazards that are
+causing or likely to cause death or serious physical harm to employees or which
+does not comply with occupational safety and health standards, rules,
+regulations, citations, or orders made pursuant to this chapter except for the
+specific purpose of abating said hazard.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Every employer shall furnish and use
+safety devices and safeguards, and shall adopt and use practices, means,
+methods, operations, and processes which are reasonably adequate to render such
+employment and place of employment safe.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No employer shall construct or cause to be
+constructed any place of employment that is not safe, and no employer shall
+occupy or maintain any unsafe place of employment.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Every employer shall make such reports as
+the Secretary of Labor may require pursuant to Public Law 91596 section 8</p>
+            </content>
+          </subsection>
+          <subsection eId="396_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Each employer shall make, keep and
+preserve and make available to the department such records regarding the
+employer's activities relating to this chapter as the department may prescribe
+by regulation as necessary or appropriate for the enforcement of this chapter
+or for developing information regarding the causes and prevention of
+occupational accidents and illnesses.
+The department shall prescribe regulations
+requiring employers to maintain accurate records of, and to make periodic
+reports on work related deaths, injuries and illnesses other than minor
+injuries requiring only first aid treatment and which do not involve medical
+treatment, loss of consciousness, restriction of work or motion, or transfer to
+another job.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_6__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>All employers shall be required to post
+prominently in the working place all posters and information provided by the
+department for posting as well as notices informing employees of their rights
+and obligations under this chapter. [L 1972, c 57, pt of §1; am L 1974, c 152,
+§3; am L 1976, c 95, §6; gen ch 1985]
+Case Notes
+Statute recognizes limited exception relating to employees
+permitted on premises to abate specific hazard.  59 H. 53, 575 P.2d 1299 (1978).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

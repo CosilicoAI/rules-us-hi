@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-63"/>
+          <FRBRuri value="/us-hi/act/hrs/378-63"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-63/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-63/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-63/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-63/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_63">
+          <num>378-63</num>
+          <heading>Section 378-63</heading>
+          <content>
+            <p>§378-63  Civil actions for injunctive relief
+or damages.
+(a)  A person who alleges a violation of this part may bring a
+civil action for appropriate injunctive relief, or actual damages, or both
+within two years after the occurrence of the alleged violation of this part.
+(b)  An action commenced pursuant to subsection
+(a) may be brought in the circuit court for the circuit where the alleged
+violation occurred, where the complainant resides, or where the person against
+whom the civil complaint is filed resides or has a principal place of business.
+(c)  As used in subsection (a),
+&quot;damages&quot; means damages for injury or loss caused by each violation
+of this part, including reasonable attorney fees. [L 1987, c 267, pt of §1; am
+L 2002, c 56, §3]
+Case Notes
+Plaintiff's state whistleblower claim under §378-62 barred,
+where plaintiff did not file complaint until well after the ninety-day period
+after the most recent alleged violation of the whistleblowers' protection act. 
+75 F. Supp. 2d 1113 (1999).
+Count of complaint alleging that plaintiff was wrongfully
+discharged in violation of 31 U.S.C. §3730(h) of the False Claims Act was
+time-barred, where the court found that the Hawaii Whistleblowers' Protection
+Act provided the state cause of action most closely analogous to a 31 U.S.C.
+§3730(h) claim for retaliatory discharge, and thus applied a ninety-day statute
+of limitations to plaintiff's claim for retaliatory discharge.  362 F. Supp. 2d
+1203 (2005).
+Plaintiff's Whistleblowers' Protection Act claim was
+time-barred, where plaintiff took more than two years after the date of the
+last adverse action that plaintiff identified as relevant to the lawsuit to
+file suit.  938 F. Supp. 2d 1000 (2013).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="378_63__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A person who alleges a violation of this part may bring a
+civil action for appropriate injunctive relief, or actual damages, or both
+within two years after the occurrence of the alleged violation of this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_63__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An action commenced pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="378_63__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>may be brought in the circuit court for the circuit where the alleged
+violation occurred, where the complainant resides, or where the person against
+whom the civil complaint is filed resides or has a principal place of business.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_63__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>As used in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="378_63__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>of the False Claims Act was
+time-barred, where the court found that the Hawaii Whistleblowers' Protection
+Act provided the state cause of action most closely analogous to a 31 U.S.C.
+§3730</p>
+            </content>
+          </subsection>
+          <subsection eId="378_63__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>claim for retaliatory discharge, and thus applied a ninety-day statute
+of limitations to plaintiff's claim for retaliatory discharge.  362 F. Supp. 2d
+1203 (2005).
+Plaintiff's Whistleblowers' Protection Act claim was
+time-barred, where plaintiff took more than two years after the date of the
+last adverse action that plaintiff identified as relevant to the lawsuit to
+file suit.  938 F. Supp. 2d 1000 (2013).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

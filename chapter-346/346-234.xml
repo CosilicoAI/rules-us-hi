@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-234"/>
+          <FRBRuri value="/us-hi/act/hrs/346-234"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-234/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-234/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-234/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-234/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_234">
+          <num>346-234</num>
+          <heading>Guardian ad litem; counsel</heading>
+          <content>
+            <p>§346-234  Guardian ad litem; counsel.
+(a) 
+In any case where the court has reason to believe that a vulnerable adult or
+any other party lacks the capacity to effectively make decisions concerning the
+party's person, it may appoint a guardian ad litem to represent the interests
+of that party throughout the pendency of proceedings under this part.  The
+court shall appoint counsel for the vulnerable adult at any time where it finds
+that the vulnerable adult requires a separate legal advocate and is unable to
+afford private counsel.
+(b)  The court may order reasonable costs and
+fees of the guardian ad litem to be paid by the party for whom the guardian ad
+litem is appointed, if that party has sufficient financial resources to pay the
+costs and fees.  The court may also order the appropriate parties to pay or
+reimburse reasonable costs and fees of the guardian ad litem and counsel
+appointed for the vulnerable adult. [L 1989, c 381, pt of §1; am L 1990, c 144,
+§1 and c 234, §9; am L 2008, c 154, §16]
+Cross References
+Maximum fees for appointed counsel and guardian ad litem, see
+§571-87.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_234__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In any case where the court has reason to believe that a vulnerable adult or
+any other party lacks the capacity to effectively make decisions concerning the
+party's person, it may appoint a guardian ad litem to represent the interests
+of that party throughout the pendency of proceedings under this part.  The
+court shall appoint counsel for the vulnerable adult at any time where it finds
+that the vulnerable adult requires a separate legal advocate and is unable to
+afford private counsel.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_234__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The court may order reasonable costs and
+fees of the guardian ad litem to be paid by the party for whom the guardian ad
+litem is appointed, if that party has sufficient financial resources to pay the
+costs and fees.  The court may also order the appropriate parties to pay or
+reimburse reasonable costs and fees of the guardian ad litem and counsel
+appointed for the vulnerable adult. [L 1989, c 381, pt of §1; am L 1990, c 144,
+§1 and c 234, §9; am L 2008, c 154, §16]
+Cross References
+Maximum fees for appointed counsel and guardian ad litem, see
+§571-87.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

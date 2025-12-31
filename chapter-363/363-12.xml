@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/363-12"/>
+          <FRBRuri value="/us-hi/act/hrs/363-12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/363-12/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/363-12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/363-12/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/363-12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_363">
+        <num>Chapter 363</num>
+        <heading>Hawaiian Home Lands Trust</heading>
+        <section eId="sec_363_12">
+          <num>363-12</num>
+          <heading>Disbursement of World War II Filipino-American veterans burial grant funds</heading>
+          <content>
+            <p>[§363-12] 
+Disbursement of World War II Filipino-American veterans burial grant funds.
+(a) 
+The office of veterans' services, at the request of a deceased World War II
+Filipino-American veteran's survivor or an interested party, shall make payment,
+under the veterans burial grant program, directly to a licensed provider of
+mortuary or crematory services in the State for the cost of:
+(1)  Providing
+funeral and burial services for a deceased World War II Filipino-American
+veteran; and
+(2)  Transporting
+the remains of a deceased World War II Filipino-American veteran to the
+Philippines.
+(b)  The
+maximum amount that may be disbursed on behalf of a deceased World War II
+Filipino-American veteran under this section is $2,500.
+(c)  The
+office of veterans' services shall not expend more than the amount appropriated
+for the fiscal year to provide burial grants for deceased World War II
+Filipino-American veterans.
+(d)  The
+office of veterans' services shall establish specific eligibility criteria,
+application and appeal procedures, service choices, and invoicing
+arrangements.  Eligibility shall include the requirement that a World War II
+Filipino-American veteran was, at the time of death, a resident of the State,
+as evidenced by valid documentation of state residence, a State of Hawaii
+driver's license, or a State of Hawaii identification card.
+(e) 
+Payment shall be made by the office of veterans' services upon the submission
+of a contract for services on behalf of the deceased World War II
+Filipino-American veteran and an itemized unpaid invoice to the office.
+(f)  For
+the purposes of this section, &quot;World War II Filipino-American
+veteran&quot; means any Filipino-American veteran, who is now a citizen of the
+United States, who served honorably in an active duty status in any of the
+armed services of the United States between September 1, 1939, and December 31,
+1946. [L 2003, c 101, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="363_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The office of veterans' services, at the request of a deceased World War II
+Filipino-American veteran's survivor or an interested party, shall make payment,
+under the veterans burial grant program, directly to a licensed provider of
+mortuary or crematory services in the State for the cost of:</p>
+            </content>
+            <paragraph eId="363_12__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Providing
+funeral and burial services for a deceased World War II Filipino-American
+veteran; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_12__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Transporting
+the remains of a deceased World War II Filipino-American veteran to the
+Philippines.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="363_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The
+maximum amount that may be disbursed on behalf of a deceased World War II
+Filipino-American veteran under this section is $2,500.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The
+office of veterans' services shall not expend more than the amount appropriated
+for the fiscal year to provide burial grants for deceased World War II
+Filipino-American veterans.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_12__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The
+office of veterans' services shall establish specific eligibility criteria,
+application and appeal procedures, service choices, and invoicing
+arrangements.  Eligibility shall include the requirement that a World War II
+Filipino-American veteran was, at the time of death, a resident of the State,
+as evidenced by valid documentation of state residence, a State of Hawaii
+driver's license, or a State of Hawaii identification card.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_12__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Payment shall be made by the office of veterans' services upon the submission
+of a contract for services on behalf of the deceased World War II
+Filipino-American veteran and an itemized unpaid invoice to the office.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_12__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For
+the purposes of this section, &quot;World War II Filipino-American
+veteran&quot; means any Filipino-American veteran, who is now a citizen of the
+United States, who served honorably in an active duty status in any of the
+armed services of the United States between September 1, 1939, and December 31,
+1946. [L 2003, c 101, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

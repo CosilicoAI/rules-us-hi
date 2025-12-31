@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-32"/>
+          <FRBRuri value="/us-hi/act/hrs/353-32"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-32/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-32/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-32/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-32/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_32">
+          <num>353-32</num>
+          <heading>Gifts</heading>
+          <content>
+            <p>§353-32
+Gifts.
+(a) 
+Notwithstanding any other law to the contrary, the department may receive, use,
+manage, and invest moneys or property, real, personal, or mixed, which may be
+given, bequeathed, devised, or in any other manner provided from sources other
+than the legislature or the federal government, for any purpose authorized by
+this chapter and not inconsistent with any terms or conditions imposed by the
+donor, subsection (b), or chapter 84.
+(b)  A gift of money shall be deposited by the
+director of finance in a separate account in the state treasury and expended in
+accordance with law and any terms and conditions that may pertain to the gift. 
+Unless otherwise specified as a term or condition, the department may convert a
+gift of property into money.  Income derived from property or the conversion of
+property may be used to pay for the storage, handling, and distribution of
+other properties held by the department.
+(c)  All expenditures made pursuant to this
+section shall be subject to the approval of the director of corrections and
+rehabilitation.
+(d)  The department shall maintain records of
+each gift, the essential facts of the management thereof, details relating to
+expenditures of all moneys made pursuant to this section, and the current
+disposition, use, and condition of each gifted property held by the
+department.  This information shall be compiled and transmitted annually to the
+legislature and the governor, and shall be made available to the general public
+free of charge. [L 1992, c 100, §1; am L 2022, c 278, §29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_32__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding any other law to the contrary, the department may receive, use,
+manage, and invest moneys or property, real, personal, or mixed, which may be
+given, bequeathed, devised, or in any other manner provided from sources other
+than the legislature or the federal government, for any purpose authorized by
+this chapter and not inconsistent with any terms or conditions imposed by the
+donor, subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="353_32__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A gift of money shall be deposited by the
+director of finance in a separate account in the state treasury and expended in
+accordance with law and any terms and conditions that may pertain to the gift. 
+Unless otherwise specified as a term or condition, the department may convert a
+gift of property into money.  Income derived from property or the conversion of
+property may be used to pay for the storage, handling, and distribution of
+other properties held by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_32__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>All expenditures made pursuant to this
+section shall be subject to the approval of the director of corrections and
+rehabilitation.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_32__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department shall maintain records of
+each gift, the essential facts of the management thereof, details relating to
+expenditures of all moneys made pursuant to this section, and the current
+disposition, use, and condition of each gifted property held by the
+department.  This information shall be compiled and transmitted annually to the
+legislature and the governor, and shall be made available to the general public
+free of charge. [L 1992, c 100, §1; am L 2022, c 278, §29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

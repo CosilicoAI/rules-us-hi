@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-8"/>
+          <FRBRuri value="/us-hi/act/hrs/383-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_8">
+          <num>383-8</num>
+          <heading>Included and excluded service</heading>
+          <content>
+            <p>§383-8  Included and excluded service.
+If the services performed during one-half or more of any pay period by an
+individual for the person employing the individual constitute employment, all
+the services of the individual for the period shall be deemed to be employment;
+but if the services performed during more than one-half of any pay period by an
+individual for the person employing the individual do not constitute
+employment, then none of the services of the individual for the period shall be
+deemed to be employment.  As used in this section, the term &quot;pay
+period&quot; means a period (of not more than thirty-one consecutive days) for
+which a payment of remuneration is ordinarily made to the individual by the
+person employing the individual.  This section shall not be applicable with
+respect to services performed in a pay period by an individual for the person
+employing the individual, where any of the service is excepted by section 383-7(a)(8).
+[L 1941, c 304, §1, pt of subs 8; RL 1945, §4209; RL 1955, §93-8; HRS §383-8;
+gen ch 1985; am L 2015, c 35, §13]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

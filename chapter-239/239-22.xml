@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/239-22"/>
+          <FRBRuri value="/us-hi/act/hrs/239-22"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/239-22/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/239-22/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/239-22/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/239-22/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_239">
+        <num>Chapter 239</num>
+        <heading>Public Service Company Tax Law</heading>
+        <section eId="sec_239_22">
+          <num>239-22</num>
+          <heading>]</heading>
+          <content>
+            <p>[§239-22]
+Definitions.
+As used
+in sections 239-21 to 239-25:
+&quot;Charges for mobile telecommunications
+services&quot; means any charge for, or associated with, the provision of
+commercial mobile radio service, as defined in title 47 Code of Federal
+Regulations section 20.3 as in effect on June 1, 1999, or any charge for, or
+associated with, a service provided as an adjunct to a commercial mobile radio
+service, that is billed to the customer by or for the customer's home service provider
+regardless of whether individual transmissions originate or terminate within
+the licensed service area of the home service provider.
+&quot;Customer&quot; means:
+(1)  The person or entity that contracts with the home
+service provider for mobile telecommunications services; or
+(2)  If the end user of mobile telecommunications
+services is not the contracting party, &quot;customer&quot; means the end user
+of the mobile telecommunications service; provided that this paragraph shall
+apply only for the purpose of determining the place of primary use.  Without
+implication for the general definition of &quot;customer&quot;, the term does
+not include:
+(A)  A reseller of mobile telecommunications
+service; or
+(B)  A serving carrier under an arrangement to
+serve the customer outside the home service provider's licensed service area.
+&quot;Home service provider&quot; means the
+facilities-based carrier or reseller with which the customer contracts for the
+provision of mobile telecommunications services.
+&quot;Licensed service area&quot; means the
+geographic area in which the home service provider is authorized by law or
+contract to provide commercial mobile radio service to the customer.
+&quot;Mobile telecommunications service&quot;
+means commercial mobile radio service, as defined in title 47 Code of Federal
+Regulations section 20.3 as in effect on June 1, 1999.
+&quot;Place of primary use&quot; means the
+street address representative of where the customer's use of the mobile
+telecommunications service primarily occurs, which must be:
+(1)  The residential street address or the primary
+business street address of the customer; and
+(2)  Within the licensed service area of the home
+service provider.
+&quot;Prepaid telephone calling service&quot;
+means the right to purchase exclusively telecommunications services that must
+be paid for in advance, that enables the origination of calls using an access
+number, authorization code, or both, whether manually or electronically dialed,
+if the remaining amount of units of service that have been prepaid is known by
+the provider of the prepaid service on a continuous basis.
+&quot;Reseller&quot;:
+(1)  Means a provider who purchases telecommunications
+services from another telecommunications service provider and then resells,
+uses as a component part of, or integrates the purchased services into a mobile
+telecommunications service; and
+(2)  Does not include a serving carrier with which a
+home service provider arranges for the services to its customers outside the
+home service provider's licensed service area.
+&quot;Serving carrier&quot; means a
+facilities-based carrier providing mobile telecommunications service to a
+customer outside a home service provider's or reseller's licensed service area.
+&quot;Taxing jurisdiction&quot; means any of
+the several states, the District of Columbia, or any territory or possession of
+the United States, any municipality, city, county, township, parish,
+transportation district, or assessment jurisdiction, or other political
+subdivision within the territorial limits of the United States with the
+authority to impose a tax, charge, or fee. [L 2002, c 209, pt of §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

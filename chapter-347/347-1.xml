@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/347-1"/>
+          <FRBRuri value="/us-hi/act/hrs/347-1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/347-1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/347-1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/347-1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/347-1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_347">
+        <num>Chapter 347</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_347_1">
+          <num>347-1</num>
+          <heading>Visually handicapped defined</heading>
+          <content>
+            <p>§347-1  Visually handicapped defined.
+A
+visually handicapped person is one whose vision with correcting lenses is so
+defective as to interfere with the person's performance of ordinary activity
+for which eyesight is essential. [L 1947, c 108, §3; RL 1955, §109-3; am L
+1959, c 246, §2; HRS §347-1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

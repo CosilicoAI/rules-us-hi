@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-162"/>
+          <FRBRuri value="/us-hi/act/hrs/383-162"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-162/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-162/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-162/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-162/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_162">
+          <num>383-162</num>
+          <heading>Limitation of fees</heading>
+          <content>
+            <p>§383-162  Limitation of fees.
+No
+individual shall be charged fees of any kind in any proceeding under this
+chapter by the department of labor and industrial relations or its
+representatives, or the referee, or by any court or any officer thereof, and no
+costs shall be awarded by the referee on an appeal.  Any individual claiming
+benefits in any proceeding before the department or the referee may be
+represented by counsel or other duly authorized agent, but no such counsel or
+agent shall either charge or receive for such services more than an amount
+approved by the department or referee, and such amount shall in no case exceed
+ten per cent of the sum of the average benefit duration for the prior calendar
+year as computed by the department of labor and industrial relations multiplied
+by the claimant's weekly benefit amount, payable as a result of such
+proceeding.  For the purposes of this section, the term &quot;average benefit
+duration&quot; shall mean the average actual duration of benefits computed by
+dividing the total number of weeks compensated during a year by the
+corresponding number of first payments made during the year.
+Any person who violates this section shall, for
+each such offense, be fined not less than $50 nor more than $500 or imprisoned
+not more than six months, or both. [L 1939, c 219, §13(b); am L 1941, c 304,
+§1, pt of subs 35; RL 1945, §4286; RL 1955, §93-151; am L Sp 1959 2d, c 1, §27;
+HRS §383-162; am L 1980, c 13, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-91"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-91"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-91/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-91/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-91/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-91/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_91">
+          <num>356D-91</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>PART V. 
+PUBLIC HOUSING; EVICTIONS
+§356D-91  Definitions.
+As used in this
+part unless the context otherwise requires:
+&quot;Party&quot; means each person or agency
+named or admitted as a party or properly seeking and entitled as of right to be
+admitted as a party in any court or agency proceeding.
+&quot;Public housing project&quot; or
+&quot;complex&quot; means a low-income federally assisted housing project as
+established by the United States Housing Act of 1937, as amended, and
+controlled, owned, developed, or managed by the authority pursuant to the
+federal low-rent public housing program.
+&quot;Tenant&quot; means any person occupying a
+dwelling accommodation or living quarters in any public housing project, under
+or by virtue of any tenancy, lease, or rental agreement under or from the
+authority. [L 2006, c 180, pt of §2; am L 2007, c 249, §36]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

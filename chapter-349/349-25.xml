@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-25"/>
+          <FRBRuri value="/us-hi/act/hrs/349-25"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-25/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-25/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-25/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-25/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_25">
+          <num>349-25</num>
+          <heading>Section 349-25</heading>
+          <content>
+            <p>[§
+349-25]  Posting and distribution
+of information.
+(a)  The long-term care ombudsman shall provide each long-term
+care facility with brochures and a poster with information regarding the office
+of the long-term care ombudsman, including the name, address, and telephone
+number of the office of the long-term care ombudsman, and a brief description
+of the services provided by the office of the long-term care ombudsman.
+(b)  A long-term care facility shall provide
+each resident of the long-term [care] facility with a copy of the brochure and
+shall post the poster in a conspicuous location that is accessible to all
+residents of the long-term care facility. [L 2007, c 93, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_25__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The long-term care ombudsman shall provide each long-term
+care facility with brochures and a poster with information regarding the office
+of the long-term care ombudsman, including the name, address, and telephone
+number of the office of the long-term care ombudsman, and a brief description
+of the services provided by the office of the long-term care ombudsman.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_25__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A long-term care facility shall provide
+each resident of the long-term [care] facility with a copy of the brochure and
+shall post the poster in a conspicuous location that is accessible to all
+residents of the long-term care facility. [L 2007, c 93, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

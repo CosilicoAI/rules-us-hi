@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/354D-12"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/354D-12/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/354D-12/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_354D">
+        <num>Chapter 354D</num>
+        <heading>Hawaii Paroling Authority</heading>
+        <section eId="sec_354D_12">
+          <num>354D-12</num>
+          <heading>Section 354D-12</heading>
+          <content>
+            <p>§354D-12  Training and employment by
+organization; account proceeds and wages.
+(a)  The administrator, after
+consultation and with the approval of the director, is authorized to contract
+with any labor organization, private profit or nonprofit organization, or
+federal or state agency for the purpose of training or employing qualified,
+able-bodied inmates.
+(b)  Proceeds and wages owed to a qualified,
+able-bodied inmate from the sale of goods or services that were produced by the
+qualified, able-bodied inmate under a program authorized by this chapter shall
+be held in an account maintained by the department and paid:
+(1)  To the crime victim compensation special fund on
+a quarterly basis in amounts representing not less than five per cent nor more
+than twenty per cent of the earnings of all inmates in the State incarcerated
+for a violent crime listed in section 351-32; provided that these payments
+shall be mandatory and shall in no way relate to any claim filed under chapter
+351; and provided further that the director shall submit timely annual reports
+to the legislature and the crime victim compensation commission on the amounts
+paid pursuant to this paragraph during the previous fiscal year;
+(2)  To support the qualified, able-bodied inmate's
+dependents in amounts deemed appropriate by the department after consultation
+with the department of human services;
+(3)  Into trust funds that may be established for the
+qualified, able-bodied inmate and shall be payable upon the inmate's release;
+and
+(4)  Into the correctional industries revolving fund,
+for costs incident to the qualified, able-bodied inmate's confinement in an
+amount determined by the department, but not to exceed twenty per cent of the
+proceeds and wages. [L 1990, c 341, pt of §1; am L 1992, c 125, §2; am L 1993,
+c 303, §2; am L 1998, c 240, §§6, 7; am L 1999, c 18, §12]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="354D_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The administrator, after
+consultation and with the approval of the director, is authorized to contract
+with any labor organization, private profit or nonprofit organization, or
+federal or state agency for the purpose of training or employing qualified,
+able-bodied inmates.</p>
+            </content>
+          </subsection>
+          <subsection eId="354D_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Proceeds and wages owed to a qualified,
+able-bodied inmate from the sale of goods or services that were produced by the
+qualified, able-bodied inmate under a program authorized by this chapter shall
+be held in an account maintained by the department and paid:</p>
+            </content>
+            <paragraph eId="354D_12__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>To the crime victim compensation special fund on
+a quarterly basis in amounts representing not less than five per cent nor more
+than twenty per cent of the earnings of all inmates in the State incarcerated
+for a violent crime listed in section 351-32; provided that these payments
+shall be mandatory and shall in no way relate to any claim filed under chapter
+351; and provided further that the director shall submit timely annual reports
+to the legislature and the crime victim compensation commission on the amounts
+paid pursuant to this paragraph during the previous fiscal year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="354D_12__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>To support the qualified, able-bodied inmate's
+dependents in amounts deemed appropriate by the department after consultation
+with the department of human services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="354D_12__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Into trust funds that may be established for the
+qualified, able-bodied inmate and shall be payable upon the inmate's release;
+and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="354D_12__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Into the correctional industries revolving fund,
+for costs incident to the qualified, able-bodied inmate's confinement in an
+amount determined by the department, but not to exceed twenty per cent of the
+proceeds and wages. [L 1990, c 341, pt of §1; am L 1992, c 125, §2; am L 1993,
+c 303, §2; am L 1998, c 240, §§6, 7; am L 1999, c 18, §12]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

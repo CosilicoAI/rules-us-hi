@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-61.5"/>
+          <FRBRuri value="/us-hi/act/hrs/383-61.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-61.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-61.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-61.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-61.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_61_5">
+          <num>383-61.5</num>
+          <heading>Section 383-61.5</heading>
+          <content>
+            <p>PART III. 
+CONTRIBUTIONS AND COVERAGE
+§383-61  Payment of contributions; wages not
+included.
+(a)  Contributions with respect to wages for employment shall
+accrue and become payable by each employer for each calendar year in which the
+employer is subject to this chapter.  The contributions shall become due and be
+paid by each employer to the director of labor and industrial relations for the
+fund in accordance with such rules as the department of labor and industrial
+relations may prescribe, and shall not be deducted, in whole or in part, from
+the wages of individuals in the employer's employ.
+(b)  Except as provided in subsections (c) and
+(d), the term &quot;wages&quot; does not include remuneration paid with respect
+to employment to an individual by an employer during any calendar year which
+exceeds the average annual wage, rounded to the nearest hundred dollars, for
+the four calendar quarter period ending on June 30 of the preceding year.
+The average annual wage shall be computed as
+follows:  on or before November 30 of each year the total remuneration
+paid by employers, as reported on contribution reports on or before such date,
+with respect to all employment during the four consecutive calendar quarters
+ending on June 30 of such year shall be divided by the average monthly
+number of individuals performing services in such employment during the same
+four calendar quarters as reported on such contribution reports and rounded to
+the nearest hundred dollars.
+(c)  For the calendar year 1991 only, the term
+&quot;wages&quot; does not include remuneration in excess of $7,000 paid with
+respect to employment to an individual by an employer.  For calendar years 2008
+and 2009, the term &quot;wages&quot; as used in this part does not include
+remuneration in excess of $13,000 paid with respect to employment to an
+individual by an employer so long as the balance of the unemployment trust fund
+does not fall below the adequate reserve fund as specified by section 383-63. 
+For calendar years 2010 and 2011 only, the term &quot;wages&quot; as used in
+this part does not include remuneration in excess of the wages paid with
+respect to employment to an individual by an employer during the calendar year
+that exceeds ninety per cent of the average annual wage.
+(d)  For calendar year 1988 only, the term
+&quot;wages&quot; as used in this part does not include remuneration paid with
+respect to employment to an individual by an employer during the calendar year
+which exceeds:
+(1)  One hundred per cent of the average annual wage
+if the most recently computed ratio of the current reserve fund to the adequate
+reserve fund prior to that calendar year is equal to or less than .80;
+(2)  Seventy-five per cent of the average annual wage
+if the most recently computed ratio of the current reserve fund to the adequate
+reserve fund prior to that calendar year is greater than .80 but less than 1.2;
+or
+(3)  Fifty per cent of the average annual wage if the
+most recently computed ratio of the current reserve fund to the adequate
+reserve fund prior to that calendar year is equal to or more than 1.2;
+provided that &quot;wages&quot; with respect to
+which contributions are paid are not less than that part of remuneration which
+is subject to tax in accordance with section 3306(b) of the Internal Revenue
+Code of 1986, as amended.
+(e)  If an employer during any calendar year
+acquires substantially all the property used in a trade or business, or in a
+separate unit of a trade or business, of another employer, and after the
+acquisition employs an individual who prior to the acquisition was employed by
+the predecessor, then for the purpose of determining whether remuneration in
+excess of the average annual wages has been paid to the individual for
+employment, remuneration paid to the individual by the predecessor during the
+calendar year shall be considered as having been paid by the successor
+employer.  For the purposes of this subsection, the term &quot;employment&quot;
+includes services constituting employment under any employment security law of
+another state or of the federal government.
+(f)  Subsections (b) through (e)
+notwithstanding, for the purposes of this part the term &quot;wages&quot; shall
+include at least that amount of remuneration paid in a calendar year to an
+individual by an employer or the employer's predecessor with respect to
+employment during any calendar year which is subject to a tax under a federal
+law imposing a tax against which credit may be taken for contributions required
+to be paid into a state unemployment fund.
+(g)  In accordance with section 303(a)(5) of
+the Social Security Act, as amended, and section 3304(a)(4) of the Internal
+Revenue Code of 1986, as amended, any contributions overpaid due to a
+retroactive reduction in the taxable wage base may be credited against the
+employer's future contributions upon request by the employer; provided that no
+employer shall be given a cash refund. [L 1939, c 219, §7(a); am L 1941, c 304,
+§1, subs 19; RL 1945, §4246; am L 1947, c 3, §1; am L 1951, c 191, §1(4); am L
+1953, c 23, §1(3); RL 1955, §93-60; am L 1957, c 115, §1(b); am L Sp 1959 2d, c
+1, §27; am L 1961, c 114, §1(b); am L 1964, c 55, §2; am L 1965, c 20, §1; HRS
+§383-61; am L 1971, c 187, §6; am L 1976, c 157, §3; gen ch 1985; am L 1987, c
+240, §1; am L 1991, c 7, §1; am L 2007, c 110, §3; am L 2010, c 2, §3]
+Note
+The 2010 amendment applies retroactively to January 1, 2010,
+for determinations of the employer's contribution rate and wage base.  L 2010,
+c 2, §8.
+Revision Note
+In subsection (d)(1), &quot;or&quot; deleted pursuant to
+§23G-15.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_61_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Contributions with respect to wages for employment shall
+accrue and become payable by each employer for each calendar year in which the
+employer is subject to this chapter.  The contributions shall become due and be
+paid by each employer to the director of labor and industrial relations for the
+fund in accordance with such rules as the department of labor and industrial
+relations may prescribe, and shall not be deducted, in whole or in part, from
+the wages of individuals in the employer's employ.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except as provided in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the calendar year 1991 only, the term
+&quot;wages&quot; does not include remuneration in excess of $7,000 paid with
+respect to employment to an individual by an employer.  For calendar years 2008
+and 2009, the term &quot;wages&quot; as used in this part does not include
+remuneration in excess of $13,000 paid with respect to employment to an
+individual by an employer so long as the balance of the unemployment trust fund
+does not fall below the adequate reserve fund as specified by section 383-63. 
+For calendar years 2010 and 2011 only, the term &quot;wages&quot; as used in
+this part does not include remuneration in excess of the wages paid with
+respect to employment to an individual by an employer during the calendar year
+that exceeds ninety per cent of the average annual wage.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For calendar year 1988 only, the term
+&quot;wages&quot; as used in this part does not include remuneration paid with
+respect to employment to an individual by an employer during the calendar year
+which exceeds:</p>
+            </content>
+            <paragraph eId="383_61_5__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>One hundred per cent of the average annual wage
+if the most recently computed ratio of the current reserve fund to the adequate
+reserve fund prior to that calendar year is equal to or less than .80;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_61_5__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Seventy-five per cent of the average annual wage
+if the most recently computed ratio of the current reserve fund to the adequate
+reserve fund prior to that calendar year is greater than .80 but less than 1.2;
+or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_61_5__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Fifty per cent of the average annual wage if the
+most recently computed ratio of the current reserve fund to the adequate
+reserve fund prior to that calendar year is equal to or more than 1.2;
+provided that &quot;wages&quot; with respect to
+which contributions are paid are not less than that part of remuneration which
+is subject to tax in accordance with section 3306</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_61_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of the Internal Revenue
+Code of 1986, as amended.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If an employer during any calendar year
+acquires substantially all the property used in a trade or business, or in a
+separate unit of a trade or business, of another employer, and after the
+acquisition employs an individual who prior to the acquisition was employed by
+the predecessor, then for the purpose of determining whether remuneration in
+excess of the average annual wages has been paid to the individual for
+employment, remuneration paid to the individual by the predecessor during the
+calendar year shall be considered as having been paid by the successor
+employer.  For the purposes of this subsection, the term &quot;employment&quot;
+includes services constituting employment under any employment security law of
+another state or of the federal government.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>notwithstanding, for the purposes of this part the term &quot;wages&quot; shall
+include at least that amount of remuneration paid in a calendar year to an
+individual by an employer or the employer's predecessor with respect to
+employment during any calendar year which is subject to a tax under a federal
+law imposing a tax against which credit may be taken for contributions required
+to be paid into a state unemployment fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_61_5__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>In accordance with section 303</p>
+            </content>
+            <paragraph eId="383_61_5__subsec_g__para_5">
+              <num>(5)</num>
+              <content>
+                <p>of
+the Social Security Act, as amended, and section 3304</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_61_5__subsec_g__para_4">
+              <num>(4)</num>
+              <content>
+                <p>of the Internal
+Revenue Code of 1986, as amended, any contributions overpaid due to a
+retroactive reduction in the taxable wage base may be credited against the
+employer's future contributions upon request by the employer; provided that no
+employer shall be given a cash refund. [L 1939, c 219, §7</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

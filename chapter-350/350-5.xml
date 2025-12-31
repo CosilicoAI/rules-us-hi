@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/350-5"/>
+          <FRBRuri value="/us-hi/act/hrs/350-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/350-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/350-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/350-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/350-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_350">
+        <num>Chapter 350</num>
+        <heading>Child Protective Act</heading>
+        <section eId="sec_350_5">
+          <num>350-5</num>
+          <heading>Admissibility of evidence</heading>
+          <content>
+            <p>§350-5  Admissibility of evidence.
+The
+physician-patient privilege, the psychologist-client privilege, the spousal
+privilege, and the victim-counselor privilege shall not be grounds for
+excluding evidence in any judicial proceeding resulting from a report of child
+abuse or neglect pursuant to this chapter. [L 1967, c 261, §6; HRS §350-5; am L
+1987, c 204, §8; am L 1992, c 217, §3]
+Cross References
+Physician-patient privilege, see §626-1, rule 504.
+Psychologist-client privilege, see §626-1, rule 504.1.
+Spousal privilege, see §626-1, rule 505.
+Victim-counselor privilege, see §626-1, rule 505.5.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

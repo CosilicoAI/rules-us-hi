@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/241-2"/>
+          <FRBRuri value="/us-hi/act/hrs/241-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/241-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/241-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/241-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/241-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_241">
+        <num>Chapter 241</num>
+        <heading>Banks and Other Financial Corporations--Franchise Tax</heading>
+        <section eId="sec_241_2">
+          <num>241-2</num>
+          <heading>Section 241-2</heading>
+          <content>
+            <p>§241-2  Imposition of tax on national
+banking associations; construction; exemption from other taxes, except real
+property tax.
+(a)  Every national banking association located or doing
+business in the State shall annually pay a franchise tax according to, or
+measured by, its net income, to be computed as provided in section 241-4, at
+the rate there prescribed.  The State is hereby adhering to the prescriptions
+of section 5219, Revised Statutes of the United States, as amended (12 U.S.C.
+548), or other similar law.
+(b)  Nothing in this chapter shall be construed
+to:
+(1)  Exclude the application of other taxes imposed by
+the State or any political division thereof on national banking associations or
+their activities, property, income, shares, or dividends when those taxes may
+be imposed in addition to those authorized by section 5219, Revised Statutes of
+the United States, as amended (12 U.S.C. 548), or other similar law;
+(2)  Exempt the real property of national banking
+associations from taxation to the same extent, according to its value, as other
+real property is taxed; or
+(3)  Preclude the inclusion of the dividends from
+national banking associations in the income of individuals taxable under
+chapter 235 to the same extent as are included dividends from domestic
+corporations.
+(c)  If the tax imposed by this chapter at the
+rate provided in section 241-4 is, for any year, higher than is authorized by
+law, then in such event the rate of the tax imposed by this chapter shall, for
+national banking associations only, be reduced for that year to such per cent
+(to be computed to the nearest hundredth of one per cent) as will cause the
+amount of the tax imposed on national banking associations under this chapter
+not to exceed the authorized amount. [L Sp 1957, c 1, pt of §10(a); Supp, §127-2;
+HRS §241-2; am L 1968, c 7, §3; am L 1992, c 106, §12; am L 2019, c 111, §7]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="241_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every national banking association located or doing
+business in the State shall annually pay a franchise tax according to, or
+measured by, its net income, to be computed as provided in section 241-4, at
+the rate there prescribed.  The State is hereby adhering to the prescriptions
+of section 5219, Revised Statutes of the United States, as amended (12 U.S.C.
+548), or other similar law.</p>
+            </content>
+          </subsection>
+          <subsection eId="241_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Nothing in this chapter shall be construed
+to:</p>
+            </content>
+            <paragraph eId="241_2__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Exclude the application of other taxes imposed by
+the State or any political division thereof on national banking associations or
+their activities, property, income, shares, or dividends when those taxes may
+be imposed in addition to those authorized by section 5219, Revised Statutes of
+the United States, as amended (12 U.S.C. 548), or other similar law;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="241_2__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Exempt the real property of national banking
+associations from taxation to the same extent, according to its value, as other
+real property is taxed; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="241_2__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Preclude the inclusion of the dividends from
+national banking associations in the income of individuals taxable under
+chapter 235 to the same extent as are included dividends from domestic
+corporations.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="241_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the tax imposed by this chapter at the
+rate provided in section 241-4 is, for any year, higher than is authorized by
+law, then in such event the rate of the tax imposed by this chapter shall, for
+national banking associations only, be reduced for that year to such per cent
+(to be computed to the nearest hundredth of one per cent) as will cause the
+amount of the tax imposed on national banking associations under this chapter
+not to exceed the authorized amount. [L Sp 1957, c 1, pt of §10</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-204"/>
+          <FRBRuri value="/us-hi/act/hrs/386-204"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-204/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-204/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-204/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-204/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_204">
+          <num>386-204</num>
+          <heading>Rates and reporting of rates</heading>
+          <content>
+            <p>§386-204  Rates and reporting of rates.
+(a)  Every workers' compensation self-insurance group shall adhere to the
+uniform classification system, uniform experience rating plan, and manual rules
+filed with the insurance commissioner by an advisory organization designated by
+the insurance commissioner.
+(b)  Premium contributions to the group shall
+be determined by applying the manual rates and rules to the appropriate
+classification of each member which shall be adjusted by each member's
+experience credit or debit.  Subject to approval by the insurance commissioner,
+premium contributions may also be reduced by an advance premium discount
+reflecting the group's expense levels and loss experience.
+(c)  Notwithstanding subsection (b), a group
+may apply to the insurance commissioner for permission to make its own rates. 
+The rates shall be based on at least five years of the group's experience.
+(d)  Each group shall be audited at least
+annually by an auditor acceptable to the insurance commissioner to verify
+proper classifications, experience rating, payroll, and rates.  A report of the
+audit shall be filed with the insurance commissioner in a form acceptable to
+the insurance commissioner.  A group or any member thereof may request a
+hearing on any objections to the classifications.  If the insurance
+commissioner determines that, as a result of an improper classification, a
+member's premium contribution is insufficient, the insurance commissioner shall
+order the group to assess that member an amount equal to the deficiency.  If
+the insurance commissioner determines that, as a result of an improper
+classification, a member's premium is excessive, the insurance commissioner
+shall order the group to refund to the member the excess collected.  The audit
+shall be at the expense of the group. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_204__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every workers' compensation self-insurance group shall adhere to the
+uniform classification system, uniform experience rating plan, and manual rules
+filed with the insurance commissioner by an advisory organization designated by
+the insurance commissioner.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_204__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Premium contributions to the group shall
+be determined by applying the manual rates and rules to the appropriate
+classification of each member which shall be adjusted by each member's
+experience credit or debit.  Subject to approval by the insurance commissioner,
+premium contributions may also be reduced by an advance premium discount
+reflecting the group's expense levels and loss experience.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_204__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="386_204__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Each group shall be audited at least
+annually by an auditor acceptable to the insurance commissioner to verify
+proper classifications, experience rating, payroll, and rates.  A report of the
+audit shall be filed with the insurance commissioner in a form acceptable to
+the insurance commissioner.  A group or any member thereof may request a
+hearing on any objections to the classifications.  If the insurance
+commissioner determines that, as a result of an improper classification, a
+member's premium contribution is insufficient, the insurance commissioner shall
+order the group to assess that member an amount equal to the deficiency.  If
+the insurance commissioner determines that, as a result of an improper
+classification, a member's premium is excessive, the insurance commissioner
+shall order the group to refund to the member the excess collected.  The audit
+shall be at the expense of the group. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

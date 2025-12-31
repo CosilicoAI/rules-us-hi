@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-15"/>
+          <FRBRuri value="/us-hi/act/hrs/349-15"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-15/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-15/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-15/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-15/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_15">
+          <num>349-15</num>
+          <heading>Section 349-15</heading>
+          <content>
+            <p>PART II.  KUPUNA
+CARE AND CAREGIVER SUPPORT SERVICES
+Note
+Part heading added by L 2007, c 93, §8.
+Part heading amended by L 2017, c 102, §3.
+Revision Note
+Enacted as Part III, this Part was renumbered as Part II
+pursuant to §23G-15.
+[§349-15  Coordination and development of
+caregiver support services.]
+The executive office on aging shall
+coordinate a statewide system of caregiver support services by, among other
+things:
+(1)  Integrating family caregiver support with the
+aging and disability resource center demonstration project;
+(2)  Analyzing the long-term care needs of older
+adults and the capacity of family and informal caregivers to help them remain
+safely at home;
+(3)  Advocating, mobilizing, and coordinating employer
+and community resources to enable and augment family caregiver support;
+(4)  Establishing and maintaining protocols and
+standards for federal and state caregiver services administered by state,
+county, or other local agencies on aging;
+(5)  Establishing and supervising the alignment of
+long-term care advocacy assistance staff caregiver support objectives with the
+planning, resource development, grants management, data management, and
+evaluation functions of the executive office on aging; and
+(6)  Coordinating statewide support for grandparents
+and other aging relative caregivers of children eighteen and under. [L 2006, c
+262, §5]
+Revision Note
+Section codified pursuant to §23G-15.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

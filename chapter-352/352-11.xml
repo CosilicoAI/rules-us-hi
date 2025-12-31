@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-11"/>
+          <FRBRuri value="/us-hi/act/hrs/352-11"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-11/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-11/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-11/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-11/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_11">
+          <num>352-11</num>
+          <heading>Commitments directed, how</heading>
+          <content>
+            <p>§352-11  Commitments directed, how.
+All
+commitments from the family courts of the State shall be directed to the
+director and may specify the appropriate facility for placement purposes.  The
+committing court or judge shall designate a juvenile probation officer, police
+officer, or any qualified person to deliver the committed person to a youth
+correctional facility.  The officer or person designated to deliver the
+committed person to the designated facility shall be charged by such commitment
+with the execution of all orders for the custody and safekeeping of the person
+committed to the director until delivered to the director or the director's
+duly authorized agent.  All direct expenses excluding salaries or wages
+attending the delivery of such committed persons to their places of destination
+shall be paid by the court.  The director shall be charged by such commitments
+with the execution of all orders for the custody, placement, and safekeeping of
+the committed persons. [L 1980, c 303, pt of §8(1)]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

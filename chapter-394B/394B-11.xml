@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/394B-11"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-11"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/394B-11/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-11/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/394B-11/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-11/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_394B">
+        <num>Chapter 394B</num>
+        <heading>Dislocated Workers</heading>
+        <section eId="sec_394B_11">
+          <num>394B-11</num>
+          <heading>Section 394B-11</heading>
+          <content>
+            <p>[§394B-11]  Prompt payment of wages and
+benefits.
+An employer in a covered establishment shall pay on the
+effective date of a closing, partial closing, or relocation to each employee
+all wages, benefits, and other forms of compensation due and owing to said
+employee. [L 1987, c 377, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

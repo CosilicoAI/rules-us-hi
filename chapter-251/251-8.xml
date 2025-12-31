@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/251-8"/>
+          <FRBRuri value="/us-hi/act/hrs/251-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/251-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/251-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/251-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/251-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_251">
+        <num>Chapter 251</num>
+        <heading>Transient Accommodations Tax</heading>
+        <section eId="sec_251_8">
+          <num>251-8</num>
+          <heading>Section 251-8</heading>
+          <content>
+            <p>§251-8  Assessment of surcharge tax upon
+failure to make return; limitation period; exceptions; extension by agreement.
+(a)  If any person fails to make a return as required by this chapter, the
+director shall make an estimate of the surcharge tax liability of the person
+from any information the director obtains, and according to the estimate so
+made, assess the surcharge taxes, interest, and penalty due the State from the
+person, give notice of the assessment to the person, and make demand upon the
+person for payment.  The assessment shall be presumed to be correct until and
+unless, upon an appeal duly taken as provided in section 251-10, the contrary
+shall be clearly proved by the person assessed, and the burden of proof upon
+the appeal shall be upon the person assessed to disprove the correctness of
+assessment.
+(b)  After a return is filed under this chapter
+the director shall cause the return to be examined, and may make such further
+audits or investigation as the director considers necessary.  If the director
+determines that there is a deficiency with respect to the payment of any
+surcharge tax due under this chapter, the director shall assess the surcharge
+taxes, interest, and penalty due the State, give notice of the assessment to
+the persons liable, and make demand upon the persons for payment.
+(c)  Except as otherwise provided by this
+section, the amount of surcharge taxes imposed by this chapter shall be
+assessed or levied within three years after the annual return was filed, or
+within three years of the due date prescribed for the filing of the return,
+whichever is later, and no proceeding in court without assessment for the
+collection of any such surcharge taxes shall begin after the expiration of the
+period.  Where the assessment of the tax imposed by this chapter has been made
+within the period of limitation applicable thereto, the tax may be collected by
+levy or by a proceeding in court under chapter 231; provided that the levy is
+made or the proceeding was begun within fifteen years after the assessment of
+the tax.  For any tax that has been assessed prior to July 1, 2009, the levy or
+proceeding shall be barred after June 30, 2024.
+Notwithstanding any other
+provision to the contrary in this section, the limitation on collection after
+assessment in this section shall be suspended for the period:
+(1)  The taxpayer agrees to
+suspend the period;
+(2)  The assets of the taxpayer
+are in control or custody of a court in any proceeding before any court of the
+United States or any state, and for six months thereafter;
+(3)  An offer in compromise
+under section 231-3(10) is pending; and
+(4)  During which the taxpayer
+is outside the State if the period of absence is for a continuous period of at
+least six months; provided that if at the time of the taxpayer's return to the State
+the period of limitations on collection after assessment would expire before
+the expiration of six months from the date of the taxpayer's return, the period
+shall not expire before the expiration of the six months.
+(d)  In the case of a false or fraudulent
+return with intent to evade the surcharge tax, or of a failure to file the
+annual return, the surcharge tax may be assessed or levied at any time; provided
+that the burden of proof with respect to the issues of falsity or fraud and
+intent to evade tax shall be upon the State.
+(e)  Where, before the expiration of the period
+prescribed in subsection (c), both the department of taxation and the person
+have consented in writing to the assessment or levy of the surcharge tax after
+the date fixed by subsection (c), the surcharge tax may be assessed or levied
+at any time prior to the expiration of the period agreed upon.  The period so
+agreed upon may be extended by subsequent agreements in writing made before the
+expiration of the period previously agreed upon. [L 1991, c 263, pt of §1; am L
+1993, c 257, §5; am L 2009, c 166, §12]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="251_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If any person fails to make a return as required by this chapter, the
+director shall make an estimate of the surcharge tax liability of the person
+from any information the director obtains, and according to the estimate so
+made, assess the surcharge taxes, interest, and penalty due the State from the
+person, give notice of the assessment to the person, and make demand upon the
+person for payment.  The assessment shall be presumed to be correct until and
+unless, upon an appeal duly taken as provided in section 251-10, the contrary
+shall be clearly proved by the person assessed, and the burden of proof upon
+the appeal shall be upon the person assessed to disprove the correctness of
+assessment.</p>
+            </content>
+          </subsection>
+          <subsection eId="251_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>After a return is filed under this chapter
+the director shall cause the return to be examined, and may make such further
+audits or investigation as the director considers necessary.  If the director
+determines that there is a deficiency with respect to the payment of any
+surcharge tax due under this chapter, the director shall assess the surcharge
+taxes, interest, and penalty due the State, give notice of the assessment to
+the persons liable, and make demand upon the persons for payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="251_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Except as otherwise provided by this
+section, the amount of surcharge taxes imposed by this chapter shall be
+assessed or levied within three years after the annual return was filed, or
+within three years of the due date prescribed for the filing of the return,
+whichever is later, and no proceeding in court without assessment for the
+collection of any such surcharge taxes shall begin after the expiration of the
+period.  Where the assessment of the tax imposed by this chapter has been made
+within the period of limitation applicable thereto, the tax may be collected by
+levy or by a proceeding in court under chapter 231; provided that the levy is
+made or the proceeding was begun within fifteen years after the assessment of
+the tax.  For any tax that has been assessed prior to July 1, 2009, the levy or
+proceeding shall be barred after June 30, 2024.
+Notwithstanding any other
+provision to the contrary in this section, the limitation on collection after
+assessment in this section shall be suspended for the period:</p>
+            </content>
+            <paragraph eId="251_8__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The taxpayer agrees to
+suspend the period;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="251_8__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The assets of the taxpayer
+are in control or custody of a court in any proceeding before any court of the
+United States or any state, and for six months thereafter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="251_8__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>An offer in compromise
+under section 231-3</p>
+              </content>
+            </paragraph>
+            <paragraph eId="251_8__subsec_c__para_10">
+              <num>(10)</num>
+              <content>
+                <p>is pending; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="251_8__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>During which the taxpayer
+is outside the State if the period of absence is for a continuous period of at
+least six months; provided that if at the time of the taxpayer's return to the State
+the period of limitations on collection after assessment would expire before
+the expiration of six months from the date of the taxpayer's return, the period
+shall not expire before the expiration of the six months.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="251_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In the case of a false or fraudulent
+return with intent to evade the surcharge tax, or of a failure to file the
+annual return, the surcharge tax may be assessed or levied at any time; provided
+that the burden of proof with respect to the issues of falsity or fraud and
+intent to evade tax shall be upon the State.</p>
+            </content>
+          </subsection>
+          <subsection eId="251_8__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Where, before the expiration of the period
+prescribed in subsection</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

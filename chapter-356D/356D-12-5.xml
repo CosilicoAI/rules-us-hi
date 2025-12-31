@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-12.5"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-12.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-12.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-12.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-12.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-12.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_12_5">
+          <num>356D-12.5</num>
+          <heading>Section 356D-12.5</heading>
+          <content>
+            <p>§356D-12  Development of property;
+additional powers.
+(a)  Notwithstanding any other law to the contrary,
+whenever the bids submitted for the development or rehabilitation of any
+housing project authorized pursuant to this chapter exceed the amount of funds
+available for that project, the authority, with the approval of the governor,
+may disregard the bids and enter into an agreement to carry out the project,
+undertake the project, or participate in the project under the agreement;
+provided that:
+(1)  The total cost of the agreement and the
+authority's participation, if any, shall not exceed the amount of funds
+available for the project; and
+(2)  If the agreement is with a nonbidder, the scope
+of the project under agreement shall remain the same as that for which bids
+were originally requested.
+(b)  For purposes of this section,
+&quot;housing project&quot; shall have the same meaning as that term is defined
+in section 356D-11. [L 2006, c 180, pt of §2; am L 2022, c 251, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_12_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding any other law to the contrary,
+whenever the bids submitted for the development or rehabilitation of any
+housing project authorized pursuant to this chapter exceed the amount of funds
+available for that project, the authority, with the approval of the governor,
+may disregard the bids and enter into an agreement to carry out the project,
+undertake the project, or participate in the project under the agreement;
+provided that:</p>
+            </content>
+            <paragraph eId="356D_12_5__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The total cost of the agreement and the
+authority's participation, if any, shall not exceed the amount of funds
+available for the project; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_12_5__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>If the agreement is with a nonbidder, the scope
+of the project under agreement shall remain the same as that for which bids
+were originally requested.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_12_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this section,
+&quot;housing project&quot; shall have the same meaning as that term is defined
+in section 356D-11. [L 2006, c 180, pt of §2; am L 2022, c 251, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

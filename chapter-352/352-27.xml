@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-27"/>
+          <FRBRuri value="/us-hi/act/hrs/352-27"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-27/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-27/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-27/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-27/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_27">
+          <num>352-27</num>
+          <heading>Section 352-27</heading>
+          <content>
+            <p>§352-27  Harboring or concealing a person
+away from custody assigned by competent authority.
+Any person who
+knowingly and intentionally harbors or conceals a person who was in the custody
+of a Hawaii youth correctional facility, guardian, employer, or any other
+person with whom the person was placed by the court or the director without the
+permission of the custodian, guardian, employer, or such other person shall be
+guilty of a misdemeanor offense. [L 1980, c 303, pt of §8(1)]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

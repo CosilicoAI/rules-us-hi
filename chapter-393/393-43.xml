@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/393-43"/>
+          <FRBRuri value="/us-hi/act/hrs/393-43"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/393-43/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/393-43/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/393-43/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/393-43/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_393">
+        <num>Chapter 393</num>
+        <heading>Prepaid Health Care Act</heading>
+        <section eId="sec_393_43">
+          <num>393-43</num>
+          <heading>Disbursements from the fund</heading>
+          <content>
+            <p>[§393-43]  Disbursements from the fund.
+Expenditures of moneys in the premium supplementation fund shall not be subject
+to any provisions of law requiring specific appropriations or other formal
+release by the state officers of money in their custody.  All payments from the
+fund shall be made upon warrants drawn upon the director of finance by the
+comptroller of the State supported by vouchers approved by the director. [L
+1974, c 210, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-55"/>
+          <FRBRuri value="/us-hi/act/hrs/386-55"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-55/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-55/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-55/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-55/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_55">
+          <num>386-55</num>
+          <heading>Section 386-55</heading>
+          <content>
+            <p>§386-55  Trustee in case of lump sum
+payments.
+Whenever for any reason the director of labor and industrial
+relations deems it advisable, any lump sum which is payable as provided in
+section 386-54 shall be paid to a suitable individual or corporation appointed
+by the circuit judge in whose jurisdiction the work injury occurred as trustee
+to administer or apply the same for the benefit of the disabled worker or the
+dependent entitled thereto in the manner determined by the director.  The
+receipt of the trustee for the amount so paid shall discharge the employer of
+the employer's liability. [L 1963, c 116, pt of §1; Supp, §97-54; HRS §386-55;
+gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

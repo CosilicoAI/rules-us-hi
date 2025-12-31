@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/244D-7"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/244D-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/244D-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_244D">
+        <num>Chapter 244D</num>
+        <heading>Liquor Tax</heading>
+        <section eId="sec_244D_7">
+          <num>244D-7</num>
+          <heading>Payment of tax; penalties</heading>
+          <content>
+            <p>[§244D-7]  Payment of tax; penalties.
+At the time of the filing of the return required under section 244D-6 and
+within the time prescribed therefor, each taxpayer shall pay to the department
+of taxation the tax imposed by this chapter, required to be shown by the
+return.
+Penalties and interest shall be added to and
+become a part of the tax, when and as provided by section 231-39. [L Sp 1984
+1st, c 1, pt of §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

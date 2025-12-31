@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/243-14"/>
+          <FRBRuri value="/us-hi/act/hrs/243-14"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/243-14/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/243-14/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/243-14/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/243-14/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_243">
+        <num>Chapter 243</num>
+        <heading>Fuel Tax Law</heading>
+        <section eId="sec_243_14">
+          <num>243-14</num>
+          <heading>Assessments; limitation</heading>
+          <content>
+            <p>§243-14  Assessments; limitation
+period;
+exceptions;
+extension
+by
+agreement.
+(a)  In any
+case of computation of the tax by the director of taxation, as provided in
+sections 243-12 and 243-13, the amount of the tax shall be assessed against the
+person liable therefor, and notice shall be given to the person of the amount
+of tax so assessed with penalties and interest.  The notice may be given by
+mail, addressed to the person assessed at the person's last known residence or
+place of business.
+(b)  The amount of license taxes imposed by
+this chapter shall be assessed or levied, or the overpayment, if any, shall be
+credited within three years after filing of the monthly statement, or within
+three years of the due date prescribed for the filing of the statement,
+whichever is later.  No proceeding in court without assessment for the
+collection of the taxes or the enforcement of the liability shall begin after
+the expiration of the three-year period.  Where the assessment of the tax
+imposed by this chapter has been made within the period of limitation
+applicable thereto, the tax may be collected by levy or by a proceeding in
+court under chapter 231; provided that the levy is made or the proceeding was
+begun within fifteen years after the assessment of the tax.  For any tax that
+has been assessed prior to July 1, 2009, the levy or proceeding shall be barred
+after June 30, 2024.
+Notwithstanding any other
+provision to the contrary in this section, the limitation on collection after
+assessment in this section shall be suspended for the period:
+(1)  The taxpayer agrees to
+suspend the period;
+(2)  The assets of the taxpayer
+are in control or custody of a court in any proceeding before any court of the
+United States or any state, and for six months thereafter;
+(3)  An offer in compromise
+under section 231-3(10) is pending; and
+(4)  During which the taxpayer
+is outside the State if the period of absence is for a continuous period of at
+least six months; provided that if at the time of the taxpayer's return to the State
+the period of limitations on collection after assessment would expire before
+the expiration of six months from the date of the taxpayer's return, the period
+shall not expire before the expiration of the six months.
+As to all tax payments for which a refund or credit
+is not authorized by this section (including, without prejudice to the
+generality of the foregoing, cases of unconstitutionality), the remedies
+provided by appeal or by section 40-35 are exclusive.
+(c)  In the case of a false or fraudulent
+statement with intent to evade tax or liability, or of a failure to file a
+statement, the tax or liability may be assessed or levied at any time; provided
+that the burden of proof with respect to the issues of falsity or fraud and
+intent to evade tax shall be upon the State.
+(d)  Where, before the expiration of the time
+prescribed in this section for the assessment, levy, and collection of the tax
+or liability, both the department and the taxpayer have consented in writing to
+its assessment or levy after the expiration date, the tax or liability may be
+assessed or levied, or the overpayment, if any, may be credited at any time
+prior to the expiration of the period agreed upon.  The period agreed upon may
+be extended by a subsequent agreement in writing made before the expiration of
+the period previously agreed upon. [L Sp 1941, c 26, §1(12); RL 1945, §5413; RL
+1955, §123-11; am L Sp 1959 2d, c 1, §16; HRS §243-14; gen ch 1985; am L 1991,
+c 55, §4; am L 1993, c 257, §4; am L 1994, c 19, §3; am L 2009, c 166, §10]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="243_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In any
+case of computation of the tax by the director of taxation, as provided in
+sections 243-12 and 243-13, the amount of the tax shall be assessed against the
+person liable therefor, and notice shall be given to the person of the amount
+of tax so assessed with penalties and interest.  The notice may be given by
+mail, addressed to the person assessed at the person's last known residence or
+place of business.</p>
+            </content>
+          </subsection>
+          <subsection eId="243_14__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount of license taxes imposed by
+this chapter shall be assessed or levied, or the overpayment, if any, shall be
+credited within three years after filing of the monthly statement, or within
+three years of the due date prescribed for the filing of the statement,
+whichever is later.  No proceeding in court without assessment for the
+collection of the taxes or the enforcement of the liability shall begin after
+the expiration of the three-year period.  Where the assessment of the tax
+imposed by this chapter has been made within the period of limitation
+applicable thereto, the tax may be collected by levy or by a proceeding in
+court under chapter 231; provided that the levy is made or the proceeding was
+begun within fifteen years after the assessment of the tax.  For any tax that
+has been assessed prior to July 1, 2009, the levy or proceeding shall be barred
+after June 30, 2024.
+Notwithstanding any other
+provision to the contrary in this section, the limitation on collection after
+assessment in this section shall be suspended for the period:</p>
+            </content>
+            <paragraph eId="243_14__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The taxpayer agrees to
+suspend the period;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_14__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The assets of the taxpayer
+are in control or custody of a court in any proceeding before any court of the
+United States or any state, and for six months thereafter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_14__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>An offer in compromise
+under section 231-3</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_14__subsec_b__para_10">
+              <num>(10)</num>
+              <content>
+                <p>is pending; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_14__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>During which the taxpayer
+is outside the State if the period of absence is for a continuous period of at
+least six months; provided that if at the time of the taxpayer's return to the State
+the period of limitations on collection after assessment would expire before
+the expiration of six months from the date of the taxpayer's return, the period
+shall not expire before the expiration of the six months.
+As to all tax payments for which a refund or credit
+is not authorized by this section (including, without prejudice to the
+generality of the foregoing, cases of unconstitutionality), the remedies
+provided by appeal or by section 40-35 are exclusive.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="243_14__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In the case of a false or fraudulent
+statement with intent to evade tax or liability, or of a failure to file a
+statement, the tax or liability may be assessed or levied at any time; provided
+that the burden of proof with respect to the issues of falsity or fraud and
+intent to evade tax shall be upon the State.</p>
+            </content>
+          </subsection>
+          <subsection eId="243_14__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Where, before the expiration of the time
+prescribed in this section for the assessment, levy, and collection of the tax
+or liability, both the department and the taxpayer have consented in writing to
+its assessment or levy after the expiration date, the tax or liability may be
+assessed or levied, or the overpayment, if any, may be credited at any time
+prior to the expiration of the period agreed upon.  The period agreed upon may
+be extended by a subsequent agreement in writing made before the expiration of
+the period previously agreed upon. [L Sp 1941, c 26, §1(12); RL 1945, §5413; RL
+1955, §123-11; am L Sp 1959 2d, c 1, §16; HRS §243-14; gen ch 1985; am L 1991,
+c 55, §4; am L 1993, c 257, §4; am L 1994, c 19, §3; am L 2009, c 166, §10]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

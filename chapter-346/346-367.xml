@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-367"/>
+          <FRBRuri value="/us-hi/act/hrs/346-367"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-367/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-367/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-367/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-367/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_367">
+          <num>346-367</num>
+          <heading>Section 346-367</heading>
+          <content>
+            <p>[§346-367]  Determination of eligibility and
+need.
+(a)  The provider agency operating and managing a homeless facility
+or any other program for the homeless authorized by this part, or the department
+operating and managing its own homeless facility, shall be responsible for
+determining if an applicant is eligible for shelter or other services at the
+homeless facility or through any other program for the homeless, pursuant to
+standards and criteria established by rule.
+(b)  The provider agency or the department
+operating and managing its own homeless facility shall determine the degree of
+need for each homeless family or individual and, in its determination, shall
+consider the resources available and the number of potential eligible
+applicants in the area served by the homeless facility or other program for the
+homeless authorized by this part.
+(c)  The department may establish by rule
+standards and criteria for eligibility, need, and priority for each program;
+provided that the department may establish by rule exceptions to these
+eligibility requirements based on special circumstances. [L 2010, c 89, pt of
+§2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_367__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provider agency operating and managing a homeless facility
+or any other program for the homeless authorized by this part, or the department
+operating and managing its own homeless facility, shall be responsible for
+determining if an applicant is eligible for shelter or other services at the
+homeless facility or through any other program for the homeless, pursuant to
+standards and criteria established by rule.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_367__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The provider agency or the department
+operating and managing its own homeless facility shall determine the degree of
+need for each homeless family or individual and, in its determination, shall
+consider the resources available and the number of potential eligible
+applicants in the area served by the homeless facility or other program for the
+homeless authorized by this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_367__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may establish by rule
+standards and criteria for eligibility, need, and priority for each program;
+provided that the department may establish by rule exceptions to these
+eligibility requirements based on special circumstances. [L 2010, c 89, pt of
+§2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

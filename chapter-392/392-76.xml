@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-76"/>
+          <FRBRuri value="/us-hi/act/hrs/392-76"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-76/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-76/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-76/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-76/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_76">
+          <num>392-76</num>
+          <heading>Representation</heading>
+          <content>
+            <p>§392-76  Representation.
+In any
+proceeding for judicial review pursuant to section 392-75, the director may be
+represented by the attorney general or by any qualified attorney who is
+employed by the department for that purpose in conformity with section 28-8.3.
+[L 1969, c 148, pt of §1; am L Sp 1993, c 8, §53; am L 2015, c 35, §38]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

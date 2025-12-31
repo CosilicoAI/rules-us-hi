@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-62"/>
+          <FRBRuri value="/us-hi/act/hrs/245-62"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-62/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-62/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-62/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-62/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_62">
+          <num>245-62</num>
+          <heading>Applicability</heading>
+          <content>
+            <p>§245-62  Applicability.
+(a)  This
+chapter shall not apply to:
+(1)  Cigarettes allowed to be imported or brought into
+the United States for personal use free of federal tax or duty or voluntarily
+abandoned to the United States Secretary of Treasury at the time of entry;
+(2)  Cigarettes sold or intended to be sold as
+duty-free merchandise by a duty-free sales enterprise in accordance with the
+provisions of section 1555(b) of title 19, United States Code, and any
+implementing regulations; provided that this chapter shall apply to any
+cigarettes that are brought back into the customs territory for resale within
+the customs territory; or
+(3)  A delivery service when engaged in the business
+of transporting or delivering packages or other containers of cigarettes, if
+the delivery service is not a knowing accomplice in any act that circumvents
+the requirements of this chapter.  The department and the attorney general
+shall retain inspection and investigation authority under this chapter.  The
+delivery service shall provide the department or the attorney general with
+access to inspect any shipments of any cigarettes and shall provide any information,
+including shipping and delivery documents, deemed necessary to verify
+compliance with the requirements of this chapter.
+(b)  As used in this section:
+&quot;Delivery service&quot; means an entity,
+including the United States Postal Service (as defined in section 102 of title 39,
+United States Code), that is engaged in the commercial transport or delivery by
+water, land, or air of letters, packages, merchandise, or other containers
+whether or not the entity actually operates the vessel, vehicle, or aircraft by
+which the transportation is provided.
+&quot;Shipping documents&quot; or
+&quot;delivery documents&quot; include but are not limited to bills of lading,
+air bills, or any other documents, records, or documentation in whatever
+format, including electronic format used to evidence the undertaking by a
+delivery service to ship, transport, or deliver letters, packages, merchandise,
+or other containers. [L 2000, c 201, pt of §1; am L 2004, c 157, §6]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="245_62__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>This
+chapter shall not apply to:</p>
+            </content>
+            <paragraph eId="245_62__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Cigarettes allowed to be imported or brought into
+the United States for personal use free of federal tax or duty or voluntarily
+abandoned to the United States Secretary of Treasury at the time of entry;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_62__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Cigarettes sold or intended to be sold as
+duty-free merchandise by a duty-free sales enterprise in accordance with the
+provisions of section 1555</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245_62__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of title 19, United States Code, and any
+implementing regulations; provided that this chapter shall apply to any
+cigarettes that are brought back into the customs territory for resale within
+the customs territory; or</p>
+            </content>
+            <paragraph eId="245_62__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A delivery service when engaged in the business
+of transporting or delivering packages or other containers of cigarettes, if
+the delivery service is not a knowing accomplice in any act that circumvents
+the requirements of this chapter.  The department and the attorney general
+shall retain inspection and investigation authority under this chapter.  The
+delivery service shall provide the department or the attorney general with
+access to inspect any shipments of any cigarettes and shall provide any information,
+including shipping and delivery documents, deemed necessary to verify
+compliance with the requirements of this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245_62__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>As used in this section:
+&quot;Delivery service&quot; means an entity,
+including the United States Postal Service (as defined in section 102 of title 39,
+United States Code), that is engaged in the commercial transport or delivery by
+water, land, or air of letters, packages, merchandise, or other containers
+whether or not the entity actually operates the vessel, vehicle, or aircraft by
+which the transportation is provided.
+&quot;Shipping documents&quot; or
+&quot;delivery documents&quot; include but are not limited to bills of lading,
+air bills, or any other documents, records, or documentation in whatever
+format, including electronic format used to evidence the undertaking by a
+delivery service to ship, transport, or deliver letters, packages, merchandise,
+or other containers. [L 2000, c 201, pt of §1; am L 2004, c 157, §6]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

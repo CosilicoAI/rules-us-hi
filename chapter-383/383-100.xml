@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-100"/>
+          <FRBRuri value="/us-hi/act/hrs/383-100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-100/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-100/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_100">
+          <num>383-100</num>
+          <heading>Section 383-100</heading>
+          <content>
+            <p>§383-100  Protection against
+self-incrimination.
+No person shall be excused from attending or
+testifying or producing material, books, papers, correspondence, memoranda, and
+other records before the director of labor and industrial relations, any duly
+authorized representative of the director, the referee, or any substitute
+referee, or in obedience to the subpoena of any of them, in any cause or
+proceeding before them or any of them, on the grounds that the testimony and
+evidence, documentary or otherwise, required of the person may tend to incriminate
+the person or subject the person to a penalty or forfeiture; but no individual
+shall be prosecuted or subjected to any penalty or forfeiture for or on account
+of any transaction, matter, or thing concerning which the individual is
+compelled, after having claimed the individual's privilege against
+self-incrimination, to testify or produce evidence, documentary or otherwise,
+except that the individual so testifying shall not be exempt from prosecution
+and punishment for perjury committed in so testifying. [L 1939, c 219, §10(i);
+am L 1941, c 304, §1, pt of subs 32; RL 1945, §4279; RL 1955, §93-99; am L Sp
+1959 2d, c 1, §27; HRS §383-100; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

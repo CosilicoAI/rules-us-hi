@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-6"/>
+          <FRBRuri value="/us-hi/act/hrs/346-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_6">
+          <num>346-6</num>
+          <heading>Section 346-6</heading>
+          <content>
+            <p>§346-6  Appropriations; expenditures;
+donations.
+Moneys provided by the legislature for expenditure by the
+department of human services shall be expended upon vouchers approved by the
+director of human services or the director's duly authorized subordinates.
+All contributions or donations of money to the
+department shall be paid into the state treasury to be expended according to
+law and for purposes in accordance with the terms and conditions of the
+contributions or donations, and all such moneys are appropriated for such
+purposes; provided that no such contributions or donations shall be accepted by
+the department except for expenditures within the purposes of this chapter. 
+The department may accept donations other than money, provided the donations
+may be used within the purposes of this chapter, and if accepted, may pay for
+the storage, handling, and distribution of same; provided that any capital
+expenditures in connection with the storage, handling, and distribution shall
+be approved by the governor. [L 1941, c 296, pt of §1; RL 1945, §4822; RL 1955,
+§108-2; HRS §346-6; am L 1970, c 105, §5; gen ch 1985; am L 1987, c 339, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

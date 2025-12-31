@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/393-19"/>
+          <FRBRuri value="/us-hi/act/hrs/393-19"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/393-19/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/393-19/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/393-19/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/393-19/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_393">
+        <num>Chapter 393</num>
+        <heading>Prepaid Health Care Act</heading>
+        <section eId="sec_393_19">
+          <num>393-19</num>
+          <heading>Freedom of collective bargaining</heading>
+          <content>
+            <p>§393-19  Freedom of collective bargaining.
+(a)  In addition to the policy stated in section 393-2, nothing in this chapter
+shall be construed to limit the freedom of employees to bargain collectively
+for different prepaid health care coverage, if the protection provided by the
+negotiated plan is more favorable to the employees benefited than the
+protection provided by this chapter or at least equivalent thereto, or for a
+different allocation of the costs thereof.  A collective bargaining agreement
+may provide that the employer oneself undertakes to provide the health care
+specified in the agreement.
+(b)  If the employees rendering particular
+types of services are not covered by the health care provisions of the
+applicable collective bargaining agreements to which their employer is a party,
+the provisions of this chapter shall be applicable with respect to them.  An
+employer or group of employers shall be deemed to have complied with the
+provisions of this chapter if they undertake to provide health care services
+pursuant to a collective bargaining agreement and the services are available to
+all other employees not covered by such agreement. [L 1974, c 210, pt of §1; am
+L 1978, c 199, §2; gen ch 1993]
+Cross References
+Collective bargaining, see chapter 377.
+Case Notes
+1978 amendment preempted by Employees Retirement Income
+Security Act.  594 F. Supp. 449 (1984).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="393_19__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In addition to the policy stated in section 393-2, nothing in this chapter
+shall be construed to limit the freedom of employees to bargain collectively
+for different prepaid health care coverage, if the protection provided by the
+negotiated plan is more favorable to the employees benefited than the
+protection provided by this chapter or at least equivalent thereto, or for a
+different allocation of the costs thereof.  A collective bargaining agreement
+may provide that the employer oneself undertakes to provide the health care
+specified in the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="393_19__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the employees rendering particular
+types of services are not covered by the health care provisions of the
+applicable collective bargaining agreements to which their employer is a party,
+the provisions of this chapter shall be applicable with respect to them.  An
+employer or group of employers shall be deemed to have complied with the
+provisions of this chapter if they undertake to provide health care services
+pursuant to a collective bargaining agreement and the services are available to
+all other employees not covered by such agreement. [L 1974, c 210, pt of §1; am
+L 1978, c 199, §2; gen ch 1993]
+Cross References
+Collective bargaining, see chapter 377.
+Case Notes
+1978 amendment preempted by Employees Retirement Income
+Security Act.  594 F. Supp. 449 (1984).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-15"/>
+          <FRBRuri value="/us-hi/act/hrs/352-15"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-15/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-15/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-15/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-15/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_15">
+          <num>352-15</num>
+          <heading>Section 352-15</heading>
+          <content>
+            <p>§352-15  Recreational and program
+activities.
+The director shall provide the opportunity for the recreation
+of those persons committed to the facilities.  Work programs for such persons
+shall be established and may include farming, sewing, plant nursery, and animal
+husbandry. [L 1980, c 303, pt of §8(1)]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

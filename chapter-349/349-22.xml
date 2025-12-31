@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-22"/>
+          <FRBRuri value="/us-hi/act/hrs/349-22"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-22/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-22/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-22/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-22/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_22">
+          <num>349-22</num>
+          <heading>Section 349-22</heading>
+          <content>
+            <p>[§349-22]  Access to long-term care
+facilities.
+(a)  A long-term care facility shall permit immediate access
+to the long-term facility and to the residents of the long-term care facility
+to the long-term care ombudsman or designee at any time deemed necessary and
+reasonable by the long-term care ombudsman for the performance of the duties
+and functions under this part.
+(b)  Access to the residents of the long-term
+care facility shall include the provision of privacy.
+(c)  A long-term care facility shall permit
+access by the long-term care ombudsman or designee to all resident records or
+portions thereof necessary for the long-term care ombudsman to evaluate the
+merits of any complaint; provided that resident records shall be divulged only
+with the written consent of the resident or the resident's legal
+representative.
+(d)  The long-term care ombudsman shall report
+violations of this section to the department of health.
+(e)  The department of health shall adopt
+rules, including the establishment of administrative fines or other penalties,
+pursuant to chapter 91 for the violation of this section. [L 1979, c 206, §2(2);
+am L 2007, c 93, §6]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_22__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A long-term care facility shall permit immediate access
+to the long-term facility and to the residents of the long-term care facility
+to the long-term care ombudsman or designee at any time deemed necessary and
+reasonable by the long-term care ombudsman for the performance of the duties
+and functions under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_22__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Access to the residents of the long-term
+care facility shall include the provision of privacy.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_22__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A long-term care facility shall permit
+access by the long-term care ombudsman or designee to all resident records or
+portions thereof necessary for the long-term care ombudsman to evaluate the
+merits of any complaint; provided that resident records shall be divulged only
+with the written consent of the resident or the resident's legal
+representative.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_22__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The long-term care ombudsman shall report
+violations of this section to the department of health.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_22__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department of health shall adopt
+rules, including the establishment of administrative fines or other penalties,
+pursuant to chapter 91 for the violation of this section. [L 1979, c 206, §2(2);
+am L 2007, c 93, §6]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

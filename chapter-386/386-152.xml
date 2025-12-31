@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-152"/>
+          <FRBRuri value="/us-hi/act/hrs/386-152"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-152/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-152/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-152/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-152/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_152">
+          <num>386-152</num>
+          <heading>Section 386-152</heading>
+          <content>
+            <p>§386-152  Levy and charges to finance
+special compensation fund.
+When the cash balance of the special
+compensation fund established in section 386-151 falls below, as of
+December 31 of any year, an amount determined by the director to be
+insufficient to meet the fund's current and projected obligations, then the
+levy on the gross premiums of insurers of employers insured under section
+386-121(a)(1) provided for in section 386-153, and the charge provided in
+section 386-154 against each employer not insuring and keeping insured, as
+provided in section 386-121(a)(1), shall be levied and collected during the
+succeeding year and each succeeding year thereafter until the cash balance of
+the fund equals or exceeds as of December 31 of any year an amount
+determined by the director to be sufficient to meet the fund's current and
+projected obligations.  When the cash balance of the fund equals or exceeds as
+of December 31 of any year an amount determined by the director to be
+sufficient to meet the fund's current and projected obligations, then the levy
+on the gross premiums of insurance companies provided for in section 386-153
+and the charge provided in section 386-154 against each employer not insuring
+and keeping insured as provided in section 386-121(a)(1) shall not be levied
+and collected during the succeeding year until the cash balance of the fund
+falls below as of December 31 of any year an amount determined by the
+director to be insufficient to meet the fund's current and projected
+obligations.
+The director shall annually furnish each
+insurance company provided for in section 386-153 and each employer provided
+for in section 386-154 with a copy of the certified public accountant's audit
+report and recommendations.  The cost of furnishing such report shall be paid
+out of the special compensation fund. [L 1963, c 103, pt of §1; Supp, §97-141;
+HRS §386-152; am L 1973, c 183, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

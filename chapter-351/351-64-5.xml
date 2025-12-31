@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/351-64.5"/>
+          <FRBRuri value="/us-hi/act/hrs/351-64.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/351-64.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/351-64.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/351-64.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/351-64.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_351">
+        <num>Chapter 351</num>
+        <heading>Crime Victim Compensation</heading>
+        <section eId="sec_351_64_5">
+          <num>351-64.5</num>
+          <heading>Section 351-64.5</heading>
+          <content>
+            <p>§351-64  No double recovery.
+Application may be made by any eligible person for compensation under both
+parts III and IV of this chapter, but no order shall have the effect of
+compensating any person more than once for any loss, expense, or other matter
+compensable under this chapter. [L 1967, c 226, pt of §1; HRS §351
+-
+64]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-28.5"/>
+          <FRBRuri value="/us-hi/act/hrs/378-28.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-28.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-28.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-28.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-28.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_28_5">
+          <num>378-28.5</num>
+          <heading>Section 378-28.5</heading>
+          <content>
+            <p>[§378-28]  Power of department to prevent
+unlawful practice.
+(a)  After the filing of any complaint, or whenever it
+appears to the department that an unlawful practice may have been committed,
+the department shall conduct an investigation in connection therewith.  At any
+time after the filing of a complaint, but prior to the issuance of a
+determination as to whether there is or is not cause to believe that this part
+has been violated, the parties may agree to resolve the complaint through a
+settlement.
+(b)  If the department determines after such
+investigation that there is cause to believe that this part has been violated,
+the department shall demand that the respondent cease such unlawful practice. 
+In addition to the penalty specified in section 378-29.3 the department may
+order appropriate affirmative action, including, but not limited to, hiring,
+reinstatement, or upgrading of employees, with or without backpay, as, in the
+judgment of the department, will effectuate the purpose of this part.
+(c)  The department may commence a civil action
+in circuit court seeking appropriate relief.  In a civil action brought
+pursuant to this subsection:
+(1)  The director may join various complainants in one
+cause of action;
+(2)  The director shall not be required to pay the
+filing fee or other costs or fees of any nature or to file a bond or other
+security of any nature in connection with such action or with proceedings
+supplementary thereto, or as a condition precedent to the availability to the
+director of any process in aid of such action or proceedings;
+(3)  In no event shall any action be brought more than
+three years after the complaint was filed with the department.
+(d)  In any action brought pursuant to this
+part, if the court finds that a respondent has engaged in or is engaging in an
+unlawful practice as defined in this part, the court may enjoin the respondent
+from engaging in such unlawful practice and order such affirmative action as
+may be appropriate, including, but not limited to fines, reinstatement, hiring,
+or upgrading of employees and prospective employees, with or without backpay,
+or any other equitable relief as the court deems appropriate.
+(e)  In any action brought pursuant to this
+part, if any judgment obtained by the director against the respondent remains
+unsatisfied for a period of thirty days after such judgment is entered, the
+director may request the circuit court to compel the respondent to comply with
+the judgment, including, but not limited to, an order directing the respondent
+to cease doing business until the respondent has complied with the judgment.
+(f)  Whenever it appears to the director that
+an employer is engaged in any act or practice which constitutes or may
+constitute, now or later, a violation of this part, or any related rule, the
+director may bring an action in the circuit court of the circuit in which it is
+charged that the act or practice complained of occurred or is about to occur to
+enjoin the act or practice and to enforce compliance with this part or with the
+rule, and upon a proper showing, a permanent or temporary injunction or decree
+or restraining order shall be granted without bond.
+(g)  In any action brought under this part, the
+court may in addition to any judgment awarded to the plaintiff or plaintiffs,
+allow costs of action, and reasonable attorney's fees, to be paid by the
+defendant. [L 1985, c 241, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="378_28_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>After the filing of any complaint, or whenever it
+appears to the department that an unlawful practice may have been committed,
+the department shall conduct an investigation in connection therewith.  At any
+time after the filing of a complaint, but prior to the issuance of a
+determination as to whether there is or is not cause to believe that this part
+has been violated, the parties may agree to resolve the complaint through a
+settlement.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_28_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the department determines after such
+investigation that there is cause to believe that this part has been violated,
+the department shall demand that the respondent cease such unlawful practice. 
+In addition to the penalty specified in section 378-29.3 the department may
+order appropriate affirmative action, including, but not limited to, hiring,
+reinstatement, or upgrading of employees, with or without backpay, as, in the
+judgment of the department, will effectuate the purpose of this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_28_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may commence a civil action
+in circuit court seeking appropriate relief.  In a civil action brought
+pursuant to this subsection:</p>
+            </content>
+            <paragraph eId="378_28_5__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The director may join various complainants in one
+cause of action;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="378_28_5__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The director shall not be required to pay the
+filing fee or other costs or fees of any nature or to file a bond or other
+security of any nature in connection with such action or with proceedings
+supplementary thereto, or as a condition precedent to the availability to the
+director of any process in aid of such action or proceedings;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="378_28_5__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>In no event shall any action be brought more than
+three years after the complaint was filed with the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="378_28_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In any action brought pursuant to this
+part, if the court finds that a respondent has engaged in or is engaging in an
+unlawful practice as defined in this part, the court may enjoin the respondent
+from engaging in such unlawful practice and order such affirmative action as
+may be appropriate, including, but not limited to fines, reinstatement, hiring,
+or upgrading of employees and prospective employees, with or without backpay,
+or any other equitable relief as the court deems appropriate.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_28_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>In any action brought pursuant to this
+part, if any judgment obtained by the director against the respondent remains
+unsatisfied for a period of thirty days after such judgment is entered, the
+director may request the circuit court to compel the respondent to comply with
+the judgment, including, but not limited to, an order directing the respondent
+to cease doing business until the respondent has complied with the judgment.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_28_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Whenever it appears to the director that
+an employer is engaged in any act or practice which constitutes or may
+constitute, now or later, a violation of this part, or any related rule, the
+director may bring an action in the circuit court of the circuit in which it is
+charged that the act or practice complained of occurred or is about to occur to
+enjoin the act or practice and to enforce compliance with this part or with the
+rule, and upon a proper showing, a permanent or temporary injunction or decree
+or restraining order shall be granted without bond.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_28_5__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>In any action brought under this part, the
+court may in addition to any judgment awarded to the plaintiff or plaintiffs,
+allow costs of action, and reasonable attorney's fees, to be paid by the
+defendant. [L 1985, c 241, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

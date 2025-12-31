@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/350-1"/>
+          <FRBRuri value="/us-hi/act/hrs/350-1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/350-1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/350-1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/350-1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/350-1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_350">
+        <num>Chapter 350</num>
+        <heading>Child Protective Act</heading>
+        <section eId="sec_350_1">
+          <num>350-1</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>§350-1  Definitions.
+For the purposes
+of this chapter, unless the context specifically indicates otherwise:
+&quot;Aggravated circumstances&quot;
+[Definition
+effective July 1, 2025.]
+means the same as defined in section 587A-4.
+&quot;Child&quot; means a person who is born
+alive and is less than eighteen years of age.
+&quot;Child abuse or neglect&quot; means:
+(1)  The acts or omissions of any person who, or legal
+entity which, is in any manner or degree related to the child, is residing with
+the child, or is otherwise responsible for the child's care, that have resulted
+in the physical or psychological health or welfare of the child, who is under
+the age of eighteen, to be harmed, or to be subject to any reasonably
+foreseeable, substantial risk of being harmed.  The acts or omissions are
+indicated for the purposes of reports by circumstances that include but are not
+limited to:
+(A)  When the child exhibits evidence of:
+(i)  Substantial or multiple skin bruising or
+any other internal bleeding;
+(ii)  Any injury to skin causing substantial
+bleeding;
+(iii)  Malnutrition;
+(iv)  Failure to thrive;
+(v)  Burn or burns;
+(vi)  Poisoning;
+(vii)  Fracture of any bone;
+(viii)  Subdural hematoma;
+(ix)  Soft tissue swelling;
+(x)  Extreme pain;
+(xi)  Extreme mental distress;
+(xii)  Gross degradation; or
+(xiii)  Death; and
+such injury is not justifiably explained,
+or when the history given concerning such condition or death is at variance
+with the degree or type of such condition or death, or circumstances indicate
+that such condition or death may not be the product of an accidental
+occurrence;
+(B)  When the child has been the victim of
+sexual contact or conduct, including but not limited to sexual assault as
+defined in the Penal Code, molestation, sexual fondling, incest, or
+prostitution; obscene or pornographic photographing, filming, or depiction; or
+other similar forms of sexual exploitation, including but not limited to acts
+that constitute an offense pursuant to section 712-1202(1)(b);
+(C)  When there exists injury to the
+psychological capacity of a child as is evidenced by an observable and
+substantial impairment in the child's ability to function;
+(D)  When the child is not provided in a
+timely manner with adequate food, clothing, shelter, psychological care,
+physical care, medical care, or supervision;
+(E)  When the child is provided with
+dangerous, harmful, or detrimental drugs as defined by section 712-1240;
+provided that this subparagraph shall not apply when such drugs are provided to
+the child pursuant to the direction or prescription of a practitioner, as
+defined in section 712-1240; or
+(F)  When the child has been the victim of
+labor trafficking under chapter 707; or
+(2)  The acts or omissions of any person that have resulted
+in sex trafficking or severe forms of trafficking in persons; provided that no
+finding by the department pursuant to this chapter shall be used as conclusive
+evidence that a person has committed an offense under part VIII of chapter 707
+or section 712-1202.
+&quot;Department&quot; means the department of
+human services.
+&quot;Electronic medium&quot; means any
+recording, synthetic media, magnetic disc memory, magnetic tape memory, compact
+disk, digital video disk, thumb drive, or any other data recording hardware or
+media used with a computer.
+&quot;Harm&quot;
+[Definition effective July
+1, 2025.]
+means the same as defined in section 587A-4.
+&quot;Report&quot; means the initial oral
+statement and, if required by section 350-1.1(c), the subsequent written
+account concerning the facts and circumstances which cause a person to have
+reason to believe that child abuse or neglect has occurred or that there exists
+a substantial risk that child abuse or neglect may occur in the reasonably
+foreseeable future.
+&quot;Severe forms of trafficking in
+persons&quot; has the same meaning as provided in title 22 United States Code
+Annotated section 7102.
+&quot;Sex trafficking&quot; has the same
+meaning as provided in title 22 United States Code Annotated section 7102.
+&quot;Threatened harm&quot;
+[Definition effective
+July 1, 2025.]
+means the same as defined in section 587A-4. [L 1982, c 77,
+§1; am L 1983, c 171, §5; am L 1987, c 204, §3 and c 339, §4; am L 1988, c 141,
+§29; am L 2013, c 246, §3; am L 2017, c 16, §2; am L 2020, c 35, §2; am L 2022,
+c 109, §10; am L 2024, c 147, §1]
+Revision Note
+Pursuant to §23G-15, in:
+(1)  Paragraphs
+(1) to (4) of the definition of &quot;child abuse or neglect&quot;,
+&quot;or&quot; deleted; and
+(2)  The
+definition of &quot;report&quot;, section &quot;350-1.1(c)&quot; substituted
+for &quot;350-1.1(d)&quot;.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="350_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Substantial or multiple skin bruising or
+any other internal bleeding;
+(ii)  Any injury to skin causing substantial
+bleeding;
+(iii)  Malnutrition;
+(iv)  Failure to thrive;</p>
+            </content>
+          </subsection>
+          <subsection eId="350_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Burn or burns;
+(vi)  Poisoning;
+(vii)  Fracture of any bone;
+(viii)  Subdural hematoma;
+(ix)  Soft tissue swelling;</p>
+            </content>
+          </subsection>
+          <subsection eId="350_1__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>Extreme pain;
+(xi)  Extreme mental distress;
+(xii)  Gross degradation; or
+(xiii)  Death; and
+such injury is not justifiably explained,
+or when the history given concerning such condition or death is at variance
+with the degree or type of such condition or death, or circumstances indicate
+that such condition or death may not be the product of an accidental
+occurrence;
+(B)  When the child has been the victim of
+sexual contact or conduct, including but not limited to sexual assault as
+defined in the Penal Code, molestation, sexual fondling, incest, or
+prostitution; obscene or pornographic photographing, filming, or depiction; or
+other similar forms of sexual exploitation, including but not limited to acts
+that constitute an offense pursuant to section 712-1202</p>
+            </content>
+            <paragraph eId="350_1__subsec_x__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The acts or omissions of any person that have resulted
+in sex trafficking or severe forms of trafficking in persons; provided that no
+finding by the department pursuant to this chapter shall be used as conclusive
+evidence that a person has committed an offense under part VIII of chapter 707
+or section 712-1202.
+&quot;Department&quot; means the department of
+human services.
+&quot;Electronic medium&quot; means any
+recording, synthetic media, magnetic disc memory, magnetic tape memory, compact
+disk, digital video disk, thumb drive, or any other data recording hardware or
+media used with a computer.
+&quot;Harm&quot;
+[Definition effective July
+1, 2025.]
+means the same as defined in section 587A-4.
+&quot;Report&quot; means the initial oral
+statement and, if required by section 350-1.1</p>
+              </content>
+            </paragraph>
+            <paragraph eId="350_1__subsec_x__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="350_1__subsec_x__para_1">
+              <num>(1)</num>
+              <content>
+                <p>to</p>
+              </content>
+            </paragraph>
+            <paragraph eId="350_1__subsec_x__para_4">
+              <num>(4)</num>
+              <content>
+                <p>of the definition of &quot;child abuse or neglect&quot;,
+&quot;or&quot; deleted; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="350_1__subsec_x__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The
+definition of &quot;report&quot;, section &quot;350-1.1</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

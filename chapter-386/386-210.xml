@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-210"/>
+          <FRBRuri value="/us-hi/act/hrs/386-210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-210/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-210/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_210">
+          <num>386-210</num>
+          <heading>Cease and desist orders</heading>
+          <content>
+            <p>§386-210  Cease and desist orders.
+(a) 
+After notice and opportunity for a hearing, the insurance commissioner may
+issue an order requiring a person or group to cease and desist from engaging in
+an act or practice found to be in violation of any provision of this chapter or
+any rule adopted under this chapter.
+(b)  Upon a finding, after notice and
+opportunity for a hearing, that any person or group has violated any cease and
+desist order, the insurance commissioner may do either or both of the
+following:
+(1)  Impose a monetary penalty of not more than
+$10,000 for each and every act or violation of the order, but not to exceed an
+aggregate monetary penalty of $100,000; or
+(2)  Revoke the group's certificate of approval or any
+insurance license held by the person. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_210__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>After notice and opportunity for a hearing, the insurance commissioner may
+issue an order requiring a person or group to cease and desist from engaging in
+an act or practice found to be in violation of any provision of this chapter or
+any rule adopted under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_210__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon a finding, after notice and
+opportunity for a hearing, that any person or group has violated any cease and
+desist order, the insurance commissioner may do either or both of the
+following:</p>
+            </content>
+            <paragraph eId="386_210__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Impose a monetary penalty of not more than
+$10,000 for each and every act or violation of the order, but not to exceed an
+aggregate monetary penalty of $100,000; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_210__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Revoke the group's certificate of approval or any
+insurance license held by the person. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

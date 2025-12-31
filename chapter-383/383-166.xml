@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-166"/>
+          <FRBRuri value="/us-hi/act/hrs/383-166"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-166/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-166/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-166/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-166/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_166">
+          <num>383-166</num>
+          <heading>Conformity with federal law</heading>
+          <content>
+            <p>§383-166  Conformity with federal law.
+The legislature hereby declares its intention to provide for carrying out the
+purposes of this chapter in cooperation with the appropriate agencies of other
+states and of the federal government, as part of a nationwide employment
+security program, and particularly to provide for meeting the requirements of
+title III of the Social Security Act, the requirements of section 3303 and
+section 3304 of Internal Revenue Code of 1954 (the federal Unemployment Tax
+Act), and the requirements of the Act of Congress referred to in section
+383-104, each as amended, in order to secure for the State and the citizens
+thereof the grants and privileges available thereunder.  All doubts as to the
+proper construction of this chapter shall be resolved in favor of conformity with
+such requirements. [L 1939, c 219, §21; am L 1941, c 304, §1, subs 38; RL 1945,
+§4300; RL 1955, §93-155; HRS §383-166]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

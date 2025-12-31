@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-23"/>
+          <FRBRuri value="/us-hi/act/hrs/392-23"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-23/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-23/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-23/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-23/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_23">
+          <num>392-23</num>
+          <heading>Duration of benefit payments</heading>
+          <content>
+            <p>[§392-23]  Duration of benefit payments.
+Temporary disability benefits shall be payable for any period of disability
+following the expiration of the waiting period required in section 392-24.
+The duration of benefit payments shall not
+exceed twenty-six weeks for any period of disability or during any benefit
+year. [L 1969, c 148, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

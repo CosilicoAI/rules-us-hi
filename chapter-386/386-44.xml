@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-44"/>
+          <FRBRuri value="/us-hi/act/hrs/386-44"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-44/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-44/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-44/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-44/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_44">
+          <num>386-44</num>
+          <heading>Section 386-44</heading>
+          <content>
+            <p>§386-44  Effect of erroneous payment;
+insanity of beneficiary.
+If an employer in good faith pays weekly benefits
+to a dependent who is inferior in right to another dependent or with whom
+another dependent is entitled to share, the payment shall discharge the
+employer, unless and until such other dependent notifies the employer of such
+other dependent's claim.  In case the employer is in doubt as to the respective
+rights of rival claimants, the employer may institute proceedings before the
+director of labor and industrial relations for determination of the proper beneficiary.
+Benefits to a person who is insane shall be
+paid to the person's guardian. [L 1963, c 116, pt of §1; Supp, §97-43; HRS
+§386-44; gen ch 1985]
+Case Notes
+Cited:  27 H. 431, 438 (1923).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

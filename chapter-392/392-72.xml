@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-72"/>
+          <FRBRuri value="/us-hi/act/hrs/392-72"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-72/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-72/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-72/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-72/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_72">
+          <num>392-72</num>
+          <heading>Appeals, filing, and hearing</heading>
+          <content>
+            <p>§392-72  Appeals, filing, and hearing.
+(a)  If a person disputes the amount of benefits, paid under part III or part
+IV, or the denial of benefits, the claimant may file an appeal, in the form and
+manner prescribed by rule of the director, at the office of the department,
+within twenty days after the date of payment of such disputed benefits or the
+denial thereof.  Notice of the appeal shall be served upon the employer or
+insurer or the trust fund for disability benefits in the form and manner
+prescribed by rule of the director.  Notice of a hearing of an appeal shall be
+sent by electronic service or by first-class mail to the claimant and insurer
+or employer or trust fund for disability benefits at least fifteen calendar
+days prior to the hearing.  If notice sent by electronic service or by first-class
+mail is attempted but not made, and the department has been unable to ascertain
+the address of the party after reasonable and diligent inquiry, the notice of
+hearing may be given to the party by online posting on the department's
+webpage.  The online posting shall appear at least fifteen calendar days prior
+to the date of the hearing.  The online posting shall be removed from the
+webpage no less than five business days after the date of the hearing.
+(b)  The appeal may be heard in any county, and
+the parties may appear at the hearing in person, by telephone, or by other
+communication devices approved by the department, or by a combination of the
+preceding methods.  The parties shall be provided with notice of the hearing
+and shall be provided with the opportunity to object to the hearing being held
+in a county other than the county in which the claimant resides or in which the
+claimant was employed prior to the claimant's disability.  Upon such objection,
+the hearing shall be heard in the county in which the claimant resides or in
+which the claimant was employed prior to the claimant's disability.  Failure of
+a party to object to the location of the hearing within the time specified in
+the notice shall be deemed consent by the party to the location of the
+hearing.  The department may provide for the taking of depositions.  Unless the
+appeal is withdrawn with the permission of the referee, the referee after
+affording the parties reasonable opportunity for a fair hearing shall make
+findings and conclusions and on the basis thereof affirm, modify, or deny the
+disputed benefits.  In the event any party fails to appear at the hearing, the
+referee shall issue a decision based on the available information.  All parties
+shall be promptly notified of the decision of the referee and shall be
+furnished with a copy of the decision and the findings and conclusions in
+support of the decision.  The decision shall be final and shall be binding
+unless a proceeding for judicial review is initiated pursuant to section
+392-75; provided that within the time provided for taking an appeal and prior
+to the filing of a notice of appeal, the referee may reopen the matter, upon
+application of the director or any party, or upon the referee's own motion, and
+thereupon may take further evidence or may modify the referee's decision,
+findings, or conclusions.  In the event the matter is reopened, the referee
+shall render a further decision in the matter, either reaffirming or modifying
+the referee's original decision, and notice shall be given thereof in the
+manner hereinbefore provided.  The time to initiate judicial review shall run
+from the notice of such further decision if the matter has been reopened. [L
+1969, c 148, pt of §1; am L 1973, c 62, §1; gen ch 1985; am L 2013, c 100, §8;
+am L 2018, c 162, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="392_72__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If a person disputes the amount of benefits, paid under part III or part
+IV, or the denial of benefits, the claimant may file an appeal, in the form and
+manner prescribed by rule of the director, at the office of the department,
+within twenty days after the date of payment of such disputed benefits or the
+denial thereof.  Notice of the appeal shall be served upon the employer or
+insurer or the trust fund for disability benefits in the form and manner
+prescribed by rule of the director.  Notice of a hearing of an appeal shall be
+sent by electronic service or by first-class mail to the claimant and insurer
+or employer or trust fund for disability benefits at least fifteen calendar
+days prior to the hearing.  If notice sent by electronic service or by first-class
+mail is attempted but not made, and the department has been unable to ascertain
+the address of the party after reasonable and diligent inquiry, the notice of
+hearing may be given to the party by online posting on the department's
+webpage.  The online posting shall appear at least fifteen calendar days prior
+to the date of the hearing.  The online posting shall be removed from the
+webpage no less than five business days after the date of the hearing.</p>
+            </content>
+          </subsection>
+          <subsection eId="392_72__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The appeal may be heard in any county, and
+the parties may appear at the hearing in person, by telephone, or by other
+communication devices approved by the department, or by a combination of the
+preceding methods.  The parties shall be provided with notice of the hearing
+and shall be provided with the opportunity to object to the hearing being held
+in a county other than the county in which the claimant resides or in which the
+claimant was employed prior to the claimant's disability.  Upon such objection,
+the hearing shall be heard in the county in which the claimant resides or in
+which the claimant was employed prior to the claimant's disability.  Failure of
+a party to object to the location of the hearing within the time specified in
+the notice shall be deemed consent by the party to the location of the
+hearing.  The department may provide for the taking of depositions.  Unless the
+appeal is withdrawn with the permission of the referee, the referee after
+affording the parties reasonable opportunity for a fair hearing shall make
+findings and conclusions and on the basis thereof affirm, modify, or deny the
+disputed benefits.  In the event any party fails to appear at the hearing, the
+referee shall issue a decision based on the available information.  All parties
+shall be promptly notified of the decision of the referee and shall be
+furnished with a copy of the decision and the findings and conclusions in
+support of the decision.  The decision shall be final and shall be binding
+unless a proceeding for judicial review is initiated pursuant to section
+392-75; provided that within the time provided for taking an appeal and prior
+to the filing of a notice of appeal, the referee may reopen the matter, upon
+application of the director or any party, or upon the referee's own motion, and
+thereupon may take further evidence or may modify the referee's decision,
+findings, or conclusions.  In the event the matter is reopened, the referee
+shall render </p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

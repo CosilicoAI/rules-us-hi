@@ -1,0 +1,369 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/257-1"/>
+          <FRBRuri value="/us-hi/act/hrs/257-1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/257-1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/257-1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/257-1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/257-1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_257">
+        <num>Chapter 257</num>
+        <heading>Uniform Division of Income for Tax Purposes Act</heading>
+        <section eId="sec_257_1">
+          <num>257-1</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>[§257-1]  Definitions.
+As used in this
+chapter:
+&quot;Eligible educational institution&quot;
+means:
+(1)  An institution described in sections 481(a)(1) or
+1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a)(1) or 1141(a)),
+as such sections are in effect on June 28, 1999; and
+(2)  An area vocational education school defined in
+subparagraph (C) or (D) of section 521(4) of the Carl D. Perkins Vocational and
+Applied Technology Education Act (20 U.S.C. 2471(4)), as such sections are in
+effect on June 28, 1999.
+&quot;Fiduciary organization&quot; means an
+organization that serves as an intermediary between an individual account
+holder and the financial institution holding the individual's individual
+development account funds.  Fiduciary organizations may include:
+(1)  One or more not-for-profit organizations
+described in section 501(c)(3) of the Internal Revenue Code and exempt from
+taxation under section 501(a) of the Code; or
+(2)  State or local government agencies submitting an
+application jointly with another organization.
+Nothing in this definition shall be construed
+as preventing an organization described in paragraph (2) from cooperating with
+a financial institution or for-profit community development corporation to
+carry out the purposes of this chapter.
+The fiduciary organization's responsibilities
+may include:
+(1)  Marketing participation;
+(2)  Soliciting matching contributions;
+(3)  Counseling program participants; and
+(4)  Conducting required verification and compliance
+activities.
+&quot;Financial institution&quot; means an
+organization authorized to do business pursuant to chapter 412, or under
+federal laws relating to financial institutions, and includes a bank, trust
+company, savings bank, building and loan association, savings and loan company
+or association, and credit union.
+&quot;Household&quot; means adults related by
+blood, marriage, or adoption, or who are unrelated but have maintained a stable
+family relationship together over a period of time, and individuals under
+eighteen years of age related to the above adults by marriage, blood, or
+adoption, who are living together.  Living together refers to domicile as
+evidence by the parties' intent to maintain a home for their family and does
+not include a temporary visit.
+&quot;Individual development account&quot;
+means an optional, interest bearing, subsidized, tax-benefitted account used
+exclusively for the purpose of paying the qualified expenditure of an eligible
+individual as determined by the fiduciary organization.
+&quot;Post-secondary educational expenses&quot;
+means:
+(1)  Tuition and fees required for the enrollment or
+attendance of a student at an eligible educational institution; and
+(2)  Fees, books, supplies, and equipment required for
+courses of instruction at an eligible educational institution.
+&quot;Qualified acquisition costs&quot; means
+the costs of acquiring, constructing, or reconstructing a residence and shall
+include any usual or reasonable settlement, financing, or other closing costs.
+&quot;Qualified business&quot; means any
+business that does not contravene any law or public policy.
+&quot;Qualified business capitalization
+expenses&quot; means qualified expenditures for the capitalization of a
+qualified business pursuant to a qualified plan.
+&quot;Qualified expenditures&quot; means an
+expense as determined by a fiduciary organization, which may include but not be
+limited to:
+(1)  Costs associated with first homeownership;
+(2)  Post-secondary education;
+(3)  Vocational training; and
+(4)  Small or micro-business capitalization.
+&quot;Qualified plan&quot; means a business
+plan or a plan to use a business asset purchased, that:
+(1)  Is approved by a financial institution, a
+micro-enterprise development organization, or a nonprofit loan fund having
+demonstrated fiduciary integrity;
+(2)  Includes a description of services or goods to be
+sold, a marketing plan, and projected financial statements; and
+(3)  May require the eligible individual to obtain the
+assistance of an experienced entrepreneurial advisor.
+&quot;Qualified principal residence&quot; means
+a principal residence (within the meaning of section 1034 of the Internal
+Revenue Code of 1986), the qualified acquisition costs of which do not exceed
+one hundred per cent of the average area purchase price applicable to such
+residence (determined in accordance with paragraphs (2) and (3) of section
+143(e) of the Code). [ L 1999, c 160, pt of §25]
+Revision Note
+&quot;June 28,
+1999&quot; substituted for &quot;the date of the enactment of this
+chapter&quot; pursuant to
+§
+23G-15.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="257_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the Higher Education Act of 1965 (20 U.S.C. 1088</p>
+            </content>
+            <paragraph eId="257_1__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>or 1141</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>An area vocational education school defined in
+subparagraph</p>
+              </content>
+              <subparagraph eId="257_1__subsec_a__para_2__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="257_1__subsec_a__para_2__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>of section 521</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>of the Carl D. Perkins Vocational and
+Applied Technology Education Act (20 U.S.C. 2471(4)), as such sections are in
+effect on June 28, 1999.
+&quot;Fiduciary organization&quot; means an
+organization that serves as an intermediary between an individual account
+holder and the financial institution holding the individual's individual
+development account funds.  Fiduciary organizations may include:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>One or more not-for-profit organizations
+described in section 501</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>of the Internal Revenue Code and exempt from
+taxation under section 501</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="257_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the Code; or</p>
+            </content>
+            <paragraph eId="257_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>State or local government agencies submitting an
+application jointly with another organization.
+Nothing in this definition shall be construed
+as preventing an organization described in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>from cooperating with
+a financial institution or for-profit community development corporation to
+carry out the purposes of this chapter.
+The fiduciary organization's responsibilities
+may include:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Marketing participation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Soliciting matching contributions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Counseling program participants; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Conducting required verification and compliance
+activities.
+&quot;Financial institution&quot; means an
+organization authorized to do business pursuant to chapter 412, or under
+federal laws relating to financial institutions, and includes a bank, trust
+company, savings bank, building and loan association, savings and loan company
+or association, and credit union.
+&quot;Household&quot; means adults related by
+blood, marriage, or adoption, or who are unrelated but have maintained a stable
+family relationship together over a period of time, and individuals under
+eighteen years of age related to the above adults by marriage, blood, or
+adoption, who are living together.  Living together refers to domicile as
+evidence by the parties' intent to maintain a home for their family and does
+not include a temporary visit.
+&quot;Individual development account&quot;
+means an optional, interest bearing, subsidized, tax-benefitted account used
+exclusively for the purpose of paying the qualified expenditure of an eligible
+individual as determined by the fiduciary organization.
+&quot;Post-secondary educational expenses&quot;
+means:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Tuition and fees required for the enrollment or
+attendance of a student at an eligible educational institution; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Fees, books, supplies, and equipment required for
+courses of instruction at an eligible educational institution.
+&quot;Qualified acquisition costs&quot; means
+the costs of acquiring, constructing, or reconstructing a residence and shall
+include any usual or reasonable settlement, financing, or other closing costs.
+&quot;Qualified business&quot; means any
+business that does not contravene any law or public policy.
+&quot;Qualified business capitalization
+expenses&quot; means qualified expenditures for the capitalization of a
+qualified business pursuant to a qualified plan.
+&quot;Qualified expenditures&quot; means an
+expense as determined by a fiduciary organization, which may include but not be
+limited to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Costs associated with first homeownership;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Post-secondary education;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Vocational training; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Small or micro-business capitalization.
+&quot;Qualified plan&quot; means a business
+plan or a plan to use a business asset purchased, that:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Is approved by a financial institution, a
+micro-enterprise development organization, or a nonprofit loan fund having
+demonstrated fiduciary integrity;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Includes a description of services or goods to be
+sold, a marketing plan, and projected financial statements; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>May require the eligible individual to obtain the
+assistance of an experienced entrepreneurial advisor.
+&quot;Qualified principal residence&quot; means
+a principal residence (within the meaning of section 1034 of the Internal
+Revenue Code of 1986), the qualified acquisition costs of which do not exceed
+one hundred per cent of the average area purchase price applicable to such
+residence (determined in accordance with paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_1__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>of section
+143</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="257_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of the Code). [ L 1999, c 160, pt of §25]
+Revision Note
+&quot;June 28,
+1999&quot; substituted for &quot;the date of the enactment of this
+chapter&quot; pursuant to
+§
+23G-15.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

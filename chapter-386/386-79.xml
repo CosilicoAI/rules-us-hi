@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-79"/>
+          <FRBRuri value="/us-hi/act/hrs/386-79"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-79/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-79/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-79/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-79/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_79">
+          <num>386-79</num>
+          <heading>Section 386-79</heading>
+          <content>
+            <p>§386-79  Medical examination by employer's
+physician.
+(a)  After an injury and during the period of disability, the
+employee, whenever ordered by the director of labor and industrial relations,
+shall submit to examination, at reasonable times and places, by a duly
+qualified physician or surgeon designated and paid by the employer.  The
+employee shall have the right to have a physician, surgeon, or chaperone
+designated and paid by the employee present at the examination, which right,
+however, shall not be construed to deny to the employer's physician the right
+to visit the injured employee at all reasonable times and under all reasonable
+conditions during total disability.  The employee shall also have the right to
+record such examination by a recording device designated and paid for by the
+employee; provided that the examining physician or surgeon approves of the
+recording.
+If an employee refuses to submit to, or the
+employee or the employee's designated chaperone in any way obstructs such
+examination, the employee's right to claim compensation for the work injury
+shall be suspended until the refusal or obstruction ceases and no compensation
+shall be payable for the period during which the refusal or obstruction
+continues.
+(b)  In cases where the employer is
+dissatisfied with the progress of the case or where major and elective surgery,
+or either, is contemplated, the employer may appoint a physician or surgeon of
+the employer's choice who shall examine the injured employee and make a report
+to the employer.  If the employer remains dissatisfied, this report may be
+forwarded to the director.
+Employer requested examinations under this
+section shall not exceed more than one per case unless good and valid reasons
+exist with regard to the medical progress of the employee's treatment.  The
+cost of conducting the ordered medical examination shall be limited to the
+complex consultation charges governed by the medical fee schedule established
+pursuant to section 386-21(c). [L 1963, c 116, pt of §1; Supp, §97-78; HRS
+§386-79; gen ch 1985; am L 1995, c 234, §13; am L 1996, c 260, §4; am L 2017, c
+172, §§1, 4; am L 2019, c 201, §1]
+Case Notes
+Labor and industrial relations appeals board's failure to
+apply this section, as amended, in its decision and order constituted harmless
+error, where record reflected that the reason for the 1995 medical examination
+ordered by the director related directly &quot;to the medical progress of
+employee's treatment&quot; in accordance with the mandate of this section as
+amended.  94 H. 487, 17 P.3d 219 (2001).
+Cited:  760 F. Supp. 2d 1005 (2010).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_79__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>After an injury and during the period of disability, the
+employee, whenever ordered by the director of labor and industrial relations,
+shall submit to examination, at reasonable times and places, by a duly
+qualified physician or surgeon designated and paid by the employer.  The
+employee shall have the right to have a physician, surgeon, or chaperone
+designated and paid by the employee present at the examination, which right,
+however, shall not be construed to deny to the employer's physician the right
+to visit the injured employee at all reasonable times and under all reasonable
+conditions during total disability.  The employee shall also have the right to
+record such examination by a recording device designated and paid for by the
+employee; provided that the examining physician or surgeon approves of the
+recording.
+If an employee refuses to submit to, or the
+employee or the employee's designated chaperone in any way obstructs such
+examination, the employee's right to claim compensation for the work injury
+shall be suspended until the refusal or obstruction ceases and no compensation
+shall be payable for the period during which the refusal or obstruction
+continues.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_79__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In cases where the employer is
+dissatisfied with the progress of the case or where major and elective surgery,
+or either, is contemplated, the employer may appoint a physician or surgeon of
+the employer's choice who shall examine the injured employee and make a report
+to the employer.  If the employer remains dissatisfied, this report may be
+forwarded to the director.
+Employer requested examinations under this
+section shall not exceed more than one per case unless good and valid reasons
+exist with regard to the medical progress of the employee's treatment.  The
+cost of conducting the ordered medical examination shall be limited to the
+complex consultation charges governed by the medical fee schedule established
+pursuant to section 386-21</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

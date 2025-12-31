@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/388-12"/>
+          <FRBRuri value="/us-hi/act/hrs/388-12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/388-12/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/388-12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/388-12/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/388-12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_388">
+        <num>Chapter 388</num>
+        <heading>Payment of Wages and Other Compensation</heading>
+        <section eId="sec_388_12">
+          <num>388-12</num>
+          <heading>Section 388-12</heading>
+          <content>
+            <p>§388-12  Reciprocal agreements with other
+states; actions.
+(a)  The director of labor and industrial relations may
+enter into reciprocal agreements with the labor department or corresponding
+agency of any other state or with the person, board, officer, or commission
+authorized to act on behalf of such department or agency, for the collection in
+such other states of claims or judgments for wages and other demands based upon
+claims assigned to the director.
+(b)  The director may, to the extent provided
+for by any reciprocal agreement entered into by law or with an agency of
+another state as herein provided, maintain actions in the courts of such other
+state for the collection of claims for wages, judgments, and other demands and
+may assign such claims, judgments, and demands to the labor department or
+agency of such other state for collection to the extent that such an assignment
+may be permitted or provided for by the law of such state or by reciprocal agreement.
+(c)  The director may, upon the written consent
+of the labor department or other corresponding agency of any other state or of
+any person, board, officer, or commission of such state authorized to act on
+behalf of such labor department or corresponding agency, maintain actions in
+the courts of this State upon assigned claims for wages, judgments, and demands
+arising in such other state in the same manner and to the same extent that such
+actions by the director are authorized when arising in this State.  However,
+such actions may be maintained only in cases where such other state by law or
+reciprocal agreement extends a like comity to cases arising in this State. [L
+1965, c 77, §1(c); Supp, §95-11; HRS §388-12]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="388_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director of labor and industrial relations may
+enter into reciprocal agreements with the labor department or corresponding
+agency of any other state or with the person, board, officer, or commission
+authorized to act on behalf of such department or agency, for the collection in
+such other states of claims or judgments for wages and other demands based upon
+claims assigned to the director.</p>
+            </content>
+          </subsection>
+          <subsection eId="388_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The director may, to the extent provided
+for by any reciprocal agreement entered into by law or with an agency of
+another state as herein provided, maintain actions in the courts of such other
+state for the collection of claims for wages, judgments, and other demands and
+may assign such claims, judgments, and demands to the labor department or
+agency of such other state for collection to the extent that such an assignment
+may be permitted or provided for by the law of such state or by reciprocal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="388_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director may, upon the written consent
+of the labor department or other corresponding agency of any other state or of
+any person, board, officer, or commission of such state authorized to act on
+behalf of such labor department or corresponding agency, maintain actions in
+the courts of this State upon assigned claims for wages, judgments, and demands
+arising in such other state in the same manner and to the same extent that such
+actions by the director are authorized when arising in this State.  However,
+such actions may be maintained only in cases where such other state by law or
+reciprocal agreement extends a like comity to cases arising in this State. [L
+1965, c 77, §1</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

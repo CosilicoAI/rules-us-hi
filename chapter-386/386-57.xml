@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-57"/>
+          <FRBRuri value="/us-hi/act/hrs/386-57"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-57/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-57/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-57/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-57/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_57">
+          <num>386-57</num>
+          <heading>Section 386-57</heading>
+          <content>
+            <p>§386-57  Legal status of right to
+compensation and compensation payments.
+(a)  The right to compensation
+under this chapter shall not be assignable, and the right to compensation and
+compensation payments received shall be exempt from the reach of creditors.
+(b)  The right to compensation under this
+chapter shall have the same status as a lien or the same priority for the whole
+thereof with respect to the assets of the employer as are accorded by law to
+any unpaid wages for labor. [L 1963, c 116, pt of §1; Supp, §97-56; HRS
+§386-57]
+Case Notes
+Does not bar use of portion of lump sum payment to pay child
+support arrearage.  6 H. App. 217, 716 P.2d 501 (1986).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_57__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The right to compensation
+under this chapter shall not be assignable, and the right to compensation and
+compensation payments received shall be exempt from the reach of creditors.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_57__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The right to compensation under this
+chapter shall have the same status as a lien or the same priority for the whole
+thereof with respect to the assets of the employer as are accorded by law to
+any unpaid wages for labor. [L 1963, c 116, pt of §1; Supp, §97-56; HRS
+§386-57]
+Case Notes
+Does not bar use of portion of lump sum payment to pay child
+support arrearage.  6 H. App. 217, 716 P.2d 501 (1986).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-73"/>
+          <FRBRuri value="/us-hi/act/hrs/378-73"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-73/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-73/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-73/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-73/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_73">
+          <num>378-73</num>
+          <heading>Relationship to other leaves</heading>
+          <content>
+            <p>[§378-73]  Relationship to other leaves.
+If an employee is entitled to take paid or unpaid leave pursuant to other
+federal, state, or county law, or pursuant to an employment agreement, a
+collective bargaining agreement, or an employment benefits program or plan,
+which may be used for the purposes listed under section 378-72(a), the employee
+shall exhaust such other paid and unpaid leave benefits before victim leave
+benefits under this chapter may be applied.  The combination of such other paid
+or unpaid leave benefits that may be applied and victim leave benefits shall
+not exceed the maximum number of days specified under section 378-72(a). [L
+2003, c 60, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-67"/>
+          <FRBRuri value="/us-hi/act/hrs/383-67"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-67/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-67/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-67/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-67/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_67">
+          <num>383-67</num>
+          <heading>Reserve ratio</heading>
+          <content>
+            <p>§383-67  Reserve ratio.
+For the
+calendar year 1970 and for each calendar year thereafter, an employer's reserve
+ratio shall be determined by dividing the employer's most recent reserve
+balance by the employer's most recent average annual payroll.  The ratio shall
+be rounded to the nearest ten-thousandths. [L 1941, c 304, §1, pt of subs 21;
+RL 1945, §4252; am L 1945, c 19, §1(5); am L 1949, c 316, §1(4); am L 1951, c
+195, §1(7); am L 1953, c 41, §1(9), (10); RL 1955, §93-66; am L 1964, c 55, §9;
+HRS §383-67; am L 1969, c 277, §2; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

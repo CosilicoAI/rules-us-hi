@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-11"/>
+          <FRBRuri value="/us-hi/act/hrs/389-11"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-11/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-11/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-11/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-11/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_11">
+          <num>389-11</num>
+          <heading>Section 389-11</heading>
+          <content>
+            <p>[§389-11]  Confidentiality of participant
+and account information.
+Individual account information relating to
+accounts under the program and relating to individual participants, including
+but not limited to names, addresses, telephone numbers, email addresses,
+personal identification information, investments, contributions, and earnings,
+is confidential and shall be maintained as confidential:
+(1)  Except to the extent necessary to administer the
+program in a manner consistent with this chapter, the tax laws of the State,
+and the Internal Revenue Code; or
+(2)  Unless the participant who provides the
+information or is the subject of the information expressly agrees in writing to
+the disclosure of the information. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

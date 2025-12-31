@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/257-5"/>
+          <FRBRuri value="/us-hi/act/hrs/257-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/257-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/257-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/257-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/257-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_257">
+        <num>Chapter 257</num>
+        <heading>Uniform Division of Income for Tax Purposes Act</heading>
+        <section eId="sec_257_5">
+          <num>257-5</num>
+          <heading>Death</heading>
+          <content>
+            <p>[§257-5]  Death.
+In the event of an
+account holder's death, the account may be transferred to the ownership of a
+contingent beneficiary.  An account holder shall name contingent beneficiaries
+at the time the account is established and may change beneficiaries at any time. 
+If the named beneficiary is deceased or otherwise cannot accept the transfer,
+the moneys shall be transferred to the individual development account match
+fund of the fiduciary organization. [L 1999, c 160, pt of §25]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-4"/>
+          <FRBRuri value="/us-hi/act/hrs/383-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-4/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-4/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-4/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-4/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_4">
+          <num>383-4</num>
+          <heading>Election of employing unit</heading>
+          <content>
+            <p>§383-4  Election of employing unit.
+Services covered by an election pursuant to section 383-77 and services covered
+by an arrangement pursuant to sections 383-106 to 383-109 between the
+department of labor and industrial relations and the agency charged with the
+administration of any other state or federal unemployment compensation law,
+pursuant to which all services performed by an individual for an employing unit
+are deemed to be performed entirely within this State, shall be deemed to be
+employment if the department has approved an election of the employing unit for
+which the services are performed, pursuant to which the entire service of the
+individual during the period covered by the election is deemed to be insured
+work. [L 1939, c 219, §2(k)(1); am L 1941, c 304, §1, pt of subs 8; RL 1945,
+§4205; RL 1955, §93-4; am L Sp 1959 2d, c 1, §27; HRS §383-4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

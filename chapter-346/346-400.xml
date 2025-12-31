@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-400"/>
+          <FRBRuri value="/us-hi/act/hrs/346-400"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-400/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-400/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-400/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-400/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_400">
+          <num>346-400</num>
+          <heading>Section 346-400</heading>
+          <content>
+            <p>[§346-400]  Case plan; reports to be
+submitted by the department.
+(a)  A case plan shall:
+(1)  Establish goals for the young adult, including
+those pertaining to education; health; therapy; counseling; a relationship with
+the young adult's birth family, including visits; cultural connections;
+independent living; and transition plans;
+(2)  Describe services needed to assist the young
+adult to achieve the goals set forth in paragraph (1); and
+(3)  Describe the methods for achieving the goals and
+services set forth in paragraphs (1) and (2).
+(b)  The department shall prepare a report to
+the court, developed in collaboration with the young adult as developmentally
+appropriate, describing:
+(1)  The young adult's progress toward achieving the
+goals of the case plan;
+(2)  Proposed revisions to the goals of the case plan
+and reasons for the revisions; and
+(3)  Proposed revisions to the methods for achieving
+the goals of the case plan and the reasons for the revisions.
+(c)  The report shall be submitted to the court
+seven days prior to a scheduled periodic review hearing date and a copy shall
+be provided to the young adult. [L 2013, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_400__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A case plan shall:</p>
+            </content>
+            <paragraph eId="346_400__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Establish goals for the young adult, including
+those pertaining to education; health; therapy; counseling; a relationship with
+the young adult's birth family, including visits; cultural connections;
+independent living; and transition plans;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_400__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Describe services needed to assist the young
+adult to achieve the goals set forth in paragraph (1); and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_400__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Describe the methods for achieving the goals and
+services set forth in paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_400__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>and (2).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_400__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall prepare a report to
+the court, developed in collaboration with the young adult as developmentally
+appropriate, describing:</p>
+            </content>
+            <paragraph eId="346_400__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The young adult's progress toward achieving the
+goals of the case plan;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_400__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Proposed revisions to the goals of the case plan
+and reasons for the revisions; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_400__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Proposed revisions to the methods for achieving
+the goals of the case plan and the reasons for the revisions.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_400__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The report shall be submitted to the court
+seven days prior to a scheduled periodic review hearing date and a copy shall
+be provided to the young adult. [L 2013, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

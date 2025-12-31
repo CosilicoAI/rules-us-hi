@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-12"/>
+          <FRBRuri value="/us-hi/act/hrs/237-12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-12/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-12/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_12">
+          <num>237-12</num>
+          <heading>Tax cumulative; extent of license</heading>
+          <content>
+            <p>§237-12  Tax cumulative; extent of license.
+(a)  The tax imposed by this chapter shall be in addition to the license fee
+imposed under section 237-9 and all other taxes levied by law as a condition
+precedent to engaging in any business, trade, or calling.  A person exercising
+a privilege taxable under this chapter, subject to the payment of the license
+fee imposed under section 237-9, which is a condition precedent to exercising
+the privilege taxed, may exercise the privilege upon the condition that the
+person shall pay the tax accruing under this chapter.
+(b)  In the case of any person entitled to the
+protection of section 237-9(d), the tax shall be collected only through
+ordinary means. [L 1935, c 141, §11; RL 1945, §5453; RL 1955, §117-13; am L
+1959, c 277, §1; HRS §237-12; gen ch 1985; am L 1989, c 6, §2; am L 2009, c
+134, §§7, 13(3); am L 2013, c 58, §1]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="237_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax imposed by this chapter shall be in addition to the license fee
+imposed under section 237-9 and all other taxes levied by law as a condition
+precedent to engaging in any business, trade, or calling.  A person exercising
+a privilege taxable under this chapter, subject to the payment of the license
+fee imposed under section 237-9, which is a condition precedent to exercising
+the privilege taxed, may exercise the privilege upon the condition that the
+person shall pay the tax accruing under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the case of any person entitled to the
+protection of section 237-9</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

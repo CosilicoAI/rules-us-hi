@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/393-12"/>
+          <FRBRuri value="/us-hi/act/hrs/393-12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/393-12/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/393-12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/393-12/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/393-12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_393">
+        <num>Chapter 393</num>
+        <heading>Prepaid Health Care Act</heading>
+        <section eId="sec_393_12">
+          <num>393-12</num>
+          <heading>Section 393-12</heading>
+          <content>
+            <p>[§393-12]  Choice of plan type and of
+contractor.
+(a)  Every employer required to provide coverage for the
+employer's employees by a prepaid group health care plan under this chapter
+shall elect whether coverage shall be provided by:
+(1)  A plan which obligates the prepaid health care
+plan contractor to furnish the required health care benefits; or
+(2)  A plan which obligates the prepaid health care
+plan contractor to defray or reimburse the expenses of health care.
+The employer's election is binding for one year.
+(b)  Whether the employer elects a plan type
+described in subsection (a)(1) or in subsection (a)(2), the employer may elect
+the particular contractor but the employee shall not be obligated to contribute
+a greater amount to the premium than the employee would have to contribute had
+the employer elected coverage with the contractor providing the prevailing
+coverage of the respective type in the State.
+Subject to the provision of section 393-20, the
+employer shall provide coverage with the prepaid health care plan contractor
+selected pursuant to this subsection for all the employer's employees in the
+State electing this type of coverage who are covered by the provisions of this
+chapter, except for employees covered by the health care provisions of an
+applicable collective bargaining agreement as provided in section 393-19(b)
+first sentence. [L 1974, c 210, pt of §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="393_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every employer required to provide coverage for the
+employer's employees by a prepaid group health care plan under this chapter
+shall elect whether coverage shall be provided by:</p>
+            </content>
+            <paragraph eId="393_12__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>A plan which obligates the prepaid health care
+plan contractor to furnish the required health care benefits; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_12__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A plan which obligates the prepaid health care
+plan contractor to defray or reimburse the expenses of health care.
+The employer's election is binding for one year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="393_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Whether the employer elects a plan type
+described in subsection</p>
+            </content>
+            <paragraph eId="393_12__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>or in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="393_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>first sentence. [L 1974, c 210, pt of §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

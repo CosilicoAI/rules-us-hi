@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-6"/>
+          <FRBRuri value="/us-hi/act/hrs/353-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_6">
+          <num>353-6</num>
+          <heading>Section 353-6</heading>
+          <content>
+            <p>§353-6  Establishment of community
+correctional centers.
+(a)  There shall be a community correctional center
+for each county under the direction and administration of the director.  Any
+community correctional center may be integrated and operated concurrently with
+any other correctional facility or facilities.  Each center shall:
+(1)  Provide residential detention for persons who
+have been arraigned or have made an initial appearance and who have not been
+admitted to bail, released to appear, or otherwise released;
+(2)  Provide residential custody and correctional care
+for committed misdemeanants and for felons committed to indeterminate
+sentences;
+(3)  Provide for committed persons, correctional
+services, including but not limited to, social and psychiatric-psychological
+evaluation, employment, counseling, social inventory, correctional programming,
+medical and dental services, and sex abuse education and treatment programs for
+persons convicted of sexual offenses or who are otherwise in need of these
+programs;
+(4)  Provide recreational, educational, and
+occupational training, and social adjustment programs for committed persons;
+(5)  Provide referrals to community educational,
+vocational training, employment, and work study programs; and aftercare,
+supervisory, and counseling services for persons released from centers.
+(b)  Each county shall provide residential
+detention for persons who are prearraignment detainees. [L 1987, c 338, pt of
+§3; am L 1989, c 350, §1; am L 1995, c 72, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be a community correctional center
+for each county under the direction and administration of the director.  Any
+community correctional center may be integrated and operated concurrently with
+any other correctional facility or facilities.  Each center shall:</p>
+            </content>
+            <paragraph eId="353_6__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Provide residential detention for persons who
+have been arraigned or have made an initial appearance and who have not been
+admitted to bail, released to appear, or otherwise released;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_6__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Provide residential custody and correctional care
+for committed misdemeanants and for felons committed to indeterminate
+sentences;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_6__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Provide for committed persons, correctional
+services, including but not limited to, social and psychiatric-psychological
+evaluation, employment, counseling, social inventory, correctional programming,
+medical and dental services, and sex abuse education and treatment programs for
+persons convicted of sexual offenses or who are otherwise in need of these
+programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_6__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Provide recreational, educational, and
+occupational training, and social adjustment programs for committed persons;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_6__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Provide referrals to community educational,
+vocational training, employment, and work study programs; and aftercare,
+supervisory, and counseling services for persons released from centers.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="353_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each county shall provide residential
+detention for persons who are prearraignment detainees. [L 1987, c 338, pt of
+§3; am L 1989, c 350, §1; am L 1995, c 72, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

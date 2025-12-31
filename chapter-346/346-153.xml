@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-153"/>
+          <FRBRuri value="/us-hi/act/hrs/346-153"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-153/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-153/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-153/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-153/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_153">
+          <num>346-153</num>
+          <heading>Section 346-153</heading>
+          <content>
+            <p>§346-153  Records of deficiencies and
+complaints; release to public
+.  (a)  For every child care facility, the
+department shall maintain records for the current and previous two years of:  results
+of its inspections; notifications to providers of deficiencies; corrective
+action taken; complaints of violations of rules adopted under this part;
+results of its investigations; resolution of complaints; and suspensions,
+revocations, reinstatements, restorations, and reissuances of licenses,
+temporary permits, and registrations issued under this part.
+(b)  Notwithstanding any other law to the
+contrary, the records described in this section shall be available for
+inspection in the manner set forth in chapter 92F and may be posted by the
+department on a public website; provided that with respect to records of family
+child care homes and group child care homes, sensitive personal information,
+including home addresses, or information provided to the department with the
+understanding that it would not be publicly divulged shall be deleted or
+obliterated prior to making the records available to the public.  Nothing in
+this section shall authorize the department to release to the public the names
+of or any other identifying information on complainants.  Nothing in this
+section shall prohibit the department's child care licensing program from
+sharing information and cooperating with the department's child protective
+services and law enforcement on investigations.
+(c)  The department may withhold information
+regarding an investigation of a complaint of a violation for not more than ten
+working days after the date the investigation report is completed; provided
+that if an investigation relates to an alleged criminal offense, no information
+shall be released until the criminal investigation has been completed and the
+director has determined that no legal proceeding will be jeopardized by its
+release. [L 1985, c 208, pt of §2; am L 2016, c 88, §3; am L 2019, c 83, §3]
+Note
+Section 92-51 referred to in text is repealed.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_153__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For every child care facility, the
+department shall maintain records for the current and previous two years of:  results
+of its inspections; notifications to providers of deficiencies; corrective
+action taken; complaints of violations of rules adopted under this part;
+results of its investigations; resolution of complaints; and suspensions,
+revocations, reinstatements, restorations, and reissuances of licenses,
+temporary permits, and registrations issued under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_153__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any other law to the
+contrary, the records described in this section shall be available for
+inspection in the manner set forth in chapter 92F and may be posted by the
+department on a public website; provided that with respect to records of family
+child care homes and group child care homes, sensitive personal information,
+including home addresses, or information provided to the department with the
+understanding that it would not be publicly divulged shall be deleted or
+obliterated prior to making the records available to the public.  Nothing in
+this section shall authorize the department to release to the public the names
+of or any other identifying information on complainants.  Nothing in this
+section shall prohibit the department's child care licensing program from
+sharing information and cooperating with the department's child protective
+services and law enforcement on investigations.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_153__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may withhold information
+regarding an investigation of a complaint of a violation for not more than ten
+working days after the date the investigation report is completed; provided
+that if an investigation relates to an alleged criminal offense, no information
+shall be released until the criminal investigation has been completed and the
+director has determined that no legal proceeding will be jeopardized by its
+release. [L 1985, c 208, pt of §2; am L 2016, c 88, §3; am L 2019, c 83, §3]
+Note
+Section 92-51 referred to in text is repealed.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

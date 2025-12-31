@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-172"/>
+          <FRBRuri value="/us-hi/act/hrs/383-172"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-172/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-172/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-172/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-172/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_172">
+          <num>383-172</num>
+          <heading>Total extended benefit amount</heading>
+          <content>
+            <p>§383-172  Total extended benefit amount.
+The total extended benefit amount payable to any eligible individual with
+respect to the individual's applicable benefit year shall be fifty per cent of
+the total amount of regular benefits which were payable to the individual under
+this chapter in the individual's applicable benefit year; provided that the
+amount so determined shall be reduced by the total amount of additional
+benefits paid (or deemed paid) to the individual for weeks of unemployment in
+the individual's benefit year which began prior to the effective date of the
+extended benefit period which is current in the week for which the individual
+first claims extended benefits. [L 1971, c 187, pt of §13; am L 1974, c 156,
+§3; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

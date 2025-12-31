@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/393-15"/>
+          <FRBRuri value="/us-hi/act/hrs/393-15"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/393-15/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/393-15/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/393-15/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/393-15/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_393">
+        <num>Chapter 393</num>
+        <heading>Prepaid Health Care Act</heading>
+        <section eId="sec_393_15">
+          <num>393-15</num>
+          <heading>Section 393-15</heading>
+          <content>
+            <p>[§393-15]  Continuation of coverage in case
+of inability to earn wages.
+If an employee is hospitalized or otherwise
+prevented by sickness from working, the employer shall enable the employee to
+continue the employee's coverage by contributing to the premium the amounts
+paid by the employer toward such premium prior to the employee's sickness for
+the period that such employee is hospitalized or prevented by sickness from
+working.  This obligation shall not exceed a period of three months following
+the month during which the employee became hospitalized or disabled from working,
+or the period for which the employer has undertaken the payment of the
+employee's regular wages in such case, whichever is longer. [L 1974, c 210, pt
+of §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

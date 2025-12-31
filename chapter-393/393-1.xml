@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/393-1"/>
+          <FRBRuri value="/us-hi/act/hrs/393-1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/393-1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/393-1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/393-1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/393-1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_393">
+        <num>Chapter 393</num>
+        <heading>Prepaid Health Care Act</heading>
+        <section eId="sec_393_1">
+          <num>393-1</num>
+          <heading>Short title</heading>
+          <content>
+            <p>PART I. 
+SHORT TITLE; PURPOSE; DEFINITIONS
+[§393-1]  Short title.
+This chapter
+shall be known as the &quot;Hawaii Prepaid Health Care Act&quot;. [L 1974, c
+210, pt of §1]
+Cross References
+Congressional exemption from preemption, see P.L. No. 97-473,
+§301 (29 U.S.C. §1144(b)(5)).
+Case Notes
+Federal Employee Retirement Income Security Act of 1974
+preempts Hawaii Prepaid Health Care Act.  442 F. Supp. 695 (1977), aff'd, 633
+F.2d 760 (1980); aff'd, 454 U.S. 801 (1981).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

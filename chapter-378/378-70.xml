@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-70"/>
+          <FRBRuri value="/us-hi/act/hrs/378-70"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-70/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-70/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-70/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-70/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_70">
+          <num>378-70</num>
+          <heading>Section 378-70</heading>
+          <content>
+            <p>B.  Public Employees
+[
+§378-70]  Protected disclosure by a public
+employee.
+(a)  In addition to any other protections under this part, a public
+employer shall not discharge, threaten, or otherwise discriminate against a public
+employee regarding the public employee's compensation, terms, conditions, location,
+or privileges of employment because the public employee, or a person acting on behalf
+of the public employee, reports or is about to report to the public employer or
+a public body, verbally or in writing:
+(1)  Any violation or suspected violation of a federal,
+state, or county law, rule, ordinance, or regulation; or
+(2)  Any violation or suspected violation of a contract
+executed by the State, a political subdivision of the State, or the United States,
+unless the employee knows that the report is false.
+(b)  Every public employer shall post notices pertaining
+to the application of sections 378-70 and 396-8(e), as shall be prescribed by the
+department of labor and industrial relations, in conspicuous places in every workplace.
+[L 2011, c 166, §4]
+Case Notes
+Although plaintiff, a vocational rehabilitation specialist
+with the department of human services, argued that the state legislature
+specifically intended to consent to federal jurisdiction in whistleblower cases
+involving public employees when it enacted this section, the court found that
+nothing in its plain language, or elsewhere in the state Whistleblowers'
+Protection Act, demonstrated the State's express consent to federal suit. 
+Rather, this section expanded whistleblower protections to public employees by
+providing greater avenues to state court.  349 F. Supp. 3d 1019 (2018).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="378_70__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In addition to any other protections under this part, a public
+employer shall not discharge, threaten, or otherwise discriminate against a public
+employee regarding the public employee's compensation, terms, conditions, location,
+or privileges of employment because the public employee, or a person acting on behalf
+of the public employee, reports or is about to report to the public employer or
+a public body, verbally or in writing:</p>
+            </content>
+            <paragraph eId="378_70__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Any violation or suspected violation of a federal,
+state, or county law, rule, ordinance, or regulation; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="378_70__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Any violation or suspected violation of a contract
+executed by the State, a political subdivision of the State, or the United States,
+unless the employee knows that the report is false.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="378_70__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Every public employer shall post notices pertaining
+to the application of sections 378-70 and 396-8</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

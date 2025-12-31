@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-8"/>
+          <FRBRuri value="/us-hi/act/hrs/349-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_8">
+          <num>349-8</num>
+          <heading>Section 349-8</heading>
+          <content>
+            <p>§349-8  Powers of other departments and
+agencies; cooperation with the executive office on aging.
+It shall be the
+duty and responsibility of every state department and county agency providing
+programs and services to the aging, in actively working toward the goals and
+objectives articulated in the state comprehensive master plan for elders, to
+coordinate with the executive office on aging the development of its program
+plans and clear its final plans with the office prior to implementation of such
+plans.  The executive heads of all such departments and agencies shall
+cooperate with the executive office on aging in providing information as the
+office deems necessary for the effective discharge of its duties under sections
+349-3, 349-5, 349-6, and 349-7.  However, nothing contained in this chapter
+shall be deemed to delegate or detract in any way from the functions, powers,
+and duties prescribed by law for any other department or agency of this State,
+nor to interrupt or preclude the direct relationships of any such department or
+agency or units of county government in the performance of such functions, powers,
+and duties.  Each department, agency, officer, and employee of the State and of
+the counties shall cooperate and assist the executive office on aging in the
+performance of the function, powers, and duties of the office. [L 1976, c 217,
+pt of §2; am L 1990, c 67, §8]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

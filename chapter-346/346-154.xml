@@ -1,0 +1,374 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-154"/>
+          <FRBRuri value="/us-hi/act/hrs/346-154"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-154/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-154/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-154/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-154/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_154">
+          <num>346-154</num>
+          <heading>Background checks</heading>
+          <content>
+            <p>§346-154  Background checks.
+(a)  The department
+shall develop standards to ensure the reputable and responsible character of an
+applicant to operate a child care facility, prospective employees of the applicant,
+household members, and new employees or household members of the provider after
+registration or licensure, which shall include criminal history record checks in
+accordance with section 846-2.7, sex offender registry checks, child abuse record
+checks, and adult abuse perpetrator checks.
+For the purposes of this section, &quot;adult abuse
+perpetrator check&quot; means a search to determine whether an individual is known
+to the department as a perpetrator of abuse as defined in section 346-222, by means
+of a search of the individual's name and birth date in the department's adult protective
+services file.
+(b)  An applicant to operate a child care facility
+shall:
+(1)  Be subject to criminal history record checks in accordance
+with section 846-2.7;
+(2)  Submit to the department or its designee, under
+penalty of law, statements signed by the applicant, prospective employees of
+the applicant, and household members of the applicant indicating whether the applicant,
+any of the prospective employees, or any of the household members has ever been
+confirmed to have abused or neglected a child or vulnerable adult, including threatened
+harm; and
+(3)  Provide consent to the department or its designee
+to conduct a criminal history record check in accordance with section 846-2.7, a
+sex offender registry check, a child abuse record check, and an adult abuse perpetrator
+check, and to obtain criminal history information, sex offender registry
+information, child abuse record information, and adult abuse perpetrator information
+for verification.
+(c)  A provider shall:
+(1)  Be subject to criminal history record checks in accordance
+with section 846-2.7 and sex offender registry checks;
+(2)  Submit to the department or its designee a
+statement signed by any household member or any employee hired after the
+initial licensure or registration that requires the household member or
+employee to indicate, under penalty of law, whether the household member or employee
+has ever been confirmed to have abused or neglected a child or vulnerable adult,
+including threatened harm; and
+(3)  Provide consent to the department or its designee
+to conduct a criminal history record check in accordance with section 846-2.7, a
+sex offender registry check, a child abuse record check, and an adult abuse perpetrator
+check, and to obtain criminal history information, sex offender registry
+information, child abuse record information, and adult abuse perpetrator check information
+for verification.
+(d)  The department or its designee shall obtain
+information on the applicant, any household member, and any prospective
+employee of the applicant, including any household member or new employee
+retained after the applicant is issued a registration or license under this
+part, from the following sources:
+(1)  Criminal history record information through the Hawaii
+criminal justice data center in accordance with section 846-2.7;
+(2)  National and state sex offender registries; and
+(3)  Child abuse record information and adult abuse perpetrator
+check information from the department in accordance with departmental procedures.
+(e)  The department may deny an application for
+or revoke a license or registration to operate a child care facility if:
+(1)  The applicant, a household member, or any prospective
+employee has been convicted of a crime other than a minor traffic violation involving
+a fine of $50 or less, or ever been confirmed to have abused or neglected a child
+or vulnerable adult; or
+(2)  The department finds that the criminal history,
+history of registration as a sex offender, or child abuse record or adult abuse
+perpetrator check record of that applicant, household member, or prospective
+employee indicates that the applicant, household member, or prospective employee
+may pose a risk to the health, safety, or well-being of children.
+(f)  The department may request the provider to
+terminate the employment or residency of a new employee or household member or
+may suspend or revoke the license or registration of the provider who employs a
+new employee or who allows continued residency of a household member if:
+(1)  The employee or household member has been convicted
+of a crime other than a minor traffic violation involving a fine of $50 or less,
+or ever been confirmed to have abused or neglected a child or vulnerable adult;
+or
+(2)  The department finds that the criminal history,
+history of registration as a sex offender, or child abuse record or adult abuse
+perpetrator check record of the new employee or household member indicates that
+the new employee or household member may pose a risk to the health, safety, or
+well-being of children.
+(g)  The department shall deny an application
+for a license or registration, shall request the provider to terminate the
+employment or residency of a new employee or household member, or shall suspend
+or revoke the license or registration of the provider who employs a new
+employee or who allows continued residency of a household member if the
+applicant, employee, or household member:
+(1)  Refuses to consent to the background checks;
+(2)  Knowingly makes a materially false statement in
+connection with the background checks; or
+(3)  Is registered, or required to be registered, on
+the national sex offender registry or any state sex offender registry.
+(h)  The department or its designee, in
+obtaining and relying upon the background check information, is presumed to be
+acting in good faith and shall be immune from civil liability for taking or
+recommending action based upon the background check information.  The
+presumption of good faith may be rebutted upon a showing of proof by a
+preponderance of the evidence that the department or its designee relied upon
+information or opinion that it knew was false or misleading or that such
+reliance was not reasonable. [L 1985, c 208, pt of §2; am L 1986, c 297, §3; am
+L 2001, c 201, §4; am L 2003, c 95, §9(6); am L 2008, c 136, §4; am L 2012, c
+41, §2; am L 2016, c 88, §4]
+Cross References
+Child placing organizations, child caring institutions, and
+foster boarding homes, standards, see §346-17.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_154__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department
+shall develop standards to ensure the reputable and responsible character of an
+applicant to operate a child care facility, prospective employees of the applicant,
+household members, and new employees or household members of the provider after
+registration or licensure, which shall include criminal history record checks in
+accordance with section 846-2.7, sex offender registry checks, child abuse record
+checks, and adult abuse perpetrator checks.
+For the purposes of this section, &quot;adult abuse
+perpetrator check&quot; means a search to determine whether an individual is known
+to the department as a perpetrator of abuse as defined in section 346-222, by means
+of a search of the individual's name and birth date in the department's adult protective
+services file.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_154__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An applicant to operate a child care facility
+shall:</p>
+            </content>
+            <paragraph eId="346_154__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Be subject to criminal history record checks in accordance
+with section 846-2.7;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Submit to the department or its designee, under
+penalty of law, statements signed by the applicant, prospective employees of
+the applicant, and household members of the applicant indicating whether the applicant,
+any of the prospective employees, or any of the household members has ever been
+confirmed to have abused or neglected a child or vulnerable adult, including threatened
+harm; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Provide consent to the department or its designee
+to conduct a criminal history record check in accordance with section 846-2.7, a
+sex offender registry check, a child abuse record check, and an adult abuse perpetrator
+check, and to obtain criminal history information, sex offender registry
+information, child abuse record information, and adult abuse perpetrator information
+for verification.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_154__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A provider shall:</p>
+            </content>
+            <paragraph eId="346_154__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Be subject to criminal history record checks in accordance
+with section 846-2.7 and sex offender registry checks;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Submit to the department or its designee a
+statement signed by any household member or any employee hired after the
+initial licensure or registration that requires the household member or
+employee to indicate, under penalty of law, whether the household member or employee
+has ever been confirmed to have abused or neglected a child or vulnerable adult,
+including threatened harm; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Provide consent to the department or its designee
+to conduct a criminal history record check in accordance with section 846-2.7, a
+sex offender registry check, a child abuse record check, and an adult abuse perpetrator
+check, and to obtain criminal history information, sex offender registry
+information, child abuse record information, and adult abuse perpetrator check information
+for verification.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_154__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department or its designee shall obtain
+information on the applicant, any household member, and any prospective
+employee of the applicant, including any household member or new employee
+retained after the applicant is issued a registration or license under this
+part, from the following sources:</p>
+            </content>
+            <paragraph eId="346_154__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Criminal history record information through the Hawaii
+criminal justice data center in accordance with section 846-2.7;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>National and state sex offender registries; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Child abuse record information and adult abuse perpetrator
+check information from the department in accordance with departmental procedures.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_154__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department may deny an application for
+or revoke a license or registration to operate a child care facility if:</p>
+            </content>
+            <paragraph eId="346_154__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The applicant, a household member, or any prospective
+employee has been convicted of a crime other than a minor traffic violation involving
+a fine of $50 or less, or ever been confirmed to have abused or neglected a child
+or vulnerable adult; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_e__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The department finds that the criminal history,
+history of registration as a sex offender, or child abuse record or adult abuse
+perpetrator check record of that applicant, household member, or prospective
+employee indicates that the applicant, household member, or prospective employee
+may pose a risk to the health, safety, or well-being of children.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_154__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The department may request the provider to
+terminate the employment or residency of a new employee or household member or
+may suspend or revoke the license or registration of the provider who employs a
+new employee or who allows continued residency of a household member if:</p>
+            </content>
+            <paragraph eId="346_154__subsec_f__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The employee or household member has been convicted
+of a crime other than a minor traffic violation involving a fine of $50 or less,
+or ever been confirmed to have abused or neglected a child or vulnerable adult;
+or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_f__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The department finds that the criminal history,
+history of registration as a sex offender, or child abuse record or adult abuse
+perpetrator check record of the new employee or household member indicates that
+the new employee or household member may pose a risk to the health, safety, or
+well-being of children.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_154__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The department shall deny an application
+for a license or registration, shall request the provider to terminate the
+employment or residency of a new employee or household member, or shall suspend
+or revoke the license or registration of the provider who employs a new
+employee or who allows continued residency of a household member if the
+applicant, employee, or household member:</p>
+            </content>
+            <paragraph eId="346_154__subsec_g__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Refuses to consent to the background checks;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_g__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Knowingly makes a materially false statement in
+connection with the background checks; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_154__subsec_g__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Is registered, or required to be registered, on
+the national sex offender registry or any state sex offender registry.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_154__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The department or its designee, in
+obtaining and relying upon the background check information, is presumed to be
+acting in good faith and shall be immune from civil liability for taking or
+recommending action based upon the background check information.  The
+presumption of good faith may be rebutted upon a showing of proof by a
+preponderance of the evidence that the department or its designee relied upon
+information or opinion that it knew was false or misleading or that such
+reliance was not reasonable. [L 1985, c 208, pt of §2; am L 1986, c 297, §3; am
+L 2001, c 201, §4; am L 2003, c 95, §9(6); am L 2008, c 136, §4; am L 2012, c
+41, §2; am L 2016, c 88, §4]
+Cross References
+Child placing organizations, child caring institutions, and
+foster boarding homes, standards, see §346-17.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

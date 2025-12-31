@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/251-14"/>
+          <FRBRuri value="/us-hi/act/hrs/251-14"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/251-14/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/251-14/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/251-14/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/251-14/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_251">
+        <num>Chapter 251</num>
+        <heading>Transient Accommodations Tax</heading>
+        <section eId="sec_251_14">
+          <num>251-14</num>
+          <heading>Application of surcharge tax</heading>
+          <content>
+            <p>[§251-14]  Application of surcharge tax.
+The surcharge tax imposed by this chapter shall be in addition to any other
+taxes imposed by any other laws of the State, except as otherwise specifically
+provided in this chapter; provided that if it be held by any court of competent
+jurisdiction that the surcharge tax imposed by this chapter may not legally be
+imposed in addition to any other tax or taxes imposed by any other law or laws
+with respect to the same property or the use thereof, then this chapter shall
+be deemed not to apply to such property and the use thereof under the specific
+circumstances, but the other laws shall be given full effect with respect to
+such property and use. [L 1991, c 263, pt of §1]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

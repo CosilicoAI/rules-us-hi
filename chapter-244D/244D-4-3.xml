@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/244D-4.3"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-4.3"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/244D-4.3/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-4.3/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/244D-4.3/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-4.3/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_244D">
+        <num>Chapter 244D</num>
+        <heading>Liquor Tax</heading>
+        <section eId="sec_244D_4_3">
+          <num>244D-4.3</num>
+          <heading>Section 244D-4.3</heading>
+          <content>
+            <p>§244D-4  Tax; limitations.
+(a)  Every
+person who sells or uses any liquor in the State not taxable under this
+chapter, in respect of the transaction by which the person or the person's
+vendor acquired the liquor, shall pay a gallonage tax that is hereby imposed at
+the following rates for the various liquor categories defined in section
+244D-1:
+On July 1, 1998, and thereafter, the tax rate
+shall be:
+(1)  $5.98 per wine gallon on distilled spirits;
+(2)  $2.12 per wine gallon on sparkling wine;
+(3)  $1.38 per wine gallon on still wine;
+(4)  $0.85 per wine gallon on cooler beverages;
+(5)  $0.93 per wine gallon on beer other than draft
+beer; and
+(6)  $0.54 per wine gallon on draft beer;
+and at a proportionate rate for any other quantity
+so sold or used.
+(b)  The tax levied pursuant to subsection (a)
+shall be paid only once upon the same liquor; provided further that the tax
+shall not apply to:
+(1)  Liquor held for sale by a permittee but not yet
+sold;
+(2)  Liquor sold by one permittee to another
+permittee;
+(3)  Liquor which under the Constitution and laws of
+the United States cannot be legally subjected to the tax imposed by this
+chapter so long as and to the extent to which the State is without power to
+impose the tax;
+(4)  Liquor sold for sacramental purposes or the use
+of liquor for sacramental purposes, or any liquor imported pursuant to section
+281-33;
+(5)  Alcohol sold pursuant to section 281-37 to a
+person holding a purchase permit or prescription therefor, or any sale or use
+of alcohol, so purchased, for other than beverage purposes. [L Sp 1984 1st, c
+1, pt of §2; gen ch 1985; am L 1986, c 344, §4; am L 1988, c 335, §1; am L
+1989, c 149, §1; am L 1994, c 89, §1; am L 1997, c 20, §3; am L 2021, c 117, §23]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="244D_4_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every
+person who sells or uses any liquor in the State not taxable under this
+chapter, in respect of the transaction by which the person or the person's
+vendor acquired the liquor, shall pay a gallonage tax that is hereby imposed at
+the following rates for the various liquor categories defined in section
+244D-1:
+On July 1, 1998, and thereafter, the tax rate
+shall be:</p>
+            </content>
+            <paragraph eId="244D_4_3__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>$5.98 per wine gallon on distilled spirits;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>$2.12 per wine gallon on sparkling wine;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>$1.38 per wine gallon on still wine;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>$0.85 per wine gallon on cooler beverages;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>$0.93 per wine gallon on beer other than draft
+beer; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>$0.54 per wine gallon on draft beer;
+and at a proportionate rate for any other quantity
+so sold or used.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="244D_4_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The tax levied pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="244D_4_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>shall be paid only once upon the same liquor; provided further that the tax
+shall not apply to:</p>
+            </content>
+            <paragraph eId="244D_4_3__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Liquor held for sale by a permittee but not yet
+sold;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Liquor sold by one permittee to another
+permittee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Liquor which under the Constitution and laws of
+the United States cannot be legally subjected to the tax imposed by this
+chapter so long as and to the extent to which the State is without power to
+impose the tax;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Liquor sold for sacramental purposes or the use
+of liquor for sacramental purposes, or any liquor imported pursuant to section
+281-33;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="244D_4_3__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Alcohol sold pursuant to section 281-37 to a
+person holding a purchase permit or prescription therefor, or any sale or use
+of alcohol, so purchased, for other than beverage purposes. [L Sp 1984 1st, c
+1, pt of §2; gen ch 1985; am L 1986, c 344, §4; am L 1988, c 335, §1; am L
+1989, c 149, §1; am L 1994, c 89, §1; am L 1997, c 20, §3; am L 2021, c 117, §23]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

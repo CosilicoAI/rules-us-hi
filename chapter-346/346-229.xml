@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-229"/>
+          <FRBRuri value="/us-hi/act/hrs/346-229"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-229/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-229/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-229/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-229/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_229">
+          <num>346-229</num>
+          <heading>Right of entry</heading>
+          <content>
+            <p>§346-229  Right of entry.
+(a)  An
+employee of the department engaged in an investigation under this part shall be
+authorized to visit and communicate with the vulnerable adult who is the
+subject of the report.  Any person intentionally or knowingly obstructing or
+interfering with the department's access to or communication with the
+vulnerable adult shall be guilty of a misdemeanor.
+(b)  Any employee of
+the department engaged in an investigation under this part, having probable
+cause to
+believe
+that a vulnerable adult will
+be injured through caregiver neglect, self-neglect, or by physical abuse before
+a court order for entry can be obtained, without a warrant, may enter upon the
+premises where the vulnerable adult may be found for the purpose of
+ascertaining that person's welfare.  Where a warrantless entry is authorized
+under
+this section, the employee of the department may request
+the assistance of a police officer to gain entrance.
+[L 1989, c 381, pt
+of §1; am L 1990, c 144, §1 and c 234, §9; am L 2008, c 154, §11; am L 2022, c
+289, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_229__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An
+employee of the department engaged in an investigation under this part shall be
+authorized to visit and communicate with the vulnerable adult who is the
+subject of the report.  Any person intentionally or knowingly obstructing or
+interfering with the department's access to or communication with the
+vulnerable adult shall be guilty of a misdemeanor.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_229__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any employee of
+the department engaged in an investigation under this part, having probable
+cause to
+believe
+that a vulnerable adult will
+be injured through caregiver neglect, self-neglect, or by physical abuse before
+a court order for entry can be obtained, without a warrant, may enter upon the
+premises where the vulnerable adult may be found for the purpose of
+ascertaining that person's welfare.  Where a warrantless entry is authorized
+under
+this section, the employee of the department may request
+the assistance of a police officer to gain entrance.
+[L 1989, c 381, pt
+of §1; am L 1990, c 144, §1 and c 234, §9; am L 2008, c 154, §11; am L 2022, c
+289, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

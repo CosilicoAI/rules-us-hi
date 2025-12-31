@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-181"/>
+          <FRBRuri value="/us-hi/act/hrs/346-181"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-181/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-181/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-181/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-181/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_181">
+          <num>346-181</num>
+          <heading>Preschool open doors program</heading>
+          <content>
+            <p>[D. 
+Miscellaneous Provisions]
+Revision Note
+Subpart heading added by revisor pursuant to §23G-15.
+§346-181  Preschool open doors program.
+(a)  There is established within the department a school readiness program to
+be known as the preschool open doors program within the department's child care
+assistance program.  The program shall:
+(1)  Provide access to school readiness services that
+address children's physical, cognitive, linguistic, social, and emotional
+development;
+(2)  Require each provider to conduct school readiness
+assessments;
+(3)  Give priority to children from low- and
+moderate-income families; and
+(4)  Prepare children for school through either of the
+State's two official languages.
+(b)  Subject to the availability of funds, the
+program shall serve three- and four-year-old children who are in the two years
+prior to kindergarten entry pursuant to section 302A
+‑
+411, with priority extended in the following
+order during a priority application period established for each upcoming state
+fiscal year:
+(1)  Children who are not eligible to attend public
+school kindergarten in the calendar year in which they turn five years of age
+because their birth date occurs after the kindergarten eligibility date
+pursuant to section 302A-411;
+(2)  Underserved or at-risk four-year-old children who
+were previously served as three
+‑
+year
+‑
+old children;
+(3)  Four-year-old children who were previously served
+as three-year-old children;
+(4)  Four-year-old children;
+(5)  Underserved or at-risk three-year-old children;
+and
+(6)  Three-year-old children;
+provided that the department shall adopt rules,
+pursuant to chapter 91, to determine a child's underserved or at-risk status,
+if not duplicative of the rules already adopted under chapter 17-799, Hawaii
+Administrative Rules; and applications received after the end of the priority
+application period and through January 31 of each year shall be processed on a
+first-come, first-served basis for the remainder of the state fiscal year.
+(c)  Enrollment in the program shall be
+voluntary.  A parent or guardian of a child enrolled in the program shall share
+in the costs of the program through a copayment according to a sliding fee
+scale that is based on need pursuant to rules adopted by the department.
+(d)  The department may adopt interim rules to
+carry out the purposes of this section without regard to chapter 91 or 201M;
+provided that:
+(1)  The department shall hold at least one public
+hearing prior to the adoption of interim rules;
+(2)  The interim rules shall comply with all
+applicable state and federal laws; and
+(3)  The interim rules shall be effective for no more
+than one year after their adoption. [L 2013, c 169, §2; am L 2017, c 202, §11;
+am L 2020, c 46, §9; am L 2021, c 210, §§6, 14(2); am L 2023, c 171, §§3, 4; am
+L 2024, c 153, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_181__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the department a school readiness program to
+be known as the preschool open doors program within the department's child care
+assistance program.  The program shall:</p>
+            </content>
+            <paragraph eId="346_181__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Provide access to school readiness services that
+address children's physical, cognitive, linguistic, social, and emotional
+development;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Require each provider to conduct school readiness
+assessments;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Give priority to children from low- and
+moderate-income families; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Prepare children for school through either of the
+State's two official languages.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_181__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Subject to the availability of funds, the
+program shall serve three- and four-year-old children who are in the two years
+prior to kindergarten entry pursuant to section 302A
+‑
+411, with priority extended in the following
+order during a priority application period established for each upcoming state
+fiscal year:</p>
+            </content>
+            <paragraph eId="346_181__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Children who are not eligible to attend public
+school kindergarten in the calendar year in which they turn five years of age
+because their birth date occurs after the kindergarten eligibility date
+pursuant to section 302A-411;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Underserved or at-risk four-year-old children who
+were previously served as three
+‑
+year
+‑
+old children;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Four-year-old children who were previously served
+as three-year-old children;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Four-year-old children;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Underserved or at-risk three-year-old children;
+and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Three-year-old children;
+provided that the department shall adopt rules,
+pursuant to chapter 91, to determine a child's underserved or at-risk status,
+if not duplicative of the rules already adopted under chapter 17-799, Hawaii
+Administrative Rules; and applications received after the end of the priority
+application period and through January 31 of each year shall be processed on a
+first-come, first-served basis for the remainder of the state fiscal year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_181__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Enrollment in the program shall be
+voluntary.  A parent or guardian of a child enrolled in the program shall share
+in the costs of the program through a copayment according to a sliding fee
+scale that is based on need pursuant to rules adopted by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_181__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department may adopt interim rules to
+carry out the purposes of this section without regard to chapter 91 or 201M;
+provided that:</p>
+            </content>
+            <paragraph eId="346_181__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The department shall hold at least one public
+hearing prior to the adoption of interim rules;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The interim rules shall comply with all
+applicable state and federal laws; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_181__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The interim rules shall be effective for no more
+than one year after their adoption. [L 2013, c 169, §2; am L 2017, c 202, §11;
+am L 2020, c 46, §9; am L 2021, c 210, §§6, 14(2); am L 2023, c 171, §§3, 4; am
+L 2024, c 153, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

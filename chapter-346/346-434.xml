@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-434"/>
+          <FRBRuri value="/us-hi/act/hrs/346-434"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-434/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-434/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-434/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-434/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_434">
+          <num>346-434</num>
+          <heading>Annual report</heading>
+          <content>
+            <p>[
+§346-434]  Annual report.
+[See
+Note at part heading.]
+The office shall submit an annual report to the
+legislature no later than twenty days prior to the convening of each regular
+session that contains a summary of its activities during the preceding year,
+including:
+(1)  Actions taken to address issues, unmet needs, and
+challenges relating to wellness and resilience;
+(2)  Funds received pursuant to the activities of the
+office from federal, state, private, and philanthropic sources;
+(3)  The office's engagement with community entities
+and other stakeholders; and
+(4)  Any other findings and recommendations, including
+any proposed legislation. [L 2023, c 87, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

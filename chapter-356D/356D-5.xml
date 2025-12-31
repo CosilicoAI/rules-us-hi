@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-5"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_5">
+          <num>356D-5</num>
+          <heading>Section 356D-5</heading>
+          <content>
+            <p>[§356D-5]  Resident advisory boards;
+establishment.
+(a)
+The authority may establish a resident advisory
+board or boards, which shall be comprised of federal public housing residents
+or section 8 tenant-based housing assistance recipients, to assist and make
+recommendations to the authority regarding the development of the public
+housing agency plan and any significant amendments or modifications to it.  The
+members of the resident advisory board or boards shall adequately reflect and
+represent residents of federal public housing projects and recipients of
+section 8 tenant-based assistance administered by the authority.
+(b)  The members of the resident advisory board
+shall not be compensated for their services but shall be reimbursed for
+necessary expenses, including travel expenses, incurred while engaged in
+business for the resident advisory board.
+(c)  The authority may adopt rules in
+accordance with chapter 91 with respect to the establishment of the resident
+advisory board or boards, including rules concerning the composition,
+eligibility, selection, and term of members.  This section shall not apply if
+it conflicts with any federal law. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The authority may establish a resident advisory
+board or boards, which shall be comprised of federal public housing residents
+or section 8 tenant-based housing assistance recipients, to assist and make
+recommendations to the authority regarding the development of the public
+housing agency plan and any significant amendments or modifications to it.  The
+members of the resident advisory board or boards shall adequately reflect and
+represent residents of federal public housing projects and recipients of
+section 8 tenant-based assistance administered by the authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The members of the resident advisory board
+shall not be compensated for their services but shall be reimbursed for
+necessary expenses, including travel expenses, incurred while engaged in
+business for the resident advisory board.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The authority may adopt rules in
+accordance with chapter 91 with respect to the establishment of the resident
+advisory board or boards, including rules concerning the composition,
+eligibility, selection, and term of members.  This section shall not apply if
+it conflicts with any federal law. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

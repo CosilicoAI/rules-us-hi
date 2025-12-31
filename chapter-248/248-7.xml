@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/248-7"/>
+          <FRBRuri value="/us-hi/act/hrs/248-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/248-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/248-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/248-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/248-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_248">
+        <num>Chapter 248</num>
+        <heading>Estate and Transfer Tax</heading>
+        <section eId="sec_248_7">
+          <num>248-7</num>
+          <heading>Tax payments, how made; caveat</heading>
+          <content>
+            <p>§248-7  Tax payments, how made; caveat.
+All payments to be made by the state director of finance shall be made upon
+warrants issued by the state comptroller.  Nothing in this chapter shall be
+construed as in any way amending or repealing any law authorizing the
+withholding, by the state director of finance or the state comptroller, of
+moneys in the state treasury belonging or due to any county for the payment of
+principal or interest for state bonds, or any other charges. [L 1932 2d, c 40,
+pt of §71; RL 1935, pt of §1922; am L 1937, c 172, pt of §2; RL 1945, pt of
+§5254; am L 1945, c 82, §4; am L 1947, c 111, pt of §3; RL 1955, §129-10; am L
+1957, c 152, §1; am L Sp 1959 2d, c 1, §14; am L 1963, c 114, §1; HRS §248-7]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-398"/>
+          <FRBRuri value="/us-hi/act/hrs/346-398"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-398/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-398/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-398/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-398/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_398">
+          <num>346-398</num>
+          <heading>Petition; venue</heading>
+          <content>
+            <p>[§346-398]  Petition; venue.
+(a) 
+Within thirty days after the voluntary care agreement is signed, the department
+shall file with the court in the county where the young adult resides a
+petition invoking the jurisdiction of the court under this part, which shall
+contain:
+(1)  The young adult's name, date of birth, and
+current address;
+(2)  A statement of facts that supports the
+eligibility of the young adult for foster care services that includes the
+following:
+(A)  The reasonable efforts made to achieve
+permanency for the young adult; and
+(B)  The reasons why it is in the best
+interest of the young adult to extend foster care services; and
+(3)  A copy of the signed voluntary care agreement.
+(b)  Upon the filing of the petition, the court
+shall open a young adult voluntary foster care case for the purpose of
+determining whether extending foster care services is in the young adult's best
+interests.  The court shall conduct a hearing and make its determination no
+later than fifteen days after the filing of the petition.
+(c)  The court shall set a periodic review to
+be held within one hundred eighty days after the signing of the voluntary care
+agreement. [L 2013, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_398__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Within thirty days after the voluntary care agreement is signed, the department
+shall file with the court in the county where the young adult resides a
+petition invoking the jurisdiction of the court under this part, which shall
+contain:</p>
+            </content>
+            <paragraph eId="346_398__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The young adult's name, date of birth, and
+current address;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_398__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A statement of facts that supports the
+eligibility of the young adult for foster care services that includes the
+following:</p>
+              </content>
+              <subparagraph eId="346_398__subsec_a__para_2__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>The reasonable efforts made to achieve
+permanency for the young adult; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_398__subsec_a__para_2__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The reasons why it is in the best
+interest of the young adult to extend foster care services; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="346_398__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A copy of the signed voluntary care agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_398__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon the filing of the petition, the court
+shall open a young adult voluntary foster care case for the purpose of
+determining whether extending foster care services is in the young adult's best
+interests.  The court shall conduct a hearing and make its determination no
+later than fifteen days after the filing of the petition.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_398__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The court shall set a periodic review to
+be held within one hundred eighty days after the signing of the voluntary care
+agreement. [L 2013, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

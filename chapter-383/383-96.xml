@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-96"/>
+          <FRBRuri value="/us-hi/act/hrs/383-96"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-96/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-96/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-96/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-96/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_96">
+          <num>383-96</num>
+          <heading>Service</heading>
+          <content>
+            <p>§383-96  Service.
+Whenever it is
+provided herein that any service shall be made upon the department of labor and
+industrial relations, such service may be made upon the director of labor and
+industrial relations or upon such representative as the director may have designated
+for that purpose. [L 1941, c 304, §1, pt of subs 32; RL 1945, §4275; RL 1955,
+§93-95; am L Sp 1959 2d, c 1, §27; HRS §383-96]
+Rules of Court
+Service, see HRCP rule 4(d)(5).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

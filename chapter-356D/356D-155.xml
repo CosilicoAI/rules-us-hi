@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-155"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-155"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-155/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-155/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-155/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-155/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_155">
+          <num>356D-155</num>
+          <heading>Section 356D-155</heading>
+          <content>
+            <p>[§356D-155]  Determination of eligibility of
+tenants and rental charges.
+(a)  For purposes of carrying out this part,
+the authority shall establish criteria and procedures for determining the
+eligibility of tenants and rental charges, including criteria and procedures
+with respect to periodic review of the tenant's income and periodic adjustment
+of rental charges.  The authority shall issue, upon the request of a housing
+owner, certificates as to the income of the individuals and families applying
+for admission to, or residing in, dwellings of that owner.
+(b)  Procedures adopted by the authority
+hereunder shall provide for recertification of the incomes of tenants, except
+elders, at intervals of two years, or at shorter intervals, for the purpose of
+adjusting rental charges and annual payments on the basis of tenants' incomes,
+but in no event shall rental charges adjusted under this part for any dwelling
+exceed the fair market rental of the dwelling.
+(c)  No payments under this part may be made
+with respect to any property for which the costs of operation, including wages
+and salaries, are determined by the authority to be greater than similar costs
+of operation of similar housing in the community where the property is
+situated. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_155__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of carrying out this part,
+the authority shall establish criteria and procedures for determining the
+eligibility of tenants and rental charges, including criteria and procedures
+with respect to periodic review of the tenant's income and periodic adjustment
+of rental charges.  The authority shall issue, upon the request of a housing
+owner, certificates as to the income of the individuals and families applying
+for admission to, or residing in, dwellings of that owner.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_155__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Procedures adopted by the authority
+hereunder shall provide for recertification of the incomes of tenants, except
+elders, at intervals of two years, or at shorter intervals, for the purpose of
+adjusting rental charges and annual payments on the basis of tenants' incomes,
+but in no event shall rental charges adjusted under this part for any dwelling
+exceed the fair market rental of the dwelling.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_155__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No payments under this part may be made
+with respect to any property for which the costs of operation, including wages
+and salaries, are determined by the authority to be greater than similar costs
+of operation of similar housing in the community where the property is
+situated. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

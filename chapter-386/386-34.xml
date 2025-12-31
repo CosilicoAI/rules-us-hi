@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-34"/>
+          <FRBRuri value="/us-hi/act/hrs/386-34"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-34/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-34/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-34/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-34/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_34">
+          <num>386-34</num>
+          <heading>Payment after death</heading>
+          <content>
+            <p>§386-34  Payment after death.
+Where an
+employee is entitled to weekly income and indemnity benefits for permanent
+total or permanent partial disability and dies from any cause other than the
+compensable work injury, payment of any unpaid balance of the benefits to the
+extent that the employer is liable therefor, but not to exceed the amount
+prescribed under section 386-32(a) for other cases, shall be made to the
+employee's dependents as provided herein.  If, at the time of the death, the
+employee is entitled to any benefits from the special compensation fund, the
+benefits shall also be paid to the employee's dependents as provided herein:
+(1)  To a dependent widow, widower, or reciprocal
+beneficiary, for the use of the widow, widower, or reciprocal beneficiary, and
+the dependent children, if any.  The director of labor and industrial relations
+may from time to time apportion such compensation among the widow, widower, or
+reciprocal beneficiary, and any dependent children.
+(2)  If there be no dependent widow, widower, or
+reciprocal beneficiary, but one or more dependent children, then to such child
+or children to be divided equally among them if more than one.
+(3)  If there be no dependent widow, widower,
+reciprocal beneficiary, or child, but there be a dependent parent, then to such
+parent, or if both parents be dependent, to both of them, to be divided equally
+between them; or if there be no such parents, but a dependent grandparent, then
+to such grandparent, or if more than one, then to all of them to be divided
+equally among them.
+(4)  If there be no dependent widow, widower,
+reciprocal beneficiary, child, parent, or grandparent, but there be a dependent
+grandchild, brother, or sister, then to such dependent, or if more than one,
+then to all of them to be divided equally among them.
+(5)  If there be no such dependents, the unpaid
+balance of the compensation shall be paid in a lump sum into the special
+compensation fund. [L 1963, c 116, pt of §1; Supp, §97-33; HRS §386-34; am L
+1969, c 85, §1; am L 1972, c 42, §3; am L 1973, c 47, §2; gen ch 1985; am L
+1997, c 383, §52]
+Attorney General Opinions
+Cited in discussion of hanai children.  Att. Gen. Op. 93-1.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_34__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>for other cases, shall be made to the
+employee's dependents as provided herein.  If, at the time of the death, the
+employee is entitled to any benefits from the special compensation fund, the
+benefits shall also be paid to the employee's dependents as provided herein:</p>
+            </content>
+            <paragraph eId="386_34__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>To a dependent widow, widower, or reciprocal
+beneficiary, for the use of the widow, widower, or reciprocal beneficiary, and
+the dependent children, if any.  The director of labor and industrial relations
+may from time to time apportion such compensation among the widow, widower, or
+reciprocal beneficiary, and any dependent children.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_34__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>If there be no dependent widow, widower, or
+reciprocal beneficiary, but one or more dependent children, then to such child
+or children to be divided equally among them if more than one.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_34__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>If there be no dependent widow, widower,
+reciprocal beneficiary, or child, but there be a dependent parent, then to such
+parent, or if both parents be dependent, to both of them, to be divided equally
+between them; or if there be no such parents, but a dependent grandparent, then
+to such grandparent, or if more than one, then to all of them to be divided
+equally among them.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_34__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>If there be no dependent widow, widower,
+reciprocal beneficiary, child, parent, or grandparent, but there be a dependent
+grandchild, brother, or sister, then to such dependent, or if more than one,
+then to all of them to be divided equally among them.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_34__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>If there be no such dependents, the unpaid
+balance of the compensation shall be paid in a lump sum into the special
+compensation fund. [L 1963, c 116, pt of §1; Supp, §97-33; HRS §386-34; am L
+1969, c 85, §1; am L 1972, c 42, §3; am L 1973, c 47, §2; gen ch 1985; am L
+1997, c 383, §52]
+Attorney General Opinions
+Cited in discussion of hanai children.  Att. Gen. Op. 93-1.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

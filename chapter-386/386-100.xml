@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-100"/>
+          <FRBRuri value="/us-hi/act/hrs/386-100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-100/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-100/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_100">
+          <num>386-100</num>
+          <heading>Section 386-100</heading>
+          <content>
+            <p>§386-100  Deductible option for medical
+benefits in insurance policy.
+(a)  Each workers' compensation insurance
+policy issued by every insurer shall offer, at the option of the insured
+employer, a deductible for medical benefits in the amount of $100, $150, $200,
+$300, $400, $500, $2,500, $5,000, or $10,000, or greater if agreed upon by the
+insurer and the insured employer.  The insured employer, if choosing to
+exercise the option, shall choose only one of the amounts as the deductible. 
+The provisions of this subsection shall be fully disclosed to the prospective
+purchaser in writing.
+(b)  If an insured employer exercises the
+option and chooses a deductible, the insured employer shall be liable for the
+amount of the deductible for the medical benefits paid for each claim of work
+injury suffered by an injured employee.  The insurer shall not be liable for
+the deductible.
+The insurer shall pay the entire cost of
+medical bills directly to the provider of services and then seek reimbursement
+from the insured for the deductible amount.
+Deductible medical benefit amounts shall be
+reported by insurers as required by section 386-95 and shall be included in the
+total average annual compensation paid by all insurance carriers in determining
+the charge against employers not insured under section 386-121(a)(1) for the
+purpose of the special compensation fund. [L 1985, c 296, §13; am L 1989, c
+243, §1; am L 1995, c 234, §17]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_100__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each workers' compensation insurance
+policy issued by every insurer shall offer, at the option of the insured
+employer, a deductible for medical benefits in the amount of $100, $150, $200,
+$300, $400, $500, $2,500, $5,000, or $10,000, or greater if agreed upon by the
+insurer and the insured employer.  The insured employer, if choosing to
+exercise the option, shall choose only one of the amounts as the deductible. 
+The provisions of this subsection shall be fully disclosed to the prospective
+purchaser in writing.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_100__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If an insured employer exercises the
+option and chooses a deductible, the insured employer shall be liable for the
+amount of the deductible for the medical benefits paid for each claim of work
+injury suffered by an injured employee.  The insurer shall not be liable for
+the deductible.
+The insurer shall pay the entire cost of
+medical bills directly to the provider of services and then seek reimbursement
+from the insured for the deductible amount.
+Deductible medical benefit amounts shall be
+reported by insurers as required by section 386-95 and shall be included in the
+total average annual compensation paid by all insurance carriers in determining
+the charge against employers not insured under section 386-121</p>
+            </content>
+            <paragraph eId="386_100__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>for the
+purpose of the special compensation fund. [L 1985, c 296, §13; am L 1989, c
+243, §1; am L 1995, c 234, §17]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

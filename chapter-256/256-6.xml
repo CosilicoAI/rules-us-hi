@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/256-6"/>
+          <FRBRuri value="/us-hi/act/hrs/256-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/256-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/256-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/256-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/256-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_256">
+        <num>Chapter 256</num>
+        <heading>Multistate Tax Compact</heading>
+        <section eId="sec_256_6">
+          <num>256-6</num>
+          <heading>College savings program trust fund</heading>
+          <content>
+            <p>§256-6  College savings program trust fund.
+(a)  There is established the college savings program trust fund.  The director
+of finance shall have custody of the fund.  All payments from the fund shall be
+made in accordance with this chapter.
+(b)  The fund shall consist of a trust account
+and an operating account.  The trust account shall include amounts received by
+the college savings program pursuant to tuition savings agreements,
+administrative charges, fees, and all other amounts received by the program
+from other sources, and interest and investment income earned by the fund.  The
+director of finance, from time to time, shall make transfers from the trust
+account to the operating account for the immediate payment of obligations under
+tuition savings agreements, operating expenses, and administrative costs of the
+college savings program.
+(c)  The director of finance, as trustee, shall
+invest the assets of the fund in securities that constitute legal investments
+under state laws relating to the investment of trust fund assets by trust
+companies, including those authorized by article 8 of chapter 412.  Trust fund
+assets shall be kept separate and shall not be commingled with other assets,
+except as provided in this chapter.  The director of finance may enter into
+contracts to provide for investment advice and management, custodial services, and
+other professional services for the administration and investment of the
+program.
+(d)  The director of finance shall provide for
+the administration of the fund, including maintaining participant records and
+accounts, and providing annual audited reports.  The director of finance may
+enter into contracts for administrative services, including reports.
+(e)  All administrative fees, costs, and
+expenses, including investment fees and expenses, shall be paid from the
+operating account of the fund and, notwithstanding any other law to the
+contrary, may be made without appropriation or allotment. [L 1999, c 81, pt of
+§2; am L 2000, c 90, §5]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="256_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established the college savings program trust fund.  The director
+of finance shall have custody of the fund.  All payments from the fund shall be
+made in accordance with this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The fund shall consist of a trust account
+and an operating account.  The trust account shall include amounts received by
+the college savings program pursuant to tuition savings agreements,
+administrative charges, fees, and all other amounts received by the program
+from other sources, and interest and investment income earned by the fund.  The
+director of finance, from time to time, shall make transfers from the trust
+account to the operating account for the immediate payment of obligations under
+tuition savings agreements, operating expenses, and administrative costs of the
+college savings program.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director of finance, as trustee, shall
+invest the assets of the fund in securities that constitute legal investments
+under state laws relating to the investment of trust fund assets by trust
+companies, including those authorized by article 8 of chapter 412.  Trust fund
+assets shall be kept separate and shall not be commingled with other assets,
+except as provided in this chapter.  The director of finance may enter into
+contracts to provide for investment advice and management, custodial services, and
+other professional services for the administration and investment of the
+program.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The director of finance shall provide for
+the administration of the fund, including maintaining participant records and
+accounts, and providing annual audited reports.  The director of finance may
+enter into contracts for administrative services, including reports.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>All administrative fees, costs, and
+expenses, including investment fees and expenses, shall be paid from the
+operating account of the fund and, notwithstanding any other law to the
+contrary, may be made without appropriation or allotment. [L 1999, c 81, pt of
+§2; am L 2000, c 90, §5]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

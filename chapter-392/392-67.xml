@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-67"/>
+          <FRBRuri value="/us-hi/act/hrs/392-67"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-67/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-67/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-67/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-67/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_67">
+          <num>392-67</num>
+          <heading>Section 392-67</heading>
+          <content>
+            <p>§392-67  Assessments for the trust fund for
+disability benefits.
+(a)  Each employer shall, from July 1, 1969, to
+December 31, 1969, contribute to the establishment of the trust fund for
+disability benefits at the rate of .2 per cent of covered wages as defined in
+section 392-43.  The employer shall pay such contributions to the director for
+a given month on or before the thirtieth day of the next succeeding month.
+(b)  When the balance of the trust fund for
+disability benefits falls below $500,000 as of December 31 of any year
+after 1969, a levy shall be assessed and collected in the next calendar year
+from insurers of employers insured under section 392-41 and from all other
+employers not insured under section 392-41.
+Each year the director shall determine the
+amount of the levy to be paid by each insurer or employer and shall give notice
+of the levy to each such insurer or employer on or before May 1 of the
+year in which the levy is assessed.  The amount of the levy shall be paid on or
+before June 30 following notification.
+The amount of the levy against each insurer or
+employer shall be determined as the product of the wages paid by the employer
+multiplied by a factor which is the ratio of the amount by which the balance in
+the [trust fund for disability benefits] was less than $500,000 on the
+preceding December 31 to total covered wages paid by all employers.  For
+the purposes of this paragraph, &quot;covered wages&quot; means wages paid by
+employers during the preceding calendar year but not including wages paid to
+any employee in excess of the limit contained in section 392-43(b). [L 1969, c
+148, pt of §1; am L 2013, c 100, §8]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="392_67__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each employer shall, from July 1, 1969, to
+December 31, 1969, contribute to the establishment of the trust fund for
+disability benefits at the rate of .2 per cent of covered wages as defined in
+section 392-43.  The employer shall pay such contributions to the director for
+a given month on or before the thirtieth day of the next succeeding month.</p>
+            </content>
+          </subsection>
+          <subsection eId="392_67__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When the balance of the trust fund for
+disability benefits falls below $500,000 as of December 31 of any year
+after 1969, a levy shall be assessed and collected in the next calendar year
+from insurers of employers insured under section 392-41 and from all other
+employers not insured under section 392-41.
+Each year the director shall determine the
+amount of the levy to be paid by each insurer or employer and shall give notice
+of the levy to each such insurer or employer on or before May 1 of the
+year in which the levy is assessed.  The amount of the levy shall be paid on or
+before June 30 following notification.
+The amount of the levy against each insurer or
+employer shall be determined as the product of the wages paid by the employer
+multiplied by a factor which is the ratio of the amount by which the balance in
+the [trust fund for disability benefits] was less than $500,000 on the
+preceding December 31 to total covered wages paid by all employers.  For
+the purposes of this paragraph, &quot;covered wages&quot; means wages paid by
+employers during the preceding calendar year but not including wages paid to
+any employee in excess of the limit contained in section 392-43</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

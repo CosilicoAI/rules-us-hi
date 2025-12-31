@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-11.5"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-11.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-11.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-11.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-11.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-11.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_11_5">
+          <num>356D-11.5</num>
+          <heading>Section 356D-11.5</heading>
+          <content>
+            <p>§356D-11  Development of property.
+(a) 
+The authority, in its own behalf or on behalf of any government, may:
+(1)  Clear, improve, and rehabilitate property; and
+(2)  Plan, develop, construct, and finance housing
+projects.
+(b)  The authority may develop public land in
+an agricultural district subject to the prior approval of the land use
+commission when developing lands greater than five acres in size.  The
+authority shall not develop state monuments, historical sites, or parks.  When
+the authority proposes to develop public land, it shall file with the
+department of land and natural resources a petition setting forth that
+purpose.  The petition shall be conclusive proof that the intended use is a
+public use superior to that to which the land had been appropriated.
+(c)  The authority may develop or assist in the
+development of federal lands with the approval of appropriate federal
+authorities.
+(d)  The authority shall not develop any public
+land where the development may endanger the receipt of any federal grant,
+impair the eligibility of any government agency for a federal grant, prevent
+the participation of the federal government in any government program, or
+impair any covenant between the government and the holder of any bond issued by
+the government.
+(e)  The authority may contract or sponsor with
+any county, housing authority, or person, subject to the availability of funds,
+housing projects designed to meet the needs of elders, disabled, displaced or
+homeless persons, low- and moderate-income persons, government employees,
+teachers, or university and college students and faculty.
+(f)  The authority may enter into contracts
+with eligible developers to develop housing projects in exchange for mixed use
+development rights.  Eligibility of a developer for an exchange pursuant to
+this subsection shall be determined pursuant to rules adopted by the authority
+in accordance with chapter 91.
+As used in this subsection, &quot;mixed use
+development rights&quot; means the right to develop a portion of a housing
+project for commercial use.
+(g)  The authority may develop, with an
+eligible developer, or may assist under a government assistance program in the
+development of, housing projects.  The land planning activities of the
+authority shall be coordinated with the county planning departments and the
+county land use plans, policies, and ordinances.
+Any person, if qualified, may act
+simultaneously as developer and contractor.
+In selecting eligible developers or in
+contracting any services or materials for the purposes of this subsection, the
+authority shall be subject to all federal procurement laws and regulations.
+For purposes of this subsection,
+&quot;government assistance program&quot; means a housing program qualified by
+the authority and administered or operated by the authority or the United
+States or any of their political subdivisions, agencies, or instrumentalities,
+corporate or otherwise.
+(h)  In connection with the development of any
+housing dwelling units under this chapter, the authority may also develop
+commercial properties and industrial properties and sell or lease other
+properties if it determines that the uses will be an integral part of the
+housing development or a benefit to the community in which the properties are
+situated.  The authority may designate any portions of the housing development
+for commercial, industrial, or other use and shall have all the powers granted
+under this chapter with respect thereto.  The authority may use any funding
+authorized under this chapter to implement this subsection.
+The net proceeds of all sales or leases, less
+costs to the authority, shall be deposited in the public housing special fund
+established by section 356D-28.
+(i)  For purposes of this section,
+&quot;housing&quot; or &quot;housing project&quot; means any home, house,
+residence, building, apartment, living quarters, abode, domicile, or dwelling
+unit that is designed principally for the purposes of sheltering people. [L
+2006, c 180, pt of §2; am L 2011, c 90, §1; am L 2013, c 151, §1; am L Sp 2021,
+c 9, §75; am L 2022, c 251, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_11_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The authority, in its own behalf or on behalf of any government, may:</p>
+            </content>
+            <paragraph eId="356D_11_5__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Clear, improve, and rehabilitate property; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_11_5__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Plan, develop, construct, and finance housing
+projects.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_11_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The authority may develop public land in
+an agricultural district subject to the prior approval of the land use
+commission when developing lands greater than five acres in size.  The
+authority shall not develop state monuments, historical sites, or parks.  When
+the authority proposes to develop public land, it shall file with the
+department of land and natural resources a petition setting forth that
+purpose.  The petition shall be conclusive proof that the intended use is a
+public use superior to that to which the land had been appropriated.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_11_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The authority may develop or assist in the
+development of federal lands with the approval of appropriate federal
+authorities.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_11_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The authority shall not develop any public
+land where the development may endanger the receipt of any federal grant,
+impair the eligibility of any government agency for a federal grant, prevent
+the participation of the federal government in any government program, or
+impair any covenant between the government and the holder of any bond issued by
+the government.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_11_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The authority may contract or sponsor with
+any county, housing authority, or person, subject to the availability of funds,
+housing projects designed to meet the needs of elders, disabled, displaced or
+homeless persons, low- and moderate-income persons, government employees,
+teachers, or university and college students and faculty.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_11_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The authority may enter into contracts
+with eligible developers to develop housing projects in exchange for mixed use
+development rights.  Eligibility of a developer for an exchange pursuant to
+this subsection shall be determined pursuant to rules adopted by the authority
+in accordance with chapter 91.
+As used in this subsection, &quot;mixed use
+development rights&quot; means the right to develop a portion of a housing
+project for commercial use.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_11_5__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The authority may develop, with an
+eligible developer, or may assist under a government assistance program in the
+development of, housing projects.  The land planning activities of the
+authority shall be coordinated with the county planning departments and the
+county land use plans, policies, and ordinances.
+Any person, if qualified, may act
+simultaneously as developer and contractor.
+In selecting eligible developers or in
+contracting any services or materials for the purposes of this subsection, the
+authority shall be subject to all federal procurement laws and regulations.
+For purposes of this subsection,
+&quot;government assistance program&quot; means a housing program qualified by
+the authority and administered or operated by the authority or the United
+States or any of their political subdivisions, agencies, or instrumentalities,
+corporate or otherwise.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_11_5__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>In connection with the development of any
+housing dwelling units under this chapter, the authority may also develop
+commercial properties and industrial properties and sell or lease other
+properties if it determines that the uses will be an integral part of the
+housing development or a benefit to the community in which the properties are
+situated.  The authority may designate any portions of the housing development
+for commercial, industrial, or other use and shall have all the powers granted
+under this chapter with respect thereto.  The authority may use any funding
+authorized under this chapter to implement this subsection.
+The net proceeds of all sales or leases, less
+costs to the authority, shall be deposited in the public housing special fund
+established by section 356D-28.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_11_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For purposes of this section,
+&quot;housing&quot; or &quot;housing project&quot; means any home, house,
+residence, building, apartment, living quarters, abode, domicile, or dwelling
+unit that is designed principally for the purposes of sheltering people. [L
+2006, c 180, pt of §2; am L 2011, c 90, §1; am L 2013, c 151, §1; am L Sp 2021,
+c 9, §75; am L 2022, c 251, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

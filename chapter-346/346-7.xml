@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-7"/>
+          <FRBRuri value="/us-hi/act/hrs/346-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_7">
+          <num>346-7</num>
+          <heading>Section 346-7</heading>
+          <content>
+            <p>§346-7  Acceptance of grants-in-aid or
+outright grants.
+(a)  The department of human services may accept, at any
+time, grants-in-aid or outright grants from the federal government or any
+department thereof for general assistance, medical assistance, care of
+transients, and other nonresidents, and cooperate with the federal government
+in connection therewith.
+(b)  The department shall submit a report
+detailing all funds received under this section to the legislature no later
+than twenty days prior to the convening of each regular session. [L 1941, c
+296, pt of §1; RL 1945, §4823; RL 1955, §108-3; HRS §346-7; am L 1970, c 105,
+§5; am L 1987, c 339, §4; am L 1993, c 280, §58]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department of human services may accept, at any
+time, grants-in-aid or outright grants from the federal government or any
+department thereof for general assistance, medical assistance, care of
+transients, and other nonresidents, and cooperate with the federal government
+in connection therewith.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall submit a report
+detailing all funds received under this section to the legislature no later
+than twenty days prior to the convening of each regular session. [L 1941, c
+296, pt of §1; RL 1945, §4823; RL 1955, §108-3; HRS §346-7; am L 1970, c 105,
+§5; am L 1987, c 339, §4; am L 1993, c 280, §58]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

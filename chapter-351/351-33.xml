@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/351-33"/>
+          <FRBRuri value="/us-hi/act/hrs/351-33"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/351-33/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/351-33/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/351-33/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/351-33/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_351">
+        <num>Chapter 351</num>
+        <heading>Crime Victim Compensation</heading>
+        <section eId="sec_351_33">
+          <num>351-33</num>
+          <heading>Award of compensation</heading>
+          <content>
+            <p>§351-33  Award of compensation.
+The
+commission may order the payment of compensation under this part for:
+(1)  Expenses actually and reasonably incurred during
+the period of the injury or death of the victim;
+(2)  Loss to the victim of earning power as a result
+of total or partial incapacity;
+(3)  Pecuniary loss to the dependents of the deceased
+victim;
+(4)  Pain and suffering to the victim;
+(5)  Any other pecuniary loss directly resulting from
+the injury or death of the victim that the commission determines to be
+reasonable and proper;
+(6)  Expenses actually and reasonably incurred for
+mental health services in the case of a mass casualty incident;
+(7)  Expenses actually and reasonably incurred for
+mental health services to or for the benefit of the surviving relatives in the
+case of a deceased victim; and
+(8)  Expenses actually and reasonably incurred for
+mental health services for a child witness in the case of a crime of abuse of
+family or household member. [L 1967, c 226, pt of §1; HRS §351-33; am L 1995, c
+182, §4; am L 1998, c 240, §5; am L 2000, c 57, §5; am L 2019, c 237, §2]
+Case Notes
+Defendant's argument that a crime victim who received
+indemnification from an insurer did not suffer a &quot;loss&quot; within the
+meaning of §706-646 was without merit; the only exception for or reduction of
+restitution plainly stated in §706-646 is that any amount actually recovered by
+the victim from the criminal should be deducted from the amount the victim
+might recover from the crime victim compensation special fund pursuant to this
+section.  121 H. 135 (App.), 214 P.3d 1125 (2009).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

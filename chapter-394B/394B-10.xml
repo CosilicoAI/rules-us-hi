@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/394B-10"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/394B-10/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/394B-10/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_394B">
+        <num>Chapter 394B</num>
+        <heading>Dislocated Workers</heading>
+        <section eId="sec_394B_10">
+          <num>394B-10</num>
+          <heading>Dislocated worker allowance</heading>
+          <content>
+            <p>[§394B-10]  Dislocated worker allowance.
+(a)  Whenever a closing, partial closing, or relocation occurs, the employer
+shall provide each affected employee who applies for and is found eligible for
+unemployment compensation benefits for a particular week under chapter 383 and
+based in whole or in part upon employment in the closed, partial closed, or
+relocated plant a payment, denominated a dislocated worker allowance as a
+supplement to any unemployment compensation benefit received for that week.
+(b)  The amount of such weekly payment shall be
+the difference between the employee's average weekly wages (including any
+payments for periods of compensated leave) prior to the closing (partial
+closing or relocation) and the weekly unemployment compensation benefits
+received.
+(c)  For any one closing, partial closing, or
+relocation, an otherwise eligible employee ceases to be eligible for a
+dislocated worker allowance once he or she has received such an allowance from
+the covered employer for a total of four weeks.
+(d)  Receipt of a dislocated employee allowance
+shall not affect an employee's eligibility for unemployment compensation
+benefits for any week, or the amount of such benefits.
+(e)  The director of labor and industrial
+relations may adopt, amend, or repeal such rules and regulations as the
+director deems necessary or suitable for the administration of this chapter. 
+The rules and regulations when prescribed in accordance with chapter 91 shall
+have the force and effect of law and shall be enforced in the same manner as
+this chapter.
+(f)  Notwithstanding the provisions of this
+section, any contractual agreement arrived at through a collective bargaining
+process that results in providing supplemental unemployment compensation
+benefits for an affected employee shall supersede, with respect to that
+employee, the requirements of this section. [L 1987, c 377, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="394B_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whenever a closing, partial closing, or relocation occurs, the employer
+shall provide each affected employee who applies for and is found eligible for
+unemployment compensation benefits for a particular week under chapter 383 and
+based in whole or in part upon employment in the closed, partial closed, or
+relocated plant a payment, denominated a dislocated worker allowance as a
+supplement to any unemployment compensation benefit received for that week.</p>
+            </content>
+          </subsection>
+          <subsection eId="394B_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount of such weekly payment shall be
+the difference between the employee's average weekly wages (including any
+payments for periods of compensated leave) prior to the closing (partial
+closing or relocation) and the weekly unemployment compensation benefits
+received.</p>
+            </content>
+          </subsection>
+          <subsection eId="394B_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For any one closing, partial closing, or
+relocation, an otherwise eligible employee ceases to be eligible for a
+dislocated worker allowance once he or she has received such an allowance from
+the covered employer for a total of four weeks.</p>
+            </content>
+          </subsection>
+          <subsection eId="394B_10__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Receipt of a dislocated employee allowance
+shall not affect an employee's eligibility for unemployment compensation
+benefits for any week, or the amount of such benefits.</p>
+            </content>
+          </subsection>
+          <subsection eId="394B_10__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The director of labor and industrial
+relations may adopt, amend, or repeal such rules and regulations as the
+director deems necessary or suitable for the administration of this chapter. 
+The rules and regulations when prescribed in accordance with chapter 91 shall
+have the force and effect of law and shall be enforced in the same manner as
+this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="394B_10__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Notwithstanding the provisions of this
+section, any contractual agreement arrived at through a collective bargaining
+process that results in providing supplemental unemployment compensation
+benefits for an affected employee shall supersede, with respect to that
+employee, the requirements of this section. [L 1987, c 377, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

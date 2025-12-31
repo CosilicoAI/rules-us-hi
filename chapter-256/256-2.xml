@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/256-2"/>
+          <FRBRuri value="/us-hi/act/hrs/256-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/256-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/256-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/256-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/256-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_256">
+        <num>Chapter 256</num>
+        <heading>Multistate Tax Compact</heading>
+        <section eId="sec_256_2">
+          <num>256-2</num>
+          <heading>Section 256-2</heading>
+          <content>
+            <p>[§256-2]  College savings program
+established.
+There is established the college savings program.  The
+purpose of this program is to enable families to save for college tuition and
+other expenses through college accounts.  The program shall provide college
+accounts to:
+(1)  Enable residents of this State and other states
+to benefit from the tax incentive provided for qualified state tuition programs
+under the Internal Revenue Code of 1986, as amended; and
+(2)  Attract students to public and private colleges
+and universities within the State. [L 1999, c 81, pt of §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

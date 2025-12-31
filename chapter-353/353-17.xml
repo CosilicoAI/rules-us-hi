@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-17"/>
+          <FRBRuri value="/us-hi/act/hrs/353-17"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-17/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-17/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-17/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-17/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_17">
+          <num>353-17</num>
+          <heading>Section 353-17</heading>
+          <content>
+            <p>§353-17  Committed persons, furlough,
+employment.
+(a)  The director or a designated agent may grant furloughs to
+committed persons with a minimum or lower security classification in any
+correctional facility of the department for the purpose of employment, social
+reorientation, education, or training, or any other valid purpose as determined
+by the director.  Special out-of-state furloughs may be granted to those
+already otherwise furloughed, at no cost to the State, when death or critical
+illness or injury to the committed person's immediate family including a
+reciprocal beneficiary, occurs.  Any committed person who is engaged in private
+employment, by contract or otherwise, not under the immediate custody of the
+State shall not be considered an agent or employee of the State.  Any moneys
+earned from employment by such person shall be used to satisfy a restitution
+order and to reimburse the State for the cost of room and board.  If any earned
+moneys remain after these expenses have been paid, that amount shall be held in
+an individual account for the committed person.
+When an inmate is granted a special
+out-of-state furlough, the director shall inform the authorities of the state
+to which the inmate is to be furloughed of the inmate's arrival.
+(b)  Full power to enforce the terms and
+conditions of furlough and to retake and reincarcerate a furloughed committed
+person is conferred upon the director or designated agent.  The director or a
+designated agent, at any time, may issue a warrant authorizing the arrest and
+return to actual custody of any furloughed committed person for the purpose of
+ascertaining whether or not the terms and conditions of furlough have been
+violated so as to justify revoking the furlough and to retake and reincarcerate
+the furloughed committed person.  The administrators of all of the correctional
+facilities of the State, the chief of police of each county, all police
+officers of the State, and all correctional facility officials shall execute
+any such warrant of arrest in like manner as an ordinary criminal process.
+(c)  Any furloughed committed person retaken
+and reincarcerated as provided in this chapter shall be confined according to
+the committed person's sentence for that portion of the committed person's term
+remaining unserved at the time of furlough, but subsequent furloughs, in the
+discretion of the director or designated agent, may be granted to a committed
+person during the life and in respect of sentence. [L 1987, c 338, pt of §3; am
+L 1997, c 383, §51]
+Cross References
+Interstate compact for the supervision of adult offenders,
+see chapter 353B.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_17__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director or a designated agent may grant furloughs to
+committed persons with a minimum or lower security classification in any
+correctional facility of the department for the purpose of employment, social
+reorientation, education, or training, or any other valid purpose as determined
+by the director.  Special out-of-state furloughs may be granted to those
+already otherwise furloughed, at no cost to the State, when death or critical
+illness or injury to the committed person's immediate family including a
+reciprocal beneficiary, occurs.  Any committed person who is engaged in private
+employment, by contract or otherwise, not under the immediate custody of the
+State shall not be considered an agent or employee of the State.  Any moneys
+earned from employment by such person shall be used to satisfy a restitution
+order and to reimburse the State for the cost of room and board.  If any earned
+moneys remain after these expenses have been paid, that amount shall be held in
+an individual account for the committed person.
+When an inmate is granted a special
+out-of-state furlough, the director shall inform the authorities of the state
+to which the inmate is to be furloughed of the inmate's arrival.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_17__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Full power to enforce the terms and
+conditions of furlough and to retake and reincarcerate a furloughed committed
+person is conferred upon the director or designated agent.  The director or a
+designated agent, at any time, may issue a warrant authorizing the arrest and
+return to actual custody of any furloughed committed person for the purpose of
+ascertaining whether or not the terms and conditions of furlough have been
+violated so as to justify revoking the furlough and to retake and reincarcerate
+the furloughed committed person.  The administrators of all of the correctional
+facilities of the State, the chief of police of each county, all police
+officers of the State, and all correctional facility officials shall execute
+any such warrant of arrest in like manner as an ordinary criminal process.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_17__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any furloughed committed person retaken
+and reincarcerated as provided in this chapter shall be confined according to
+the committed person's sentence for that portion of the committed person's term
+remaining unserved at the time of furlough, but subsequent furloughs, in the
+discretion of the director or designated agent, may be granted to a committed
+person during the life and in respect of sentence. [L 1987, c 338, pt of §3; am
+L 1997, c 383, §51]
+Cross References
+Interstate compact for the supervision of adult offenders,
+see chapter 353B.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

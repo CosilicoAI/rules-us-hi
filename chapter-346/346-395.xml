@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-395"/>
+          <FRBRuri value="/us-hi/act/hrs/346-395"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-395/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-395/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-395/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-395/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_395">
+          <num>346-395</num>
+          <heading>Eligibility</heading>
+          <content>
+            <p>§346-395  Eligibility.
+A young adult may
+continue to receive services under this part if the young adult meets the following
+criteria:
+(1)  The young adult was:
+(A)  Under the permanent custody, foster
+custody, voluntary foster custody, or court-ordered temporary foster custody of
+the department at the time the young adult attained the age of eighteen;
+(B)  A child who was placed in guardianship after
+attaining the age of sixteen and the legal guardians are no longer willing to provide
+emotional and financial support; or
+(C)  A child who was adopted after attaining the
+age of sixteen and the adoptive parents are no longer willing to provide
+emotional and financial support;
+(2)  The young adult voluntarily consents to participate
+in the young adult voluntary foster care program and meets the program
+requirements;
+(3)  The court finds that exercising jurisdiction under
+this part is in the young adult's best interest; and
+(4)  The young adult is:
+(A)  Completing secondary education or a program
+leading to an equivalent credential;
+(B)  Enrolled in an institution that provides post-secondary
+or vocational education;
+(C)  Participating in a program or activity designed
+to promote or remove barriers to employment;
+(D)  Employed for at least eighty hours per month;
+or
+(E)  Incapable of doing any of the activities described
+in subparagraphs (A) to (D) due to a medical condition, which incapability is supported
+by regularly updated information in the case plan of the young adult. [L 2013,
+c 252, pt of §2; am L 2016, c 134, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

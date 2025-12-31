@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-14.5"/>
+          <FRBRuri value="/us-hi/act/hrs/237-14.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-14.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-14.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-14.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-14.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_14_5">
+          <num>237-14.5</num>
+          <heading>Section 237-14.5</heading>
+          <content>
+            <p>§237-14  Segregation of gross income, etc.,
+on records and in returns.
+The imposition of taxes and the application of
+tax rates do not depend upon the business in which the taxpayer is primarily
+engaged.  One business may be subject to two or more tax rates.  If a business
+is within the purview of two or more of the paragraphs of section 237-13 or
+other provisions of this chapter all of them apply, each provision being
+applicable to the appropriate item of gross income, gross proceeds of sales, or
+value of products.  However, any person engaging or continuing in a business having
+gross income, gross proceeds of sales, and value of products, or any of these
+as the case may be, taxable at different rates, shall be subject to taxation
+upon the aggregate amount of the gross income, gross proceeds of sales, and
+value of products of the business at the highest rate applicable to any part of
+the aggregate, unless the person shall segregate the parts taxable at different
+rates upon the person's records and in the person's returns, and shall sustain
+the burden of proving that the segregation was correctly made. [L 1957, c 34,
+§11(h); Supp, §117-14.1; HRS §237-14; gen ch 1985]
+Case Notes
+Taxpayer may be subject to both the service business and
+retailing classifications to extent each is applicable to particular items of
+gross income.  53 H. 450, 497 P.2d 37 (1972).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

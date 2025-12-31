@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-11"/>
+          <FRBRuri value="/us-hi/act/hrs/237-11"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-11/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-11/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-11/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-11/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_11">
+          <num>237-11</num>
+          <heading>Tax year</heading>
+          <content>
+            <p>§237-11  Tax year.
+The assessment of
+taxes herein made and the returns required therefor shall be for the year
+ending on December 31.  If the taxpayer, in exercising a privilege taxable
+under this chapter, keeps the taxpayer's books reflecting the same on a basis
+other than the calendar year, the taxpayer may, with the assent of the
+department of taxation, and upon the direction of the department shall, make
+the taxpayer's annual returns and pay taxes for the year covering the
+taxpayer's accounting period as shown by the method of keeping the taxpayer's
+books. [L 1935, c 141, §10; RL 1945, §5452; RL 1955, §117-12; am L 1957, c 34,
+§4; am L Sp 1959 2d, c 1, §16; HRS §237-11; gen ch 1985]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

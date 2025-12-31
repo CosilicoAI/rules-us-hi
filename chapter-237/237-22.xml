@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-22"/>
+          <FRBRuri value="/us-hi/act/hrs/237-22"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-22/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-22/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-22/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-22/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_22">
+          <num>237-22</num>
+          <heading>Conformity to Constitution, etc</heading>
+          <content>
+            <p>§237-22  Conformity to Constitution, etc.
+(a)  In computing the amounts of any tax imposed under this chapter, there
+shall be excepted or deducted from the values, gross proceeds of sales, or
+gross income so much thereof as, under the Constitution and laws of the United
+States, the State is prohibited from taxing, but only so long as and only to
+the extent that the State is so prohibited.
+(b)  To the extent that any deduction,
+allocation, or other method to determine tax liability is necessary to comply
+with subsection (a), each taxpayer liable for the tax imposed by this chapter
+shall be entitled to full offset for the amount of legally imposed sales, gross
+receipts, or use taxes paid by the taxpayer with respect to the imported
+property, service, or contracting to another state and any subdivision thereof;
+provided that such offset shall not exceed the amount of general excise tax
+imposed under this chapter upon the gross proceeds of sales or gross income
+from the sale and subsequent sale of the imported property, service, or
+contracting.  The amount of legally imposed sales, gross receipts, or use taxes
+paid by the taxpayer with respect to the import shall be first applied against
+any use tax, as permitted under section 238-3(i), and any remaining amount may
+be applied under this section for the same imported property, service, or
+contracting.
+The director of taxation shall have the
+authority to implement this offset by prescribing tax forms and instructions
+that require tax reporting and payment by deduction, allocation, or any other
+method to determine tax liability to the extent necessary to comply with the
+foregoing.
+The director of taxation may require the
+taxpayer to produce the necessary receipts or vouchers indicating the payment
+of the sales, gross receipts, or use taxes to another state or subdivision as a
+condition for the allowance of this offset. [L 1935, c 141, §3; RL 1945, §5458;
+RL 1955, §117-19; am L 1957, c 34, §11(j); HRS §237-22; am L 2002, c 98, §2]
+Case Notes
+Radio stations.  40 H. 121 (1953), aff'd 216 F.2d 700 (1954).
+Tax on foreign manufacturer's representative held not in
+violation of commerce clause.  46 H. 269, 379 P.2d 336 (1963).
+Cited:  48 H. 486, 503, 405 P.2d 382 (1965).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="237_22__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In computing the amounts of any tax imposed under this chapter, there
+shall be excepted or deducted from the values, gross proceeds of sales, or
+gross income so much thereof as, under the Constitution and laws of the United
+States, the State is prohibited from taxing, but only so long as and only to
+the extent that the State is so prohibited.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_22__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To the extent that any deduction,
+allocation, or other method to determine tax liability is necessary to comply
+with subsection</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/351-52"/>
+          <FRBRuri value="/us-hi/act/hrs/351-52"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/351-52/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/351-52/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/351-52/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/351-52/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_351">
+        <num>Chapter 351</num>
+        <heading>Crime Victim Compensation</heading>
+        <section eId="sec_351_52">
+          <num>351-52</num>
+          <heading>Award of compensation</heading>
+          <content>
+            <p>§351-52  Award of compensation.
+The
+commission may order the payment of compensation under this part for:
+(1)  Expenses actually and reasonably incurred during
+the period of the injury of the private citizen;
+(2)  Pain and suffering to the private citizen;
+(3)  Loss to the private citizen of earning power as a
+result of total or partial incapacity; and
+(4)  Pecuniary loss to the private citizen directly
+resulting from damage to the citizen's property. [L 1967, c 226, pt of §1; HRS
+§351
+-
+52; gen ch 1985; am L 1995, c 182, §5; am L 1998, c 240, §5]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

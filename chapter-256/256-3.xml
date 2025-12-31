@@ -1,0 +1,398 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/256-3"/>
+          <FRBRuri value="/us-hi/act/hrs/256-3"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/256-3/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/256-3/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/256-3/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/256-3/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_256">
+        <num>Chapter 256</num>
+        <heading>Multistate Tax Compact</heading>
+        <section eId="sec_256_3">
+          <num>256-3</num>
+          <heading>Section 256-3</heading>
+          <content>
+            <p>§256-3  Functions and powers of the director
+of finance.
+(a)  The director of finance shall implement the program under
+the terms and conditions established by this chapter.  The director of finance
+may make changes to the program as required for participants to obtain or
+maintain the federal tax benefits or treatment provided by section 529 of the
+Internal Revenue Code of 1986, as amended, or successor legislation.
+(b)  The director of finance may enter into
+tuition savings agreements with account owners pursuant to this chapter.
+(c)  The director of finance may implement the
+program through the use of financial organizations as account depositories and
+managers.  Under the program, individuals may establish accounts directly with
+an account depository.
+(d)  The director of finance may solicit
+proposals from financial organizations to act as program managers.  Financial
+organizations submitting proposals shall describe the investment instruments
+that will be held in accounts.  The director of finance shall select as program
+managers the financial organizations from among the bidding financial
+organizations that demonstrate the most advantageous combination, both to
+potential program participants and this State, based on the following factors:
+(1)  The financial stability and integrity of the
+financial organization;
+(2)  The safety of the investment instruments being
+offered;
+(3)  The ability of the investment instruments to
+track the expected increasing costs of higher education;
+(4)  The ability of the financial organization to
+satisfy recordkeeping and reporting requirements;
+(5)  The financial organization's plan for promoting
+the program and the resources it is willing to allocate to promote the program;
+(6)  The fees, if any, proposed to be charged to
+persons for opening accounts;
+(7)  The minimum initial deposit and minimum
+contributions that the financial organization will require;
+(8)  The ability of financial organizations to accept
+electronic withdrawals, including payroll deduction plans; and
+(9)  Other benefits to the State or its residents
+included in the proposal, including fees payable to the State to cover expenses
+to operate the program.
+(e)  The director of finance may enter into a
+management contract of up to ten years with a financial organization.  The
+management contract shall include, at a minimum, terms requiring the financial
+organization to:
+(1)  Take any action required to keep the program in
+compliance with requirements of section 256-4 and to manage the program to
+qualify it as a qualified state tuition plan under section 529 of the Internal
+Revenue Code of 1986, as amended, or successor legislation;
+(2)  Keep adequate records of each account, keep each
+account segregated from each other account, and provide the director of finance
+with the information necessary to prepare the statements required by section
+256-4;
+(3)  Compile information contained in statements
+required to be prepared under section 256-4 and provide the compilations to the
+director of finance;
+(4)  If there is more than one program manager,
+provide the director of finance with the information necessary to determine
+compliance with section 256-4;
+(5)  Provide the director of finance or designee
+access to the books and records of the program manager to the extent needed to
+determine compliance with the contract;
+(6)  Hold all accounts for the benefit of the account
+owner;
+(7)  Be audited at least annually by a firm of
+independent certified public accountants selected by the program manager, and
+provide the results of the audit to the director of finance;
+(8)  Provide the director of finance with copies of
+all regulatory filings and reports related to the program made by it during the
+term of the management contract or while it is holding any accounts, other than
+confidential filings or reports that will not become part of the program.  The
+program manager shall make available for review by the director of finance, the
+results of any periodic examination of the manager by any state or federal
+banking, insurance, or securities commission, except to the extent that the
+report or reports may not be disclosed under applicable law or the rules of the
+commission; and
+(9)  Undertake to provide the information required by
+rule 15c2-12(b)(5) under the Securities Exchange Act of 1934 pursuant to a
+continuing disclosure certificate for the benefit of the account owners.
+(f)  The director of finance may select more
+than one financial organization and investment instrument for the program.
+(g)  The director of finance may require an
+audit to be conducted of the operations and financial position of the program
+manager at any time if the director of finance has any reason to be concerned
+about the financial position, the recordkeeping practices, or the status of
+accounts of the program manager.
+(h)  During the term of any contract with a
+program manager, the director of finance shall conduct an examination of the
+manager and its handling of accounts.  The examination shall be conducted at
+least biennially if the manager is not otherwise subject to periodic
+examination by the commissioner of financial institutions, the Federal Deposit
+Insurance Corporation, or other similar entity.
+(i)  The director of finance may establish a
+nominal fee for an application for a college account.
+(j)  The director of finance may enter into
+contracts for the services of consultants for rendering professional and
+technical assistance and advice and any other contracts that are necessary and
+proper for the implementation of the program.
+(k)  The director of finance may adopt rules to
+implement the program pursuant to chapter 91. [L 1999, c 81, pt of §2; am L
+2000, c 90, §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="256_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director of finance shall implement the program under
+the terms and conditions established by this chapter.  The director of finance
+may make changes to the program as required for participants to obtain or
+maintain the federal tax benefits or treatment provided by section 529 of the
+Internal Revenue Code of 1986, as amended, or successor legislation.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The director of finance may enter into
+tuition savings agreements with account owners pursuant to this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director of finance may implement the
+program through the use of financial organizations as account depositories and
+managers.  Under the program, individuals may establish accounts directly with
+an account depository.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The director of finance may solicit
+proposals from financial organizations to act as program managers.  Financial
+organizations submitting proposals shall describe the investment instruments
+that will be held in accounts.  The director of finance shall select as program
+managers the financial organizations from among the bidding financial
+organizations that demonstrate the most advantageous combination, both to
+potential program participants and this State, based on the following factors:</p>
+            </content>
+            <paragraph eId="256_3__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The financial stability and integrity of the
+financial organization;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The safety of the investment instruments being
+offered;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The ability of the investment instruments to
+track the expected increasing costs of higher education;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_d__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The ability of the financial organization to
+satisfy recordkeeping and reporting requirements;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_d__para_5">
+              <num>(5)</num>
+              <content>
+                <p>The financial organization's plan for promoting
+the program and the resources it is willing to allocate to promote the program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_d__para_6">
+              <num>(6)</num>
+              <content>
+                <p>The fees, if any, proposed to be charged to
+persons for opening accounts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_d__para_7">
+              <num>(7)</num>
+              <content>
+                <p>The minimum initial deposit and minimum
+contributions that the financial organization will require;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_d__para_8">
+              <num>(8)</num>
+              <content>
+                <p>The ability of financial organizations to accept
+electronic withdrawals, including payroll deduction plans; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_d__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Other benefits to the State or its residents
+included in the proposal, including fees payable to the State to cover expenses
+to operate the program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="256_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The director of finance may enter into a
+management contract of up to ten years with a financial organization.  The
+management contract shall include, at a minimum, terms requiring the financial
+organization to:</p>
+            </content>
+            <paragraph eId="256_3__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Take any action required to keep the program in
+compliance with requirements of section 256-4 and to manage the program to
+qualify it as a qualified state tuition plan under section 529 of the Internal
+Revenue Code of 1986, as amended, or successor legislation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Keep adequate records of each account, keep each
+account segregated from each other account, and provide the director of finance
+with the information necessary to prepare the statements required by section
+256-4;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Compile information contained in statements
+required to be prepared under section 256-4 and provide the compilations to the
+director of finance;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_4">
+              <num>(4)</num>
+              <content>
+                <p>If there is more than one program manager,
+provide the director of finance with the information necessary to determine
+compliance with section 256-4;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Provide the director of finance or designee
+access to the books and records of the program manager to the extent needed to
+determine compliance with the contract;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Hold all accounts for the benefit of the account
+owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Be audited at least annually by a firm of
+independent certified public accountants selected by the program manager, and
+provide the results of the audit to the director of finance;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Provide the director of finance with copies of
+all regulatory filings and reports related to the program made by it during the
+term of the management contract or while it is holding any accounts, other than
+confidential filings or reports that will not become part of the program.  The
+program manager shall make available for review by the director of finance, the
+results of any periodic examination of the manager by any state or federal
+banking, insurance, or securities commission, except to the extent that the
+report or reports may not be disclosed under applicable law or the rules of the
+commission; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Undertake to provide the information required by
+rule 15c2-12</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_3__subsec_e__para_5">
+              <num>(5)</num>
+              <content>
+                <p>under the Securities Exchange Act of 1934 pursuant to a
+continuing disclosure certificate for the benefit of the account owners.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="256_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The director of finance may select more
+than one financial organization and investment instrument for the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The director of finance may require an
+audit to be conducted of the operations and financial position of the program
+manager at any time if the director of finance has any reason to be concerned
+about the financial position, the recordkeeping practices, or the status of
+accounts of the program manager.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_3__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>During the term of any contract with a
+program manager, the director of finance shall conduct an examination of the
+manager and its handling of accounts.  The examination shall be conducted at
+least biennially if the manager is not otherwise subject to periodic
+examination by the commissioner of financial institutions, the Federal Deposit
+Insurance Corporation, or other similar entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The director of finance may establish a
+nominal fee for an application for a college account.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_3__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>The director of finance may enter into
+contracts for the services of consultants for rendering professional and
+technical assistance and advice and any other contracts that are necessary and
+proper for the implementation of the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="256_3__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>The director of finance may adopt rules to
+implement the program pursuant to chapter 91. [L 1999, c 81, pt of §2; am L
+2000, c 90, §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

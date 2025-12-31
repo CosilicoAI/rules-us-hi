@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-172"/>
+          <FRBRuri value="/us-hi/act/hrs/346-172"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-172/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-172/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-172/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-172/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_172">
+          <num>346-172</num>
+          <heading>Rules for registration</heading>
+          <content>
+            <p>[§346-172]  Rules for registration.
+(a)  The department shall adopt rules establishing minimum requirements to
+ensure the health and safety of children provided care in a family child care
+home.  The rules may specify, but shall not be limited to, minimum requirements
+concerning:
+(1)  The number of children which may be cared for at
+one time and the ratio of adult to children;
+(2)  The health of the provider and children;
+(3)  Fire and sanitation standards;
+(4)  The supervision and allowable types of discipline
+of children; and
+(5)  Protection of children who are provided care from
+abuse.
+(b)  It is the intent of the legislature that
+the:
+(1)  Minimum requirements established under this
+section be less strict than the minimum standards established under section
+346-162 for group child care homes and group child care centers;
+(2)  Minimum requirements be as simple and clear as
+possible;
+(3)  Minimum requirements be germane to the provision
+of care to children in a private home as opposed to a nonresidential facility
+or institution, require as little recordkeeping by the provider as possible,
+and require information and reports if deemed necessary, from the provider
+which the department intends to scrutinize carefully and not cursorily; and
+(4)  Department establish minimum requirements, the
+compliance with which can be assessed easily and objectively by officers and
+employees of the department, providers, and parents and legal guardians of
+children. [L 1985, c 208, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_172__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall adopt rules establishing minimum requirements to
+ensure the health and safety of children provided care in a family child care
+home.  The rules may specify, but shall not be limited to, minimum requirements
+concerning:</p>
+            </content>
+            <paragraph eId="346_172__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The number of children which may be cared for at
+one time and the ratio of adult to children;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_172__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The health of the provider and children;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_172__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Fire and sanitation standards;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_172__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The supervision and allowable types of discipline
+of children; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_172__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Protection of children who are provided care from
+abuse.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_172__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>It is the intent of the legislature that
+the:</p>
+            </content>
+            <paragraph eId="346_172__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Minimum requirements established under this
+section be less strict than the minimum standards established under section
+346-162 for group child care homes and group child care centers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_172__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Minimum requirements be as simple and clear as
+possible;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_172__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Minimum requirements be germane to the provision
+of care to children in a private home as opposed to a nonresidential facility
+or institution, require as little recordkeeping by the provider as possible,
+and require information and reports if deemed necessary, from the provider
+which the department intends to scrutinize carefully and not cursorily; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_172__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Department establish minimum requirements, the
+compliance with which can be assessed easily and objectively by officers and
+employees of the department, providers, and parents and legal guardians of
+children. [L 1985, c 208, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

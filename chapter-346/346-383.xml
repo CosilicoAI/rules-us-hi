@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-383"/>
+          <FRBRuri value="/us-hi/act/hrs/346-383"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-383/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-383/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-383/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-383/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_383">
+          <num>346-383</num>
+          <heading>Meetings; quorum</heading>
+          <content>
+            <p>[§346-383]  Meetings; quorum.
+(a)  The
+Hawaii interagency council on homelessness shall meet quarterly, or more
+frequently as it deems necessary.
+(b)  A majority of the members of the Hawaii
+interagency council on homelessness shall constitute a quorum to do business
+and to validate any decision or act of the council. [L 2012, c 105, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_383__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The
+Hawaii interagency council on homelessness shall meet quarterly, or more
+frequently as it deems necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_383__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A majority of the members of the Hawaii
+interagency council on homelessness shall constitute a quorum to do business
+and to validate any decision or act of the council. [L 2012, c 105, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

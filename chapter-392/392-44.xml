@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-44"/>
+          <FRBRuri value="/us-hi/act/hrs/392-44"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-44/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-44/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-44/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-44/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_44">
+          <num>392-44</num>
+          <heading>Payment of disability benefits</heading>
+          <content>
+            <p>§392-44  Payment of disability benefits.
+Benefits provided under this chapter shall be paid periodically and promptly
+and, except as to a contested period of disability, without any decision by the
+director.  The first payment of benefits shall be paid within ten days,
+exclusive of Saturdays, Sundays and holidays, after the filing of required
+proof of claim.  Thereafter, benefits shall be due and payable every two
+weeks.  The director may determine that benefits may be paid monthly or
+semi-monthly if wages were so paid, and may authorize deviation from the
+foregoing requirements to facilitate prompt payment of benefits.  If an
+employer or insurer fails to make the first payment of benefits within ten
+days, exclusive of Saturdays, Sundays and holidays, after the filing of
+required proof of claim, the director shall, unless good cause can be shown,
+require the employer or insurer to pay such benefits plus an additional ten per
+cent of the benefits due and payable to the employee. [L 1969, c 148, pt of §1;
+am L 1971, c 109, §1(g)]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

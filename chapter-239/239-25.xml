@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/239-25"/>
+          <FRBRuri value="/us-hi/act/hrs/239-25"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/239-25/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/239-25/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/239-25/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/239-25/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_239">
+        <num>Chapter 239</num>
+        <heading>Public Service Company Tax Law</heading>
+        <section eId="sec_239_25">
+          <num>239-25</num>
+          <heading>Nonseverability</heading>
+          <content>
+            <p>[§239-25]  Nonseverability.
+If a court
+of competent jurisdiction enters a final judgment on the merits that:
+(1)  Is based on federal law;
+(2)  Is no longer subject to appeal; and
+(3)  Substantially limits or impairs the essential
+elements of sections 239-21 to 239-24,
+then sections 239-21 to 239-24 are invalid and have
+no legal effect as of the date of entry of the judgment. [L 2002, c 209, pt of
+§2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

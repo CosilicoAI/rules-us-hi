@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-68"/>
+          <FRBRuri value="/us-hi/act/hrs/392-68"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-68/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-68/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-68/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-68/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_68">
+          <num>392-68</num>
+          <heading>Section 392-68</heading>
+          <content>
+            <p>§392-68
+Failure to
+pay assessments
+.  If an employer or insurer fails to pay the assessment
+required by section 392-67(a) or section 392-67(b) within thirty days after the
+end of the month or quarter for which payment was due, the director shall levy
+a penalty of at least $250 but no more than ten per cent of the assessment due
+against the employer or insurer, unless the nonpayment is excused by the
+director after a showing by the employer or insurer that the payment of the
+assessment could not be made on the date prescribed therefor owing to
+conditions over which the employer or insurer had no control and the employer
+or insurer forthwith complies.
+[L 1971, c 109, §1(k); gen ch 1985; am L
+2020, c 44, §13]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="392_68__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or section 392-67</p>
+            </content>
+          </subsection>
+          <subsection eId="392_68__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>within thirty days after the
+end of the month or quarter for which payment was due, the director shall levy
+a penalty of at least $250 but no more than ten per cent of the assessment due
+against the employer or insurer, unless the nonpayment is excused by the
+director after a showing by the employer or insurer that the payment of the
+assessment could not be made on the date prescribed therefor owing to
+conditions over which the employer or insurer had no control and the employer
+or insurer forthwith complies.
+[L 1971, c 109, §1</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/351-86"/>
+          <FRBRuri value="/us-hi/act/hrs/351-86"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/351-86/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/351-86/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/351-86/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/351-86/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_351">
+        <num>Chapter 351</num>
+        <heading>Crime Victim Compensation</heading>
+        <section eId="sec_351_86">
+          <num>351-86</num>
+          <heading>Section 351-86</heading>
+          <content>
+            <p>§351-86  Money deposited not subject to
+execution, levy, attachment, or lien.
+All moneys received by the
+commission pursuant to this part shall not be subject to execution, levy,
+attachment, or lien of any kind. [L 1986, c 155, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

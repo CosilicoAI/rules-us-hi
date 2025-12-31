@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/247-9"/>
+          <FRBRuri value="/us-hi/act/hrs/247-9"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/247-9/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/247-9/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/247-9/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/247-9/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_247">
+        <num>Chapter 247</num>
+        <heading>Conveyance Tax</heading>
+        <section eId="sec_247_9">
+          <num>247-9</num>
+          <heading>Enforcement and administration</heading>
+          <content>
+            <p>§247-9  Enforcement and administration.
+The director of taxation shall administer and enforce the taxes imposed by this
+chapter.  The director may prescribe rules and regulations not inconsistent
+with the provisions herein for their detailed and efficient administration.  At
+any time after the making of a conveyance or transfer subject to the tax
+imposed by this chapter, the director may investigate and ascertain whether the
+tax, in the proper amount, was paid.  For this purpose, the director may invoke
+all statutory powers vested in the director, including but not limited to
+section 231-7. [L 1966, c 10, pt of §1; HRS §247-9; gen ch 1985]
+Cross References
+Rules, see chapter
+91.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-4"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-4/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-4/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-4/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-4/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_4">
+          <num>356D-4</num>
+          <heading>General powers of the authority</heading>
+          <content>
+            <p>§356D-4  General powers of the authority.
+(a) 
+The authority may:
+(1)  Sue and be sued;
+(2)  Have a seal and alter the same at pleasure;
+(3)  Make and execute contracts and other instruments
+necessary or convenient to the exercise of its powers;
+(4)  Adopt bylaws and rules in accordance with chapter
+91 for its organization, internal management, and to carry into effect its
+purposes, powers, and programs;
+(5)  Sell, lease, rent, hold, maintain, use, and
+operate any property, real, personal, or mixed, tangible or intangible, in
+support of its purposes, powers, and programs; provided that the sale of real
+property shall be subject to legislative approval;
+(6)  Receive by gift, grant, devise, bequest, or
+otherwise from any source, any property, real, personal, or mixed, intangible
+or tangible, absolutely or in trust, to be used and disposed of, either the
+principal or the income thereof, for the benefit only of the residents assisted
+by its programs; provided that no gift to the authority that has an estimated
+value of $1,000 or more shall be accepted unless approved or confirmed by the
+board; and
+(7)  Engage the services of volunteers as deemed
+appropriate by the authority without regard to chapter 76, 89, 90, 103, or
+103D.
+(b)  In addition to other powers conferred upon
+it, the authority may do all things necessary and convenient to carry out the
+powers expressly provided in this chapter. [L 2006, c 180, pt of §2; am L 2013,
+c 148, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The authority may:</p>
+            </content>
+            <paragraph eId="356D_4__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Sue and be sued;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_4__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Have a seal and alter the same at pleasure;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_4__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Make and execute contracts and other instruments
+necessary or convenient to the exercise of its powers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_4__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Adopt bylaws and rules in accordance with chapter
+91 for its organization, internal management, and to carry into effect its
+purposes, powers, and programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_4__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Sell, lease, rent, hold, maintain, use, and
+operate any property, real, personal, or mixed, tangible or intangible, in
+support of its purposes, powers, and programs; provided that the sale of real
+property shall be subject to legislative approval;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_4__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Receive by gift, grant, devise, bequest, or
+otherwise from any source, any property, real, personal, or mixed, intangible
+or tangible, absolutely or in trust, to be used and disposed of, either the
+principal or the income thereof, for the benefit only of the residents assisted
+by its programs; provided that no gift to the authority that has an estimated
+value of $1,000 or more shall be accepted unless approved or confirmed by the
+board; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_4__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Engage the services of volunteers as deemed
+appropriate by the authority without regard to chapter 76, 89, 90, 103, or
+103D.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In addition to other powers conferred upon
+it, the authority may do all things necessary and convenient to carry out the
+powers expressly provided in this chapter. [L 2006, c 180, pt of §2; am L 2013,
+c 148, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

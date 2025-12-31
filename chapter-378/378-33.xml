@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-33"/>
+          <FRBRuri value="/us-hi/act/hrs/378-33"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-33/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-33/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-33/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-33/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_33">
+          <num>378-33</num>
+          <heading>Section 378-33</heading>
+          <content>
+            <p>§378-33  Complaint against unlawful
+suspension, discharge, or discrimination.
+(a)  Any employee aggrieved by
+an alleged unlawful suspension, discharge, or discrimination may file with the
+department of labor and industrial relations a complaint in writing, stating
+the name and address of the employer alleged to have committed the unlawful
+suspension, discharge, or discrimination, and shall set forth the particulars
+thereof and other information as may be required by the department.
+(b)  No complaint shall be filed after the
+expiration of thirty days after the alleged act of unlawful suspension,
+discharge, or discrimination, or after the employee learns of the suspension or
+discharge, except that a complaint for an alleged act of unlawful discharge
+under section [378-32(a)(2)] occurring while the aggrieved employee is still
+physically or mentally incapacitated and unable to work also may be filed
+before the expiration of thirty days after the date the aggrieved employee is
+able to return to work. [L 1967, c 22, pt of §1; HRS §378-33; am L 1974, c 150,
+§1; am L 1981, c 10, §2; am L 1984, c 196, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="378_33__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any employee aggrieved by
+an alleged unlawful suspension, discharge, or discrimination may file with the
+department of labor and industrial relations a complaint in writing, stating
+the name and address of the employer alleged to have committed the unlawful
+suspension, discharge, or discrimination, and shall set forth the particulars
+thereof and other information as may be required by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_33__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No complaint shall be filed after the
+expiration of thirty days after the alleged act of unlawful suspension,
+discharge, or discrimination, or after the employee learns of the suspension or
+discharge, except that a complaint for an alleged act of unlawful discharge
+under section [378-32</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-44"/>
+          <FRBRuri value="/us-hi/act/hrs/346-44"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-44/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-44/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-44/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-44/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_44">
+          <num>346-44</num>
+          <heading>Section 346-44</heading>
+          <content>
+            <p>§346-44  Recovery of public assistance
+overpayments.
+All overpayments of public assistance funds, including but
+not limited to overissuances of financial assistance, food stamp bonuses under
+a food stamp plan, medicaid assistance, and incorrect vendor payments in behalf
+of a recipient, shall constitute a debt due and owing to the department by the
+recipient of such overpayments.  In addition to the remedies elsewhere
+prescribed in this chapter for the recovery of assistance fraudulently
+obtained, recovery of all overpayments will be made to the extent allowable by
+federal regulations.
+The department shall promulgate and enforce
+such rules and regulations as may be necessary to effect the maximum recovery
+of public assistance overpayments, including but not limited to the reduction
+of future public assistance grants.  Departmental rules and regulations for the
+recovery of overpayments shall prescribe procedures for recourse to the civil
+courts when required, the filing of liens against the real property of overpaid
+recipients, and the filing of claims against the estate of a deceased recipient
+who has received overpayments which have not been recovered.  Nothing in this
+section shall preclude the director of human services from promulgating
+procedures for waiving the recovery of overpayments in cases of bona fide
+hardship or where the costs of recovery would exceed the amount expected to be
+recovered. [L 1979, c 63, §1; am L 1987, c 339, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

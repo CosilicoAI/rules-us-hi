@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-182"/>
+          <FRBRuri value="/us-hi/act/hrs/346-182"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-182/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-182/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-182/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-182/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_182">
+          <num>346-182</num>
+          <heading>Section 346-182</heading>
+          <content>
+            <p>§346-182
+Preschool open doors
+special fund.
+(a)  There is established within the state treasury the
+preschool open doors special fund, to be administered by the department's child
+care assistance program, into which shall be deposited all moneys received by
+the department's child care assistance program in the form of:
+(1)  Fees;
+(2)  Grants;
+(3)  Donations;
+(4)  Appropriations made by the legislature to the
+fund;
+(5)  Revenues regardless of their source; and
+(6)  Earnings on moneys in the fund.
+Moneys in the fund shall be used for the procurement
+of health and human services under the preschool open doors program. 
+Expenditures from the fund may be made by the department without allotment but
+shall not be made for capital improvement projects.
+(b)  The department shall submit an annual
+report to the legislature, no later than twenty days prior to the convening of
+each regular session, on the sources of moneys deposited into the fund and
+expenditures of moneys in the fund. [L 2020, c 46, pt of §7; am L 2022, c 128, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_182__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the state treasury the
+preschool open doors special fund, to be administered by the department's child
+care assistance program, into which shall be deposited all moneys received by
+the department's child care assistance program in the form of:</p>
+            </content>
+            <paragraph eId="346_182__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Fees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_182__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Grants;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_182__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Donations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_182__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Appropriations made by the legislature to the
+fund;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_182__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Revenues regardless of their source; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_182__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Earnings on moneys in the fund.
+Moneys in the fund shall be used for the procurement
+of health and human services under the preschool open doors program. 
+Expenditures from the fund may be made by the department without allotment but
+shall not be made for capital improvement projects.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_182__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall submit an annual
+report to the legislature, no later than twenty days prior to the convening of
+each regular session, on the sources of moneys deposited into the fund and
+expenditures of moneys in the fund. [L 2020, c 46, pt of §7; am L 2022, c 128, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-387"/>
+          <FRBRuri value="/us-hi/act/hrs/346-387"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-387/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-387/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-387/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-387/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_387">
+          <num>346-387</num>
+          <heading>Administration</heading>
+          <content>
+            <p>[
+§346-387]  Administration.
+(a) 
+The office shall be headed by the governor's coordinator on homelessness,
+appointed pursuant to section 346-381.5, for the proper administration and
+enforcement of this subpart.
+(b)  The coordinator shall report directly to
+the governor and appoint staff as may be necessary.
+(c)  The employees of the office shall be
+appointed without regard to chapter 76. [L 2022, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_387__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The office shall be headed by the governor's coordinator on homelessness,
+appointed pursuant to section 346-381.5, for the proper administration and
+enforcement of this subpart.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_387__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The coordinator shall report directly to
+the governor and appoint staff as may be necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_387__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The employees of the office shall be
+appointed without regard to chapter 76. [L 2022, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

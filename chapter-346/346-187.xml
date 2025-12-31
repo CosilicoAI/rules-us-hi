@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-187"/>
+          <FRBRuri value="/us-hi/act/hrs/346-187"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-187/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-187/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-187/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-187/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_187">
+          <num>346-187</num>
+          <heading>Section 346-187</heading>
+          <content>
+            <p>[
+§346-187]  Early childhood registry;
+staff information required.
+(a)
+The department may establish and
+maintain an information system to be designated as the early childhood
+registry.  The purpose of this registry shall be to maintain a repository of
+early childhood provider and staff information that is collected annually
+pursuant to this section.
+(b)
+The department may require
+all staff used to meet the staff-child ratio in all licensed and registered
+child care programs in the State to annually update their information in the
+department's early childhood registry.
+(c)  The data collected from the early
+childhood registry may include social determinants, including but not limited
+to:  gender, race, age, paid years of experience, preferred learning languages,
+languages spoken with children, median hourly wage, paid planning time, health
+insurance, paid sick leave, paid vacation, retirement benefits, participation
+in an apprenticeship program, level of education, and training hours.
+(d)  Any records or reports containing registry
+information and subject to public disclosure shall be limited to aggregate data
+and shall not directly contain or indirectly result in the disclosure of
+personally identifiable information.
+(e)  For purposes of this section,
+&quot;training&quot; includes but is not limited to health and safety training
+and voluntary professional development training. [L 2022, c 292, §2]
+Note
+Department of human services report to 2024 legislature
+regarding updates to the early childhood registry.  L 2022, c 292, §3.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_187__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department may establish and
+maintain an information system to be designated as the early childhood
+registry.  The purpose of this registry shall be to maintain a repository of
+early childhood provider and staff information that is collected annually
+pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_187__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may require
+all staff used to meet the staff-child ratio in all licensed and registered
+child care programs in the State to annually update their information in the
+department's early childhood registry.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_187__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The data collected from the early
+childhood registry may include social determinants, including but not limited
+to:  gender, race, age, paid years of experience, preferred learning languages,
+languages spoken with children, median hourly wage, paid planning time, health
+insurance, paid sick leave, paid vacation, retirement benefits, participation
+in an apprenticeship program, level of education, and training hours.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_187__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any records or reports containing registry
+information and subject to public disclosure shall be limited to aggregate data
+and shall not directly contain or indirectly result in the disclosure of
+personally identifiable information.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_187__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For purposes of this section,
+&quot;training&quot; includes but is not limited to health and safety training
+and voluntary professional development training. [L 2022, c 292, §2]
+Note
+Department of human services report to 2024 legislature
+regarding updates to the early childhood registry.  L 2022, c 292, §3.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

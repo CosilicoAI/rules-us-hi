@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-16.2"/>
+          <FRBRuri value="/us-hi/act/hrs/353-16.2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-16.2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-16.2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-16.2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-16.2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_16_2">
+          <num>353-16.2</num>
+          <heading>Section 353-16.2</heading>
+          <content>
+            <p>§353-16  Transfer of committed felon to
+federal institution.
+The director may effect the transfer of a committed
+felon to any federal correctional institution for imprisonment, subsistence,
+care, and proper employment of such a felon. [L 1987, c 338, pt of §3; am L
+1992, c 267, §2]
+Cross References
+Interstate compact for the supervision of adult offenders,
+see chapter 353B.
+Interstate corrections compact, see chapter 355D.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

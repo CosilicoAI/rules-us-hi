@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-392"/>
+          <FRBRuri value="/us-hi/act/hrs/346-392"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-392/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-392/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-392/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-392/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_392">
+          <num>346-392</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>[§346-392]  Definitions.
+As used in
+this part, unless the context clearly indicates otherwise:
+&quot;Case plan&quot; means a plan developed by
+the department, in consultation with the young adult, as developmentally
+appropriate, containing a written description of the programs and services that
+will help the young adult transition from foster care to independent living.
+&quot;Court&quot; means one of the family
+courts established pursuant to chapter 571.
+&quot;Department&quot; means the department of
+human services and its authorized representatives.
+&quot;Foster custody&quot; means the legal
+status created when the department places a child outside of the family home
+with the agreement of the legal custodian or pursuant to court order as set
+forth in chapter 587A.
+&quot;Party&quot; means the department or the
+young adult who is subject to a proceeding brought under this part and may
+include any other person whose participation the court finds is in the best
+interest of the young adult.
+&quot;Permanent custody&quot; means the legal
+status created by order of the court after the termination of parental rights
+as set forth in chapter 587A.
+&quot;Young adult&quot; means a person who has
+attained the age of eighteen or older, but is less than twenty-one years of
+age. [L 2013, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

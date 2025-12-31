@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/396-19"/>
+          <FRBRuri value="/us-hi/act/hrs/396-19"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/396-19/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/396-19/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/396-19/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/396-19/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_396">
+        <num>Chapter 396</num>
+        <heading>Occupational Safety and Health</heading>
+        <section eId="sec_396_19">
+          <num>396-19</num>
+          <heading>Section 396-19</heading>
+          <content>
+            <p>§396-19  Hoisting machine operators advisory
+board
+.  (a)  There is created a hoisting machine operators advisory board,
+which shall be placed in the department for administrative purposes, to be
+composed of five members to serve without compensation and without
+reimbursement for expenses.  Members shall be appointed by the governor under
+section 26-34.
+The board shall adopt rules pursuant to chapter
+91 for the certification of hoisting machine operators.
+(b)  The hoisting machine operators advisory
+board may employ a 0.5 full-time equivalent office assistant, without regard to
+chapters 76 and 89 and may dismiss such person as it finds necessary for the
+performance of its function and duties.  The board shall have the authority to
+fix the office assistant's compensation. [L 1998, c 165, pt of §2; am L 2002, c
+222, §2; am L 2016, c 74, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="396_19__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is created a hoisting machine operators advisory board,
+which shall be placed in the department for administrative purposes, to be
+composed of five members to serve without compensation and without
+reimbursement for expenses.  Members shall be appointed by the governor under
+section 26-34.
+The board shall adopt rules pursuant to chapter
+91 for the certification of hoisting machine operators.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_19__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The hoisting machine operators advisory
+board may employ a 0.5 full-time equivalent office assistant, without regard to
+chapters 76 and 89 and may dismiss such person as it finds necessary for the
+performance of its function and duties.  The board shall have the authority to
+fix the office assistant's compensation. [L 1998, c 165, pt of §2; am L 2002, c
+222, §2; am L 2016, c 74, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

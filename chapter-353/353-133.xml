@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-133"/>
+          <FRBRuri value="/us-hi/act/hrs/353-133"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-133/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-133/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-133/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-133/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_133">
+          <num>353-133</num>
+          <heading>Section 353-133</heading>
+          <content>
+            <p>[
+§353-133]  Satisfaction of victims'
+rights to notification.
+Participation in the system and making offender
+data available on a timely basis to the system shall be deemed to satisfy the
+obligations of:
+(1)  The department to notify the victim of changes in
+the offender's custodial status pursuant to section 801D-4(a)(7); and
+(2)  The police and prosecuting attorney to notify the
+victim of the offender's release from custody pursuant to section 801D-4(a)(1).
+[L 2012, c 190, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

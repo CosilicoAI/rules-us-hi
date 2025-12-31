@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-30"/>
+          <FRBRuri value="/us-hi/act/hrs/346-30"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-30/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-30/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-30/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-30/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_30">
+          <num>346-30</num>
+          <heading>Relief limited</heading>
+          <content>
+            <p>§346-30  Relief limited.
+During the
+continuance of public assistance under this chapter, no recipient shall receive
+any other public assistance from the State or any county, except for necessary
+medical, dental, and surgical care, or in such amounts as are necessary to
+supplement the public assistance granted pursuant to this chapter, where the
+amounts of such other public assistance from the State or any county have been
+taken into consideration in deciding upon any application for public
+assistance. [L 1941, c 296, pt of §1; RL 1945, §4835; RL 1955, §108-16; HRS
+§346-30]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

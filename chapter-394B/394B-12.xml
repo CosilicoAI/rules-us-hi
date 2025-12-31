@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/394B-12"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/394B-12/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/394B-12/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_394B">
+        <num>Chapter 394B</num>
+        <heading>Dislocated Workers</heading>
+        <section eId="sec_394B_12">
+          <num>394B-12</num>
+          <heading>Civil penalties</heading>
+          <content>
+            <p>§394B-12  Civil penalties.
+Except as
+provided in section 394B‑9(b), any employer who fails to conform to the
+provisions of this chapter shall be liable to each of the employees affected in
+an amount equal to the value of all their wages, benefits, and other
+compensation for the three months preceding the closure, partial closure, or
+relocation of the covered establishment. [L 1987, c 377, pt of §3; am L Sp
+2007, c 5, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

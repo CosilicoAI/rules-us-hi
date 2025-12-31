@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-6"/>
+          <FRBRuri value="/us-hi/act/hrs/378-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_6">
+          <num>378-6</num>
+          <heading>Inspection; investigation; records</heading>
+          <content>
+            <p>§378-6  Inspection; investigation; records.
+(a)  In connection with an investigation of a complaint filed under this part,
+or whenever it appears to the commission that an unlawful discriminatory
+practice may have been or is being committed, the commission's authorized
+representative shall have access to the premises of the parties or persons
+reasonably connected thereto, records, documents, and other material relevant
+to the complaint and shall have the right to examine, photograph, and copy that
+material, and may question employees and make investigation to determine
+whether any person has violated this part or any rule issued hereunder or which
+may aid in the enforcement of this part.
+(b)  Every employer, employment agency, and
+labor organization shall:
+(1)  Make and keep records relevant to this part, and
+(2)  Make such reports therefrom, as the commission
+shall prescribe by rule or order. [L 1981, c 94, pt of §2; gen ch 1985; am L
+1989, c 386, §10]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="378_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In connection with an investigation of a complaint filed under this part,
+or whenever it appears to the commission that an unlawful discriminatory
+practice may have been or is being committed, the commission's authorized
+representative shall have access to the premises of the parties or persons
+reasonably connected thereto, records, documents, and other material relevant
+to the complaint and shall have the right to examine, photograph, and copy that
+material, and may question employees and make investigation to determine
+whether any person has violated this part or any rule issued hereunder or which
+may aid in the enforcement of this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Every employer, employment agency, and
+labor organization shall:</p>
+            </content>
+            <paragraph eId="378_6__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Make and keep records relevant to this part, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="378_6__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Make such reports therefrom, as the commission
+shall prescribe by rule or order. [L 1981, c 94, pt of §2; gen ch 1985; am L
+1989, c 386, §10]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

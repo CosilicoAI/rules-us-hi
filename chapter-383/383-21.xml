@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-21"/>
+          <FRBRuri value="/us-hi/act/hrs/383-21"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-21/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-21/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-21/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-21/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_21">
+          <num>383-21</num>
+          <heading>Payment of benefits</heading>
+          <content>
+            <p>PART II. 
+BENEFITS
+§383-21  Payment of benefits.
+All
+benefits provided herein shall be payable from the fund.  All benefits shall be
+paid through employment offices, in accordance with such regulations as the
+department of labor and industrial relations may prescribe. [L 1939, c 219,
+§3(b); am L 1941, c 304, §1, pt of subs 15; RL 1945, §4214; RL 1955, §93-20; am
+L Sp 1959 2d, c 1, §27; HRS §383-21]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

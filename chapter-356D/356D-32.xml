@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-32"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-32"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-32/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-32/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-32/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-32/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_32">
+          <num>356D-32</num>
+          <heading>Delinquent accounts</heading>
+          <content>
+            <p>[§356D-32]  Delinquent accounts.
+(a) 
+Notwithstanding section 40‑82, the authority, with the approval of the attorney
+general, may delete from its accounts receivable records delinquent accounts
+for vacated units within federal low-income public housing projects that have
+been delinquent for at least ninety days.
+(b)  The delinquent accounts may be assigned to
+a collection agency.
+(c)  When the authority seeks eviction of a
+tenant due to delinquency in payment of rent, the authority shall comply with
+the procedures set forth in section 356D-92(b) before proceeding with the
+eviction hearing. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_32__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding section 40‑82, the authority, with the approval of the attorney
+general, may delete from its accounts receivable records delinquent accounts
+for vacated units within federal low-income public housing projects that have
+been delinquent for at least ninety days.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_32__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The delinquent accounts may be assigned to
+a collection agency.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_32__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>When the authority seeks eviction of a
+tenant due to delinquency in payment of rent, the authority shall comply with
+the procedures set forth in section 356D-92</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_32__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>before proceeding with the
+eviction hearing. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

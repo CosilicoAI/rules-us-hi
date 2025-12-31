@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/363-13"/>
+          <FRBRuri value="/us-hi/act/hrs/363-13"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/363-13/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/363-13/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/363-13/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/363-13/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_363">
+        <num>Chapter 363</num>
+        <heading>Hawaiian Home Lands Trust</heading>
+        <section eId="sec_363_13">
+          <num>363-13</num>
+          <heading>]</heading>
+          <content>
+            <p>[§363-13]
+Disbursement of World War
+II Filipino veterans burial grant funds.
+(a)  At the request of a deceased
+World War II Filipino veteran's survivor or an interested party, the office
+shall receive, review, and, as appropriate, approve requests for payments to:
+(1)  Provide funeral and burial services for a World
+War II Filipino veteran who died after June 30, 1994; and
+(2)  Transport the remains of that World War II
+Filipino veteran to the Philippines.
+(b)  The office shall establish the amount of
+burial grant funds that may be disbursed on behalf of a World War II Filipino
+veteran; provided that the amount shall not exceed $2,000 per person.
+(c)  The office shall not expend more than the
+amount appropriated for the fiscal year to provide burial grants for deceased
+World War II Filipino veterans.
+(d)  Specific eligibility criteria, application
+and appeal procedures, service choices, and invoicing arrangements shall be
+established by the office.
+(e)  Payment shall be authorized by the office
+upon the submission of an itemized unpaid invoice reflecting services that have
+been satisfactorily performed on behalf of a deceased World War II Filipino
+veteran.
+(f)  As used in this section, &quot;World War
+II Filipino veteran&quot; means a Filipino veteran who enlisted in World War II
+between October 6, 1945, and June 30, 1947, and who, at the time of the
+veteran's death, was a United States citizen and a resident of the State of Hawaii.
+[L 2007, c 100, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="363_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>At the request of a deceased
+World War II Filipino veteran's survivor or an interested party, the office
+shall receive, review, and, as appropriate, approve requests for payments to:</p>
+            </content>
+            <paragraph eId="363_13__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Provide funeral and burial services for a World
+War II Filipino veteran who died after June 30, 1994; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_13__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Transport the remains of that World War II
+Filipino veteran to the Philippines.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="363_13__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The office shall establish the amount of
+burial grant funds that may be disbursed on behalf of a World War II Filipino
+veteran; provided that the amount shall not exceed $2,000 per person.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_13__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The office shall not expend more than the
+amount appropriated for the fiscal year to provide burial grants for deceased
+World War II Filipino veterans.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_13__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Specific eligibility criteria, application
+and appeal procedures, service choices, and invoicing arrangements shall be
+established by the office.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_13__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Payment shall be authorized by the office
+upon the submission of an itemized unpaid invoice reflecting services that have
+been satisfactorily performed on behalf of a deceased World War II Filipino
+veteran.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_13__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>As used in this section, &quot;World War
+II Filipino veteran&quot; means a Filipino veteran who enlisted in World War II
+between October 6, 1945, and June 30, 1947, and who, at the time of the
+veteran's death, was a United States citizen and a resident of the State of Hawaii.
+[L 2007, c 100, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-45"/>
+          <FRBRuri value="/us-hi/act/hrs/346-45"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-45/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-45/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-45/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-45/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_45">
+          <num>346-45</num>
+          <heading>Confidentiality of court records</heading>
+          <content>
+            <p>§346-45  Confidentiality of court records.
+(a) 
+The court shall maintain records of all adult protective proceedings under this
+chapter.  All court documents and records pertaining to the action or
+proceeding shall be subject to inspection only by the vulnerable adult, and the
+vulnerable adult's guardian, conservator, their respective attorneys, the
+guardian ad litem of the vulnerable adult, and the other parties and their
+respective attorneys or guardians ad litem.
+(b)  All other requests for information
+contained in the confidential record shall be made in writing and shall include
+the reasons for the request and how the information is to be used and may be
+granted by the court for good cause. [L 1989, c 381, §2; am L 1990, c 144, §1
+and c 234, §9; am L 1992, c 62, §1; am L 2004, c 161, §36; am L 2008, c 154, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_45__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The court shall maintain records of all adult protective proceedings under this
+chapter.  All court documents and records pertaining to the action or
+proceeding shall be subject to inspection only by the vulnerable adult, and the
+vulnerable adult's guardian, conservator, their respective attorneys, the
+guardian ad litem of the vulnerable adult, and the other parties and their
+respective attorneys or guardians ad litem.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_45__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All other requests for information
+contained in the confidential record shall be made in writing and shall include
+the reasons for the request and how the information is to be used and may be
+granted by the court for good cause. [L 1989, c 381, §2; am L 1990, c 144, §1
+and c 234, §9; am L 1992, c 62, §1; am L 2004, c 161, §36; am L 2008, c 154, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

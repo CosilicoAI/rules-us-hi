@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-39"/>
+          <FRBRuri value="/us-hi/act/hrs/383-39"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-39/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-39/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-39/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-39/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_39">
+          <num>383-39</num>
+          <heading>Procedure</heading>
+          <content>
+            <p>§383-39  Procedure.
+The representatives
+of the department of labor and industrial relations authorized to make
+determinations upon claims and the referee shall not be bound by common law or
+statutory rules of evidence or by technical rules of procedure, but any hearing
+or appeal before the same shall be conducted in such manner as to ascertain the
+substantial rights of the parties.  The director of labor and industrial
+relations shall adopt reasonable regulations governing the manner of filing
+appeals and the conduct of hearings and appeals, consistent with this chapter
+and chapter 91.  When the same or substantially similar evidence is relevant
+and material to the matters in issue in claims by more than one individual or
+in claims by a single individual with respect to two or more weeks of
+unemployment, the same time and place for considering each such claim may be
+fixed, hearings thereon jointly conducted, a single record of the proceedings
+made, and evidence introduced with respect to one proceeding considered as
+introduced in the others; provided that in the judgment of the representative
+or referee having jurisdiction of the proceeding, such consolidation would not
+be prejudicial to any party.  No person shall participate on behalf of the
+department in any case in which the person has a direct or indirect interest. 
+A record shall be kept of all testimony and proceedings in connection with an
+appeal, but the testimony need not be transcribed unless further review is
+initiated.  Witnesses subpoenaed pursuant to this section shall be allowed fees
+at a rate fixed by the department and fees of witnesses subpoenaed on behalf of
+the department or any claimant shall be deemed part of the expense of
+administering the chapter. [L 1939, c 219, §6(d), (f); am L 1941, c 304, §1, pt
+of subs 18; RL 1945, §4240; RL 1955, §93-38; am L Sp 1959 2d, c 1, §27; am L
+1965, c 96, §70; HRS §383-39; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

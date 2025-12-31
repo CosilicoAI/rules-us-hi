@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-8"/>
+          <FRBRuri value="/us-hi/act/hrs/352-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_8">
+          <num>352-8</num>
+          <heading>Section 352-8</heading>
+          <content>
+            <p>§352-8  Guardianship and custody of the
+person committed.
+(a)  Notwithstanding any law to the contrary, the
+director shall be the guardian of every youth committed to or received at the
+Hawaii youth correctional facilities.  The director shall have all the powers
+and duties of a natural guardian of the youth; provided that the director shall
+not be liable in damages for the tortious acts committed by the youth.
+(b)  The director shall have custody of any
+committed person who is eighteen years of age or older for the period provided
+for by the court. [L 1980, c 303, pt of §8(1); am L 2004, c 161, §36]
+Case Notes
+State has duty to exercise reasonable care in its supervision
+of persons committed to its custody.  61 H. 369, 604 P.2d 1198 (1979).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="352_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding any law to the contrary, the
+director shall be the guardian of every youth committed to or received at the
+Hawaii youth correctional facilities.  The director shall have all the powers
+and duties of a natural guardian of the youth; provided that the director shall
+not be liable in damages for the tortious acts committed by the youth.</p>
+            </content>
+          </subsection>
+          <subsection eId="352_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The director shall have custody of any
+committed person who is eighteen years of age or older for the period provided
+for by the court. [L 1980, c 303, pt of §8(1); am L 2004, c 161, §36]
+Case Notes
+State has duty to exercise reasonable care in its supervision
+of persons committed to its custody.  61 H. 369, 604 P.2d 1198 (1979).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

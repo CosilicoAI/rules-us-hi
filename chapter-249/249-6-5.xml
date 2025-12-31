@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/249-6.5"/>
+          <FRBRuri value="/us-hi/act/hrs/249-6.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/249-6.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/249-6.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/249-6.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/249-6.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_249">
+        <num>Chapter 249</num>
+        <heading>County Vehicular Taxes</heading>
+        <section eId="sec_249_6_5">
+          <num>249-6.5</num>
+          <heading>Section 249-6.5</heading>
+          <content>
+            <p>§249-6  Exemptions for certain cars
+furnished to disabled veterans.
+Passenger cars owned by persons who, by
+reason of their service disability, have been furnished such cars by the
+federal government and have been so certified by the Department of Veterans
+Affairs, shall be exempted from the tax herein provided for.  This exemption
+shall not extend to vehicles used for commercial purposes, nor to more than one
+vehicle of any disabled veteran. [L 1953, c 21, §1; RL 1955, §130-6; HRS §249-6;
+am L 2017, c 12, §1]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-2"/>
+          <FRBRuri value="/us-hi/act/hrs/386-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_2">
+          <num>386-2</num>
+          <heading>Section 386-2</heading>
+          <content>
+            <p>§386-2  Definitions relating to family
+relationships.
+&quot;Brother&quot; or &quot;sister&quot; includes a half
+brother or half sister, a stepbrother or stepsister, and a brother or sister by
+adoption.
+&quot;Child&quot; includes a posthumous child,
+adopted child, stepchild, child born to parents not married to each other, and
+hanai child acknowledged prior to the personal injury.
+&quot;Grandchild&quot; includes a child of an
+adopted child and a child of a stepchild, but does not include a stepchild of a
+child.
+&quot;Grandparent&quot; includes a parent of a
+parent by adoption, but does not include a parent of a stepparent, a stepparent
+of a parent, or a stepparent of a stepparent.
+&quot;Parent&quot; includes a stepparent or a
+parent by adoption. [L 1963, c 116, pt of §1; Supp, §97-2; HRS §386-2; am L
+1982, c 193, §1; am L 1997, c 52, §1]
+Revision Note
+Definitions rearranged pursuant to §23G-15.
+Attorney General Opinions
+Prior to 1982 amendment, benefits under workers' compensation
+law did not extend to hanai children.  Att. Gen. Op. 93-1.
+Case Notes
+Construed.  31 H. 814 (1931).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

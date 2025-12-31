@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-124"/>
+          <FRBRuri value="/us-hi/act/hrs/383-124"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-124/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-124/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-124/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-124/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_124">
+          <num>383-124</num>
+          <heading>Section 383-124</heading>
+          <content>
+            <p>§383-124  Relation to unemployment trust
+fund.
+Sections 383-121 to 383-123 to the extent that they relate to the
+unemployment trust fund, shall be operative only so long as the unemployment
+trust fund continues to exist, and so long as the Secretary of the Treasury of
+the United States continues to maintain for the State a separate account of all
+funds deposited therein by the State for benefit purposes, together with the
+State's proportionate share of the earnings of such unemployment trust fund,
+from which no other state or territory is permitted to make withdrawals.  If
+and when the unemployment trust fund ceases to exist, or the separate account
+is no longer maintained, all moneys, properties, or securities therein, to the
+credit of the unemployment compensation fund of the State, are returnable to
+the director of finance of the State who shall hold, invest, transfer, sell,
+deposit, and release such moneys, properties, or securities in a manner
+approved by the department of labor and industrial relations in accordance with
+this chapter.  The moneys shall be invested in the following readily marketable
+classes of securities:  bonds or other interest-bearing obligations of the
+United States, or other securities which may be acquired under the sinking fund
+laws of the State; provided that the investment shall at all times be so made
+that all the assets of the fund shall always be readily convertible into cash
+when needed for the payment of benefits.  The director of finance shall dispose
+of securities or other properties belonging to the unemployment compensation
+fund only under the direction of the department. [L 1939, c 219, §9(d); RL
+1945, §4266; RL 1955, §93-123; am L Sp 1959 2d, c 1, §27; HRS §383-124]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

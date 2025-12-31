@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-63"/>
+          <FRBRuri value="/us-hi/act/hrs/346-63"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-63/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-63/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-63/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-63/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_63">
+          <num>346-63</num>
+          <heading>Social services</heading>
+          <content>
+            <p>[§346-63]  Social services.
+(a)  The
+department shall adopt rules to provide social services pursuant to the Social
+Security Act, as amended, to eligible persons who are residents of the State. 
+Such rules shall include provisions to permit payment for social services
+received by recipients from individuals, organizations, or other public or
+private agencies, and to enable the recipients to satisfy statutory
+requirements of state and federal tax and employment insurance programs.
+(b)  The department may contract for the
+purchase of social services to be performed for the benefit of eligible
+recipients from individuals, organizations, and private or public agencies, or
+to reimburse an eligible recipient for department authorized social services
+obtained directly from individuals.  Persons performing authorized social
+services obtained directly by the recipient shall not be considered employees
+of the State.  The rate of payment for social services obtained directly by the
+recipient from an individual who is not self-employed shall reflect the
+recipient's obligation under state and federal tax and employment insurance
+laws. [L 1978, c 110, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_63__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The
+department shall adopt rules to provide social services pursuant to the Social
+Security Act, as amended, to eligible persons who are residents of the State. 
+Such rules shall include provisions to permit payment for social services
+received by recipients from individuals, organizations, or other public or
+private agencies, and to enable the recipients to satisfy statutory
+requirements of state and federal tax and employment insurance programs.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_63__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may contract for the
+purchase of social services to be performed for the benefit of eligible
+recipients from individuals, organizations, and private or public agencies, or
+to reimburse an eligible recipient for department authorized social services
+obtained directly from individuals.  Persons performing authorized social
+services obtained directly by the recipient shall not be considered employees
+of the State.  The rate of payment for social services obtained directly by the
+recipient from an individual who is not self-employed shall reflect the
+recipient's obligation under state and federal tax and employment insurance
+laws. [L 1978, c 110, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

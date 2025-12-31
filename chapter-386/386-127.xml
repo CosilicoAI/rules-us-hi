@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-127"/>
+          <FRBRuri value="/us-hi/act/hrs/386-127"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-127/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-127/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-127/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-127/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_127">
+          <num>386-127</num>
+          <heading>Section 386-127</heading>
+          <content>
+            <p>§386-127  Cancellation of insurance
+contracts.
+No policy or contract of insurance issued by a stock company or
+mutual association against liability arising under this chapter shall be
+canceled within the time limited in the contract for its expiration until at
+least ten days after notice of intention to cancel such contract, on a date
+specified in the notice, has been filed with and served on the director of
+labor and industrial relations and the employer. [L 1963, c 116, pt of §1;
+Supp, §97-126; HRS §386-127]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

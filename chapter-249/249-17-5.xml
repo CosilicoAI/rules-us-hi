@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/249-17.5"/>
+          <FRBRuri value="/us-hi/act/hrs/249-17.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/249-17.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/249-17.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/249-17.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/249-17.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_249">
+        <num>Chapter 249</num>
+        <heading>County Vehicular Taxes</heading>
+        <section eId="sec_249_17_5">
+          <num>249-17.5</num>
+          <heading>Section 249-17.5</heading>
+          <content>
+            <p>§249-17  False tag, license plate, bicycle
+or moped, penalty.
+Any person who uses a tag, or license plate, not
+furnished in accordance with section 249-14 or section 249-14.1, or who
+counterfeits any such tag, or license plate, or who fraudulently removes such a
+tag, or license plate, from any bicycle or moped, shall be fined not more than
+$500. [L 1896, c 51, pt of §13; RL 1925, §§1310, 1313; RL 1935, §2156; am L
+1941, c 268, §20; RL 1945, §5703; RL 1955, §130-15; HRS §249-17; am L 1978, c
+175, §6; am L 1988, c 264, §6; am L 2016, c 200, §6]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

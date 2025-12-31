@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-153"/>
+          <FRBRuri value="/us-hi/act/hrs/386-153"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-153/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-153/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-153/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-153/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_153">
+          <num>386-153</num>
+          <heading>Section 386-153</heading>
+          <content>
+            <p>§386-153  Levy on insurers of employers
+insured under section 386-121(a)(1).
+(a)  For the calendar year 1974 and
+for each calendar year thereafter, insurers of employers, as defined in section
+386-1, shall pay a levy determined by the director which shall be based on a
+percentage on gross premiums, as defined in section 431:7-202(a), derived from
+workers' compensation insurance issued during the prior year in accordance with
+chapter 386 and chapter 431, if the levying and collecting of such a levy is
+required pursuant to section 386-152, which levy shall be collected in the same
+manner as the tax provided for in section 431:7-202 is collected and shall be
+deposited in the special compensation fund established in section 386-151. 
+This levy shall be in addition to any tax imposed in chapter 431 on gross
+premiums derived from workers' compensation insurance.
+(b)  Notwithstanding subsection (a), from its
+inception through December 31, 2007, the Hawaii Employers' Mutual Insurance
+Company, Inc., shall be exempt from this levy; provided that this exemption
+shall apply to the first $25,000,000 of written premiums in each calendar year;
+and provided further that annual written premiums in excess of $25,000,000
+shall be subject to this levy at the same rate as other insurers.  Any moneys
+heretofore paid by Hawaii Employers' Mutual Insurance Company, Inc., to the special
+compensation fund shall be retained by the special compensation fund to be
+credited to future levy balances owed by Hawaii Employers' Mutual Insurance
+Company, Inc. [L 1963, c 103, pt of §1; Supp, §97-142; HRS §386-153; am L 1973,
+c 183, §3; am L 1975, c 41, §1; am L 1991, c 165, §1; am L 1999, c 163, §22]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_153__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the calendar year 1974 and
+for each calendar year thereafter, insurers of employers, as defined in section
+386-1, shall pay a levy determined by the director which shall be based on a
+percentage on gross premiums, as defined in section 431:7-202</p>
+            </content>
+          </subsection>
+          <subsection eId="386_153__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding subsection</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

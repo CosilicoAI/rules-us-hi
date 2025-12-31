@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/398-5"/>
+          <FRBRuri value="/us-hi/act/hrs/398-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/398-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/398-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/398-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/398-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_398">
+        <num>Chapter 398</num>
+        <heading>Family Leave</heading>
+        <section eId="sec_398_5">
+          <num>398-5</num>
+          <heading>Notice</heading>
+          <content>
+            <p>§398-5  Notice.
+In any case in which
+the necessity for family leave for purposes of birth or adoption of a child or
+providing care to a child, spouse, reciprocal beneficiary, sibling, or parent
+is foreseeable, the employee shall provide the employer with prior notice of
+the expected birth or adoption or serious health condition in a manner that is
+reasonable and practicable.  Requests for family leave shall include evidence
+that the employee has submitted the request and provided required data in
+accordance with section 398-9.5. [L 1991, c 328, pt of §1; am L Sp 2009, c 7,
+§4; am L 2017, c 128, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

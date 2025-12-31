@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-63"/>
+          <FRBRuri value="/us-hi/act/hrs/392-63"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-63/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-63/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-63/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-63/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_63">
+          <num>392-63</num>
+          <heading>Disbursements from the fund</heading>
+          <content>
+            <p>§392-63  Disbursements from the fund.
+Expenditures of moneys in the trust fund for disability benefits shall not be
+subject to any provisions of law requiring specific appropriations or other
+formal release by state officers of money in their custody.  All benefits shall
+be paid from the fund upon warrants drawn upon the director of finance by the
+comptroller of the State supported by vouchers approved by the director. [L
+1969, c 148, pt of §1; am L 2013, c 100, §8]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

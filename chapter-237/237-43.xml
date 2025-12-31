@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-43"/>
+          <FRBRuri value="/us-hi/act/hrs/237-43"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-43/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-43/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-43/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-43/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_43">
+          <num>237-43</num>
+          <heading>Bulk sales;</heading>
+          <content>
+            <p>§237-43  Bulk sales;
+transfers;
+penalties.
+(a)  In any case of the sale or transfer in bulk of the whole, or a large part
+of a stock of merchandise and fixtures, or merchandise, or fixtures, or other
+assets or property of a business, otherwise than in the ordinary course of
+trade, business, commerce, or sales, the seller shall make a written and
+verified report of the bulk sale or transfer to the department not later than
+ten days after the possession, or the control, or the title of the property, or
+any part thereof, has passed to the purchaser.  The report shall contain the
+name and address of the purchaser, a brief description of the property sold and
+the purchase price, the date when the sale or transfer is to be or was
+consummated, and such other facts as the department may require.  The purchaser
+may make the report for the seller.
+(b)  The purchaser of the property shall
+withhold payment of the purchase price until the receipt of a certificate from
+the department to the effect that all taxes, penalties, and interest levied or
+accrued under title 14 for taxes administered by the department against the
+seller, or constituting a lien upon the property, have been paid.  A
+certificate shall not be issued while the department investigates (including by
+audit) whether taxes have been levied or accrued against the seller.  The
+certificate shall show on its face that the department has had notice of the
+bulk sale or transfer, and shall also show the names of the seller and
+purchaser, a brief description of the property sold or transferred, and the
+date of consummation of the sale or transfer, together with such other
+information as the department shall prescribe.
+(c)  If the required report of the bulk sale or
+transfer is not made, or if the taxes, penalties, and interest shall not be
+paid within twenty days after the sale or transfer, or within such further time
+as the department may allow, the purchaser shall be personally liable to pay to
+the State the amount of all taxes, penalties, and interest levied or accrued
+under title 14 for taxes administered by the department against the seller or
+constituting a lien upon the property, together with penalties and interest
+thereafter accruing, not exceeding, however, the amount of the purchase price. 
+The issuance of a certificate in the prescribed form shall be a complete
+defense to the bulk sale or transfer liability imposed in the preceding
+sentence, but shall not be a defense to any liability of the purchaser under
+any other provision of law for liabilities and obligations.  Any purchaser
+succeeding to the liabilities of the seller under this section shall make a
+written report thereof upon the next due date for the reporting of gross income
+taxes.
+(d)  For purposes of this section:
+&quot;Property&quot; means anything that may be
+the subject of ownership, including every kind of asset, whether real or
+personal, tangible or intangible, and without limitation, such as land and
+buildings, goodwill, notes, accounts, and other intangible property.  The term &quot;property&quot;
+shall not include any interest in residential real property.
+&quot;Purchase price&quot; means the total fair
+market value, as of the date of sale or transfer, of all property transferred,
+whether or not money or property is exchanged therefor.
+&quot;Purchaser&quot; means any person who
+receives property in a bulk sale or transfer, whether or not money or property
+is exchanged therefor.
+&quot;Sale&quot; means the transfer of property
+for compensation.
+&quot;Seller&quot; means any person who sells
+or transfers any property in a bulk sale or transfer, whether or not money or
+property is exchanged therefor.
+&quot;Transfer&quot; means the sale,
+conveyance, or distribution by any mode, direct or indirect, absolute or
+conditional, voluntary or involuntary, of title to or beneficial ownership in
+property, or interest therein.  The term &quot;transfer&quot; does not include
+a bona fide, arm's length:
+(1)  Creation, modification, or termination of a lease
+interest;
+(2)  Creation, modification, or release of a lien or
+encumbrance; or
+(3)  Transfer occurring as a result of the enforcement
+of a lien.
+(e)  Failure to make the report required by
+this section shall be punishable by a fine of not more than $100.  Any seller
+who wilfully fails to make the report required by this section shall, in
+addition to other penalties provided by law, be guilty of a misdemeanor and
+upon conviction thereof, shall be fined not more than $5,000 or imprisoned not
+more than one year, or both.
+(f)  The purchaser shall have the purchaser's
+remedy against the seller for the amount of taxes, penalties, or interest paid
+by the purchaser.
+(g)  This section supplements and does not
+displace any remedies available to the department under the Uniform Fraudulent
+Transfer Act and the principles of law and equity. [L 1941, c 265, §8; RL 1945,
+§5476; RL 1955, §117-40; am L Sp 1959 2d, c 1, §16; HRS §237-43; gen ch 1985;
+am L 1995, c 92, §14 as superseded by c 120, §1; am L 1996, c 132, §§1, 2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="237_43__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In any case of the sale or transfer in bulk of the whole, or a large part
+of a stock of merchandise and fixtures, or merchandise, or fixtures, or other
+assets or property of a business, otherwise than in the ordinary course of
+trade, business, commerce, or sales, the seller shall make a written and
+verified report of the bulk sale or transfer to the department not later than
+ten days after the possession, or the control, or the title of the property, or
+any part thereof, has passed to the purchaser.  The report shall contain the
+name and address of the purchaser, a brief description of the property sold and
+the purchase price, the date when the sale or transfer is to be or was
+consummated, and such other facts as the department may require.  The purchaser
+may make the report for the seller.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_43__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The purchaser of the property shall
+withhold payment of the purchase price until the receipt of a certificate from
+the department to the effect that all taxes, penalties, and interest levied or
+accrued under title 14 for taxes administered by the department against the
+seller, or constituting a lien upon the property, have been paid.  A
+certificate shall not be issued while the department investigates (including by
+audit) whether taxes have been levied or accrued against the seller.  The
+certificate shall show on its face that the department has had notice of the
+bulk sale or transfer, and shall also show the names of the seller and
+purchaser, a brief description of the property sold or transferred, and the
+date of consummation of the sale or transfer, together with such other
+information as the department shall prescribe.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_43__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the required report of the bulk sale or
+transfer is not made, or if the taxes, penalties, and interest shall not be
+paid within twenty days after the sale or transfer, or within such further time
+as the department may allow, the purchaser shall be personally liable to pay to
+the State the amount of all taxes, penalties, and interest levied or accrued
+under title 14 for taxes administered by the department against the seller or
+constituting a lien upon the property, together with penalties and interest
+thereafter accruing, not exceeding, however, the amount of the purchase price. 
+The issuance of a certificate in the prescribed form shall be a complete
+defense to the bulk sale or transfer liability imposed in the preceding
+sentence, but shall not be a defense to any liability of the purchaser under
+any other provision of law for liabilities and obligations.  Any purchaser
+succeeding to the liabilities of the seller under this section shall make a
+written report thereof upon the next due date for the reporting of gross income
+taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_43__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For purposes of this section:
+&quot;Property&quot; means anything that may be
+the subject of ownership, including every kind of asset, whether real or
+personal, tangible or intangible, and without limitation, such as land and
+buildings, goodwill, notes, accounts, and other intangible property.  The term &quot;property&quot;
+shall not include any interest in residential real property.
+&quot;Purchase price&quot; means the total fair
+market value, as of the date of sale or transfer, of all property transferred,
+whether or not money or property is exchanged therefor.
+&quot;Purchaser&quot; means any person who
+receives property in a bulk sale or transfer, whether or not money or property
+is exchanged therefor.
+&quot;Sale&quot; means the transfer of property
+for compensation.
+&quot;Seller&quot; means any person who sells
+or transfers any property in a bulk sale or transfer, whether or not money or
+property is exchanged therefor.
+&quot;Transfer&quot; means the sale,
+conveyance, or distribution by any mode, direct or indirect, absolute or
+conditional, voluntary or involuntary, of title to or beneficial ownership in
+property, or interest therein.  The term &quot;transfer&quot; does not include
+a bona fide, arm's length:</p>
+            </content>
+            <paragraph eId="237_43__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Creation, modification, or termination of a lease
+interest;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="237_43__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Creation, modification, or release of a lien or
+encumbrance; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="237_43__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Transfer occurring as a result of the enforcement
+of a lien.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="237_43__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Failure to make the report required by
+this section shall be punishable by a fine of not more than $100.  Any seller
+who wilfully fails to make the report required by this section shall, in
+addition to other penalties provided by law, be guilty of a misdemeanor and
+upon conviction thereof, shall be fined not more than $5,000 or imprisoned not
+more than one year, or both.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_43__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The purchaser shall have the purchaser's
+remedy against the seller for the amount of taxes, penalties, or interest paid
+by the purchaser.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_43__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>This section supplements and does not
+displace any remedies available to the department under the Uniform Fraudulent
+Transfer Act and the principles of law and equity. [L 1941, c 265, §8; RL 1945,
+§5476; RL 1955, §117-40; am L Sp 1959 2d, c 1, §16; HRS §237-43; gen ch 1985;
+am L 1995, c 92, §14 as superseded by c 120, §1; am L 1996, c 132, §§1, 2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

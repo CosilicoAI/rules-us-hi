@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-375"/>
+          <FRBRuri value="/us-hi/act/hrs/346-375"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-375/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-375/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-375/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-375/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_375">
+          <num>346-375</num>
+          <heading>Section 346-375</heading>
+          <content>
+            <p>[§
+346
+-375]  Temporary
+emergency shelter.
+(a)  In addition to any other duties prescribed by law,
+the department shall develop, in consultation with the four counties, a
+procedure for identifying locations that shall be used for temporary emergency
+shelters for homeless individuals and families.  The department shall actively
+partner with and monitor the efforts of the counties.
+(b)  Each county shall be responsible for
+partnering with nonprofit organizations to locate, designate, and maintain the
+areas that shall be used for temporary emergency shelters.  The designated
+locations may include private, county, state, and federal lands. [L 2010, c 89,
+pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_375__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In addition to any other duties prescribed by law,
+the department shall develop, in consultation with the four counties, a
+procedure for identifying locations that shall be used for temporary emergency
+shelters for homeless individuals and families.  The department shall actively
+partner with and monitor the efforts of the counties.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_375__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each county shall be responsible for
+partnering with nonprofit organizations to locate, designate, and maintain the
+areas that shall be used for temporary emergency shelters.  The designated
+locations may include private, county, state, and federal lands. [L 2010, c 89,
+pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

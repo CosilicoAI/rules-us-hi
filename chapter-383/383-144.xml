@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-144"/>
+          <FRBRuri value="/us-hi/act/hrs/383-144"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-144/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-144/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-144/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-144/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_144">
+          <num>383-144</num>
+          <heading>Unlawful disclosures</heading>
+          <content>
+            <p>§383-144  Unlawful disclosures.
+If any individual,
+whether an employee or member of the department of labor and industrial
+relations, or the referee, in violation of section 383-95, makes any disclosure
+of information obtained from any employing unit or individual in the
+administration of this chapter, or if any individual who has obtained any list
+of applicants for work, or of claimants or recipients of benefits, under this
+chapter, uses or permits the use of the list for any political purpose, that
+individual shall be fined not less than $20 nor more than $200, or imprisoned
+not more than ninety days, or both. [L 1939, c 219, §14(a); am L 1941, c 304,
+§1, pt of subs 36; RL 1945, §4291; RL 1955, §93-143; am L Sp 1959 2d, c 1, §27;
+HRS §383-144; am L 2016, c 55, §9]
+Cross References
+Classification of offense and authorized punishment, see
+§§701-107, 706-640, and 706-663.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

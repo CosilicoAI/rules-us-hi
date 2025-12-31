@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/393-46"/>
+          <FRBRuri value="/us-hi/act/hrs/393-46"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/393-46/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/393-46/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/393-46/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/393-46/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_393">
+        <num>Chapter 393</num>
+        <heading>Prepaid Health Care Act</heading>
+        <section eId="sec_393_46">
+          <num>393-46</num>
+          <heading>Section 393-46</heading>
+          <content>
+            <p>[§393-46]  Income directly attributable to
+the business.
+(a)  &quot;Income directly attributable to the
+business&quot; means gross profits from the business minus deductions for:
+(1)  Compensation of officers;
+(2)  Salaries and wages, except wages paid by an
+individual proprietor to oneself;
+(3)  Repairs;
+(4)  Taxes on business and business property;
+(5)  Business advertising;
+(6)  Amounts contributed to employee benefit plans;
+(7)  Interest on business indebtedness;
+(8)  Rent on business property; and
+(9)  Other expenses necessary for the current conduct
+of business.
+(b)  Deductions shall not include:
+(1)  Bad debts;
+(2)  Contributions or gifts, other than those listed
+under subsection (a)(6);
+(3)  Amortization and depreciation; or
+(4)  Losses by fire, storm, casualty, or theft.
+(c)  The director may promulgate rules and
+regulations necessary to define income directly attributable to business for
+the purpose of section 393-45. [L 1974, c 210, pt of §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="393_46__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Income directly attributable to the
+business&quot; means gross profits from the business minus deductions for:</p>
+            </content>
+            <paragraph eId="393_46__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Compensation of officers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Salaries and wages, except wages paid by an
+individual proprietor to oneself;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Repairs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Taxes on business and business property;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Business advertising;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Amounts contributed to employee benefit plans;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Interest on business indebtedness;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Rent on business property; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_a__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Other expenses necessary for the current conduct
+of business.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="393_46__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Deductions shall not include:</p>
+            </content>
+            <paragraph eId="393_46__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Bad debts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Contributions or gifts, other than those listed
+under subsection</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Amortization and depreciation; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="393_46__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Losses by fire, storm, casualty, or theft.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="393_46__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director may promulgate rules and
+regulations necessary to define income directly attributable to business for
+the purpose of section 393-45. [L 1974, c 210, pt of §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

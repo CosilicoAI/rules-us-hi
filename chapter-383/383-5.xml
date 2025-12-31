@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-5"/>
+          <FRBRuri value="/us-hi/act/hrs/383-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_5">
+          <num>383-5</num>
+          <heading>Service localized where</heading>
+          <content>
+            <p>§383-5  Service localized where.
+Service shall be deemed to be localized within a state, if:
+(1)  The service is performed entirely within the
+state; or
+(2)  The service is performed both within and without
+the state, but the service performed without the state is incidental to the
+individual's service within the state, for example, is temporary or transitory
+in nature or consists of isolated transactions. [L 1939, c 219, §2(k)(1); am L
+1941, c 304, §1, pt of subs 8; RL 1945, §4206; RL 1955, §93-5; HRS §383-5]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-381.5"/>
+          <FRBRuri value="/us-hi/act/hrs/346-381.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-381.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-381.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-381.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-381.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_381_5">
+          <num>346-381.5</num>
+          <heading>Section 346-381.5</heading>
+          <content>
+            <p>PART
+XVIII.  STATEWIDE HOMELESSNESS AND HOUSING SOLUTIONS
+Note
+Part heading amended by L 2022, c 252, §3.
+Establishment of designated safe facilities for overnight
+stays.  L 2012, c 105, §4.
+A.
+Hawaii Interagency Council on
+Homelessness
+Note
+Sections 346-381, 346-381.5, 346-382, and 346-383 designated
+as subpart A by L 2022, c 252, §4.
+[§346-381]  Hawaii interagency council on
+homelessness; establishment.
+(a)  There is established the Hawaii
+interagency council on homelessness, which shall be an advisory body exempt
+from section 26-34.  The Hawaii interagency council on homelessness shall be
+established within the department of human services for administrative
+purposes.
+(b)  The Hawaii interagency council on
+homelessness shall:
+(1)  Serve as the statewide homelessness planning and
+policy development entity with broad representation from state and county
+government and the community;
+(2)  Formulate, and advise the governor on the
+implementation of, a unified ten-year statewide plan to address homelessness in
+all Hawaii counties;
+(3)  Facilitate the acquisition of funding and
+resources for state and county homeless programs;
+(4)  Recommend policy, regulatory, and statutory
+changes, and identify resource strategies for the successful execution of the
+ten-year plan;
+(5)  Assemble accurate fiscal and demographic
+information to support policy development and track outcomes;
+(6)  Consider collaborative homelessness initiatives
+of other states that have demonstrated positive measurable outcomes as possible
+models for state and local programs;
+(7)  Promote systems integration of social, health,
+training, and housing services to reduce duplication among homeless assistance
+programs;
+(8)  Advise on the development and implementation of a
+public education program on homelessness in Hawaii and disseminate information
+including data and best practices; and
+(9)  Report annually to the governor, the legislature,
+and the mayor of each county on the progress of its activities, including
+formulation and progress of the ten-year plan no later than twenty days prior
+to the convening of each regular session.
+(c)  The ten-year statewide plan developed by
+the Hawaii interagency council on homelessness shall:
+(1)  Assist individuals who are homeless or facing
+homelessness;
+(2)  Prioritize the needs of the most vulnerable
+individuals and families;
+(3)  Encourage and promote partnerships between public
+and private entities to identify, renovate, and secure dignified transitional
+and permanent housing options;
+(4)  Promote development and utilization of support
+services, including job training, mental health, and substance abuse treatment,
+that will enhance the transition out of homelessness;
+(5)  Increase access to public areas for all members
+of the community;
+(6)  Support efforts to obtain accurate statistics on
+homeless persons; and
+(7)  Activate, coordinate, and maintain responsive
+action among the public, business, and faith-based communities to become part
+of the homelessness solution strategy. [L 2012, c 105, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_381_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established the Hawaii
+interagency council on homelessness, which shall be an advisory body exempt
+from section 26-34.  The Hawaii interagency council on homelessness shall be
+established within the department of human services for administrative
+purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_381_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Hawaii interagency council on
+homelessness shall:</p>
+            </content>
+            <paragraph eId="346_381_5__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Serve as the statewide homelessness planning and
+policy development entity with broad representation from state and county
+government and the community;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Formulate, and advise the governor on the
+implementation of, a unified ten-year statewide plan to address homelessness in
+all Hawaii counties;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Facilitate the acquisition of funding and
+resources for state and county homeless programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Recommend policy, regulatory, and statutory
+changes, and identify resource strategies for the successful execution of the
+ten-year plan;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Assemble accurate fiscal and demographic
+information to support policy development and track outcomes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Consider collaborative homelessness initiatives
+of other states that have demonstrated positive measurable outcomes as possible
+models for state and local programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Promote systems integration of social, health,
+training, and housing services to reduce duplication among homeless assistance
+programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_b__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Advise on the development and implementation of a
+public education program on homelessness in Hawaii and disseminate information
+including data and best practices; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_b__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Report annually to the governor, the legislature,
+and the mayor of each county on the progress of its activities, including
+formulation and progress of the ten-year plan no later than twenty days prior
+to the convening of each regular session.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_381_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The ten-year statewide plan developed by
+the Hawaii interagency council on homelessness shall:</p>
+            </content>
+            <paragraph eId="346_381_5__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Assist individuals who are homeless or facing
+homelessness;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Prioritize the needs of the most vulnerable
+individuals and families;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Encourage and promote partnerships between public
+and private entities to identify, renovate, and secure dignified transitional
+and permanent housing options;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Promote development and utilization of support
+services, including job training, mental health, and substance abuse treatment,
+that will enhance the transition out of homelessness;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_c__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Increase access to public areas for all members
+of the community;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_c__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Support efforts to obtain accurate statistics on
+homeless persons; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_381_5__subsec_c__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Activate, coordinate, and maintain responsive
+action among the public, business, and faith-based communities to become part
+of the homelessness solution strategy. [L 2012, c 105, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

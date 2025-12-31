@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-10"/>
+          <FRBRuri value="/us-hi/act/hrs/352-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-10/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-10/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_10">
+          <num>352-10</num>
+          <heading>Section 352-10</heading>
+          <content>
+            <p>§352-10  Circuit court disposition of
+offenders under eighteen years.
+The circuit court shall commit all
+offenders under eighteen years of age, duly convicted before the court, to the
+Hawaii youth correctional facilities in all cases where the court deems the
+sentence to be more suitable than the punishment otherwise authorized by law. 
+In such a case, when the term of confinement ordered by the court extends
+beyond the offender's eighteenth birthday, the offender shall, upon reaching
+the age of eighteen, be committed to the custody of the department of
+corrections and rehabilitation for completion of the sentence.  Persons
+committed to the Hawaii youth correctional facilities under this section may be
+furloughed or paroled by the director, unless the commitment order issued by
+the court requires prior approval by the court or unless the offender is
+subject to a mandatory term of imprisonment which term has not yet expired. [L
+1980, c 303, pt of §8(1); am L 1997, c 318, §1; am L 2021, c 61, §2; am L 2022,
+c 278, §29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

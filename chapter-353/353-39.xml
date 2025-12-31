@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-39"/>
+          <FRBRuri value="/us-hi/act/hrs/353-39"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-39/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-39/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-39/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-39/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_39">
+          <num>353-39</num>
+          <heading>Sexual assaults in prison</heading>
+          <content>
+            <p>[§353-39]  Sexual assaults in prison.
+(a) 
+The department, to the best of the department's ability, shall address sexual
+assault in prison and make every effort to seek grant moneys from the federal
+government to implement those efforts.  The department shall place priority
+upon establishing:
+(1)  Appropriate counseling services for sexual
+assault, to be made available to victims of prison sexual assault within
+twenty-four hours of the report of an assault; and
+(2)  Policies and standards of transparency to achieve
+a zero-tolerance policy for sexual assault.
+(b)  The department, no later than twenty days
+prior to the convening of each regular session, shall report data to the
+legislature regarding:
+(1)  Sexual assault by persons in custody against
+other persons in custody of the department;
+(2)  Sexual assault by correctional staff against
+persons in custody of the department;
+(3)  Non-criminal sexual misconduct by staff,
+including sexual harassment of persons in custody of the department;
+(4)  Criminal cases initiated, and closed by
+dismissal, plea, or verdict, for sexual assaults by or upon a person in custody
+of the department; and
+(5)  Civil claims filed and closed by dismissal,
+settlement, or verdict for sexual assaults by or upon a person in custody of
+the department.
+(c)  The department shall preserve any forensic
+evidence consisting of human biological specimens for collection by the
+relevant criminal investigation entity or coroner, if there is any indication
+of sexual assault leading to the death of any:
+(1)  Correctional facility or community correctional
+center employee who dies on the grounds of a correctional facility or community
+correctional center where Hawaii inmates reside or who sustains an injury on
+the grounds of a correctional facility or community correctional center where
+Hawaii inmates reside that causes the death of the employee; and
+(2)  Hawaii inmate who is incarcerated in a state or
+contracted correctional facility. [L 2022, c 278, pt of §18]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_39__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department, to the best of the department's ability, shall address sexual
+assault in prison and make every effort to seek grant moneys from the federal
+government to implement those efforts.  The department shall place priority
+upon establishing:</p>
+            </content>
+            <paragraph eId="353_39__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Appropriate counseling services for sexual
+assault, to be made available to victims of prison sexual assault within
+twenty-four hours of the report of an assault; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_39__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Policies and standards of transparency to achieve
+a zero-tolerance policy for sexual assault.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="353_39__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department, no later than twenty days
+prior to the convening of each regular session, shall report data to the
+legislature regarding:</p>
+            </content>
+            <paragraph eId="353_39__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Sexual assault by persons in custody against
+other persons in custody of the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_39__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Sexual assault by correctional staff against
+persons in custody of the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_39__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Non-criminal sexual misconduct by staff,
+including sexual harassment of persons in custody of the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_39__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Criminal cases initiated, and closed by
+dismissal, plea, or verdict, for sexual assaults by or upon a person in custody
+of the department; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_39__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Civil claims filed and closed by dismissal,
+settlement, or verdict for sexual assaults by or upon a person in custody of
+the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="353_39__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall preserve any forensic
+evidence consisting of human biological specimens for collection by the
+relevant criminal investigation entity or coroner, if there is any indication
+of sexual assault leading to the death of any:</p>
+            </content>
+            <paragraph eId="353_39__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Correctional facility or community correctional
+center employee who dies on the grounds of a correctional facility or community
+correctional center where Hawaii inmates reside or who sustains an injury on
+the grounds of a correctional facility or community correctional center where
+Hawaii inmates reside that causes the death of the employee; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_39__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Hawaii inmate who is incarcerated in a state or
+contracted correctional facility. [L 2022, c 278, pt of §18]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-42"/>
+          <FRBRuri value="/us-hi/act/hrs/237-42"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-42/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-42/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-42/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-42/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_42">
+          <num>237-42</num>
+          <heading>Appeals</heading>
+          <content>
+            <p>APPEALS
+§237-42  Appeals.
+Any person aggrieved
+by any assessment of the tax for any month or any year may appeal from the
+assessment in the manner and within the time and in all other respects as
+provided in the case of income tax appeals by section 235-114. [L 1935, c 141,
+§1; am L 1937, c 202, §1; RL 1945, §5473; am L 1953, c 125, pt of §10; RL 1955,
+§117-37; am L Sp 1957, c 1, §29; HRS §237-42; am L 2000, c 199, §3; am L 2004,
+c 123, §3]
+Case Notes
+Taxpayer's 42 U.S.C. §1983 claim against validity of Hawaii's
+general excise tax barred, where state remedies available to taxpayer were
+&quot;plain, adequate, and complete&quot;.  940 F. Supp. 260 (1995).
+Prepayment requirement is constitutional.  57 H. 1, 548 P.2d
+246 (1976).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

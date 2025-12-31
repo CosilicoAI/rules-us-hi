@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/347-7"/>
+          <FRBRuri value="/us-hi/act/hrs/347-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/347-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/347-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/347-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/347-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_347">
+        <num>Chapter 347</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_347_7">
+          <num>347-7</num>
+          <heading>Section 347-7</heading>
+          <content>
+            <p>§347-7  Agencies for information and
+industrial aid.
+The department of human services shall maintain or cause
+to be maintained one or more agencies for employment information and industrial
+aid, the object of which shall be to aid the blind and visually handicapped
+persons in finding employment and shall provide instruction for such persons in
+trades and occupations which may be followed in their homes, and shall assist
+such persons in whatever manner it deems advisable in disposing of the products
+of their home industry. [L 1941, c 296, pt of §1; RL 1945, §4859, ren §4874; am
+L 1945, c 113, §5; RL 1955, §109-8; am L 1959, c 246, §5; am L Sp 1959 2d, c 1,
+§20; HRS §347-7; am L 1970, c 105, §5; am L 1987, c 339, §4]
+Cross References
+Exemption from bid requirements for public concessions, see
+§102-2.
+Vending stands in public buildings, see §102-14.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

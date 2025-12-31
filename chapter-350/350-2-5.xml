@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/350-2.5"/>
+          <FRBRuri value="/us-hi/act/hrs/350-2.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/350-2.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/350-2.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/350-2.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/350-2.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_350">
+        <num>Chapter 350</num>
+        <heading>Child Protective Act</heading>
+        <section eId="sec_350_2_5">
+          <num>350-2.5</num>
+          <heading>Section 350-2.5</heading>
+          <content>
+            <p>§350-2  Action on reporting.
+(a)  Upon
+receiving a report concerning child abuse or neglect, the department shall
+proceed pursuant to chapter 587A and the department's rules.
+(b)  The department shall inform the
+appropriate police department of all reports received by the department
+regarding a case of child abuse or neglect, including reports received under
+section 350-1.1; provided that the name of the person who reported the case of
+child abuse or neglect shall be released to the police department pursuant only
+to court order or the person's consent.
+(c)  The department shall inform the
+appropriate police department or office of the prosecuting attorney of the
+relevant information concerning a case of child abuse or neglect when the
+information is required by the police department or the office of the
+prosecuting attorney for the investigation or prosecution of that case;
+provided that the name of the person who reported the case of child abuse or
+neglect shall be released to the police department or the office of the
+prosecuting attorney pursuant only to court order or the person's consent.
+(d)
+[Subsection effective until June 30,
+2025.  For subsection effective July 1, 2025, see below.]
+The department
+shall maintain a central registry of reported child abuse or neglect cases and
+shall promptly expunge the reports in cases if:
+(1)  The report is determined not confirmed by the
+department, an administrative hearing officer, or a Hawaii state court on
+appeal; or
+(2)  The petition arising from the report has been
+dismissed by order of the family court after an adjudicatory hearing on the
+merits pursuant to chapter 587A.
+Records and information contained in a report
+that is expunged may be retained by the department solely for future risk and
+safety assessment purposes.
+(d)
+[Subsection
+effective July 1, 2025.  For subsection effective until June 30, 2025, see
+above.]
+The department shall maintain a central registry of reported
+child abuse or neglect cases in accordance with section 350-2.5.
+(e)  For a confirmed case of child abuse or
+neglect that occurred at a licensed or registered child care facility as
+defined in section 346-151, the department is authorized to disclose that the
+report of child abuse or neglect was confirmed to any parent or guardian of a
+child who was enrolled at the licensed or registered child care facility as
+defined in section 346-151.
+(f)  For a confirmed case of child abuse or
+neglect that occurred at a child care facility as defined in section 346-151
+that is operating in accordance with an exclusion or exemption pursuant to
+section 346-152 and upon receipt of consent, the department is authorized to
+disclose the report of child abuse or neglect was confirmed to any parent or
+guardian of a child who was enrolled at the child care facility.
+(g)  For a
+confirmed
+case of child abuse or neglect
+that results in a child's death or near
+fatality, the department is authorized to disclose to the public:
+(1)  The cause of and circumstances regarding the
+fatality or near fatality;
+(2)  The age and gender of the child;
+(3)  Information describing any previous reports and
+results of child abuse or neglect investigations that are pertinent to the
+child abuse or neglect that led to the fatality or near fatality; and
+(4)  The action taken by the department on behalf of
+the child that is pertinent to the child abuse or neglect that led to the
+fatality or near fatality.
+(h)  The department shall adopt rules as may be
+necessary in carrying out this section. [L 1967, c 261, §3; HRS §350-2; am L
+1970, c 105, §5; am L 1987, c 204, §6 and c 339, §4; am L 1991, c 123, §1; am L
+1998, c 134, §5; am L 1999, c 271, §5; am L 2010, c 135, §7; am L 2017, c 16,
+§3; am L 2018, c 176, §1; am L 2019, c 85, §1; am L 2024, c 147, §3]
+Cross References
+Rulemaking, see chapter 91.
+Vexatious litigants, see chapter 634J.
+Case Notes
+Cited:  711 F. Supp. 2d 1195 (2010).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="350_2_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon
+receiving a report concerning child abuse or neglect, the department shall
+proceed pursuant to chapter 587A and the department's rules.</p>
+            </content>
+          </subsection>
+          <subsection eId="350_2_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall inform the
+appropriate police department of all reports received by the department
+regarding a case of child abuse or neglect, including reports received under
+section 350-1.1; provided that the name of the person who reported the case of
+child abuse or neglect shall be released to the police department pursuant only
+to court order or the person's consent.</p>
+            </content>
+          </subsection>
+          <subsection eId="350_2_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall inform the
+appropriate police department or office of the prosecuting attorney of the
+relevant information concerning a case of child abuse or neglect when the
+information is required by the police department or the office of the
+prosecuting attorney for the investigation or prosecution of that case;
+provided that the name of the person who reported the case of child abuse or
+neglect shall be released to the police department or the office of the
+prosecuting attorney pursuant only to court order or the person's consent.</p>
+            </content>
+          </subsection>
+          <subsection eId="350_2_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>[Subsection effective until June 30,
+2025.  For subsection effective July 1, 2025, see below.]
+The department
+shall maintain a central registry of reported child abuse or neglect cases and
+shall promptly expunge the reports in cases if:</p>
+            </content>
+            <paragraph eId="350_2_5__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The report is determined not confirmed by the
+department, an administrative hearing officer, or a Hawaii state court on
+appeal; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="350_2_5__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The petition arising from the report has been
+dismissed by order of the family court after an adjudicatory hearing on the
+merits pursuant to chapter 587A.
+Records and information contained in a report
+that is expunged may be retained by the department solely for future risk and
+safety assessment purposes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="350_2_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>[Subsection
+effective July 1, 2025.  For subsection effective until June 30, 2025, see
+above.]
+The department shall maintain a central registry of reported
+child abuse or neglect cases in accordance with section 350-2.5.</p>
+            </content>
+          </subsection>
+          <subsection eId="350_2_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For a confirmed case of child abuse or
+neglect that occurred at a licensed or registered child care facility as
+defined in section 346-151, the department is authorized to disclose that the
+report of child abuse or neglect was confirmed to any parent or guardian of a
+child who was enrolled at the licensed or registered child care facility as
+defined in section 346-151.</p>
+            </content>
+          </subsection>
+          <subsection eId="350_2_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For a confirmed case of child abuse or
+neglect that occurred at a child care facility as defined in section 346-151
+that is operating in accordance with an exclusion or exemption pursuant to
+section 346-152 and upon receipt of consent, the department is authorized to
+disclose the report of child abuse or neglect was confirmed to any parent or
+guardian of a child who was enrolled at the child care facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="350_2_5__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>For a
+confirmed
+case of child abuse or neglect
+that results in a child's death or near
+fatality, the department is authorized to disclose to the public:</p>
+            </content>
+            <paragraph eId="350_2_5__subsec_g__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The cause of and circumstances regarding the
+fatality or near fatality;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="350_2_5__subsec_g__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The age and gender of the child;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="350_2_5__subsec_g__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Information describing any previous reports and
+results of child abuse or neglect investigations that are pertinent to the
+child abuse or neglect that led to the fatality or near fatality; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="350_2_5__subsec_g__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The action taken by the department on behalf of
+the child that is pertinent to the child abuse or neglect that led to the
+fatality or near fatality.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="350_2_5__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The department shall adopt rules as may be
+necessary in carrying out this section. [L 1967, c 261, §3; HRS §350-2; am L
+1970, c 105, §5; am L 1987, c 204, §6 and c 339, §4; am L 1991, c 123, §1; am L
+1998, c 134, §5; am L 1999, c 271, §5; am L 2010, c 135, §7; am L 2017, c 16,
+§3; am L 2018, c 176, §1; am L 2019, c 85, §1; am L 2024, c 147, §3]
+Cross References
+Rulemaking, see chapter 91.
+Vexatious litigants, see chapter 634J.
+Case Notes
+Cited:  711 F. Supp. 2d 1195 (2010).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

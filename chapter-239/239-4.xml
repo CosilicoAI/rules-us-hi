@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/239-4"/>
+          <FRBRuri value="/us-hi/act/hrs/239-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/239-4/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/239-4/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/239-4/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/239-4/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_239">
+        <num>Chapter 239</num>
+        <heading>Public Service Company Tax Law</heading>
+        <section eId="sec_239_4">
+          <num>239-4</num>
+          <heading>Returns</heading>
+          <content>
+            <p>§239-4  Returns.
+Each public service
+company, on or before the twentieth day of the fourth month following the close
+of the taxable year, shall file a return in the form and manner prescribed by
+the department, showing its taxable gross income for the preceding taxable year. 
+In case any public service company engages in lines of business other than its
+public service company business, the receipts therefrom shall not be subject to
+tax under this chapter, but the same tax liabilities shall attach to the public
+service company on account of the other lines of business as would exist if no
+public service company business were engaged in.  In the case of a public
+utility subject to the rate of tax imposed by section 239-5(a) or (b), if the
+public utility engages in lines of business other than its public utility
+business the real property used in connection with the other lines of business
+shall be taxed, in accordance with the applicable county tax ordinance, the
+same as if no public utility business were done.  In the case of a public
+utility remitting payments to a county of a portion of the revenues generated
+from the tax imposed by section 239-5(a), the public utility shall also file
+with the director of finance of the county to which such payment is paid, a
+statement showing all gross income from the public utility business upon which
+the tax is calculated and the allocation of that gross income among the
+counties. [L 1932 2d, c 43, §3; RL 1935, §2142; RL 1945, §5673; RL 1955,
+§126-4; am L 1957, c 34, §22; am L Sp 1959 2d, c 1, §16; am L 1963, c 147,
+§2(d); am L 1967, c 37, §1; HRS §239-4; am L 1991, c 25, §1; am L 2001, c 64,
+§2; am L 2021, c 117, §19]
+Case Notes
+Cited:  34 H. 269, 270 (1937).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="239_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-65"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-65"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-65/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-65/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-65/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-65/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_65">
+          <num>356D-65</num>
+          <heading>Ex parte motion</heading>
+          <content>
+            <p>[§356D-65]  Ex parte motion.
+If a
+tenant cannot be served with an order of eviction or writ of possession, and
+the authority receives an affidavit or declaration stating this fact, service
+on the tenant may be made in accordance with a special order of the authority. 
+The order shall require the process server to affix a certified copy of the
+order of eviction or writ of possession in a conspicuous place upon the
+premises, such as the door or wall of the dwelling unit. [L 2018, c 204, pt of
+§1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

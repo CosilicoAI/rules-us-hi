@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-9"/>
+          <FRBRuri value="/us-hi/act/hrs/386-9"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-9/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-9/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-9/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-9/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_9">
+          <num>386-9</num>
+          <heading>Contracting out forbidden</heading>
+          <content>
+            <p>§386-9  Contracting out forbidden.
+Except as provided in section 386-78, no contract, rule, regulation or device
+whatsoever shall operate to relieve the employer in whole or in part from any
+liability created by this chapter. [L 1963, c 116, pt of §1; Supp, §97-9; HRS
+§386-9; am L 1969, c 17, §1]
+Case Notes
+Section preempted by ERISA to the extent it prohibits
+offsetting workers' compensation payments intended to provide income
+replacement against pension benefits.  679 F.2d 1319 (1982).
+Cited:  23 H. 291, 294 (1916); 31 H. 672, 673 (1930).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

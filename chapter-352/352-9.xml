@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-9"/>
+          <FRBRuri value="/us-hi/act/hrs/352-9"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-9/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-9/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-9/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-9/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_9">
+          <num>352-9</num>
+          <heading>Section 352-9</heading>
+          <content>
+            <p>§352-9
+Period
+committed.
+(a) All persons committed to the Hawaii youth correctional facilities shall be
+committed for the period of their minority or as otherwise ordered by the
+court.  Such persons may be placed on furlough or parole if deemed
+appropriate.  The power to discharge a person committed to a youth correctional
+facility is reserved to the director; provided that the director shall give a
+thirty-day notice of such intended discharge to the appropriate court and to
+the prosecutor's office of the appropriate county.  Prior court approval for
+furlough, parole, or discharge of all minors, committed by the family court to
+a youth correctional facility for the period of their minority or otherwise,
+shall be obtained when such is specifically required in the commitment order.
+In any case, no person nineteen years or older shall be incarcerated in a youth
+correctional facility.
+(b)  In those cases where the term of
+commitment to a youth correctional facility extends beyond the person's
+nineteenth birthday, the person shall be placed on juvenile parole pursuant to
+the original family court order for the balance of the person's term of
+commitment; provided that such term does not extend beyond the person's
+twentieth birthday unless earlier terminated. [L 1980, c 303, pt of §8(1); am L
+1990, c 92, §1; am L 1997, c 325, §1; am L 1998, c 190, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="352_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All persons committed to the Hawaii youth correctional facilities shall be
+committed for the period of their minority or as otherwise ordered by the
+court.  Such persons may be placed on furlough or parole if deemed
+appropriate.  The power to discharge a person committed to a youth correctional
+facility is reserved to the director; provided that the director shall give a
+thirty-day notice of such intended discharge to the appropriate court and to
+the prosecutor's office of the appropriate county.  Prior court approval for
+furlough, parole, or discharge of all minors, committed by the family court to
+a youth correctional facility for the period of their minority or otherwise,
+shall be obtained when such is specifically required in the commitment order.
+In any case, no person nineteen years or older shall be incarcerated in a youth
+correctional facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="352_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In those cases where the term of
+commitment to a youth correctional facility extends beyond the person's
+nineteenth birthday, the person shall be placed on juvenile parole pursuant to
+the original family court order for the balance of the person's term of
+commitment; provided that such term does not extend beyond the person's
+twentieth birthday unless earlier terminated. [L 1980, c 303, pt of §8(1); am L
+1990, c 92, §1; am L 1997, c 325, §1; am L 1998, c 190, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

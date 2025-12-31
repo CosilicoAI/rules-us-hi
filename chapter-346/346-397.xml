@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-397"/>
+          <FRBRuri value="/us-hi/act/hrs/346-397"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-397/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-397/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-397/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-397/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_397">
+          <num>346-397</num>
+          <heading>Section 346-397</heading>
+          <content>
+            <p>[§346-397]  Provision of extended foster
+care services.
+As soon as the department determines that a young adult is
+eligible under section 346-395 and the young adult signs the voluntary care
+agreement as described in section 346-396, prior to the filing of the petition
+invoking the jurisdiction of the court or the court's determination of
+jurisdiction pursuant to section 346-398, the department may provide extended
+foster care services to the young adult. [L 2013, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

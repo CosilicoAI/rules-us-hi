@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-92"/>
+          <FRBRuri value="/us-hi/act/hrs/378-92"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-92/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-92/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-92/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-92/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_92">
+          <num>378-92</num>
+          <heading>Section 378-92</heading>
+          <content>
+            <p>[
+§378-92]  Opportunity to express
+milk.
+(a)  An employer shall provide:
+(1)  Reasonable break time for an employee to express
+milk for the employee's nursing child for one year after the child's birth each
+time the employee has a need to express breast milk; and
+(2)  A location, other than the restroom, that is
+shielded from view and free from intrusion from coworkers and the public that
+may be used by an employee to express breast milk.
+(b)  Every employer covered by this section
+shall post a notice in a conspicuous place accessible to employees and use
+other appropriate means to keep the employer's employees informed of the
+protections and obligations under this part.
+(c)  Subsection (a) shall not apply to any
+employer who has fewer than twenty employees if the employer can show that the
+requirements under subsection (a) would impose an undue hardship by causing the
+employer significant difficulty or expense in relation to the size, financial
+resources, nature, or structure of the employer's business. [L 2013, c 249, pt
+of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="378_92__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An employer shall provide:</p>
+            </content>
+            <paragraph eId="378_92__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Reasonable break time for an employee to express
+milk for the employee's nursing child for one year after the child's birth each
+time the employee has a need to express breast milk; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="378_92__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A location, other than the restroom, that is
+shielded from view and free from intrusion from coworkers and the public that
+may be used by an employee to express breast milk.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="378_92__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Every employer covered by this section
+shall post a notice in a conspicuous place accessible to employees and use
+other appropriate means to keep the employer's employees informed of the
+protections and obligations under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_92__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="378_92__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>shall not apply to any
+employer who has fewer than twenty employees if the employer can show that the
+requirements under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="378_92__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>would impose an undue hardship by causing the
+employer significant difficulty or expense in relation to the size, financial
+resources, nature, or structure of the employer's business. [L 2013, c 249, pt
+of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

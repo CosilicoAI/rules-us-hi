@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-421"/>
+          <FRBRuri value="/us-hi/act/hrs/346-421"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-421/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-421/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-421/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-421/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_421">
+          <num>346-421</num>
+          <heading>Section 346-421</heading>
+          <content>
+            <p>[PART XX.] 
+HEALTH ANALYTICS
+[§346-421]  Health analytics program;
+appointments.
+(a)  There is established within the department of human
+services the health analytics program.
+(b)  The head of the program shall be known as
+the health analytics and informatics program administrator, hereinafter
+referred to as analytics administrator.  The analytics administrator shall have
+professional training in the field of health analytics or a related field, and
+recent experience in a supervisory, consultative, or administrative position. 
+The analytics administrator shall be appointed by the director and shall be
+exempt from chapter 76.  Notwithstanding section 76-16(b)(17), this exemption shall
+not expire.
+(c)  The director may make further necessary
+position appointments to the health analytics program to conduct data
+analytics, informatics product development to support healthcare services
+programs, and any other necessary services, including administrative services,
+required to perform the duties of the program.  Three of these positions shall
+be a senior healthcare analytics and research coordinator, a program and
+contracts financial coordinator, and a healthcare statistician, who shall all
+be exempt from chapter 76.  Notwithstanding section 76-16(b)(17), the
+exemptions for these positions shall not expire.
+(d)  The health analytics program shall
+develop, design, or implement databases, primarily an all-claims, all-payer
+database, and an encompassing data center to collect and analyze healthcare
+data.  The health analytics program may provide, in consultation with the state
+health planning and development agency, the department of health, the
+department of commerce and consumer affairs, the Hawaii employer-union health
+benefits trust fund, and the University of Hawaii, comparative cost and quality
+information about Hawaii's healthcare systems and health plan networks to
+consumers, providers, and purchasers of healthcare in order to provide
+comparative information to government policy makers and residents of the State.
+(e)  The health analytics program may procure
+services in consultation with the department of health, and may perform
+technical tasks including data management, data cleansing, data quality, data
+analytics, and related activities that the program finds necessary to produce
+reports.  The program and all associated technical vendors shall use the best
+available privacy and security measures, as required by law, to protect access
+to electronic protected health information, and shall provide for further analysis
+of data that is in limited datasets or de-identified formats, within the
+confines of the established data governance framework as provided in rules
+adopted by the department pursuant to chapter 91.  All data sharing, use, and
+research shall be done in accordance with all applicable laws, including laws
+regarding privacy, confidentiality, and research.
+(f)  Subject to available funding, the health
+analytics program is authorized to serve as the contracting and data center
+designee of the state health planning and development agency.
+(g)  The health analytics program may contract
+with the pacific health informatics and data center of the University of
+Hawaii, as a data analytics partner to the State.  The University of Hawaii may
+conduct core or additional analytics functions and produce reports for the
+program and the state health planning and development agency in this capacity.
+(h)  The health analytics program shall develop
+a plan for the analysis, maintenance, and publication of data, in consultation
+with the department of health, the Hawaii employer-union health benefits trust
+fund, the office of enterprise technology services, the insurance division of
+the department of commerce and consumer affairs, and the University of Hawaii. 
+The plan shall be updated annually.
+(i)  The department of human services shall
+adopt administrative rules pursuant to chapter 91 for the purposes of this
+part. [L 2018, c 55, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_421__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the department of human
+services the health analytics program.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_421__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The head of the program shall be known as
+the health analytics and informatics program administrator, hereinafter
+referred to as analytics administrator.  The analytics administrator shall have
+professional training in the field of health analytics or a related field, and
+recent experience in a supervisory, consultative, or administrative position. 
+The analytics administrator shall be appointed by the director and shall be
+exempt from chapter 76.  Notwithstanding section 76-16</p>
+            </content>
+          </subsection>
+          <subsection eId="346_421__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director may make further necessary
+position appointments to the health analytics program to conduct data
+analytics, informatics product development to support healthcare services
+programs, and any other necessary services, including administrative services,
+required to perform the duties of the program.  Three of these positions shall
+be a senior healthcare analytics and research coordinator, a program and
+contracts financial coordinator, and a healthcare statistician, who shall all
+be exempt from chapter 76.  Notwithstanding section 76-16</p>
+            </content>
+          </subsection>
+          <subsection eId="346_421__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The health analytics program shall
+develop, design, or implement databases, primarily an all-claims, all-payer
+database, and an encompassing data center to collect and analyze healthcare
+data.  The health analytics program may provide, in consultation with the state
+health planning and development agency, the department of health, the
+department of commerce and consumer affairs, the Hawaii employer-union health
+benefits trust fund, and the University of Hawaii, comparative cost and quality
+information about Hawaii's healthcare systems and health plan networks to
+consumers, providers, and purchasers of healthcare in order to provide
+comparative information to government policy makers and residents of the State.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_421__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The health analytics program may procure
+services in consultation with the department of health, and may perform
+technical tasks including data management, data cleansing, data quality, data
+analytics, and related activities that the program finds necessary to produce
+reports.  The program and all associated technical vendors shall use the best
+available privacy and security measures, as required by law, to protect access
+to electronic protected health information, and shall provide for further analysis
+of data that is in limited datasets or de-identified formats, within the
+confines of the established data governance framework as provided in rules
+adopted by the department pursuant to chapter 91.  All data sharing, use, and
+research shall be done in accordance with all applicable laws, including laws
+regarding privacy, confidentiality, and research.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_421__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Subject to available funding, the health
+analytics program is authorized to serve as the contracting and data center
+designee of the state health planning and development agency.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_421__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The health analytics program may contract
+with the pacific health informatics and data center of the University of
+Hawaii, as a data analytics partner to the State.  The University of Hawaii may
+conduct core or additional analytics functions and produce reports for the
+program and the state health planning and development agency in this capacity.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_421__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The health analytics program shall develop
+a plan for the analysis, maintenance, and publication of data, in consultation
+with the department of health, the Hawaii employer-union health benefits trust
+fund, the office of enterprise technology services, the insurance division of
+the department of commerce and consumer affairs, and the University of Hawaii. 
+The plan shall be updated annually.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_421__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The department of human services shall
+adopt administrative rules pursuant to chapter 91 for the purposes of this
+part. [L 2018, c 55, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

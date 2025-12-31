@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-10"/>
+          <FRBRuri value="/us-hi/act/hrs/389-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-10/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-10/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_10">
+          <num>389-10</num>
+          <heading>Protection from liability; State</heading>
+          <content>
+            <p>[§389-10]  Protection from liability; State.
+(a)  The State, department of labor and industrial relations, Hawaii retirement
+savings board, Hawaii retirement savings program, and other departments,
+agencies, boards, commissions, and programs of the State and any officers or
+employees thereof:
+(1)  Shall not be responsible for compliance by covered
+employers or other individuals with the conditions and other provisions of the
+Internal Revenue Code that determine:
+(A)  Which covered employees or other individuals
+are eligible to make tax-favored contributions to IRAs;
+(B)  The permissible amount of contributions;
+and
+(C)  The time frame and manner within which
+contributions are to be made;
+(2)  Shall have no duty, responsibility, or liability
+to any party for the payment of any benefits under the program, regardless of
+whether sufficient funds are available under the program to pay those benefits;
+(3)  Shall not guarantee any interest rate or other
+rate of return on or investment performance of any contribution or account
+balance; and
+(4)  Shall not be liable or responsible for any loss,
+deficiency, failure to realize any gain, or any other adverse consequences,
+including any adverse tax consequences or loss of favorable tax treatment,
+public assistance, or other benefits, incurred by any covered employees or
+other person as a result of participating in the program.
+(b)  The debts, contracts, and obligations of
+the program or the board are not the debts, contracts, and obligations of the
+State, and neither the faith and credit nor the taxing power of the State is
+pledged directly or indirectly to the payment of the debts, contracts, and
+obligations of the program or the board. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The State, department of labor and industrial relations, Hawaii retirement
+savings board, Hawaii retirement savings program, and other departments,
+agencies, boards, commissions, and programs of the State and any officers or
+employees thereof:</p>
+            </content>
+            <paragraph eId="389_10__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Shall not be responsible for compliance by covered
+employers or other individuals with the conditions and other provisions of the
+Internal Revenue Code that determine:</p>
+              </content>
+              <subparagraph eId="389_10__subsec_a__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Which covered employees or other individuals
+are eligible to make tax-favored contributions to IRAs;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_10__subsec_a__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The permissible amount of contributions;
+and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_10__subsec_a__para_1__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>The time frame and manner within which
+contributions are to be made;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="389_10__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Shall have no duty, responsibility, or liability
+to any party for the payment of any benefits under the program, regardless of
+whether sufficient funds are available under the program to pay those benefits;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_10__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Shall not guarantee any interest rate or other
+rate of return on or investment performance of any contribution or account
+balance; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_10__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Shall not be liable or responsible for any loss,
+deficiency, failure to realize any gain, or any other adverse consequences,
+including any adverse tax consequences or loss of favorable tax treatment,
+public assistance, or other benefits, incurred by any covered employees or
+other person as a result of participating in the program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The debts, contracts, and obligations of
+the program or the board are not the debts, contracts, and obligations of the
+State, and neither the faith and credit nor the taxing power of the State is
+pledged directly or indirectly to the payment of the debts, contracts, and
+obligations of the program or the board. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

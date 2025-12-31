@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-2.5"/>
+          <FRBRuri value="/us-hi/act/hrs/237-2.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-2.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-2.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-2.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-2.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_2_5">
+          <num>237-2.5</num>
+          <heading>Section 237-2.5</heading>
+          <content>
+            <p>§237-2  &quot;Business&quot;, &quot;engaging&quot;
+in business, defined.
+As used in this chapter:
+&quot;Business&quot; includes all activities
+(personal, professional, or corporate) engaged in or caused to be engaged in
+with the object of gain or economic benefit either direct or indirect, but does
+not include casual sales.
+&quot;Engaging&quot;, with reference to engaging
+or continuing in business, includes the exercise of corporate or franchise
+powers. [L 1935, c 141, pt of §1; RL 1945, §5443; RL 1955, §117-2; HRS §237-2;
+am L 2017, c 12, §49]
+Attorney General Opinions
+Agreement of sale executed by a partnership dealing in land
+was not a &quot;casual sale&quot;.  Att. Gen. Op. 62-1.
+Co-op apartment corporation operating and managing apartment
+building is engaged in business and is taxable on its receipts of monthly &quot;maintenance&quot;
+charges from stockholder-lessees.  Att. Gen. Op. 62-47.
+Application of excise tax to activities in foreign trade
+zone.  Att. Gen. Op. 64-52.
+Hawaii's general excise tax and use tax are not expressly
+preempted by the federal Foreign-Trade Zones Act of 1934, and Congress has not
+assumed exclusive regulatory powers in foreign-trade zones such that the State
+is preempted from imposing taxes on all activity within a foreign-trade zone. 
+Ultimately, whether a state tax can be applied to a particular activity within
+a foreign-trade zone depends on whether the tax conflicts with the purposes and
+objectives of the federal Act.  Att. Gen. Op. 21-01.
+Case Notes
+&quot;Casual sale&quot; does not exclude unusual sales within
+taxpayer's business.  40 H. 722 (1955).
+Attorney's activities as trustee, executor and corporate
+director were not so isolated or unconnected as to constitute &quot;casual&quot;
+transactions.  53 H. 435, 496 P.2d 1 (1972).
+Engaging in activity with &quot;object of gain or economic
+benefit&quot; construed.  53 H. 435, 496 P.2d 1 (1972).
+Out-of-state company's continuing leasing of telecast rights
+performable only in Hawaii is &quot;business&quot; within this section,
+although agreement consummated outside of Hawaii.  57 H. 175, 554 P.2d 242
+(1976).
+Nondomiciliary corporation investing capital in Hawaiian land
+held to be &quot;engaging in business.&quot;  57 H. 436, 559 P.2d 264 (1977).
+Taxability of transactions between joint venture and its
+member.  59 H. 307, 582 P.2d 703 (1978).
+Where taxpayer gained or economically benefited from
+subleasing transactions, the director's assessment and imposition of the
+general excise tax for taxpayer's subleasing activities was proper.  110 H. 25,
+129 P.3d 528 (2006).
+Taxpayer partnership's provision of medical equipment and
+ancillary services to its joint venture constituted &quot;business&quot; under
+this section and was thus made subject to the general excise tax by §237-20. 
+93 H. 267 (App.), 999 P.2d 865 (2000).
+Cited:  48 H. 486, 490, 405 P.2d 382 (1965).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

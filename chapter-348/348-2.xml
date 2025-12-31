@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/348-2"/>
+          <FRBRuri value="/us-hi/act/hrs/348-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/348-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/348-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/348-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/348-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_348">
+        <num>Chapter 348</num>
+        <heading>Vocational Rehabilitation</heading>
+        <section eId="sec_348_2">
+          <num>348-2</num>
+          <heading>Section 348-2</heading>
+          <content>
+            <p>§348
+-
+2  Definitions.
+For the
+purposes of this chapter:
+&quot;Department&quot; means the department of
+human services.
+&quot;Director&quot; means the director of
+human services.
+&quot;Eligible handicapped individual&quot;,
+when used with respect to diagnostic and related services, training, guidance,
+and placement, means any handicapped individual whose vocational rehabilitation
+is determined feasible by the department of human services, and when used with
+respect to other vocational rehabilitation services, means an individual
+meeting the foregoing requirements who is also found by the department to
+require financial assistance with respect thereto, after full consideration of
+the individual's financial resources, or in the instance of minors the
+financial resources of the parents, and eligibility for any similar benefit by
+way of pension, compensation, insurance, or of any other available assistance.
+&quot;Establishment of a workshop or
+rehabilitation facility&quot; means:
+(1)  In the case of a workshop, the expansion,
+remodeling, or alteration of existing buildings, necessary to adapt the
+buildings to workshop purposes or to increase the employment opportunities in
+workshops, and the acquisition of initial equipment necessary for new workshops
+or to increase the employment opportunities in workshops; and
+(2)  In the case of a rehabilitation facility, the
+expansion, remodeling, or alteration of existing buildings, and initial
+equipment of those buildings, necessary to adapt the buildings to
+rehabilitation facility purposes (subject, however, to limitations that the
+director of human services may by rules prescribe in order to prevent
+impairment of the objectives of, or duplication of, other federal laws
+providing federal assistance to states in the construction of those
+facilities), and initial staffing thereof.
+&quot;Handicapped individual&quot; means an
+individual who is under a physical or mental disability that is stable or
+slowly progressive and constitutes a substantial handicap to employment, but
+that is of such a nature that appropriate vocational rehabilitation services
+may reasonably be expected to render the individual able to engage in a
+remunerative occupation.
+&quot;Health maintenance&quot; means payments
+for medical care for acute conditions occurring in the course of vocational
+rehabilitation that are not expected to last thirty days.
+&quot;Maintenance&quot; means payments, not
+exceeding the cost of subsistence, provided an eligible handicapped individual
+necessary to derive the benefit of other vocational rehabilitation services
+being provided to achieve the individual's vocational rehabilitation objective.
+&quot;Nonprofit&quot;, when used with respect
+to a rehabilitation facility or a workshop, means a rehabilitation facility and
+a workshop, respectively, owned and operated by a corporation or association,
+no part of the net earnings of which inures, or may lawfully inure, to the
+benefit of any private shareholder or individual and the income of which is
+exempt from taxation under section 501(c) of the Internal Revenue Code.
+&quot;Physical restoration&quot; includes:
+(1)  Corrective surgery or therapeutic treatment
+necessary to correct or substantially modify a physical or mental condition
+that is stable or slowly progressive and constitutes a substantial handicap to
+employment, but is of such a nature that the correction or modification may
+reasonably be expected to eliminate or substantially reduce the handicap within
+a reasonable length of time; and includes psychiatric treatment, dentistry,
+physical therapy, occupational therapy, speech or hearing therapy, treatment of
+medical complications, and emergencies that are associated with or arise out of
+physical restoration services or are inherent in the condition under treatment,
+and other medical services related to rehabilitation;
+(2)  Necessary hospitalization (either inpatient or
+outpatient[)] and nursing care in connection with surgery or treatment
+specified in paragraph (1); and
+(3)  Prosthetic devices essential to obtaining or
+retaining employment.
+&quot;Prosthetic appliance&quot; means any
+appliance designed to support or take the place of a part of the body, or to
+increase the acuity of a sensory organ.
+&quot;Rehabilitation facility&quot; means a
+facility operated for the primary purpose of assisting in the rehabilitation of
+handicapped individuals:
+(1)  That provides one or more of the following types
+of services:
+(A)  Testing, fitting, or training in the use
+of prosthetic devices;
+(B)  Prevocational or conditioning therapy;
+(C)  Physical or occupational therapy;
+(D)  Adjustment training; or
+(E)  Evaluation or control of special
+disabilities; or
+(2)  Through which is provided an integrated program
+of medical, psychological, social, and vocational evaluation and services under
+competent professional supervision.
+&quot;Remunerative occupation&quot; includes
+employment as an employee or self-employed, practice of a profession,
+homemaking, or farm and family work for which payment is in kind rather than
+cash, sheltered employment and home industry or other homebound work of a
+remunerative nature.
+&quot;Vocational rehabilitation&quot; means
+making an individual able, or increasing the individual's ability to engage in,
+and placement in, a remunerative occupation through providing the individual
+needed vocational rehabilitation services.
+&quot;Vocational rehabilitation services&quot;
+means:
+(1)  Diagnostic and related services (including
+transportation) incidental to the determination of whether an individual is a
+handicapped individual, and if so, the individual's eligibility for, and the
+nature and scope of other vocational rehabilitation services to be provided;
+and
+(2)  The following services provided to eligible
+handicapped individuals needing the services:
+(A)  Training;
+(B)  Guidance;
+(C)  Placement;
+(D)  Maintenance, not exceeding the estimated
+costs of subsistence during vocational rehabilitation;
+(E)  Occupational licenses, tools, equipment,
+initial stocks, and supplies (including equipment and initial stocks and
+supplies for vending stands), books, and training materials;
+(F)  Transportation (other than provided as
+diagnostic and related services);
+(G)  Physical restoration;
+(H)  Reader services for the blind;
+(I)  Interpreter services for the deaf;
+(J)  Telecommunications, sensory, or other
+technological aids and devices;
+(K)  Services to family members;
+(L)  Post employment services; and
+(M)  Other goods and services which will
+benefit an individual's employability.
+&quot;Workshop&quot; means a place where any
+manufacture or handiwork is carried on and which is operated for the primary
+purpose of providing remunerative employment to severely handicapped
+individuals who cannot be readily absorbed in the competitive labor market. [L
+1955, c 231, pt of §2; RL 1955, §42-31; am L Sp 1959 2d, c 1, §18; am L 1965, c
+175, §§3, 40; HRS §348-2; am L 1970, c 105, §5; am L 1979, c 188, §1(2) and c
+228, §3; am L 1980, c 116, §1; gen ch 1985; am L 1987, c 339, §4; am L 2016, c
+55, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="348_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Internal Revenue Code.
+&quot;Physical restoration&quot; includes:</p>
+            </content>
+            <paragraph eId="348_2__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Corrective surgery or therapeutic treatment
+necessary to correct or substantially modify a physical or mental condition
+that is stable or slowly progressive and constitutes a substantial handicap to
+employment, but is of such a nature that the correction or modification may
+reasonably be expected to eliminate or substantially reduce the handicap within
+a reasonable length of time; and includes psychiatric treatment, dentistry,
+physical therapy, occupational therapy, speech or hearing therapy, treatment of
+medical complications, and emergencies that are associated with or arise out of
+physical restoration services or are inherent in the condition under treatment,
+and other medical services related to rehabilitation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348_2__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Necessary hospitalization (either inpatient or
+outpatient[)] and nursing care in connection with surgery or treatment
+specified in paragraph (1); and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348_2__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Prosthetic devices essential to obtaining or
+retaining employment.
+&quot;Prosthetic appliance&quot; means any
+appliance designed to support or take the place of a part of the body, or to
+increase the acuity of a sensory organ.
+&quot;Rehabilitation facility&quot; means a
+facility operated for the primary purpose of assisting in the rehabilitation of
+handicapped individuals:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348_2__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>That provides one or more of the following types
+of services:</p>
+              </content>
+              <subparagraph eId="348_2__subsec_c__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Testing, fitting, or training in the use
+of prosthetic devices;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Prevocational or conditioning therapy;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_1__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Physical or occupational therapy;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_1__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>Adjustment training; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_1__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>Evaluation or control of special
+disabilities; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="348_2__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Through which is provided an integrated program
+of medical, psychological, social, and vocational evaluation and services under
+competent professional supervision.
+&quot;Remunerative occupation&quot; includes
+employment as an employee or self-employed, practice of a profession,
+homemaking, or farm and family work for which payment is in kind rather than
+cash, sheltered employment and home industry or other homebound work of a
+remunerative nature.
+&quot;Vocational rehabilitation&quot; means
+making an individual able, or increasing the individual's ability to engage in,
+and placement in, a remunerative occupation through providing the individual
+needed vocational rehabilitation services.
+&quot;Vocational rehabilitation services&quot;
+means:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348_2__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Diagnostic and related services (including
+transportation) incidental to the determination of whether an individual is a
+handicapped individual, and if so, the individual's eligibility for, and the
+nature and scope of other vocational rehabilitation services to be provided;
+and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348_2__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The following services provided to eligible
+handicapped individuals needing the services:</p>
+              </content>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Training;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Guidance;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Placement;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>Maintenance, not exceeding the estimated
+costs of subsistence during vocational rehabilitation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>Occupational licenses, tools, equipment,
+initial stocks, and supplies (including equipment and initial stocks and
+supplies for vending stands), books, and training materials;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_F">
+                <num>(F)</num>
+                <content>
+                  <p>Transportation (other than provided as
+diagnostic and related services);</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_G">
+                <num>(G)</num>
+                <content>
+                  <p>Physical restoration;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_H">
+                <num>(H)</num>
+                <content>
+                  <p>Reader services for the blind;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_I">
+                <num>(I)</num>
+                <content>
+                  <p>Interpreter services for the deaf;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_J">
+                <num>(J)</num>
+                <content>
+                  <p>Telecommunications, sensory, or other
+technological aids and devices;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_K">
+                <num>(K)</num>
+                <content>
+                  <p>Services to family members;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_L">
+                <num>(L)</num>
+                <content>
+                  <p>Post employment services; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="348_2__subsec_c__para_2__subpara_M">
+                <num>(M)</num>
+                <content>
+                  <p>Other goods and services which will
+benefit an individual's employability.
+&quot;Workshop&quot; means a place where any
+manufacture or handiwork is carried on and which is operated for the primary
+purpose of providing remunerative employment to severely handicapped
+individuals who cannot be readily absorbed in the competitive labor market. [L
+1955, c 231, pt of §2; RL 1955, §42-31; am L Sp 1959 2d, c 1, §18; am L 1965, c
+175, §§3, 40; HRS §348-2; am L 1970, c 105, §5; am L 1979, c 188, §1</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="348_2__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>and c
+228, §3; am L 1980, c 116, §1; gen ch 1985; am L 1987, c 339, §4; am L 2016, c
+55, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

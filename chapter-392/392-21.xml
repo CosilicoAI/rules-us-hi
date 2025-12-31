@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-21"/>
+          <FRBRuri value="/us-hi/act/hrs/392-21"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-21/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-21/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-21/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-21/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_21">
+          <num>392-21</num>
+          <heading>Section 392-21</heading>
+          <content>
+            <p>PART II. 
+TEMPORARY DISABILITY BENEFITS
+§392-21  Establishment of temporary
+disability benefits.
+(a)  Any individual in current employment who suffers
+disability resulting from accident, sickness, pregnancy, termination of pregnancy,
+or organ donation, except accident or disease connected with or resulting from
+employment as defined in section 386-3 or any other applicable workers'
+compensation law, shall be entitled to receive temporary disability benefits in
+the amount and manner provided in this chapter.
+(b)  It is the policy of this chapter that the
+computation and distribution of benefit payments shall correspond to the
+greatest extent feasible, to the employee's wage loss due to the employee's
+disability; that an employee shall not be entitled to temporary disability
+benefits for periods of disability during which the employee would not have
+earned wages from employment according to the schedule of operations of the
+employee's employer, and that an employee is entitled to benefits only for
+periods of disability during which, but for the disability, the employee would
+have earned wages from employment.  This policy, however, shall not be applied
+to terminate the benefits of an employee who is receiving benefits under this
+chapter for a disability that commenced while the employee was in current
+employment, nor shall it be applied to deny benefits under this chapter if a
+disability that commenced while the employee was in current employment
+continues into a period during which the employee would earn wages but for the
+disability. [L 1969, c 148, pt of §1; am L 1973, c 61, §3; am L 1975, c 41, §1;
+gen ch 1985; am L 1991, c 83, §1; am L 2014, c 160, §2]
+Attorney General Opinions
+If an individual is employed by department as both a
+full-time teacher and an A+ employee and the individual becomes disabled for
+both jobs, department must pay the individual under both the full-time teacher
+TDI plan and the A+ TDI plan in order to compensate the individual for lost
+wages from both full-time teacher and A+ employments, because subsection (b)
+states that &quot;the computation and distribution of benefit payments shall
+correspond to the greatest extent feasible, to the employee's wage loss due to
+the employee's disability&quot;.  Att. Gen. Op. 97-9.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="392_21__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any individual in current employment who suffers
+disability resulting from accident, sickness, pregnancy, termination of pregnancy,
+or organ donation, except accident or disease connected with or resulting from
+employment as defined in section 386-3 or any other applicable workers'
+compensation law, shall be entitled to receive temporary disability benefits in
+the amount and manner provided in this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="392_21__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>It is the policy of this chapter that the
+computation and distribution of benefit payments shall correspond to the
+greatest extent feasible, to the employee's wage loss due to the employee's
+disability; that an employee shall not be entitled to temporary disability
+benefits for periods of disability during which the employee would not have
+earned wages from employment according to the schedule of operations of the
+employee's employer, and that an employee is entitled to benefits only for
+periods of disability during which, but for the disability, the employee would
+have earned wages from employment.  This policy, however, shall not be applied
+to terminate the benefits of an employee who is receiving benefits under this
+chapter for a disability that commenced while the employee was in current
+employment, nor shall it be applied to deny benefits under this chapter if a
+disability that commenced while the employee was in current employment
+continues into a period during which the employee would earn wages but for the
+disability. [L 1969, c 148, pt of §1; am L 1973, c 61, §3; am L 1975, c 41, §1;
+gen ch 1985; am L 1991, c 83, §1; am L 2014, c 160, §2]
+Attorney General Opinions
+If an individual is employed by department as both a
+full-time teacher and an A+ employee and the individual becomes disabled for
+both jobs, department must pay the individual under both the full-time teacher
+TDI plan and the A+ TDI plan in order to compensate the individual for lost
+wages from both full-time teacher and A+ employments, because subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="392_21__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>states that &quot;the computation and distribution of benefit payments shall
+correspond to the greatest extent feasible, to the employee's wage loss due to
+the employee's disability&quot;.  Att. Gen. Op. 97-9.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,485 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-17"/>
+          <FRBRuri value="/us-hi/act/hrs/349-17"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-17/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-17/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-17/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-17/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_17">
+          <num>349-17</num>
+          <heading>Kupuna care program</heading>
+          <content>
+            <p>§349-17  Kupuna care program.
+(a)  The executive office on aging may establish the kupuna
+care program.  The program shall
+provide an array of long
+-term services and supports to address the needs of
+Hawaii's older adults to age in place
+and avoid institutionalization and
+to provide support services to caregivers or employed caregivers in their
+efforts to assist older adults to continue residing in their homes.
+(b)  The program
+shall be coordinated and administered by the executive office on aging and
+implemented through the area agencies on aging.
+(c)  To
+qualify for the kupuna care program, an individual shall be a care recipient,
+caregiver, or employed caregiver as defined in section 349-16.
+(d)  An area agency on aging, through the aging
+and disability resource center or any other entity designated by the executive
+office on aging, shall determine eligibility for the program, which may include
+the following:
+(1)  An intake process to preliminarily determine
+eligibility for publicly funded services and supports, including kupuna care
+services;
+(2)  A comprehensive in-home assessment of the care
+recipient or a caregiver assessment, if necessary; and
+(3)
+A written, individualized,
+person-centered support plan that identifies all services and supports needed
+or currently used to meet the needs of the care recipient, caregiver, or
+employed caregiver, including those provided
+by other programs such as
+medicaid or privately paid programs.
+(e)  An area agency on aging shall use the
+assessment data and individual's support plan to confirm kupuna care program
+eligibility before authorizing and coordinating services and supports.  An area
+agency on aging shall authorize and allot kupuna care services and shall not
+delegate the service authorization function to the agency's subcontractors.
+(f)
+The kupuna care
+program shall be delivered through two distinct service options:  traditional
+service delivery or participant-directed services and support, based on an
+individualized, person-centered support plan for each eligible care recipient,
+caregiver, or employed caregiver; provided that:
+(1)  Traditional service
+delivery shall be by a service provider that provides services to care
+recipients, caregivers, and employed caregivers under a formal contractual
+arrangement with the executive office on aging or applicable area agency on
+aging; and
+(2)  Participant-directed
+services and support shall address the care recipient's assessed needs through
+person-centered planning.  The care recipient shall have decision-making
+authority over their own budget to purchase and manage their needed services
+and supports based upon their person-centered support plan.
+(g)  An individual
+shall be determined to be ineligible for kupuna care services when:
+(1)  The individual does not meet the eligibility
+requirements specified;
+(2)  The individual's need
+is not substantiated through an in-home assessment;
+(3)
+The
+individual leaves the State or the individual's whereabouts
+are unknown; or
+(4)
+The
+individual refuses services.
+(h)  An area agency
+on aging shall provide an individual with written notice of the disposition of
+ineligibility for kupuna care services.
+(i)  An individual
+who has been determined ineligible for kupuna care services shall have the
+opportunity to appeal the decision to the applicable area agency on aging.
+(j)  Prior to
+termination of kupuna care services, service providers shall notify the
+applicable area agency on aging of the date and reason for termination. 
+Termination of kupuna care services may occur if the care recipient, caregiver,
+or employed caregiver:
+(1)
+Moves
+and the provider is unable to locate the care recipient,
+caregiver, or employed caregiver;
+(2)  Is transferred to
+another area agency on aging;
+(3)  Dies;
+(4)  No
+longer
+needs or wants kupuna care services and supports, or no
+longer needs or wants a particular kupuna care service or support;
+(5)  Is uncooperative with
+the service provider;
+(6)  Is noncompliant with
+the basic requirements of the program;
+(7)
+Engages
+in behavior that threatens or demonstrates violence toward
+the service provider;
+(8)  Is placed or resides in
+a long-term care facility, such as an intermediate care facility, assisted
+living facility, skilled nursing facility, hospital, community care foster
+family home, adult foster home, adult residential care home, expanded adult
+residential care home, or developmental disabilities domiciliary home;
+(9)
+Uses
+comparable services from other programs; or
+(10)
+Has
+a communicable disease that threatens the safety and
+welfare of the service provider.
+(k)  All area
+agencies on aging shall record all consumer data, assessments, and service
+delivery within a statewide consolidated database.
+(l)  The kupuna care
+program shall award an allocation of funds to cover costs for services, subject
+to availability of funding; provided that the allocated funds shall be issued
+directly to the service provider or financial management service provider upon
+request and receipt of an invoice for services rendered.
+(m)  The executive office on aging shall develop an
+outreach plan to inform individuals of the kupuna care program and services of
+the program.
+(n)  The executive
+office on aging shall submit an annual report to the legislature, no later than
+twenty days prior to the convening of each regular session, on the kupuna care
+program.  The report shall include, at minimum:
+(1)
+The
+number of individuals who participate in the kupuna care program, including the
+types of programs in which they participate; and
+(2)  The number of
+individuals on a program waitlist, including the types of programs for which
+they are on a waitlist.
+(o)  The director may
+adopt rules pursuant to chapter 91 necessary for the purposes of this section.
+[L 2012, c 238, §2; §349-3.1; ren and am L 2017, c 102, §4; am L 2022, c 160, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_17__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The executive office on aging may establish the kupuna
+care program.  The program shall
+provide an array of long
+-term services and supports to address the needs of
+Hawaii's older adults to age in place
+and avoid institutionalization and
+to provide support services to caregivers or employed caregivers in their
+efforts to assist older adults to continue residing in their homes.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The program
+shall be coordinated and administered by the executive office on aging and
+implemented through the area agencies on aging.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To
+qualify for the kupuna care program, an individual shall be a care recipient,
+caregiver, or employed caregiver as defined in section 349-16.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>An area agency on aging, through the aging
+and disability resource center or any other entity designated by the executive
+office on aging, shall determine eligibility for the program, which may include
+the following:</p>
+            </content>
+            <paragraph eId="349_17__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>An intake process to preliminarily determine
+eligibility for publicly funded services and supports, including kupuna care
+services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A comprehensive in-home assessment of the care
+recipient or a caregiver assessment, if necessary; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A written, individualized,
+person-centered support plan that identifies all services and supports needed
+or currently used to meet the needs of the care recipient, caregiver, or
+employed caregiver, including those provided
+by other programs such as
+medicaid or privately paid programs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_17__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>An area agency on aging shall use the
+assessment data and individual's support plan to confirm kupuna care program
+eligibility before authorizing and coordinating services and supports.  An area
+agency on aging shall authorize and allot kupuna care services and shall not
+delegate the service authorization function to the agency's subcontractors.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The kupuna care
+program shall be delivered through two distinct service options:  traditional
+service delivery or participant-directed services and support, based on an
+individualized, person-centered support plan for each eligible care recipient,
+caregiver, or employed caregiver; provided that:</p>
+            </content>
+            <paragraph eId="349_17__subsec_f__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Traditional service
+delivery shall be by a service provider that provides services to care
+recipients, caregivers, and employed caregivers under a formal contractual
+arrangement with the executive office on aging or applicable area agency on
+aging; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_f__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Participant-directed
+services and support shall address the care recipient's assessed needs through
+person-centered planning.  The care recipient shall have decision-making
+authority over their own budget to purchase and manage their needed services
+and supports based upon their person-centered support plan.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_17__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>An individual
+shall be determined to be ineligible for kupuna care services when:</p>
+            </content>
+            <paragraph eId="349_17__subsec_g__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The individual does not meet the eligibility
+requirements specified;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_g__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The individual's need
+is not substantiated through an in-home assessment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_g__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The
+individual leaves the State or the individual's whereabouts
+are unknown; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_g__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The
+individual refuses services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_17__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>An area agency
+on aging shall provide an individual with written notice of the disposition of
+ineligibility for kupuna care services.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An individual
+who has been determined ineligible for kupuna care services shall have the
+opportunity to appeal the decision to the applicable area agency on aging.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Prior to
+termination of kupuna care services, service providers shall notify the
+applicable area agency on aging of the date and reason for termination. 
+Termination of kupuna care services may occur if the care recipient, caregiver,
+or employed caregiver:</p>
+            </content>
+            <paragraph eId="349_17__subsec_j__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Moves
+and the provider is unable to locate the care recipient,
+caregiver, or employed caregiver;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Is transferred to
+another area agency on aging;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Dies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_4">
+              <num>(4)</num>
+              <content>
+                <p>No
+longer
+needs or wants kupuna care services and supports, or no
+longer needs or wants a particular kupuna care service or support;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Is uncooperative with
+the service provider;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Is noncompliant with
+the basic requirements of the program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Engages
+in behavior that threatens or demonstrates violence toward
+the service provider;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Is placed or resides in
+a long-term care facility, such as an intermediate care facility, assisted
+living facility, skilled nursing facility, hospital, community care foster
+family home, adult foster home, adult residential care home, expanded adult
+residential care home, or developmental disabilities domiciliary home;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Uses
+comparable services from other programs; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_j__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Has
+a communicable disease that threatens the safety and
+welfare of the service provider.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_17__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>All area
+agencies on aging shall record all consumer data, assessments, and service
+delivery within a statewide consolidated database.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>The kupuna care
+program shall award an allocation of funds to cover costs for services, subject
+to availability of funding; provided that the allocated funds shall be issued
+directly to the service provider or financial management service provider upon
+request and receipt of an invoice for services rendered.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>The executive office on aging shall develop an
+outreach plan to inform individuals of the kupuna care program and services of
+the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_17__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>The executive
+office on aging shall submit an annual report to the legislature, no later than
+twenty days prior to the convening of each regular session, on the kupuna care
+program.  The report shall include, at minimum:</p>
+            </content>
+            <paragraph eId="349_17__subsec_n__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The
+number of individuals who participate in the kupuna care program, including the
+types of programs in which they participate; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_17__subsec_n__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The number of
+individuals on a program waitlist, including the types of programs for which
+they are on a waitlist.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_17__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>The director may
+adopt rules pursuant to chapter 91 necessary for the purposes of this section.
+[L 2012, c 238, §2; §349-3.1; ren and am L 2017, c 102, §4; am L 2022, c 160, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

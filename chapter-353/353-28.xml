@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-28"/>
+          <FRBRuri value="/us-hi/act/hrs/353-28"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-28/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-28/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-28/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-28/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_28">
+          <num>353-28</num>
+          <heading>Section 353-28</heading>
+          <content>
+            <p>§353-28  Property given to committed
+persons.
+All property given or in any manner whatsoever accruing to a
+committed person, shall vest in the committed person's conservator, if the
+committed person is sentenced for a term of years, to be disposed of in the
+same manner as the committed person's other property; or if the committed
+person is sentenced for life, shall vest in the committed person's heirs or
+legatees; provided that any funds accumulated by the committed person and
+placed into an account as provided under section 353
+-
+20 shall be under
+the control and management of the director. [L 1987, c 338, pt of §3; am L
+2004, c 161, §15]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/396-7"/>
+          <FRBRuri value="/us-hi/act/hrs/396-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/396-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/396-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/396-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/396-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_396">
+        <num>Chapter 396</num>
+        <heading>Occupational Safety and Health</heading>
+        <section eId="sec_396_7">
+          <num>396-7</num>
+          <heading>Toxic materials</heading>
+          <content>
+            <p>[§396-7]  Toxic materials.
+(a)  The
+department shall issue regulations requiring employers to maintain accurate
+records of employee exposures to potentially toxic materials or harmful
+physical agents which are required to be monitored or measured as prescribed
+under the rules and regulations.
+(b)  All employers shall prominently post
+information regarding hazards in the employer's workplace including information
+about suitable precautions, relevant symptoms, and emergency treatment in case
+of exposure, and where appropriate, medical examination at no cost to employees
+with the results of such medical examinations being furnished only to
+appropriate state officials, and if the employee so requests, to the employee's
+own physician.  Where possible, said information shall additionally be posted
+or labeled on or near said hazard.  Where suitable protective equipment is
+available, all employers shall provide information concerning their
+availability and use to the affected employees including control or
+technological procedures with respect to such hazards including monitoring or
+measuring exposure.
+(c)  No employee shall be permitted regular
+exposure to any substance which may materially impair the employee's health or
+functional capacity.
+(d)  All employers shall provide prompt
+information to employees when they have been or are being exposed to toxic
+materials and harmful physical agents in concentrations or at levels in excess
+of those prescribed in the applicable safety and health standards.  This
+information may be fulfilled by:
+(1)  Observation by employees of the monitoring or
+measuring of such materials or agents;
+(2)  Employee access to the records of such monitoring
+or measuring after notice of exposure, and explanation of said monitoring or
+measuring procedures where necessary;
+(3)  In addition to the above, information shall be
+provided to the employees of corrective action being taken. [L 1972, c 57, pt
+of §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="396_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The
+department shall issue regulations requiring employers to maintain accurate
+records of employee exposures to potentially toxic materials or harmful
+physical agents which are required to be monitored or measured as prescribed
+under the rules and regulations.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All employers shall prominently post
+information regarding hazards in the employer's workplace including information
+about suitable precautions, relevant symptoms, and emergency treatment in case
+of exposure, and where appropriate, medical examination at no cost to employees
+with the results of such medical examinations being furnished only to
+appropriate state officials, and if the employee so requests, to the employee's
+own physician.  Where possible, said information shall additionally be posted
+or labeled on or near said hazard.  Where suitable protective equipment is
+available, all employers shall provide information concerning their
+availability and use to the affected employees including control or
+technological procedures with respect to such hazards including monitoring or
+measuring exposure.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No employee shall be permitted regular
+exposure to any substance which may materially impair the employee's health or
+functional capacity.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>All employers shall provide prompt
+information to employees when they have been or are being exposed to toxic
+materials and harmful physical agents in concentrations or at levels in excess
+of those prescribed in the applicable safety and health standards.  This
+information may be fulfilled by:</p>
+            </content>
+            <paragraph eId="396_7__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Observation by employees of the monitoring or
+measuring of such materials or agents;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="396_7__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Employee access to the records of such monitoring
+or measuring after notice of exposure, and explanation of said monitoring or
+measuring procedures where necessary;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="396_7__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>In addition to the above, information shall be
+provided to the employees of corrective action being taken. [L 1972, c 57, pt
+of §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

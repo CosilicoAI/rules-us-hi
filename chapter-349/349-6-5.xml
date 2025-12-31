@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-6.5"/>
+          <FRBRuri value="/us-hi/act/hrs/349-6.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-6.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-6.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-6.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-6.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_6_5">
+          <num>349-6.5</num>
+          <heading>Section 349-6.5</heading>
+          <content>
+            <p>§349-6  State master plan for elders.
+The executive office on aging shall be responsible for the continued
+development, implementation, and continuous updating of a comprehensive master
+plan for elders which shall include, but not be limited to, the following:
+(1)  Compilation of basic demographic data on elders
+in the State;
+(2)  Identification of the physical, sociological,
+psychological, and economic needs of elders in the State;
+(3)  Establishment of immediate and long-range goals
+pursuant to programs and services for elders in the State;
+(4)  Establishment of priorities for program
+implementation and of alternatives for program implementation; and
+(5)  Organization of administrative and program
+structure, including the use of facilities and personnel.
+The state master plan for elders shall be
+developed in accordance with the requirements of the executive budget act. [L
+1976, c 217, pt of §2; am L 1990, c 67, §8]
+Case Notes
+Justifying age sixty-five retirement policy on basis of
+conserving state funds would be inconsistent with this section.  56 H. 601, 546
+P.2d 1005 (1976).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

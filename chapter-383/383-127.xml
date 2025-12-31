@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-127"/>
+          <FRBRuri value="/us-hi/act/hrs/383-127"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-127/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-127/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-127/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-127/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_127">
+          <num>383-127</num>
+          <heading>Section 383-127</heading>
+          <content>
+            <p>[§383-127]  Special unemployment insurance
+administration fund.
+(a)  There is created in the state treasury a special
+fund to be known as the special unemployment insurance administration fund. 
+All interest, fines, and penalties collected under this chapter on and after
+October 1, 1987, shall be paid into this fund and shall not be commingled
+with other state funds but maintained in a separate account on the books of the
+depository.  Interest earned upon moneys in the administration fund shall be
+deposited and credited to the administration fund.
+All moneys payable to the administration fund
+shall be transferred immediately into the administration fund from the clearing
+account of the unemployment compensation fund.  The director of finance shall
+be the treasurer and custodian of the administration fund and shall administer
+the fund in accordance with directions by the director of labor and industrial
+relations.  The director of finance shall be liable on the director's official
+bond for the faithful performance of all duties in connection with the
+administration fund.  All sums recovered on such surety bond for losses
+sustained by the administration fund shall be deposited into the fund.
+(b)  Notwithstanding any other provisions of
+this section to the contrary, the moneys in the administration fund shall be
+used for the payment of the following expenses and obligations relating to the
+administration of the unemployment insurance program:
+(1)  Refunds or adjustments of interest on delinquent
+contributions and penalties or fines erroneously collected under this chapter;
+(2)  Expenses for which allocation of federal funds
+have been duly requested but not yet received, subject to the reimbursement of
+the expenditures against the funds received;
+(3)  Expenditures deemed necessary by the director in
+the administration of this chapter for which no allocations of federal
+administration funds have been made; and
+(4)  Interest due under the provisions of section
+1202(b) of the Social Security Act, as amended, for advances made to the
+unemployment compensation fund.
+(c)  No moneys in the administration fund shall
+be expended for any purpose for which federal funds would otherwise be
+available.
+(d)  All expenditures from the administration
+fund, except for refunds of penalties and interest erroneously collected, shall
+be approved by the director.
+(e)  All moneys deposited or paid into the
+administration fund shall be continuously available to the director for
+expenditures consistent with this section and shall not lapse at any time.  The
+director may transfer moneys deposited in the administration fund to the
+unemployment compensation fund as the director deems necessary.
+(f)  Twenty days before the convening of the
+legislature in regular session each year, the director shall submit a report to
+the legislature on the financial status of the special unemployment insurance
+administration fund. [L 1987, c 119, §1; am L 1988, c 77, §1]
+Revision Note
+Section renumbered by revisor pursuant to §23G-15.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_127__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is created in the state treasury a special
+fund to be known as the special unemployment insurance administration fund. 
+All interest, fines, and penalties collected under this chapter on and after
+October 1, 1987, shall be paid into this fund and shall not be commingled
+with other state funds but maintained in a separate account on the books of the
+depository.  Interest earned upon moneys in the administration fund shall be
+deposited and credited to the administration fund.
+All moneys payable to the administration fund
+shall be transferred immediately into the administration fund from the clearing
+account of the unemployment compensation fund.  The director of finance shall
+be the treasurer and custodian of the administration fund and shall administer
+the fund in accordance with directions by the director of labor and industrial
+relations.  The director of finance shall be liable on the director's official
+bond for the faithful performance of all duties in connection with the
+administration fund.  All sums recovered on such surety bond for losses
+sustained by the administration fund shall be deposited into the fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_127__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding any other provisions of
+this section to the contrary, the moneys in the administration fund shall be
+used for the payment of the following expenses and obligations relating to the
+administration of the unemployment insurance program:</p>
+            </content>
+            <paragraph eId="383_127__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Refunds or adjustments of interest on delinquent
+contributions and penalties or fines erroneously collected under this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_127__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Expenses for which allocation of federal funds
+have been duly requested but not yet received, subject to the reimbursement of
+the expenditures against the funds received;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_127__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Expenditures deemed necessary by the director in
+the administration of this chapter for which no allocations of federal
+administration funds have been made; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_127__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Interest due under the provisions of section
+1202</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_127__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of the Social Security Act, as amended, for advances made to the
+unemployment compensation fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_127__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No moneys in the administration fund shall
+be expended for any purpose for which federal funds would otherwise be
+available.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_127__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>All expenditures from the administration
+fund, except for refunds of penalties and interest erroneously collected, shall
+be approved by the director.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_127__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>All moneys deposited or paid into the
+administration fund shall be continuously available to the director for
+expenditures consistent with this section and shall not lapse at any time.  The
+director may transfer moneys deposited in the administration fund to the
+unemployment compensation fund as the director deems necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_127__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Twenty days before the convening of the
+legislature in regular session each year, the director shall submit a report to
+the legislature on the financial status of the special unemployment insurance
+administration fund. [L 1987, c 119, §1; am L 1988, c 77, §1]
+Revision Note
+Section renumbered by revisor pursuant to §23G-15.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

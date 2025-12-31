@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-32"/>
+          <FRBRuri value="/us-hi/act/hrs/245-32"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-32/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-32/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-32/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-32/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_32">
+          <num>245-32</num>
+          <heading>Section 245-32</heading>
+          <content>
+            <p>[§245-32]  Tax refund or credit for
+cigarettes and tobacco products shipped for sale or use outside the State.
+(a)  The department shall adopt rules to provide a tobacco tax refund or credit
+to a licensee who has paid a tobacco tax on the distribution of cigarettes or
+tobacco products that are shipped to a point outside the State for subsequent
+sale or use outside the State.
+(b)  This part shall not apply to cigarettes or
+tobacco products that are distributed in this State to consumers and that are
+subsequently taken outside the State. [L 2000, c 249, pt of §1, §20(2); am L
+2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="245_32__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall adopt rules to provide a tobacco tax refund or credit
+to a licensee who has paid a tobacco tax on the distribution of cigarettes or
+tobacco products that are shipped to a point outside the State for subsequent
+sale or use outside the State.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_32__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This part shall not apply to cigarettes or
+tobacco products that are distributed in this State to consumers and that are
+subsequently taken outside the State. [L 2000, c 249, pt of §1, §20(2); am L
+2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,345 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-435"/>
+          <FRBRuri value="/us-hi/act/hrs/346-435"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-435/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-435/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-435/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-435/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_435">
+          <num>346-435</num>
+          <heading>]</heading>
+          <content>
+            <p>[
+§346-435]
+Wellness and
+resilience advisory board; establishment; members; roles.
+[See Note at
+part heading.]
+(a)  There is established within the department for
+administrative purposes only, a wellness and resilience advisory board to advise
+the office in implementing this part.  The board shall consist of the following
+members:
+(1)  The director of health, or the director's
+designee, who shall serve as the chairperson of the advisory board;
+(2)  The director of human services, or the director's
+designee;
+(3)  The superintendent of
+education, or the superintendent's designee;
+(4)  The director of corrections and rehabilitation,
+or the director's designee;
+(5)  The director of the executive office on early
+learning, or the director's designee;
+(6)  A member of the judiciary, to be appointed by the
+chief justice of the supreme court; and
+(7)  A faculty member from the University of Hawaii
+John A. Burns school of medicine, to be appointed by the dean of the University
+of Hawaii John A. Burns school of medicine.
+(b)  The chairperson shall also invite the
+following persons to serve as members of the board:
+(1)  The chief executive officer of Kamehameha
+Schools, or the chief executive officer's designee;
+(2)  A member of the law enforcement community;
+(3)  A member of the non-profit sector; and
+(4)  A community member or non-profit representative
+from the Compact of Free Association islander community.
+(c)  The wellness and resiliency advisory board
+shall advise on wellness and resilience through trauma-informed care in the
+State.  Specifically, the advisory board shall:
+(1)  Create, develop, and adopt a statewide framework
+for trauma-informed and responsive practice.  The framework shall include:
+(A)  A clear definition of &quot;trauma-informed
+and responsive practice&quot;;
+(B)  Principles of trauma-informed and
+responsive care that may apply to any school, health care provider, law
+enforcement agency, community organization, state agency, or other entity that
+has contact with children or youth;
+(C)  Clear examples of how individuals and
+institutions may implement trauma-informed and responsive practices across
+different domains, including organizational leadership, workforce
+development, policy and decision-making, and evaluation;
+(D)  Strategies for preventing and addressing
+secondary traumatic stress for all professionals and providers working with
+children and youth and their families who have experienced trauma;
+(E)  Recommendations to implement trauma-informed
+care professional development and strategy requirements in county and state
+contracts; and
+(F)  An implementation and sustainability
+plan, consisting of an evaluation plan with suggested metrics for assessing
+ongoing progress of the framework;
+(2)  Identify best practices, including those from
+Native Hawaiian cultural practices, with respect to children and youth who have
+experienced or are at risk of experiencing trauma, and their families;
+(3)  Provide a trauma-informed care inventory and
+assessment of public and private agencies and departments;
+(4)  Identify various cultural practices that build
+wellness and resilience in communities;
+(5)  Convene trauma-informed care practitioners so
+that they may share research and strategies in helping communities build
+wellness and resilience;
+(6)  Seek ways in which federal funding may be used to
+better coordinate and improve the response to families impacted by coronavirus
+disease 2019 (COVID-19), substance use disorders, domestic violence, poverty,
+and other forms of trauma; and make recommendations, as necessary, for a
+government position to communicate with federal agencies to seek and leverage
+federal funding with county and state agencies and philanthropical
+organizations; and
+(7)  Coordinate data collection and funding streams to
+support the efforts of the board.
+(d)  The nongovernmental members of the wellness
+and resiliency advisory board shall serve without compensation but shall be
+reimbursed for expenses, including travel expenses, necessary for the
+performance of their duties. [L 2023, c 87, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_435__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the department for
+administrative purposes only, a wellness and resilience advisory board to advise
+the office in implementing this part.  The board shall consist of the following
+members:</p>
+            </content>
+            <paragraph eId="346_435__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The director of health, or the director's
+designee, who shall serve as the chairperson of the advisory board;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The director of human services, or the director's
+designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The superintendent of
+education, or the superintendent's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The director of corrections and rehabilitation,
+or the director's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>The director of the executive office on early
+learning, or the director's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>A member of the judiciary, to be appointed by the
+chief justice of the supreme court; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>A faculty member from the University of Hawaii
+John A. Burns school of medicine, to be appointed by the dean of the University
+of Hawaii John A. Burns school of medicine.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_435__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The chairperson shall also invite the
+following persons to serve as members of the board:</p>
+            </content>
+            <paragraph eId="346_435__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The chief executive officer of Kamehameha
+Schools, or the chief executive officer's designee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A member of the law enforcement community;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A member of the non-profit sector; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>A community member or non-profit representative
+from the Compact of Free Association islander community.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_435__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The wellness and resiliency advisory board
+shall advise on wellness and resilience through trauma-informed care in the
+State.  Specifically, the advisory board shall:</p>
+            </content>
+            <paragraph eId="346_435__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Create, develop, and adopt a statewide framework
+for trauma-informed and responsive practice.  The framework shall include:</p>
+              </content>
+              <subparagraph eId="346_435__subsec_c__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>A clear definition of &quot;trauma-informed
+and responsive practice&quot;;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_435__subsec_c__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Principles of trauma-informed and
+responsive care that may apply to any school, health care provider, law
+enforcement agency, community organization, state agency, or other entity that
+has contact with children or youth;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_435__subsec_c__para_1__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Clear examples of how individuals and
+institutions may implement trauma-informed and responsive practices across
+different domains, including organizational leadership, workforce
+development, policy and decision-making, and evaluation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_435__subsec_c__para_1__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>Strategies for preventing and addressing
+secondary traumatic stress for all professionals and providers working with
+children and youth and their families who have experienced trauma;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_435__subsec_c__para_1__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>Recommendations to implement trauma-informed
+care professional development and strategy requirements in county and state
+contracts; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_435__subsec_c__para_1__subpara_F">
+                <num>(F)</num>
+                <content>
+                  <p>An implementation and sustainability
+plan, consisting of an evaluation plan with suggested metrics for assessing
+ongoing progress of the framework;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="346_435__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Identify best practices, including those from
+Native Hawaiian cultural practices, with respect to children and youth who have
+experienced or are at risk of experiencing trauma, and their families;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Provide a trauma-informed care inventory and
+assessment of public and private agencies and departments;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Identify various cultural practices that build
+wellness and resilience in communities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_c__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Convene trauma-informed care practitioners so
+that they may share research and strategies in helping communities build
+wellness and resilience;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_c__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Seek ways in which federal funding may be used to
+better coordinate and improve the response to families impacted by coronavirus
+disease 2019 (COVID-19), substance use disorders, domestic violence, poverty,
+and other forms of trauma; and make recommendations, as necessary, for a
+government position to communicate with federal agencies to seek and leverage
+federal funding with county and state agencies and philanthropical
+organizations; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_435__subsec_c__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Coordinate data collection and funding streams to
+support the efforts of the board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_435__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The nongovernmental members of the wellness
+and resiliency advisory board shall serve without compensation but shall be
+reimbursed for expenses, including travel expenses, necessary for the
+performance of their duties. [L 2023, c 87, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

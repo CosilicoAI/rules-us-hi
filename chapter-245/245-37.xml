@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-37"/>
+          <FRBRuri value="/us-hi/act/hrs/245-37"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-37/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-37/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-37/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-37/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_37">
+          <num>245-37</num>
+          <heading>Section 245-37</heading>
+          <content>
+            <p>[§245-37]  Sale or purchase of packages of
+cigarettes without stamps; fines and penalties.
+(a)  Beginning April 1,
+2001, a person shall be guilty of a class C felony if the person:
+(1)  Is not a licensee, and knowingly possesses,
+keeps, stores, acquires, or transports three thousand or more cigarettes that
+do not have stamps affixed to the cigarette packages as required by this part;
+or
+(2)  Knowingly sells one thousand or more cigarettes
+that do not have stamps affixed to the cigarette packages as required by this
+part.
+(b)  Beginning April 1, 2001, a person shall be
+guilty of a misdemeanor if the person:
+(1)  Is not a licensee, and knowingly possesses,
+keeps, stores, acquires, or transports one thousand or more cigarettes that do
+not have stamps affixed to the cigarette packages as required by this part; or
+(2)  Knowingly sells less than one thousand cigarettes
+that do not have stamps affixed to the cigarette packages as required by this
+part.
+(c)  In addition to any other authorized
+disposition, a corporation found in violation of:
+(1)  Subsection (a) is subject to a fine in an amount
+not to exceed $50,000; and
+(2)  Subsection (b) is subject to a fine in an amount
+not to exceed $25,000. [L 2000, c 249, pt of §1, §20(2); am L 2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="245_37__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning April 1,
+2001, a person shall be guilty of a class C felony if the person:</p>
+            </content>
+            <paragraph eId="245_37__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Is not a licensee, and knowingly possesses,
+keeps, stores, acquires, or transports three thousand or more cigarettes that
+do not have stamps affixed to the cigarette packages as required by this part;
+or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_37__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Knowingly sells one thousand or more cigarettes
+that do not have stamps affixed to the cigarette packages as required by this
+part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245_37__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning April 1, 2001, a person shall be
+guilty of a misdemeanor if the person:</p>
+            </content>
+            <paragraph eId="245_37__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Is not a licensee, and knowingly possesses,
+keeps, stores, acquires, or transports one thousand or more cigarettes that do
+not have stamps affixed to the cigarette packages as required by this part; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_37__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Knowingly sells less than one thousand cigarettes
+that do not have stamps affixed to the cigarette packages as required by this
+part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245_37__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In addition to any other authorized
+disposition, a corporation found in violation of:</p>
+            </content>
+            <paragraph eId="245_37__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245_37__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>is subject to a fine in an amount
+not to exceed $50,000; and</p>
+            </content>
+            <paragraph eId="245_37__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245_37__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>is subject to a fine in an amount
+not to exceed $25,000. [L 2000, c 249, pt of §1, §20(2); am L 2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

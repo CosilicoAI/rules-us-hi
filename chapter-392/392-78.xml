@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-78"/>
+          <FRBRuri value="/us-hi/act/hrs/392-78"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-78/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-78/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-78/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-78/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_78">
+          <num>392-78</num>
+          <heading>Section 392-78</heading>
+          <content>
+            <p>§392-78  Recovery of benefits paid;
+individual's liability to repay benefits; insurer's appeal rights.
+(a) 
+Any person who has received any amount as benefits under this chapter to which
+the person was not entitled shall be liable for such amount unless the
+overpayment was received without fault on the part of the recipient and its
+recovery would be against equity and good conscience.  Notice of a
+reconsideration under section 392-79 in such cases shall specify that the
+person is liable to repay the amount of overpaid benefits, the basis of the
+overpayment, and the week or weeks for which such benefits were paid.
+(b)  The person liable shall, in the discretion
+of the referee, either repay such amount or have the amount deducted from any
+future benefits payable under this chapter within two years after the date of
+mailing of the notice of reconsideration or the final decision on an appeal
+from such reconsideration.
+(c)  In any case in which under this section an
+individual is liable to repay any amount, the amount shall be payable without
+interest.
+(d)  In accordance with sections 392-71 and
+392-72, an insurer, self-insured employer or the trust fund for disability
+benefits shall have a right to appeal for the recovery of disability benefits
+which were overpaid an employee.  Subsections (a) through (c) shall be
+applicable in the recovery of overpaid benefits. [L 1969, c 148, pt of §1; am L
+1981, c 14, §1; gen ch 1985; am L 2013, c 100, §8]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="392_78__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person who has received any amount as benefits under this chapter to which
+the person was not entitled shall be liable for such amount unless the
+overpayment was received without fault on the part of the recipient and its
+recovery would be against equity and good conscience.  Notice of a
+reconsideration under section 392-79 in such cases shall specify that the
+person is liable to repay the amount of overpaid benefits, the basis of the
+overpayment, and the week or weeks for which such benefits were paid.</p>
+            </content>
+          </subsection>
+          <subsection eId="392_78__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The person liable shall, in the discretion
+of the referee, either repay such amount or have the amount deducted from any
+future benefits payable under this chapter within two years after the date of
+mailing of the notice of reconsideration or the final decision on an appeal
+from such reconsideration.</p>
+            </content>
+          </subsection>
+          <subsection eId="392_78__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In any case in which under this section an
+individual is liable to repay any amount, the amount shall be payable without
+interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="392_78__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In accordance with sections 392-71 and
+392-72, an insurer, self-insured employer or the trust fund for disability
+benefits shall have a right to appeal for the recovery of disability benefits
+which were overpaid an employee.  Subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="392_78__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="392_78__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>shall be
+applicable in the recovery of overpaid benefits. [L 1969, c 148, pt of §1; am L
+1981, c 14, §1; gen ch 1985; am L 2013, c 100, §8]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

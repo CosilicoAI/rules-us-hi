@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/398-7"/>
+          <FRBRuri value="/us-hi/act/hrs/398-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/398-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/398-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/398-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/398-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_398">
+        <num>Chapter 398</num>
+        <heading>Family Leave</heading>
+        <section eId="sec_398_7">
+          <num>398-7</num>
+          <heading>Section 398-7</heading>
+          <content>
+            <p>[§398-7]  Employment and benefits
+protection.
+(a)  Upon return from family leave, the employee shall be
+entitled to be restored by the employer to the position of employment held by
+the employee when the leave commenced, or restored to an equivalent position
+with equivalent employment benefits, pay, and other terms and conditions of
+employment.  If, however, during a leave, the employer experiences a layoff or
+workforce reduction and the employee would have lost a position had the employee
+not been on family leave, the employee is not entitled to reinstatement in the
+former or equivalent position.  In such circumstances, the employee retains all
+rights, including seniority rights, pursuant to the good faith operation of a
+bona fide layoff and recall system.
+(b)  The taking of family leave shall not
+result in the loss of any employment benefit accrued before the date on which
+the leave commenced, except for any paid leave that may have been expended in
+conjunction with the family leave.
+(c)  Nothing in this chapter shall be construed
+to entitle or deny any employee to the accrual of any seniority or employment
+benefits during any period of leave, or any right, employment benefit, or
+position to which the employee would have been entitled had the employee not
+taken the leave. [L 1991, c 328, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="398_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon return from family leave, the employee shall be
+entitled to be restored by the employer to the position of employment held by
+the employee when the leave commenced, or restored to an equivalent position
+with equivalent employment benefits, pay, and other terms and conditions of
+employment.  If, however, during a leave, the employer experiences a layoff or
+workforce reduction and the employee would have lost a position had the employee
+not been on family leave, the employee is not entitled to reinstatement in the
+former or equivalent position.  In such circumstances, the employee retains all
+rights, including seniority rights, pursuant to the good faith operation of a
+bona fide layoff and recall system.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The taking of family leave shall not
+result in the loss of any employment benefit accrued before the date on which
+the leave commenced, except for any paid leave that may have been expended in
+conjunction with the family leave.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Nothing in this chapter shall be construed
+to entitle or deny any employee to the accrual of any seniority or employment
+benefits during any period of leave, or any right, employment benefit, or
+position to which the employee would have been entitled had the employee not
+taken the leave. [L 1991, c 328, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

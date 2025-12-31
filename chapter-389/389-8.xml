@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-8"/>
+          <FRBRuri value="/us-hi/act/hrs/389-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_8">
+          <num>389-8</num>
+          <heading>Section 389-8</heading>
+          <content>
+            <p>[§389-8]  Hawaii retirement savings special
+fund.
+(a)  There is established within the state treasury a Hawaii retirement
+savings special fund, into which shall be deposited:
+(1)  Moneys appropriated to the fund by the
+legislature;
+(2)  Moneys transferred to the fund from the federal
+government, other states, and their political subdivisions;
+(3)  Fees collected by the board in relation to the
+administration and operation of the program;
+(4)  Grants, gifts, and donations made to the board
+for deposit into the fund;
+(5)  Moneys collected for the fund from:
+(A)  Contributions to, or investment returns
+or assets of, the program; or
+(B)  Other moneys collected by or for the
+program or pursuant to arrangements established under the program,
+to the extent permitted under federal and state
+law;
+(6)  Interest earned or accrued on moneys deposited in
+the fund; and
+(7)  Penalties collected pursuant to section 389-14.
+(b)  All moneys in the special fund are
+appropriated for the purposes of and shall be expended by the department to pay
+the administrative costs and expenses of the program, program manager, matching
+contributions to participant accounts, and the administrative costs and
+expenses that the board incurs in the performance of its duties under this
+chapter, and to reimburse the general fund of the State of Hawaii for the
+initial expenses incurred for initiating, implementing, maintaining, and
+administering the program. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the state treasury a Hawaii retirement
+savings special fund, into which shall be deposited:</p>
+            </content>
+            <paragraph eId="389_8__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Moneys appropriated to the fund by the
+legislature;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_8__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Moneys transferred to the fund from the federal
+government, other states, and their political subdivisions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_8__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Fees collected by the board in relation to the
+administration and operation of the program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_8__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Grants, gifts, and donations made to the board
+for deposit into the fund;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_8__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Moneys collected for the fund from:</p>
+              </content>
+              <subparagraph eId="389_8__subsec_a__para_5__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Contributions to, or investment returns
+or assets of, the program; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_8__subsec_a__para_5__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Other moneys collected by or for the
+program or pursuant to arrangements established under the program,
+to the extent permitted under federal and state
+law;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="389_8__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Interest earned or accrued on moneys deposited in
+the fund; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_8__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Penalties collected pursuant to section 389-14.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All moneys in the special fund are
+appropriated for the purposes of and shall be expended by the department to pay
+the administrative costs and expenses of the program, program manager, matching
+contributions to participant accounts, and the administrative costs and
+expenses that the board incurs in the performance of its duties under this
+chapter, and to reimburse the general fund of the State of Hawaii for the
+initial expenses incurred for initiating, implementing, maintaining, and
+administering the program. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

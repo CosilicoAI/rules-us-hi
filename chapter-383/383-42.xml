@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-42"/>
+          <FRBRuri value="/us-hi/act/hrs/383-42"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-42/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-42/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-42/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-42/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_42">
+          <num>383-42</num>
+          <heading>Representation</heading>
+          <content>
+            <p>§383-42  Representation.
+The department
+of labor and industrial relations shall be a party and be entitled to notice in
+any proceeding involving a claim for benefits before the referee.  In any
+proceeding for judicial review pursuant to section 383-41, the department may
+be represented by any qualified attorney employed by the department and
+designated by it for that purpose, or at the department's request by the
+attorney general. [L 1939, c 219, §6(h); am L 1941, c 304, §1, pt of subs 18;
+RL 1945, §4243; RL 1955, §93-41; am L Sp 1959 2d, c 1, §27; HRS §383-42]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

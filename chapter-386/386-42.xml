@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-42"/>
+          <FRBRuri value="/us-hi/act/hrs/386-42"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-42/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-42/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-42/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-42/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_42">
+          <num>386-42</num>
+          <heading>Dependents</heading>
+          <content>
+            <p>§386-42  Dependents.
+(a)  The following
+persons, and no others, shall be deemed dependents and entitled to income, and
+indemnity benefits under this chapter:
+(1)  A child who is:
+(A)  Unmarried and under eighteen years;
+(B)  Unmarried and under twenty years if the
+child is a full-time student at a high school, business school, or technical
+school, or unmarried and under twenty-two years if the child is a full-time
+undergraduate student at a college;
+(C)  Unmarried and incapable of self-support;
+or
+(D)  Married and under eighteen years, if
+actually dependent upon the deceased;
+(2)  The surviving spouse or reciprocal beneficiary,
+if either living with the deceased at the time of the injury or actually
+dependent upon the deceased;
+(3)  A parent or grandparent, if actually dependent
+upon the deceased; and
+(4)  A grandchild, brother, or sister, if under
+eighteen years or incapable of self-support, and actually and wholly dependent
+upon the deceased.
+(b)  A person shall be deemed to be actually
+dependent upon the deceased, if the deceased contributed all or a substantial
+portion of the living expenses of that person at the time of the injury.
+(c)  Alien dependents not residing in the
+United States at the time of the injury or leaving the United States
+subsequently shall maintain annual proof of such dependency as required by the
+director of labor and industrial relations. [L 1963, c 116, pt of §1; Supp,
+§97-41; am L 1967, c 213, §1 and c 257, §1; HRS §386-42; am L 1971, c 87, §1;
+am L 1974, c 151, §1; gen ch 1985; am L 1997, c 383, §54; am L 2016, c 55, §13]
+Case Notes
+Alien Japanese dependent upon leaving the United States loses
+all rights to benefits; &quot;leaving the U. S.&quot; construed; an alien widow
+leaving the U.S. ceases to be a &quot;dependent&quot;.  27 H. 431 (1923).
+Illegitimate children.  31 H. 814 (1931).
+Nonresident alien.  32 H. 118 (1931).
+Alien &quot;actually residing&quot;.  32 H. 699 (1933).
+Citizen of Philippine Republic.  39 H. 258 (1952).
+Actual dependency of parents on child.  43 H. 173 (1959).
+Part-time students, as defined by each individual educational
+institution, are not entitled to compensation under subsection (a) and
+§386-43(a).  84 H. 390 (App.), 935 P.2d 105 (1997).
+Cited:  41 H. 442, 447 (1956).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_42__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The following
+persons, and no others, shall be deemed dependents and entitled to income, and
+indemnity benefits under this chapter:</p>
+            </content>
+            <paragraph eId="386_42__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>A child who is:</p>
+              </content>
+              <subparagraph eId="386_42__subsec_a__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Unmarried and under eighteen years;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="386_42__subsec_a__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Unmarried and under twenty years if the
+child is a full-time student at a high school, business school, or technical
+school, or unmarried and under twenty-two years if the child is a full-time
+undergraduate student at a college;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="386_42__subsec_a__para_1__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Unmarried and incapable of self-support;
+or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="386_42__subsec_a__para_1__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>Married and under eighteen years, if
+actually dependent upon the deceased;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="386_42__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The surviving spouse or reciprocal beneficiary,
+if either living with the deceased at the time of the injury or actually
+dependent upon the deceased;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_42__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A parent or grandparent, if actually dependent
+upon the deceased; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_42__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>A grandchild, brother, or sister, if under
+eighteen years or incapable of self-support, and actually and wholly dependent
+upon the deceased.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_42__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person shall be deemed to be actually
+dependent upon the deceased, if the deceased contributed all or a substantial
+portion of the living expenses of that person at the time of the injury.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_42__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Alien dependents not residing in the
+United States at the time of the injury or leaving the United States
+subsequently shall maintain annual proof of such dependency as required by the
+director of labor and industrial relations. [L 1963, c 116, pt of §1; Supp,
+§97-41; am L 1967, c 213, §1 and c 257, §1; HRS §386-42; am L 1971, c 87, §1;
+am L 1974, c 151, §1; gen ch 1985; am L 1997, c 383, §54; am L 2016, c 55, §13]
+Case Notes
+Alien Japanese dependent upon leaving the United States loses
+all rights to benefits; &quot;leaving the U. S.&quot; construed; an alien widow
+leaving the U.S. ceases to be a &quot;dependent&quot;.  27 H. 431 (1923).
+Illegitimate children.  31 H. 814 (1931).
+Nonresident alien.  32 H. 118 (1931).
+Alien &quot;actually residing&quot;.  32 H. 699 (1933).
+Citizen of Philippine Republic.  39 H. 258 (1952).
+Actual dependency of parents on child.  43 H. 173 (1959).
+Part-time students, as defined by each individual educational
+institution, are not entitled to compensation under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="386_42__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and
+§386-43</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-165"/>
+          <FRBRuri value="/us-hi/act/hrs/346-165"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-165/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-165/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-165/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-165/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_165">
+          <num>346-165</num>
+          <heading>Section 346-165</heading>
+          <content>
+            <p>§346-165  Visitation and inspection of group
+child care home, group child care center.
+The department of human services
+shall visit and inspect each group child care home and group child care center
+as frequently as it deems necessary for the proper operation, sanitation, and
+safety of the home or center, as the case may be.  The visits and inspections
+shall be made at least once annually.  Every group child care home and group
+child care center licensed under this subpart shall be open to visitation and
+inspection by representatives of the department of human services, the
+department of education, and the department of health, and by designated
+representatives of the respective county fire departments at all times. [L
+1985, c 208, pt of §2; am L 1987, c 339, §4; am L 1998, c 5, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

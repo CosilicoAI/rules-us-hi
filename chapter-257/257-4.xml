@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/257-4"/>
+          <FRBRuri value="/us-hi/act/hrs/257-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/257-4/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/257-4/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/257-4/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/257-4/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_257">
+        <num>Chapter 257</num>
+        <heading>Uniform Division of Income for Tax Purposes Act</heading>
+        <section eId="sec_257_4">
+          <num>257-4</num>
+          <heading>Penalties</heading>
+          <content>
+            <p>[§257-4]  Penalties.
+(a)  The fiduciary
+organization shall establish a grievance committee and a procedure to hear,
+review, and decide in writing any grievance made by an individual development
+account holder who disputes a decision of the operating organization that a withdrawal
+is subject to penalty.
+(b)  Each fiduciary organization shall
+establish regulations as are necessary, including prohibiting eligibility for
+further assistance under an individual development account project conducted
+under this chapter, to ensure compliance with this chapter if an individual
+participating in the individual development account project moves from the
+community in which the project is conducted or is otherwise unable to continue
+participating in the project. [L 1999, c 160, pt of §25]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="257_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The fiduciary
+organization shall establish a grievance committee and a procedure to hear,
+review, and decide in writing any grievance made by an individual development
+account holder who disputes a decision of the operating organization that a withdrawal
+is subject to penalty.</p>
+            </content>
+          </subsection>
+          <subsection eId="257_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each fiduciary organization shall
+establish regulations as are necessary, including prohibiting eligibility for
+further assistance under an individual development account project conducted
+under this chapter, to ensure compliance with this chapter if an individual
+participating in the individual development account project moves from the
+community in which the project is conducted or is otherwise unable to continue
+participating in the project. [L 1999, c 160, pt of §25]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

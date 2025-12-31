@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-45"/>
+          <FRBRuri value="/us-hi/act/hrs/392-45"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-45/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-45/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-45/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-45/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_45">
+          <num>392-45</num>
+          <heading>Section 392-45</heading>
+          <content>
+            <p>§392-45  Subrogation rights if employee
+entitled to workers' compensation benefits or indemnity under employers'
+liability acts.
+(a)  If an individual has received temporary disability
+benefits under this chapter during a period of disability for which benefits
+for any disability under the Workers' Compensation Law of this State or of any
+other state or of the United States are subsequently awarded or accepted in any
+agreement or compromise, the employer, the association of employers, the
+insurer, or the trust fund for disability benefits, as the case may be,
+providing such temporary disability benefits shall be subrogated to the individual's
+right to such benefits in the amount of the benefits paid under this chapter.
+In the event more than one employer or insurer
+have subrogation rights to the employee's workers' compensation benefits, such
+benefits shall be divided proportionately among the employers or insurers
+according to the amount of benefits each employer or insurer paid under this
+chapter.  Should the subrogated amount of either one or both employers or
+insurers total less than the amount of benefits that such employers or insurers
+paid under this chapter, neither the employee nor the trust fund for disability
+benefits nor any other source shall be required to make up the difference.
+To protect its subrogation rights to benefits
+payable under the Workers' Compensation Law of this State, the employer, the
+association of employers, the insurer, or the trust fund for disability
+benefits, providing temporary disability benefits shall file a claim with the
+division of workers' compensation in the department and notify the insurer for
+workers' compensation or the employer, if self-insured, of its claim and
+thereupon the employer, the association of employers, the insurer, or the trust
+fund for disability benefits, providing temporary disability benefits shall
+have a lien against the amounts payable as benefits for disability under the
+Workers' Compensation Law in the amount of the benefits paid under this chapter
+during the period for which benefits for disability under the Workers'
+Compensation Law have been accepted or awarded as payable.  The agreement or
+award shall include a provision setting forth the existence and amount of such
+lien.
+(b)  If an individual has received benefits
+under this chapter during a period of disability for which the individual is
+entitled to receive indemnity payments for wage loss under any applicable
+employers' liability law of this State or of any other state or of the United
+States, the employer, the association of employers, the insurer, or the trust
+fund for disability benefits, providing temporary disability benefits shall be
+subrogated to the individual's right to such indemnity in the amount of the
+benefits paid under this chapter and may assert its subrogation rights in any
+manner appropriate under such acts or any rule of law. [L 1969, c 148, pt of
+§1; am L 1971, c 109, §1(h); am L 1975, c 41, §1; gen ch 1985; am L 2013, c
+100, §8]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="392_45__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If an individual has received temporary disability
+benefits under this chapter during a period of disability for which benefits
+for any disability under the Workers' Compensation Law of this State or of any
+other state or of the United States are subsequently awarded or accepted in any
+agreement or compromise, the employer, the association of employers, the
+insurer, or the trust fund for disability benefits, as the case may be,
+providing such temporary disability benefits shall be subrogated to the individual's
+right to such benefits in the amount of the benefits paid under this chapter.
+In the event more than one employer or insurer
+have subrogation rights to the employee's workers' compensation benefits, such
+benefits shall be divided proportionately among the employers or insurers
+according to the amount of benefits each employer or insurer paid under this
+chapter.  Should the subrogated amount of either one or both employers or
+insurers total less than the amount of benefits that such employers or insurers
+paid under this chapter, neither the employee nor the trust fund for disability
+benefits nor any other source shall be required to make up the difference.
+To protect its subrogation rights to benefits
+payable under the Workers' Compensation Law of this State, the employer, the
+association of employers, the insurer, or the trust fund for disability
+benefits, providing temporary disability benefits shall file a claim with the
+division of workers' compensation in the department and notify the insurer for
+workers' compensation or the employer, if self-insured, of its claim and
+thereupon the employer, the association of employers, the insurer, or the trust
+fund for disability benefits, providing temporary disability benefits shall
+have a lien against the amounts payable as benefits for disability under the
+Workers' Compensation Law in the amount of the benefits paid under this chapter
+during the period for which benefits for disability under</p>
+            </content>
+          </subsection>
+          <subsection eId="392_45__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If an individual has received benefits
+under this chapter during a period of disability for which the individual is
+entitled to receive indemnity payments for wage loss under any applicable
+employers' liability law of this State or of any other state or of the United
+States, the employer, the association of employers, the insurer, or the trust
+fund for disability benefits, providing temporary disability benefits shall be
+subrogated to the individual's right to such indemnity in the amount of the
+benefits paid under this chapter and may assert its subrogation rights in any
+manner appropriate under such acts or any rule of law. [L 1969, c 148, pt of
+§1; am L 1971, c 109, §1</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

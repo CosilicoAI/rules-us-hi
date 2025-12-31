@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-151"/>
+          <FRBRuri value="/us-hi/act/hrs/386-151"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-151/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-151/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-151/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-151/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_151">
+          <num>386-151</num>
+          <heading>Section 386-151</heading>
+          <content>
+            <p>C.  Special
+Compensation Fund
+§386-151  Special compensation fund
+established and maintained.
+(a)  There is hereby created a trust fund to
+be known as the special compensation fund which shall consist of payments made
+to it as provided by law.  The director of finance of the State shall be
+custodian of the fund, and all disbursements therefrom shall be paid by the
+director of finance upon orders by the director of labor and industrial
+relations.
+(b)  Every employer pursuant to an order made
+by the director, shall pay into the fund the amounts specified in sections
+386-34(5) and 386-41(d) under the conditions prescribed for such payment. 
+Whenever such amount is paid into the fund and it is subsequently determined by
+the director, the appellate board, or a court having jurisdiction that a
+dependent is entitled to benefits excluding or diminishing the entitlement of
+the fund, the director, appellate board, or court shall order the refund of the
+sum to which the fund is not entitled and the director of finance as custodian
+shall immediately make such refund upon receipt by the director of finance of a
+certified copy of this order.  In cases where an order of the director ordering
+payment into the fund is reversed on appeal the employer is relieved of any
+duty to make payments into the fund.
+(c)  The director shall appoint annually a
+certified public accountant to examine and audit all the books and records
+relating to the special compensation fund and shall advise the director as to
+the fund's solvency, including recommendations as to levies and charges
+provided for in section 386-152 and the required level of funding.  The
+certified public accountant's fees for this service shall be paid out of the
+special compensation fund. [L 1963, c 116, pt of §1; Supp, §97-140; HRS
+§386-151; am L 1973, c 183, §1; gen ch 1985; am L 2013, c 100, §5]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_151__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is hereby created a trust fund to
+be known as the special compensation fund which shall consist of payments made
+to it as provided by law.  The director of finance of the State shall be
+custodian of the fund, and all disbursements therefrom shall be paid by the
+director of finance upon orders by the director of labor and industrial
+relations.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_151__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Every employer pursuant to an order made
+by the director, shall pay into the fund the amounts specified in sections
+386-34</p>
+            </content>
+            <paragraph eId="386_151__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>and 386-41</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_151__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>under the conditions prescribed for such payment. 
+Whenever such amount is paid into the fund and it is subsequently determined by
+the director, the appellate board, or a court having jurisdiction that a
+dependent is entitled to benefits excluding or diminishing the entitlement of
+the fund, the director, appellate board, or court shall order the refund of the
+sum to which the fund is not entitled and the director of finance as custodian
+shall immediately make such refund upon receipt by the director of finance of a
+certified copy of this order.  In cases where an order of the director ordering
+payment into the fund is reversed on appeal the employer is relieved of any
+duty to make payments into the fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_151__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director shall appoint annually a
+certified public accountant to examine and audit all the books and records
+relating to the special compensation fund and shall advise the director as to
+the fund's solvency, including recommendations as to levies and charges
+provided for in section 386-152 and the required level of funding.  The
+certified public accountant's fees for this service shall be paid out of the
+special compensation fund. [L 1963, c 116, pt of §1; Supp, §97-140; HRS
+§386-151; am L 1973, c 183, §1; gen ch 1985; am L 2013, c 100, §5]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

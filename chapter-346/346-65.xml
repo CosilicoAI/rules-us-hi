@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-65"/>
+          <FRBRuri value="/us-hi/act/hrs/346-65"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-65/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-65/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-65/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-65/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_65">
+          <num>346-65</num>
+          <heading>Section 346-65</heading>
+          <content>
+            <p>§346-65  Child abuse and neglect
+discretionary emergency assistance.
+(a)  The department may grant funds to
+a family for child abuse and neglect discretionary emergency assistance in
+accordance with this section.  The purpose of these grants is to assist
+children and families when an emergency situation arises or is imminent which
+may cause child abuse or neglect or has caused children and families to need
+assistance from the department pursuant to chapter 587A, and the financial
+assistance may prevent the abuse or neglect, prevent the removal of a child
+from a family, or would meet the immediate needs of a child who has been
+removed from a family.
+(b)  Emergency assistance shall be authorized
+when:
+(1)  A situation arises or is imminent which presents
+an immediate or imminent threat of child abuse or neglect or has caused
+children and families to need assistance from the department pursuant to
+chapter 587A;
+(2)  The family is eligible for public assistance or
+has no available financial resources;
+(3)  Financial assistance may eliminate or alleviate
+the situation and remove the immediate or imminent threat of child abuse or
+neglect; and
+(4)  No other financial resources are available from
+within the family or from other public or private source which could be used to
+eliminate or alleviate the situation.
+(c)  Emergency assistance may be used for
+shelter, respite child care, clothing, transportation, medical costs,
+utilities, food, repairs, essential equipment, and other goods or services
+which in the discretion of the department are necessary to eliminate or
+alleviate the emergency situation.
+(d)  A family shall not be granted more than
+$1,000 in emergency assistance during one fiscal year; except that under an
+exceptional situation as determined by the director, a family may be granted
+not more than $2,000 during one fiscal year.
+(e)  For the purposes of this chapter only,
+emergency assistance shall not be considered income to the head of household or
+family nor as part of the family's assistance allowance. [L 1986, c 160, §1; am
+L 1988, c 327, §4; am L 2010, c 135, §7]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_65__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department may grant funds to
+a family for child abuse and neglect discretionary emergency assistance in
+accordance with this section.  The purpose of these grants is to assist
+children and families when an emergency situation arises or is imminent which
+may cause child abuse or neglect or has caused children and families to need
+assistance from the department pursuant to chapter 587A, and the financial
+assistance may prevent the abuse or neglect, prevent the removal of a child
+from a family, or would meet the immediate needs of a child who has been
+removed from a family.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_65__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Emergency assistance shall be authorized
+when:</p>
+            </content>
+            <paragraph eId="346_65__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>A situation arises or is imminent which presents
+an immediate or imminent threat of child abuse or neglect or has caused
+children and families to need assistance from the department pursuant to
+chapter 587A;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_65__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The family is eligible for public assistance or
+has no available financial resources;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_65__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Financial assistance may eliminate or alleviate
+the situation and remove the immediate or imminent threat of child abuse or
+neglect; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_65__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>No other financial resources are available from
+within the family or from other public or private source which could be used to
+eliminate or alleviate the situation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_65__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Emergency assistance may be used for
+shelter, respite child care, clothing, transportation, medical costs,
+utilities, food, repairs, essential equipment, and other goods or services
+which in the discretion of the department are necessary to eliminate or
+alleviate the emergency situation.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_65__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A family shall not be granted more than
+$1,000 in emergency assistance during one fiscal year; except that under an
+exceptional situation as determined by the director, a family may be granted
+not more than $2,000 during one fiscal year.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_65__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For the purposes of this chapter only,
+emergency assistance shall not be considered income to the head of household or
+family nor as part of the family's assistance allowance. [L 1986, c 160, §1; am
+L 1988, c 327, §4; am L 2010, c 135, §7]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

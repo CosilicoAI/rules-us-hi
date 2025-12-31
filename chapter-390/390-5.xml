@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/390-5"/>
+          <FRBRuri value="/us-hi/act/hrs/390-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/390-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/390-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/390-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/390-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_390">
+        <num>Chapter 390</num>
+        <heading>Employee Benefit Plans</heading>
+        <section eId="sec_390_5">
+          <num>390-5</num>
+          <heading>Exceptions</heading>
+          <content>
+            <p>§390-5  Exceptions.
+This chapter shall
+not apply to any minor employed:
+(1)  By the minor's parent or legal guardian;
+(2)  In performance of work in connection with the
+sale or distribution of newspapers;
+(3)  In domestic service in or about the private home
+of the employer;
+(4)  As a golf caddy; or
+(5)  By any religious, charitable, or nonprofit
+organization in exempt employment as prescribed by the director by rule;
+provided that such employment is during periods when
+the minor is not legally required to attend school or when the minor has been
+excused by school authorities from attending school; in an occupation which has
+not been declared by rule of the director to be hazardous; and not in
+connection with adult entertainment. [L 1969, c 162, pt of §2; gen ch 1985; am
+L 2003, c 61, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

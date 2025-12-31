@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-62"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-62"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-62/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-62/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-62/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-62/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_62">
+          <num>356D-62</num>
+          <heading>Termination and evictions</heading>
+          <content>
+            <p>[§356D-62]  Termination and evictions.
+(a)  Except as otherwise provided by law, the authority may terminate any
+lease, rental agreement, permit, or license covering the use and occupation of
+any dwelling unit or other premises located within a state low-income housing
+project and evict from any premises any tenant, licensee, or other occupant for
+any of the following reasons:
+(1)  Failure to pay rent when due;
+(2)  Violation of any provision of a lease, rental
+agreement, permit, or license;
+(3)  Violation of any rule of the authority;
+(4)  Failure to maintain the dwelling unit in a clean,
+sanitary, and habitable condition;
+(5)  Upon a third violation of section 356D-6.5;
+provided that a violation of paragraph (2) or (3), or this paragraph by a
+person who is not a tenant, a guest who is visiting a tenant, or any member of
+the tenant's household shall be deemed a violation by the tenant; or
+(6)  The existence of any other circumstances giving
+rise to an immediate right to possession by the authority.
+(b)  When any lease, rental agreement, permit,
+or license is subject to termination pursuant to subsection (a), the authority,
+either directly or through its managing agent, shall provide the tenant with a
+written notice that shall inform the tenant of any violation, failure, or circumstances
+giving rise to an immediate right to possession by the authority and, if the
+tenant has been delinquent in payment of rent, the amount of that delinquency.
+[L 2018, c 204, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_62__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided by law, the authority may terminate any
+lease, rental agreement, permit, or license covering the use and occupation of
+any dwelling unit or other premises located within a state low-income housing
+project and evict from any premises any tenant, licensee, or other occupant for
+any of the following reasons:</p>
+            </content>
+            <paragraph eId="356D_62__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Failure to pay rent when due;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_62__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Violation of any provision of a lease, rental
+agreement, permit, or license;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_62__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Violation of any rule of the authority;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_62__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Failure to maintain the dwelling unit in a clean,
+sanitary, and habitable condition;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_62__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Upon a third violation of section 356D-6.5;
+provided that a violation of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_62__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>or (3), or this paragraph by a
+person who is not a tenant, a guest who is visiting a tenant, or any member of
+the tenant's household shall be deemed a violation by the tenant; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_62__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>The existence of any other circumstances giving
+rise to an immediate right to possession by the authority.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_62__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When any lease, rental agreement, permit,
+or license is subject to termination pursuant to subsection</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

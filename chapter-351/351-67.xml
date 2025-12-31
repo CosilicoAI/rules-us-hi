@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/351-67"/>
+          <FRBRuri value="/us-hi/act/hrs/351-67"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/351-67/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/351-67/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/351-67/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/351-67/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_351">
+        <num>Chapter 351</num>
+        <heading>Crime Victim Compensation</heading>
+        <section eId="sec_351_67">
+          <num>351-67</num>
+          <heading>Survival and abatement</heading>
+          <content>
+            <p>§351-67  Survival and abatement.
+The
+rights to compensation created by this chapter are personal and shall not
+survive the death of the person or beneficiary entitled thereto, provided that
+if such death occurs after an application for compensation has been filed with
+the commission, the proceeding shall not abate, but may be continued by the
+legal representative of the decedent's estate. [L 1967, c 226, pt of §1; HRS
+§351
+-
+67; am L 1998, c 240, §5]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-91"/>
+          <FRBRuri value="/us-hi/act/hrs/392-91"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-91/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-91/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-91/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-91/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_91">
+          <num>392-91</num>
+          <heading>Enforcement by the director</heading>
+          <content>
+            <p>PART VI. 
+ENFORCEMENT
+[§392-91]  Enforcement by the director.
+The director shall enforce the provisions of this chapter.  The director may
+appoint such assistants and such clerical, stenographic and other help as may
+be necessary for the proper enforcement of this chapter subject to any civil
+service act relating to state employees.  The salaries of all the foregoing
+appointees and employees shall be as fixed by law.
+The director may adopt, amend, or repeal such
+rules and regulations as the director deems necessary or suitable for the
+proper enforcement of this chapter. [L 1969, c 148, pt of §1; gen ch 1985]
+Cross References
+Civil service law, see chapter 76.
+Classification law, see §76-13.5.
+Rulemaking, see chapter 91.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

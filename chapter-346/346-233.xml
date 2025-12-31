@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-233"/>
+          <FRBRuri value="/us-hi/act/hrs/346-233"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-233/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-233/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-233/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-233/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_233">
+          <num>346-233</num>
+          <heading>Petition</heading>
+          <content>
+            <p>§346-233  Petition.
+(a)  A petition
+invoking the jurisdiction of the court under this part shall be entitled
+&quot;In the matter of the protection of
+,&quot;
+and shall be verified.
+(b)  The petition shall set forth with
+specificity the:
+(1)  Reasons the person is considered to be a
+vulnerable adult;
+(2)  Facts that bring the vulnerable adult within this
+part;
+(3)  Name, birth date, sex, and residence address of
+the vulnerable adult;
+(4)  Names and addresses of any living persons, or
+entities required to be notified pursuant to section 346-237; and
+(5)  If appropriate, allegations describing any lack
+of capacity of the vulnerable adult. [L 1989, c 381, pt of §1; am L 1990, c
+144, §1 and c 234, §9; am L 2008, c 154, §15]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_233__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A petition
+invoking the jurisdiction of the court under this part shall be entitled
+&quot;In the matter of the protection of
+,&quot;
+and shall be verified.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_233__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The petition shall set forth with
+specificity the:</p>
+            </content>
+            <paragraph eId="346_233__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Reasons the person is considered to be a
+vulnerable adult;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_233__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Facts that bring the vulnerable adult within this
+part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_233__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Name, birth date, sex, and residence address of
+the vulnerable adult;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_233__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Names and addresses of any living persons, or
+entities required to be notified pursuant to section 346-237; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_233__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>If appropriate, allegations describing any lack
+of capacity of the vulnerable adult. [L 1989, c 381, pt of §1; am L 1990, c
+144, §1 and c 234, §9; am L 2008, c 154, §15]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

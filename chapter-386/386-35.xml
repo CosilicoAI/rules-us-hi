@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-35"/>
+          <FRBRuri value="/us-hi/act/hrs/386-35"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-35/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-35/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-35/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-35/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_35">
+          <num>386-35</num>
+          <heading>Benefit adjustment</heading>
+          <content>
+            <p>§386-35  Benefit adjustment.
+(a) 
+Effective January 1, 1992, and January 1 of every tenth year
+thereafter, any employee whose date of work injury is before January 1,
+1992, and January 1 of every tenth year thereafter, and who is at any time
+after the work injury determined to be permanently and totally disabled shall
+be paid, without application, a supplemental allowance by the responsible
+employer calculated in accordance with the following provisions:
+(1)  In any case where the employee is entitled to
+receive the maximum weekly income benefit applicable on the date of the work
+injury, the supplemental allowance shall be an amount which when added to the
+benefit will equal the maximum weekly benefit as of January 1, 1992, and
+January 1 of every tenth year thereafter; or
+(2)  In any case where the employee is entitled to
+receive less than the maximum weekly income benefit applicable on the date of
+the work injury, the supplemental allowance shall be an amount equal to the
+maximum weekly income benefit as of January 1, 1992, and January 1 of
+every tenth year thereafter, multiplied by the ratio of the employee's weekly
+income benefit to the maximum weekly income benefit applicable on the date of
+the work injury, minus the employee's current weekly income benefit.
+(b)  The employer shall be entitled to
+reimbursement from the special compensation fund for the additional amount paid
+under subsection (a).  Requests for reimbursements shall be filed annually with
+the department by January 31 of the subsequent calendar year.  The director
+shall disapprove requests that are not filed properly or not filed in a timely
+manner, except for good cause shown.
+(c)  Effective January 1, 1992, and
+January 1 of every tenth year thereafter, any employee whose date of work
+injury is before January 1, 1992, and January 1 of every tenth year
+thereafter, and who is at any time after the work injury determined to be
+permanently and totally disabled, and who is further being paid weekly income
+benefits for permanent total disability by the special compensation fund shall
+be paid, without application, a supplemental allowance in accordance with the following
+provisions:
+(1)  In any case where the employee is entitled to
+receive the maximum weekly income benefit applicable on the date of the work
+injury, the supplemental allowance shall be an amount which when added to the
+benefit will equal the maximum weekly benefit as of January 1, 1992, and
+January 1 of every tenth year thereafter;
+(2)  In any case where the employee is entitled to
+receive less than the maximum weekly income benefit applicable on the date of
+the work injury, the supplemental allowance shall be an amount equal to the
+maximum weekly income benefit as of January 1, 1992, and January 1 of
+every tenth year thereafter, multiplied by the ratio of the employee's current
+weekly income benefit to the maximum weekly income benefit applicable on the
+date of the work injury, minus the employee's current weekly income benefit;
+(3)  In any case where the employee is entitled to
+receive weekly benefits at a fifty per cent rate, the supplemental allowance
+shall be an amount equal to the maximum weekly income benefit as of
+January 1, 1992, and January 1 of every tenth year thereafter,
+multiplied by twice the ratio of the employee's current weekly income benefit
+to the maximum weekly income benefit applicable on the date of the work injury
+minus the employee's current weekly income benefit; or
+(4)  In any case where the employee is no longer
+receiving weekly benefits, the supplemental allowance shall be an amount equal
+to the maximum weekly income benefit as of January 1, 1992, and
+January 1 of every tenth year thereafter, multiplied by the ratio of the
+employee's last weekly income benefit to the maximum weekly income benefit
+applicable on the date of the work injury. [L 1980, c 298, §1; am L 1981, c
+114, §1; gen ch 1985; am L 1991, c 71, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_35__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Effective January 1, 1992, and January 1 of every tenth year
+thereafter, any employee whose date of work injury is before January 1,
+1992, and January 1 of every tenth year thereafter, and who is at any time
+after the work injury determined to be permanently and totally disabled shall
+be paid, without application, a supplemental allowance by the responsible
+employer calculated in accordance with the following provisions:</p>
+            </content>
+            <paragraph eId="386_35__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>In any case where the employee is entitled to
+receive the maximum weekly income benefit applicable on the date of the work
+injury, the supplemental allowance shall be an amount which when added to the
+benefit will equal the maximum weekly benefit as of January 1, 1992, and
+January 1 of every tenth year thereafter; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_35__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>In any case where the employee is entitled to
+receive less than the maximum weekly income benefit applicable on the date of
+the work injury, the supplemental allowance shall be an amount equal to the
+maximum weekly income benefit as of January 1, 1992, and January 1 of
+every tenth year thereafter, multiplied by the ratio of the employee's weekly
+income benefit to the maximum weekly income benefit applicable on the date of
+the work injury, minus the employee's current weekly income benefit.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_35__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The employer shall be entitled to
+reimbursement from the special compensation fund for the additional amount paid
+under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="386_35__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Effective January 1, 1992, and
+January 1 of every tenth year thereafter, any employee whose date of work
+injury is before January 1, 1992, and January 1 of every tenth year
+thereafter, and who is at any time after the work injury determined to be
+permanently and totally disabled, and who is further being paid weekly income
+benefits for permanent total disability by the special compensation fund shall
+be paid, without application, a supplemental allowance in accordance with the following
+provisions:</p>
+            </content>
+            <paragraph eId="386_35__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>In any case where the employee is entitled to
+receive the maximum weekly income benefit applicable on the date of the work
+injury, the supplemental allowance shall be an amount which when added to the
+benefit will equal the maximum weekly benefit as of January 1, 1992, and
+January 1 of every tenth year thereafter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_35__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>In any case where the employee is entitled to
+receive less than the maximum weekly income benefit applicable on the date of
+the work injury, the supplemental allowance shall be an amount equal to the
+maximum weekly income benefit as of January 1, 1992, and January 1 of
+every tenth year thereafter, multiplied by the ratio of the employee's current
+weekly income benefit to the maximum weekly income benefit applicable on the
+date of the work injury, minus the employee's current weekly income benefit;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_35__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>In any case where the employee is entitled to
+receive weekly benefits at a fifty per cent rate, the supplemental allowance
+shall be an amount equal to the maximum weekly income benefit as of
+January 1, 1992, and January 1 of every tenth year thereafter,
+multiplied by twice the ratio of the employee's current weekly income benefit
+to the maximum weekly income benefit applicable on the date of the work injury
+minus the employee's current weekly income benefit; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_35__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>In any case where the employee is no longer
+receiving weekly benefits, the supplemental allowance shall be an amount equal
+to the maximum weekly income benefit as of January 1, 1992, and
+January 1 of every tenth year thereafter, multiplied by the ratio of the
+employee's last weekly income benefit to the maximum weekly income benefit
+applicable on the date of the work injury. [L 1980, c 298, §1; am L 1981, c
+114, §1; gen ch 1985; am L 1991, c 71, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

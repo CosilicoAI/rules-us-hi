@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/388-5"/>
+          <FRBRuri value="/us-hi/act/hrs/388-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/388-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/388-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/388-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/388-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_388">
+        <num>Chapter 388</num>
+        <heading>Payment of Wages and Other Compensation</heading>
+        <section eId="sec_388_5">
+          <num>388-5</num>
+          <heading>Section 388-5</heading>
+          <content>
+            <p>§388-5  Unconditional payment of wages
+conceded to be due.
+(a)  In case of a dispute as to the amount of wages,
+the employer shall pay, without condition and within the time set by this
+chapter, all wages, or parts thereof, conceded by the employer to be due,
+leaving to the employee all remedies the employee might otherwise be entitled
+to, including those provided under this chapter, as to any balance claimed.
+(b)  The acceptance by an employee of a payment
+under this section shall not constitute a release or accord and satisfaction
+with respect to the disputed amount and any release required by an employer as
+a condition to payment shall be in violation of this chapter and shall be null
+and void. [L 1963, c 158, pt of §3; Supp, §95-4; HRS §388-5; gen ch 1993]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="388_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In case of a dispute as to the amount of wages,
+the employer shall pay, without condition and within the time set by this
+chapter, all wages, or parts thereof, conceded by the employer to be due,
+leaving to the employee all remedies the employee might otherwise be entitled
+to, including those provided under this chapter, as to any balance claimed.</p>
+            </content>
+          </subsection>
+          <subsection eId="388_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The acceptance by an employee of a payment
+under this section shall not constitute a release or accord and satisfaction
+with respect to the disputed amount and any release required by an employer as
+a condition to payment shall be in violation of this chapter and shall be null
+and void. [L 1963, c 158, pt of §3; Supp, §95-4; HRS §388-5; gen ch 1993]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

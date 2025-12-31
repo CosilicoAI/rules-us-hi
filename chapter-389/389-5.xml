@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-5"/>
+          <FRBRuri value="/us-hi/act/hrs/389-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_5">
+          <num>389-5</num>
+          <heading>Section 389-5</heading>
+          <content>
+            <p>[§389-5]  Hawaii retirement savings program;
+due diligence; establishment; payroll deduction upon election to contribute.
+(a)  There is established within the department, for administrative purposes
+only, a Hawaii retirement savings program.  The program shall be administered
+by the board, in consultation with the department and the department of budget
+and finance.  The board may determine the time frame for development and
+implementation of the program; provided that prior to implementation of the
+program, the board shall meet the requirements of subsections (b) and (c).
+(b)  Prior to implementation of the program,
+the board may conduct a detailed implementation and evaluation study and
+perform other due diligence tasks to determine the feasibility of the program
+parameters established by this chapter and the resources and time needed to
+implement the program.  Upon completion of the study, the board shall report
+its findings and recommendations, including any proposed legislation and
+funding requirements, to the legislature.
+(c)  Upon submittal of its report to the
+legislature pursuant to subsection (b) and prior to implementation of the
+program, the board may determine the level of staffing necessary to implement
+the program, develop an implementation strategy and timetable, and conduct
+outreach efforts to potential covered employers and covered employees.
+(d)  Any covered employee may elect to
+contribute a portion of the employee's salary or wages to an individual
+retirement account provided by the program through payroll deduction.
+(e)  Beginning on a date to be determined by
+the board pursuant to subsection (a), a covered employer shall:
+(1)  Allow a covered employee to enroll into the
+program after providing the covered employee with a written notice of the
+employee's right to opt in; and
+(2)  For any covered employee who has opted in to the
+program:
+(A)  Withhold the covered employee's
+contribution amount from the employee's salary or wages; and
+(B)  Transmit the covered employee's payroll
+deduction contribution to the program on the earliest date the amount withheld
+can reasonably be segregated from the covered employer's assets, but no later
+than the fifteenth day of the calendar month following the month in which the covered
+employee's contribution amounts are withheld.
+(f)  The program shall establish for each
+enrolled employee a Roth IRA, into which the contributions deducted from an
+employee's payroll shall be deposited.  The board may add an option for all
+participants to affirmatively elect to contribute to a traditional IRA in
+addition to a Roth IRA.
+(g)  The contributions to and earnings on the
+amounts contributed to an employee's IRA under the program shall be owned by
+the employee.  The State and employers shall have no proprietary interest in
+the contributions or earnings in an employee's IRA.
+(h)  Covered employers shall not make
+contributions, whether matching or not, to the program.
+(i)  The board may authorize matching
+contributions of up to $500 per participant account from the special fund for
+the first 50,000 covered employees who participate in the program for twelve
+consecutive months after initial enrollment. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the department, for administrative purposes
+only, a Hawaii retirement savings program.  The program shall be administered
+by the board, in consultation with the department and the department of budget
+and finance.  The board may determine the time frame for development and
+implementation of the program; provided that prior to implementation of the
+program, the board shall meet the requirements of subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Prior to implementation of the program,
+the board may conduct a detailed implementation and evaluation study and
+perform other due diligence tasks to determine the feasibility of the program
+parameters established by this chapter and the resources and time needed to
+implement the program.  Upon completion of the study, the board shall report
+its findings and recommendations, including any proposed legislation and
+funding requirements, to the legislature.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Upon submittal of its report to the
+legislature pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and prior to implementation of the
+program, the board may determine the level of staffing necessary to implement
+the program, develop an implementation strategy and timetable, and conduct
+outreach efforts to potential covered employers and covered employees.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any covered employee may elect to
+contribute a portion of the employee's salary or wages to an individual
+retirement account provided by the program through payroll deduction.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Beginning on a date to be determined by
+the board pursuant to subsection</p>
+            </content>
+            <paragraph eId="389_5__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Allow a covered employee to enroll into the
+program after providing the covered employee with a written notice of the
+employee's right to opt in; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_5__subsec_e__para_2">
+              <num>(2)</num>
+              <content>
+                <p>For any covered employee who has opted in to the
+program:</p>
+              </content>
+              <subparagraph eId="389_5__subsec_e__para_2__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Withhold the covered employee's
+contribution amount from the employee's salary or wages; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_5__subsec_e__para_2__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Transmit the covered employee's payroll
+deduction contribution to the program on the earliest date the amount withheld
+can reasonably be segregated from the covered employer's assets, but no later
+than the fifteenth day of the calendar month following the month in which the covered
+employee's contribution amounts are withheld.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The program shall establish for each
+enrolled employee a Roth IRA, into which the contributions deducted from an
+employee's payroll shall be deposited.  The board may add an option for all
+participants to affirmatively elect to contribute to a traditional IRA in
+addition to a Roth IRA.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The contributions to and earnings on the
+amounts contributed to an employee's IRA under the program shall be owned by
+the employee.  The State and employers shall have no proprietary interest in
+the contributions or earnings in an employee's IRA.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Covered employers shall not make
+contributions, whether matching or not, to the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The board may authorize matching
+contributions of up to $500 per participant account from the special fund for
+the first 50,000 covered employees who participate in the program for twelve
+consecutive months after initial enrollment. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

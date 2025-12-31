@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-23"/>
+          <FRBRuri value="/us-hi/act/hrs/349-23"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-23/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-23/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-23/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-23/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_23">
+          <num>349-23</num>
+          <heading>Section 349-23</heading>
+          <content>
+            <p>[§349-23]  Retaliatory acts by facilities or
+facility employees prohibited.
+(a)  No resident of a long-term care
+facility seeking advocacy assistance as provided for in section [349-21] or
+making a complaint concerning a long-term care facility or any of its employees
+shall be subject to any retaliatory act by the long-term care facility or any
+of its employees for seeking advocacy assistance or making a complaint.
+(b)  No person seeking advocacy assistance as
+provided for in section [349-21] or making a complaint concerning a long-term
+care facility or any of its employees on behalf of a resident of a long-term
+care facility shall be subject to any retaliatory act by the long-term care
+facility or any of its employees for seeking advocacy assistance or making a
+complaint.
+(c)  For the purposes of this section, the term
+&quot;retaliatory act&quot; includes actual or threatened physical injury,
+psychological abuse or neglect, sexual abuse, negligent treatment,
+maltreatment, or any form of discrimination as reprisal for seeking advocacy
+assistance or making a complaint.
+(d)  A violation of this section shall be
+reported by the long-term care ombudsman to the appropriate police department
+or prosecuting attorney.
+(e)  Any long-term care facility or long-term
+care facility employee who violates this section shall be guilty of a
+misdemeanor.  Each separate retaliatory act and each day during which any
+retaliatory act continues shall constitute a separate offense. [L 1979, c 206,
+§2(3); am L 1982, c 104, §1; am L 2007, c 93, §7]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_23__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No resident of a long-term care
+facility seeking advocacy assistance as provided for in section [349-21] or
+making a complaint concerning a long-term care facility or any of its employees
+shall be subject to any retaliatory act by the long-term care facility or any
+of its employees for seeking advocacy assistance or making a complaint.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_23__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No person seeking advocacy assistance as
+provided for in section [349-21] or making a complaint concerning a long-term
+care facility or any of its employees on behalf of a resident of a long-term
+care facility shall be subject to any retaliatory act by the long-term care
+facility or any of its employees for seeking advocacy assistance or making a
+complaint.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_23__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the purposes of this section, the term
+&quot;retaliatory act&quot; includes actual or threatened physical injury,
+psychological abuse or neglect, sexual abuse, negligent treatment,
+maltreatment, or any form of discrimination as reprisal for seeking advocacy
+assistance or making a complaint.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_23__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A violation of this section shall be
+reported by the long-term care ombudsman to the appropriate police department
+or prosecuting attorney.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_23__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any long-term care facility or long-term
+care facility employee who violates this section shall be guilty of a
+misdemeanor.  Each separate retaliatory act and each day during which any
+retaliatory act continues shall constitute a separate offense. [L 1979, c 206,
+§2(3); am L 1982, c 104, §1; am L 2007, c 93, §7]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

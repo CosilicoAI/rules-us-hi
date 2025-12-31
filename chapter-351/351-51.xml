@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/351-51"/>
+          <FRBRuri value="/us-hi/act/hrs/351-51"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/351-51/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/351-51/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/351-51/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/351-51/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_351">
+        <num>Chapter 351</num>
+        <heading>Crime Victim Compensation</heading>
+        <section eId="sec_351_51">
+          <num>351-51</num>
+          <heading>Eligibility for compensation</heading>
+          <content>
+            <p>PART IV. 
+COMPENSATION TO PRIVATE CITIZENS
+§351-51  Eligibility for compensation.
+In the event a private citizen incurs injury or property damage in preventing
+the commission of a crime within the State, in apprehending a person who has
+committed a crime within the State, or in materially assisting a peace officer
+who is engaged in the prevention or attempted prevention of such a crime or the
+apprehension or attempted apprehension of such a person, the commission may, in
+its discretion, upon an application, order the payment of compensation in
+accordance with this chapter:
+(1)  To or for the benefit of the private citizen; or
+(2)  To any person responsible for the maintenance of
+the private citizen, where that person has suffered pecuniary loss or incurred
+expenses as a result of the private citizen's injury. [L 1967, c 226, pt of §1;
+HRS §351-51; am L 1998, c 240, §5]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

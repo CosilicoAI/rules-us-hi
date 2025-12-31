@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/347-13"/>
+          <FRBRuri value="/us-hi/act/hrs/347-13"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/347-13/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/347-13/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/347-13/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/347-13/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_347">
+        <num>Chapter 347</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_347_13">
+          <num>347-13</num>
+          <heading>Section 347-13</heading>
+          <content>
+            <p>§347-13  Persons who are blind, visually
+handicapped, disabled; public places; public conveyances.
+(a)  Persons who
+are blind, visually handicapped, or otherwise disabled are entitled to full and
+equal accommodations, advantages, facilities, and privileges of all common
+carriers, airplanes, motor vehicles, railroad trains, motor buses, street cars,
+boats, or any other public conveyances or modes of transportation, hotels,
+lodging places, places of public accommodation, amusement, or resort, and other
+places to which the general public is invited, subject only to the conditions
+and limitations established by law and applicable to all persons.
+(b)  Every person who is blind, deaf, visually
+handicapped, or otherwise disabled shall have the right to be accompanied by a
+service animal, especially trained for the purpose of assisting the person in
+any of the places listed in subsection (a) without being required to pay an
+extra charge for the service animal; provided that the person shall be liable
+for any damage done to the premises or facilities by the service animal.  No
+service animal shall be considered dangerous merely because it is unmuzzled.
+(c)  Every disabled person shall have the right
+to use a life jacket or other flotation device in a public swimming pool;
+provided that:
+(1)  The person suffers from a physical disability or
+condition that requires the use of a life jacket or other flotation device; and
+(2)  The person obtains a statement signed by a
+licensed physician, physician assistant, or advanced practice registered nurse attesting
+to the person's need to use a life jacket or other flotation device.
+(d)  The director of human services shall adopt
+rules pursuant to chapter 91 necessary for the purposes of this section. [L
+1945, c 265, §1; RL 1955, §109-20; HRS §347-13; am L 1972, c 75, §2; gen ch
+1985; am L 1987, c 339, §4 and c 363, §1; am L 1988, c 206, §2; am L 1991, c
+178, §1; am L 2009, c 151, §17; am L 2011, c 175, §6; am L 2014, c 45, §9; am L
+2018, c 217, §5]
+Law Journals and Reviews
+Hounds at the Hospital, Cats at the Clinic:  Challenges
+Associated with Service Animals and Animal-Assisted Interventions in Healthcare
+Facilities.  40 UH L. Rev. 53 (2018).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="347_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Persons who
+are blind, visually handicapped, or otherwise disabled are entitled to full and
+equal accommodations, advantages, facilities, and privileges of all common
+carriers, airplanes, motor vehicles, railroad trains, motor buses, street cars,
+boats, or any other public conveyances or modes of transportation, hotels,
+lodging places, places of public accommodation, amusement, or resort, and other
+places to which the general public is invited, subject only to the conditions
+and limitations established by law and applicable to all persons.</p>
+            </content>
+          </subsection>
+          <subsection eId="347_13__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Every person who is blind, deaf, visually
+handicapped, or otherwise disabled shall have the right to be accompanied by a
+service animal, especially trained for the purpose of assisting the person in
+any of the places listed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="347_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>without being required to pay an
+extra charge for the service animal; provided that the person shall be liable
+for any damage done to the premises or facilities by the service animal.  No
+service animal shall be considered dangerous merely because it is unmuzzled.</p>
+            </content>
+          </subsection>
+          <subsection eId="347_13__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Every disabled person shall have the right
+to use a life jacket or other flotation device in a public swimming pool;
+provided that:</p>
+            </content>
+            <paragraph eId="347_13__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The person suffers from a physical disability or
+condition that requires the use of a life jacket or other flotation device; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="347_13__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The person obtains a statement signed by a
+licensed physician, physician assistant, or advanced practice registered nurse attesting
+to the person's need to use a life jacket or other flotation device.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="347_13__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The director of human services shall adopt
+rules pursuant to chapter 91 necessary for the purposes of this section. [L
+1945, c 265, §1; RL 1955, §109-20; HRS §347-13; am L 1972, c 75, §2; gen ch
+1985; am L 1987, c 339, §4 and c 363, §1; am L 1988, c 206, §2; am L 1991, c
+178, §1; am L 2009, c 151, §17; am L 2011, c 175, §6; am L 2014, c 45, §9; am L
+2018, c 217, §5]
+Law Journals and Reviews
+Hounds at the Hospital, Cats at the Clinic:  Challenges
+Associated with Service Animals and Animal-Assisted Interventions in Healthcare
+Facilities.  40 UH L. Rev. 53 (2018).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

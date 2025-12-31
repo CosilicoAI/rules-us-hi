@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-372"/>
+          <FRBRuri value="/us-hi/act/hrs/346-372"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-372/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-372/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-372/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-372/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_372">
+          <num>346-372</num>
+          <heading>Section 346-372</heading>
+          <content>
+            <p>[§
+346
+-372]  Provider agency
+and donor cooperation are not in restraint of trade.
+No provider agency or
+any other agency, or donor or donors, or method or act thereof that complies
+with this part shall be deemed a conspiracy or combination in restraint of
+trade or an illegal monopoly, or an attempt to lessen competition or fix prices
+arbitrarily, or the creation of a combination or pool, or to accomplish any
+improper or illegal purpose.  Any cooperation or agreement established pursuant
+to rule shall not be considered as illegal, in restraint of trade, or as part
+of a conspiracy or combination to accomplish an illegal purpose or act. [L
+2010, c 89, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

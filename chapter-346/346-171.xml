@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-171"/>
+          <FRBRuri value="/us-hi/act/hrs/346-171"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-171/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-171/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-171/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-171/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_171">
+          <num>346-171</num>
+          <heading>Section 346-171</heading>
+          <content>
+            <p>C.  Family
+Child Care Home Registration
+§346-171  Registration for family child care
+home required.
+No person shall operate or maintain a family child care
+home unless registered to do so by the department of human services under this
+subpart.  The registration shall be valid for:
+(1)  One year for new applicants and for those who
+have been registered for less than four years; and
+(2)  Two years for those who have been registered for
+four years or more,
+unless sooner revoked. [L 1985, c 208, pt of §2; am
+L 1987, c 339, §4; am L 1998, c 5, §4]
+Note
+Source note does not include reference to L 1988, c 125, §3
+which purports to amend §346-171 with identical amendments made by L 1987, c
+339, §4.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

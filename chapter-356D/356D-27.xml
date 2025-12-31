@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-27"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-27"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-27/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-27/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-27/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-27/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_27">
+          <num>356D-27</num>
+          <heading>Section 356D-27</heading>
+          <content>
+            <p>[§356D-27]  Arbitrage provisions; interest
+rate.
+(a)  Notwithstanding any other law to the contrary, neither the
+authority nor the director of finance shall make loans or purchase mortgages
+with the proceeds of general obligation bonds of the State or from a revolving
+fund established or maintained from the proceeds of bonds, at a rate of
+interest or upon terms and conditions that would cause any general obligation
+bond of the State or any bond to be an &quot;arbitrage bond&quot; within the
+meaning of that term as defined in the Internal Revenue Code of 1986, as amended,
+and the regulations of the Internal Revenue Service adopted pursuant thereto.
+(b)  The rate of interest on loans made under
+this chapter from the proceeds of general obligation bonds of the State shall
+be established by the authority, with the approval of the director of finance,
+after each sale of general obligation bonds of the State, the proceeds of which
+are to be used for the purposes of making loans or purchasing mortgages under
+this chapter.  If no sale of general obligation bonds of the State intervenes
+in a twelve-month period after the last rate fixing, the authority may review
+the then existing rates on loans or mortgages made under this chapter from the
+proceeds of general obligation bonds of the State and retain the existing rate
+or, with the approval of the director of finance, establish different rates.
+(c)  The director of finance shall approve
+those rates so as to produce up to, but not in excess of, the maximum yield to
+the State or the authority permitted under the Internal Revenue Code of 1986,
+as amended, and the regulations of the Internal Revenue Service adopted
+pursuant thereto, on the assumption that the general obligation bonds of the
+State, the proceeds of which have been or are to be used for the purposes of
+making loans or purchasing mortgages under this chapter, would otherwise be
+&quot;arbitrage bonds&quot; under the Internal Revenue Code of 1986, as
+amended, and the regulations of the Internal Revenue Service adopted pursuant
+thereto, were the maximum yield to be exceeded.  The establishment of the rates
+of interest shall be exempt from chapter 91. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_27__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding any other law to the contrary, neither the
+authority nor the director of finance shall make loans or purchase mortgages
+with the proceeds of general obligation bonds of the State or from a revolving
+fund established or maintained from the proceeds of bonds, at a rate of
+interest or upon terms and conditions that would cause any general obligation
+bond of the State or any bond to be an &quot;arbitrage bond&quot; within the
+meaning of that term as defined in the Internal Revenue Code of 1986, as amended,
+and the regulations of the Internal Revenue Service adopted pursuant thereto.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_27__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The rate of interest on loans made under
+this chapter from the proceeds of general obligation bonds of the State shall
+be established by the authority, with the approval of the director of finance,
+after each sale of general obligation bonds of the State, the proceeds of which
+are to be used for the purposes of making loans or purchasing mortgages under
+this chapter.  If no sale of general obligation bonds of the State intervenes
+in a twelve-month period after the last rate fixing, the authority may review
+the then existing rates on loans or mortgages made under this chapter from the
+proceeds of general obligation bonds of the State and retain the existing rate
+or, with the approval of the director of finance, establish different rates.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_27__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director of finance shall approve
+those rates so as to produce up to, but not in excess of, the maximum yield to
+the State or the authority permitted under the Internal Revenue Code of 1986,
+as amended, and the regulations of the Internal Revenue Service adopted
+pursuant thereto, on the assumption that the general obligation bonds of the
+State, the proceeds of which have been or are to be used for the purposes of
+making loans or purchasing mortgages under this chapter, would otherwise be
+&quot;arbitrage bonds&quot; under the Internal Revenue Code of 1986, as
+amended, and the regulations of the Internal Revenue Service adopted pursuant
+thereto, were the maximum yield to be exceeded.  The establishment of the rates
+of interest shall be exempt from chapter 91. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

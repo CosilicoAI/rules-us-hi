@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-47"/>
+          <FRBRuri value="/us-hi/act/hrs/237-47"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-47/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-47/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-47/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-47/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_47">
+          <num>237-47</num>
+          <heading>Section 237-47</heading>
+          <content>
+            <p>§237-47  District judges; concurrent civil
+jurisdiction in tax collections.
+Except as otherwise specifically provided
+by this chapter, the several district judges shall have concurrent jurisdiction
+with the circuit courts to hear and determine all civil actions at law in
+assumpsit for the collection and enforcement of collection and payment of all
+taxes assessed hereunder, irrespective of the amount claimed. [L 1935, c 141,
+§15; RL 1945, §5479; RL 1955, §117-44; HRS §237-47; am L 1970, c 188, §39]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

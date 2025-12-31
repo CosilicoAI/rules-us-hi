@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-35"/>
+          <FRBRuri value="/us-hi/act/hrs/353-35"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-35/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-35/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-35/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-35/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_35">
+          <num>353-35</num>
+          <heading>Section 353-35</heading>
+          <content>
+            <p>[
+§353‑35]  Incarcerated parents; data
+collection.
+Beginning on July 1, 2016, the department shall collect the
+following data upon intake of offenders into the correctional system:
+(1)  The number of offenders who are parents;
+(2)  The number of children under the age of eighteen,
+per offender who is a parent; and
+(3)  Any other information about incarcerated parents
+and their children that the department deems useful to facilitate the provision
+of services to incarcerated parents or their children. [L 2015, c 16, §2]
+Note
+Forms or questions to ask offenders; plan for management
+of data collected and public disclosure of data.  L 2015, c 16, §3.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

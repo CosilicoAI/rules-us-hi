@@ -1,0 +1,256 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-121"/>
+          <FRBRuri value="/us-hi/act/hrs/386-121"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-121/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-121/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-121/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-121/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_121">
+          <num>386-121</num>
+          <heading>Section 386-121</heading>
+          <content>
+            <p>PART IV. 
+SECURITY FOR COMPENSATION; EMPLOYMENT RIGHTS OF
+INJURED
+EMPLOYEES; FUNDS
+A.  Security
+for Compensation
+Case Notes
+In the context of the Hawaii workers' compensation scheme, a
+physician is an incidental beneficiary rather than an intended third-party
+beneficiary of the employer's workers' compensation insurance policy; thus, as
+physician was not an intended third-party beneficiary of insurer's insurance
+policy, physician did not have a cause of action in tort for bad faith against
+insurer.  114 H. 122 (App.), 157 P.3d 561 (2007).
+§386-121  Security for payment of
+compensation; misdemeanor.
+(a)  Employers, except the State, any county or
+political subdivision of the State, or other public entity within the State,
+shall secure compensation to their employees in one of the following ways:
+(1)  By insuring and keeping insured the payment of
+compensation with any stock, mutual, reciprocal, or other insurer authorized to
+transact the business of workers' compensation insurance in the State;
+(2)  By depositing and maintaining with the state
+director of finance security satisfactory to the director of labor and
+industrial relations securing the payment by the employer of compensation
+according to the terms of this chapter;
+(3)  Upon furnishing satisfactory proof to the
+director of the employer's solvency and financial ability to pay the
+compensation and benefits herein provided, no insurance or security shall be
+required, and the employer shall make payments directly to the employer's
+employees, as they may become entitled to receive the same under the terms and
+conditions of this chapter;
+(4)  An employer desiring to maintain security for
+payment of compensation under this section shall file an application with the
+director on a form provided for this purpose together with the employer's most
+current audited annual financial statement;
+(5)  Where an applicant for self-insurance is a
+subsidiary and the subsidiary cannot submit an independent current audited
+annual financial statement, an indemnity agreement approved as to form and
+content by the director shall be executed by the parent corporation of the
+subsidiary and submitted with its application;
+(6)  Each self-insurance authorization shall be
+effective from the date of issuance until June 30 of each calendar year;
+(7)  A notice of intention to cancel self-insurance
+shall be submitted in writing to the director within at least thirty days prior
+to the effective date of cancellation;
+(8)  A self-insurance authorization may be revoked by
+the director for good cause shown upon notification in writing to the
+self-insurer;
+(9)  By membership in a workers' compensation
+self-insurance group with a valid certificate of approval under section
+386-194; or
+(10)  By membership in a workers' compensation group
+insured by a captive insurer under chapter 431, article 19.
+Any person who wilfully misrepresents any fact
+in order to obtain the benefits of paragraph (3) shall be guilty of a
+misdemeanor.
+(b)  Any decision of the director rendered
+under paragraphs (2) and (3) of subsection (a) of this section with respect to
+the amount of security required or refusing to permit no security to be given
+shall be subject to review on appeal in conformity with sections 386-87 and
+386-88. [L 1963, c 116, pt of §1; Supp, §97-120; HRS §386-121; am L 1975, c 41,
+§1; gen ch 1985; am L 1986, c 304, §3; am L 1991, c 79, §1; am L Sp 2005, c 11,
+§12]
+Case Notes
+Claimant may make insurance carrier party defendant by
+original claim or subsequent separate claim.  27 H. 476 (1923).
+Procedure informal.  32 H. 162 (1931).
+Cited:  31 H. 554 (1930).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_121__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Employers, except the State, any county or
+political subdivision of the State, or other public entity within the State,
+shall secure compensation to their employees in one of the following ways:</p>
+            </content>
+            <paragraph eId="386_121__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>By insuring and keeping insured the payment of
+compensation with any stock, mutual, reciprocal, or other insurer authorized to
+transact the business of workers' compensation insurance in the State;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>By depositing and maintaining with the state
+director of finance security satisfactory to the director of labor and
+industrial relations securing the payment by the employer of compensation
+according to the terms of this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Upon furnishing satisfactory proof to the
+director of the employer's solvency and financial ability to pay the
+compensation and benefits herein provided, no insurance or security shall be
+required, and the employer shall make payments directly to the employer's
+employees, as they may become entitled to receive the same under the terms and
+conditions of this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>An employer desiring to maintain security for
+payment of compensation under this section shall file an application with the
+director on a form provided for this purpose together with the employer's most
+current audited annual financial statement;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Where an applicant for self-insurance is a
+subsidiary and the subsidiary cannot submit an independent current audited
+annual financial statement, an indemnity agreement approved as to form and
+content by the director shall be executed by the parent corporation of the
+subsidiary and submitted with its application;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Each self-insurance authorization shall be
+effective from the date of issuance until June 30 of each calendar year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>A notice of intention to cancel self-insurance
+shall be submitted in writing to the director within at least thirty days prior
+to the effective date of cancellation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>A self-insurance authorization may be revoked by
+the director for good cause shown upon notification in writing to the
+self-insurer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_9">
+              <num>(9)</num>
+              <content>
+                <p>By membership in a workers' compensation
+self-insurance group with a valid certificate of approval under section
+386-194; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_10">
+              <num>(10)</num>
+              <content>
+                <p>By membership in a workers' compensation group
+insured by a captive insurer under chapter 431, article 19.
+Any person who wilfully misrepresents any fact
+in order to obtain the benefits of paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>shall be guilty of a
+misdemeanor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_121__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any decision of the director rendered
+under paragraphs</p>
+            </content>
+            <paragraph eId="386_121__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_121__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>of subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_121__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section with respect to
+the amount of security required or refusing to permit no security to be given
+shall be subject to review on appeal in conformity with sections 386-87 and
+386-88. [L 1963, c 116, pt of §1; Supp, §97-120; HRS §386-121; am L 1975, c 41,
+§1; gen ch 1985; am L 1986, c 304, §3; am L 1991, c 79, §1; am L Sp 2005, c 11,
+§12]
+Case Notes
+Claimant may make insurance carrier party defendant by
+original claim or subsequent separate claim.  27 H. 476 (1923).
+Procedure informal.  32 H. 162 (1931).
+Cited:  31 H. 554 (1930).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

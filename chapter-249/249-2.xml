@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/249-2"/>
+          <FRBRuri value="/us-hi/act/hrs/249-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/249-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/249-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/249-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/249-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_249">
+        <num>Chapter 249</num>
+        <heading>County Vehicular Taxes</heading>
+        <section eId="sec_249_2">
+          <num>249-2</num>
+          <heading>Imposition of tax</heading>
+          <content>
+            <p>§249-2  Imposition of tax.
+Except as
+otherwise provided in sections 249-1 to 249-13, and except in the case of
+antique motor vehicles which shall be subject to an annual tax of $10 in lieu
+of the annual tax otherwise imposed by this section, all vehicles and motor
+vehicles as defined in section 249-1, shall be subject to an annual tax,
+computed, except for the minimum tax provided for in section 249-13 according
+to the net weight of each vehicle at a rate determined as hereinafter provided
+in section 249-13.  The tax shall be paid by the owner of each vehicle in the
+county in which the vehicle is located at the time of registration, whether the
+original registration or any subsequent registration, and shall be collected by
+the director of finance of such county; provided that if a vehicle is
+transported to another county after the payment of the tax, no additional tax
+shall be imposed on the vehicle for the remaining period of the year for which the
+tax has been paid. [RL 1935, pt of §2157; am L 1937, c 214, §1; RL 1945, §5705;
+am L 1951, c 162, §1; RL 1955, §130-2; am L 1963, c 97, §2; am L 1965, c 266,
+§1; am L 1966, c 49, §2; am L 1967, c 137, §2; HRS §249-2; am L 2010, c 20, §1]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

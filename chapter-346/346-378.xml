@@ -1,0 +1,368 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-378"/>
+          <FRBRuri value="/us-hi/act/hrs/346-378"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-378/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-378/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-378/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-378/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_378">
+          <num>346-378</num>
+          <heading>Housing first programs</heading>
+          <content>
+            <p>§346-378
+Housing first programs.
+(a)  The department of human services, in consultation with the United States
+Department of Housing and Urban Development, as necessary, shall implement
+housing first programs and services, as the department deems appropriate for
+clientele who would most likely benefit from and succeed with the
+implementation of housing first programs and services, and subject to the
+availability of existing funds.
+(b)  The principles of housing first include:
+(1)
+Moving chronically homeless individuals into
+housing directly from streets and shelters, without a precondition of accepting
+or complying with treatment; provided that the department may condition
+continued tenancy through a housing first program on participation in treatment
+services;
+(2)
+Providing robust support services for program
+participants, predicated on assertive engagement instead of coercion;
+(3)
+Granting chronically homeless individuals
+priority as program participants in housing first programs;
+(4)
+Embracing a harm-reduction approach to
+addictions, rather than mandating abstinence, while supporting
+program-participant commitments to recovery; and
+(5)
+Providing program-participants with leases and
+tenant protections as provided by law.
+The department of human services may contract
+with housing first consultants to effectuate the purposes of this section.
+(c)  Housing first programs shall incorporate
+the following:
+(1)  Identification of target populations,
+specifically chronically homeless individuals;
+(2)  Developing assessments for the chronically
+homeless population;
+(3)  Developing service components, including:
+(A)  Financial assistance;
+(B)  In-home case management services;
+(C)  Affordable housing requirements;
+(D)  Landlord cultivation;
+(E)  Housing-placement requirements; and
+(F)  Support services to move
+program-participants toward self-sufficiency.
+(d)  The department of human services shall
+submit an annual report to the legislature no later than twenty days prior to
+the convening of each regular session, beginning with the regular session of
+2011.  The annual report shall include:
+(1)  The total number of participants in housing first
+programs;
+(2)  The annual costs of the programs;
+(3)  The types of support services offered; and
+(4)  Information regarding the duration of services
+required for each participant.
+(e)  As used in this section, &quot;chronically
+homeless individual&quot; means:
+(1)  A homeless individual having a mental illness,
+addiction, or physical disability who:
+(A)  Lives in a place not meant for human
+habitation, a safe haven, or an emergency shelter; and
+(B)  Has been homeless and living as described
+in subparagraph (A) continuously for at least twelve months or on at least four
+separate occasions in the last three years; provided that the combined
+occasions equal at least twelve months and each break in homelessness
+separating the occasions included at least seven consecutive nights of not
+living in places as described in subparagraph (A); provided further that stays
+in institutional care facilities for fewer than ninety days shall not
+constitute a break in homelessness, but shall be included in the twelve-month
+total if the individual was living in a place not meant for human habitation, a
+safe haven, or an emergency shelter immediately before entering the
+institutional care facility;
+(2)  An individual who has been residing in an
+institutional care facility, including a jail, substance abuse or mental health
+treatment facility, hospital, or other similar facility, for fewer than ninety
+days and met all of the criteria in paragraph (1) before entering that
+facility; or
+(3)  A family with an adult head of household, or a
+minor head of household if there is no adult in the family, who meets all of
+the criteria in paragraph (1) or (2), including a family whose composition has
+fluctuated while the head of household has been homeless. [L 2010, c 212, pt of
+§2, §5; am L 2016, c 42, §6; am L 2020, c 65, §2]
+Revision Note
+In subsections (a), (b), and (d), &quot;the department of
+human services&quot; was substituted for &quot;the Hawaii public housing
+authority, in collaboration with the department of human services&quot;
+pursuant to §23G-15.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_378__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department of human services, in consultation with the United States
+Department of Housing and Urban Development, as necessary, shall implement
+housing first programs and services, as the department deems appropriate for
+clientele who would most likely benefit from and succeed with the
+implementation of housing first programs and services, and subject to the
+availability of existing funds.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_378__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The principles of housing first include:</p>
+            </content>
+            <paragraph eId="346_378__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Moving chronically homeless individuals into
+housing directly from streets and shelters, without a precondition of accepting
+or complying with treatment; provided that the department may condition
+continued tenancy through a housing first program on participation in treatment
+services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Providing robust support services for program
+participants, predicated on assertive engagement instead of coercion;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Granting chronically homeless individuals
+priority as program participants in housing first programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Embracing a harm-reduction approach to
+addictions, rather than mandating abstinence, while supporting
+program-participant commitments to recovery; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Providing program-participants with leases and
+tenant protections as provided by law.
+The department of human services may contract
+with housing first consultants to effectuate the purposes of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_378__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Housing first programs shall incorporate
+the following:</p>
+            </content>
+            <paragraph eId="346_378__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Identification of target populations,
+specifically chronically homeless individuals;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Developing assessments for the chronically
+homeless population;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Developing service components, including:</p>
+              </content>
+              <subparagraph eId="346_378__subsec_c__para_3__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Financial assistance;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_378__subsec_c__para_3__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>In-home case management services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_378__subsec_c__para_3__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Affordable housing requirements;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_378__subsec_c__para_3__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>Landlord cultivation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_378__subsec_c__para_3__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>Housing-placement requirements; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_378__subsec_c__para_3__subpara_F">
+                <num>(F)</num>
+                <content>
+                  <p>Support services to move
+program-participants toward self-sufficiency.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_378__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department of human services shall
+submit an annual report to the legislature no later than twenty days prior to
+the convening of each regular session, beginning with the regular session of
+2011.  The annual report shall include:</p>
+            </content>
+            <paragraph eId="346_378__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The total number of participants in housing first
+programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The annual costs of the programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The types of support services offered; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_d__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Information regarding the duration of services
+required for each participant.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_378__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>As used in this section, &quot;chronically
+homeless individual&quot; means:</p>
+            </content>
+            <paragraph eId="346_378__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>A homeless individual having a mental illness,
+addiction, or physical disability who:</p>
+              </content>
+              <subparagraph eId="346_378__subsec_e__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Lives in a place not meant for human
+habitation, a safe haven, or an emergency shelter; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_378__subsec_e__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Has been homeless and living as described
+in subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_378__subsec_e__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>continuously for at least twelve months or on at least four
+separate occasions in the last three years; provided that the combined
+occasions equal at least twelve months and each break in homelessness
+separating the occasions included at least seven consecutive nights of not
+living in places as described in subparagraph (A); provided further that stays
+in institutional care facilities for fewer than ninety days shall not
+constitute a break in homelessness, but shall be included in the twelve-month
+total if the individual was living in a place not meant for human habitation, a
+safe haven, or an emergency shelter immediately before entering the
+institutional care facility;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="346_378__subsec_e__para_2">
+              <num>(2)</num>
+              <content>
+                <p>An individual who has been residing in an
+institutional care facility, including a jail, substance abuse or mental health
+treatment facility, hospital, or other similar facility, for fewer than ninety
+days and met all of the criteria in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>before entering that
+facility; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_e__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A family with an adult head of household, or a
+minor head of household if there is no adult in the family, who meets all of
+the criteria in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_378__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>or (2), including a family whose composition has
+fluctuated while the head of household has been homeless. [L 2010, c 212, pt of
+§2, §5; am L 2016, c 42, §6; am L 2020, c 65, §2]
+Revision Note
+In subsections</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

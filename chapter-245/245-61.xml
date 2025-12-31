@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-61"/>
+          <FRBRuri value="/us-hi/act/hrs/245-61"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-61/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-61/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-61/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-61/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_61">
+          <num>245-61</num>
+          <heading>Enforcement</heading>
+          <content>
+            <p>[§245-61]  Enforcement.
+(a) 
+Enforcement of this part shall be under the concurrent jurisdiction of the
+attorney general, the prosecuting attorneys or deputy prosecuting attorneys of
+the various counties, and the police departments of the various counties.
+(b)  In addition to any other remedy provided
+by law, including enforcement as provided in subsection (a), any person may
+bring an action for appropriate injunctive or other equitable relief for a
+violation of this part and for damages sustained by the person, and, if the
+judgment is for the plaintiff, the plaintiff shall be awarded a sum not less
+than $1,000 or threefold damages by the plaintiff sustained, whichever sum is
+the greater, and reasonable attorneys fees together with the costs of suit. [L
+2000, c 201, pt of §1]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="245_61__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Enforcement of this part shall be under the concurrent jurisdiction of the
+attorney general, the prosecuting attorneys or deputy prosecuting attorneys of
+the various counties, and the police departments of the various counties.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_61__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In addition to any other remedy provided
+by law, including enforcement as provided in subsection</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

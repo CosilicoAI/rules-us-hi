@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-10"/>
+          <FRBRuri value="/us-hi/act/hrs/383-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-10/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-10/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_10">
+          <num>383-10</num>
+          <heading>Definition of wages</heading>
+          <content>
+            <p>§383-10  Definition of wages.
+As used
+in this chapter, unless the context clearly requires otherwise,
+&quot;wages&quot;, subject to section 383-11, means all remuneration for
+services from whatever source, including commissions and bonuses, tips or
+gratuities paid directly to an individual by a customer of the employer and
+reported to the employer, and the cash value of all remuneration in any medium
+other than cash.  The reasonable cash value of remuneration in any medium other
+than cash shall be estimated and determined in accordance with rules prescribed
+by the department of labor and industrial relations. [L 1939, c 219, §2(p); am
+L 1941, c 304, §1, pt of subs 12; RL 1945, §4211; am L 1953, c 23, §1(2); RL
+1955, §93-10; am L Sp 1959 2d, c 1, §27; HRS §383-10; gen ch 1985; am L 1986, c
+288, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

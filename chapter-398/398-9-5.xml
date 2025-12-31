@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/398-9.5"/>
+          <FRBRuri value="/us-hi/act/hrs/398-9.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/398-9.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/398-9.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/398-9.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/398-9.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_398">
+        <num>Chapter 398</num>
+        <heading>Family Leave</heading>
+        <section eId="sec_398_9_5">
+          <num>398-9.5</num>
+          <heading>Section 398-9.5</heading>
+          <content>
+            <p>§398-9
+Administration.
+(a)  The
+director shall have jurisdiction over those prohibited acts made unlawful by
+this chapter.
+(b)  The department shall assist employers in
+the placement of temporary help to perform the work of those employees on family
+leave.
+(c)  The director also may hire, subject to
+chapter 76, investigators, hearings officers, clerical, stenographic, and other
+staff as may be necessary to administer and enforce this chapter. [L 1991, c
+328, pt of §1; am L 1995, c 154, §7; am L 2000, c 253, §150]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="398_9_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The
+director shall have jurisdiction over those prohibited acts made unlawful by
+this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_9_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall assist employers in
+the placement of temporary help to perform the work of those employees on family
+leave.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_9_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director also may hire, subject to
+chapter 76, investigators, hearings officers, clerical, stenographic, and other
+staff as may be necessary to administer and enforce this chapter. [L 1991, c
+328, pt of §1; am L 1995, c 154, §7; am L 2000, c 253, §150]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

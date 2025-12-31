@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-195"/>
+          <FRBRuri value="/us-hi/act/hrs/386-195"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-195/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-195/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-195/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-195/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_195">
+          <num>386-195</num>
+          <heading>Section 386-195</heading>
+          <content>
+            <p>§386-195  Certificate of approval;
+termination.
+(a)  The certificate of approval issued by the insurance
+commissioner to a workers' compensation self-insurance group authorizes the
+group to provide workers' compensation benefits.  The certificate of approval
+shall remain in effect until terminated at the request of the group or revoked
+by the insurance commissioner pursuant to section 386-211.
+(b)  The insurance commissioner shall not grant
+the request of any group to terminate its certificate of approval unless the
+group has insured or reinsured all incurred workers' compensation obligations
+with an authorized insurer under an agreement filed with and approved in
+writing by the insurance commissioner.  The obligations shall include both
+known claims and expenses associated therewith and claims incurred, but not
+reported, and expenses associated therewith.
+(c)  Subject to the approval of the insurance
+commissioner, a group may merge with another group engaged in the same or
+similar type of business only if the resulting group assumes in full all
+obligations of the merging groups.  The insurance commissioner may hold a
+hearing on the merger and shall do so if any party, including a member of
+either group, so requests. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_195__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The certificate of approval issued by the insurance
+commissioner to a workers' compensation self-insurance group authorizes the
+group to provide workers' compensation benefits.  The certificate of approval
+shall remain in effect until terminated at the request of the group or revoked
+by the insurance commissioner pursuant to section 386-211.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_195__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The insurance commissioner shall not grant
+the request of any group to terminate its certificate of approval unless the
+group has insured or reinsured all incurred workers' compensation obligations
+with an authorized insurer under an agreement filed with and approved in
+writing by the insurance commissioner.  The obligations shall include both
+known claims and expenses associated therewith and claims incurred, but not
+reported, and expenses associated therewith.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_195__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Subject to the approval of the insurance
+commissioner, a group may merge with another group engaged in the same or
+similar type of business only if the resulting group assumes in full all
+obligations of the merging groups.  The insurance commissioner may hold a
+hearing on the merger and shall do so if any party, including a member of
+either group, so requests. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-42"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-42"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-42/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-42/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-42/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-42/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_42">
+          <num>356D-42</num>
+          <heading>Section 356D-42</heading>
+          <content>
+            <p>§356D-42
+Housing; tenant selection
+. 
+(a)  The authority shall select tenants upon the basis of those in greatest
+need for the particular housing, subject to the following limitations and
+preferences:
+(1)  The authority may limit the tenants of any state
+low-income housing project to classes of persons when required by federal law
+or regulation as a term or condition of obtaining assistance from the federal
+government;
+(2)  Within the priorities established by the
+authority recognizing need, veterans with a permanent disability of ten per
+cent or more, as certified by the United States Department of Veterans Affairs,
+and their dependent parents, if any.  The deceased veteran's spouse shall be
+given first preference.  Parents of veterans shall not use the veteran status
+of their adult child as a basis for preference; and
+(3)  Subject to any limitations set by federal law or
+regulation, the authority shall not select as a tenant, and may terminate the
+tenancy of, any person if the person or any household member owns or acquires a
+home within the State.
+(b)  The authority shall adopt rules pursuant
+to chapter 91 to carry out the purposes of this section. [L 2006, c 180, pt of
+§2; am L 2013, c 148, §3 and c 223, §1; am L 2023, c 99, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_42__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The authority shall select tenants upon the basis of those in greatest
+need for the particular housing, subject to the following limitations and
+preferences:</p>
+            </content>
+            <paragraph eId="356D_42__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The authority may limit the tenants of any state
+low-income housing project to classes of persons when required by federal law
+or regulation as a term or condition of obtaining assistance from the federal
+government;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_42__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Within the priorities established by the
+authority recognizing need, veterans with a permanent disability of ten per
+cent or more, as certified by the United States Department of Veterans Affairs,
+and their dependent parents, if any.  The deceased veteran's spouse shall be
+given first preference.  Parents of veterans shall not use the veteran status
+of their adult child as a basis for preference; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_42__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Subject to any limitations set by federal law or
+regulation, the authority shall not select as a tenant, and may terminate the
+tenancy of, any person if the person or any household member owns or acquires a
+home within the State.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_42__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The authority shall adopt rules pursuant
+to chapter 91 to carry out the purposes of this section. [L 2006, c 180, pt of
+§2; am L 2013, c 148, §3 and c 223, §1; am L 2023, c 99, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
