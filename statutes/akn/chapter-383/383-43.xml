@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-43"/>
+          <FRBRuri value="/us-hi/act/hrs/383-43"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-43/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-43/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-43/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-43/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_43">
+          <num>383-43</num>
+          <heading>Payment of benefits</heading>
+          <content>
+            <p>§383-43  Payment of benefits.
+Benefits
+shall be paid promptly in accordance with a determination, redetermination, or
+decision on appeal.  No injunction, supersedeas, or stay suspending the payment
+of benefits in accordance with the determination, redetermination, or decision
+on appeal shall be issued by any court, but if the decision is finally
+reversed, benefits shall not be paid for any subsequent weeks of unemployment
+involved in such reversal. [L 1941, c 304, §1, pt of subs 18; RL 1945, §4244;
+am L 1955, c 51, §1(6); RL 1955, §93-42; HRS §383-43; am L 1972, c 4, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

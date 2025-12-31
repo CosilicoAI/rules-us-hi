@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-14"/>
+          <FRBRuri value="/us-hi/act/hrs/389-14"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-14/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-14/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-14/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-14/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_14">
+          <num>389-14</num>
+          <heading>Penalties</heading>
+          <content>
+            <p>[§389-14]  Penalties.
+(a)  Any covered
+employer who fails to enroll a covered employee into the program in accordance
+with section 389-5(e)(1) without equitable justification shall be liable:
+(1)  To the covered employee, in an amount equal to
+the contribution amount that would have been made by the employee into the
+program and interest at a rate of six per cent per year on the contribution
+amount, beginning from the date the contribution would have been made into the
+account; provided that the sum of the contribution amount and interest thereto
+shall be transmitted by the covered employer to the program to be paid into the
+covered employee's IRA; and
+(2)  A penalty of:
+(A)  $25 for each month the covered employee was
+not enrolled in the program; and
+(B)  $50 for each month the covered employee
+continues to be unenrolled in the program after the date on which a penalty has
+been assessed with respect to the covered employee who had elected to
+participate in the program.
+(b)  Any covered employer who fails to timely transmit
+a covered employee's payroll deduction contribution to the program pursuant to
+section 389-5(e)(2) shall be subject to the same sanctions imposed on an employer
+for misappropriation of employee wage withholdings and the penalties pursuant
+to chapter 388.
+(c)  No penalty under subsections (a)(2) and
+(b) shall be imposed on a covered employer if the covered employer can
+establish by a preponderance of the evidence that the covered employer:
+(1)  Exercised reasonable diligence to meet the
+requirements of section 389-5(e);
+(2)  Did not know or reasonably should not have known
+that the failure existed; and
+(3)  Cures the failure within ninety days of the day
+the covered employer was given actual notice of the failure or should have
+known that the failure existed, whichever is earlier.
+(d)  Any covered employer who otherwise
+violates or fails to comply with any provision of this chapter or rules adopted
+pursuant to this chapter shall be liable for a penalty of no less than $500 for
+each violation or failure; provided that the penalties shall not exceed $5,000
+per calendar year.
+(e)  All or part of the penalties imposed under
+subsections (a)(2) and (b) may be waived to the extent that the payment of the
+penalties would be excessive or otherwise inequitable relative to the violation
+or failure involved; provided that the covered employer can establish, by a
+preponderance of the evidence, the existence of equitable justification for the
+violation or failure.
+(f)  The penalties under this section shall be
+deposited into the special fund. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any covered
+employer who fails to enroll a covered employee into the program in accordance
+with section 389-5</p>
+            </content>
+            <paragraph eId="389_14__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>without equitable justification shall be liable:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_14__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>To the covered employee, in an amount equal to
+the contribution amount that would have been made by the employee into the
+program and interest at a rate of six per cent per year on the contribution
+amount, beginning from the date the contribution would have been made into the
+account; provided that the sum of the contribution amount and interest thereto
+shall be transmitted by the covered employer to the program to be paid into the
+covered employee's IRA; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_14__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A penalty of:</p>
+              </content>
+              <subparagraph eId="389_14__subsec_a__para_2__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>$25 for each month the covered employee was
+not enrolled in the program; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_14__subsec_a__para_2__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>$50 for each month the covered employee
+continues to be unenrolled in the program after the date on which a penalty has
+been assessed with respect to the covered employee who had elected to
+participate in the program.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_14__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any covered employer who fails to timely transmit
+a covered employee's payroll deduction contribution to the program pursuant to
+section 389-5</p>
+            </content>
+            <paragraph eId="389_14__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>shall be subject to the same sanctions imposed on an employer
+for misappropriation of employee wage withholdings and the penalties pursuant
+to chapter 388.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_14__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No penalty under subsections</p>
+            </content>
+            <paragraph eId="389_14__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_14__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>shall be imposed on a covered employer if the covered employer can
+establish by a preponderance of the evidence that the covered employer:</p>
+            </content>
+            <paragraph eId="389_14__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Exercised reasonable diligence to meet the
+requirements of section 389-5</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_14__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Did not know or reasonably should not have known
+that the failure existed; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_14__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Cures the failure within ninety days of the day
+the covered employer was given actual notice of the failure or should have
+known that the failure existed, whichever is earlier.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_14__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any covered employer who otherwise
+violates or fails to comply with any provision of this chapter or rules adopted
+pursuant to this chapter shall be liable for a penalty of no less than $500 for
+each violation or failure; provided that the penalties shall not exceed $5,000
+per calendar year.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_14__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>All or part of the penalties imposed under
+subsections</p>
+            </content>
+            <paragraph eId="389_14__subsec_e__para_2">
+              <num>(2)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_14__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>may be waived to the extent that the payment of the
+penalties would be excessive or otherwise inequitable relative to the violation
+or failure involved; provided that the covered employer can establish, by a
+preponderance of the evidence, the existence of equitable justification for the
+violation or failure.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_14__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The penalties under this section shall be
+deposited into the special fund. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

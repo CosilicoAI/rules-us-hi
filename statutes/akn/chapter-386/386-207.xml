@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-207"/>
+          <FRBRuri value="/us-hi/act/hrs/386-207"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-207/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-207/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-207/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-207/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_207">
+          <num>386-207</num>
+          <heading>Deficits and insolvencies</heading>
+          <content>
+            <p>§386-207  Deficits and insolvencies.
+(a)  If the assets of a group are at any time insufficient to enable the group
+to discharge its legal liabilities and other obligations and to maintain the
+reserves required of it under this chapter, the group shall forthwith make up
+the deficiency or levy an assessment upon its members for the amount needed to
+make up the deficiency.
+(b)  In the event of a deficiency in any fund
+year, the deficiency shall be made up immediately, either from:
+(1)  Surplus from a fund year other than the current
+fund year;
+(2)  Administrative funds;
+(3)  Assessment of the membership, if ordered by the
+group; or
+(4)  An alternate method as the insurance commissioner
+may approve or direct.
+The insurance commissioner shall be notified prior
+to any transfer of surplus funds from one fund year to another.
+(c)  If the group fails to assess its members
+or to otherwise make up the deficit within thirty days, the insurance
+commissioner shall order it to do so.
+(d)  If the group fails to make the required
+assessment of its members within thirty days after the insurance commissioner
+orders it to do so or if the deficiency is not fully made up within sixty days
+after the date on which the assessment is made or within a longer period of
+time as may be specified by the insurance commissioner, the group shall be
+deemed to be insolvent.
+(e)  The insurance commissioner shall proceed
+against an insolvent group in the same manner as the insurance commissioner
+would proceed against an insolvent domestic insurer in this State as prescribed
+in chapter 431, article 15.  The insurance commissioner shall have the same
+powers and limitations in the proceedings as are provided under those laws,
+except as otherwise provided in this chapter.
+(f)  In the event of the liquidation of a
+group, the insurance commissioner shall levy an assessment upon its members for
+an amount as the insurance commissioner determines to be necessary to discharge
+all liabilities of the group, including the reasonable cost of liquidation. [L
+1986, c 304, pt of §1; am L 1990, c 34, §24]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_207__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the assets of a group are at any time insufficient to enable the group
+to discharge its legal liabilities and other obligations and to maintain the
+reserves required of it under this chapter, the group shall forthwith make up
+the deficiency or levy an assessment upon its members for the amount needed to
+make up the deficiency.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_207__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the event of a deficiency in any fund
+year, the deficiency shall be made up immediately, either from:</p>
+            </content>
+            <paragraph eId="386_207__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Surplus from a fund year other than the current
+fund year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_207__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Administrative funds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_207__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Assessment of the membership, if ordered by the
+group; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_207__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>An alternate method as the insurance commissioner
+may approve or direct.
+The insurance commissioner shall be notified prior
+to any transfer of surplus funds from one fund year to another.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_207__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the group fails to assess its members
+or to otherwise make up the deficit within thirty days, the insurance
+commissioner shall order it to do so.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_207__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If the group fails to make the required
+assessment of its members within thirty days after the insurance commissioner
+orders it to do so or if the deficiency is not fully made up within sixty days
+after the date on which the assessment is made or within a longer period of
+time as may be specified by the insurance commissioner, the group shall be
+deemed to be insolvent.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_207__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The insurance commissioner shall proceed
+against an insolvent group in the same manner as the insurance commissioner
+would proceed against an insolvent domestic insurer in this State as prescribed
+in chapter 431, article 15.  The insurance commissioner shall have the same
+powers and limitations in the proceedings as are provided under those laws,
+except as otherwise provided in this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_207__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>In the event of the liquidation of a
+group, the insurance commissioner shall levy an assessment upon its members for
+an amount as the insurance commissioner determines to be necessary to discharge
+all liabilities of the group, including the reasonable cost of liquidation. [L
+1986, c 304, pt of §1; am L 1990, c 34, §24]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

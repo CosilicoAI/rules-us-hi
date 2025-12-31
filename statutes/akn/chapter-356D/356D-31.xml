@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-31"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-31"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-31/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-31/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-31/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-31/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_31">
+          <num>356D-31</num>
+          <heading>Rentals and tenant selection</heading>
+          <content>
+            <p>PART II. 
+FEDERAL LOW-INCOME HOUSING
+§356D-31  Rentals and tenant selection.
+(a)  In the operation or management of federal public housing projects, the
+authority, acting directly or by an agent or agents, at all times shall observe
+the following duties with respect to rentals and tenant selection:
+(1)  The authority may establish maximum limits of
+annual net income for tenant selection in any public housing project, less any
+exemptions as may be authorized by federal regulations pertaining to public
+housing.  The authority may agree to conditions as to tenant eligibility or
+preference required by the federal government pursuant to federal law in any
+contract for financial assistance with the authority;
+(2)  The authority may rent or lease the dwelling
+units therein only at rentals within the financial reach of persons who lack
+the amount of income that the authority determines to be necessary to obtain
+safe, sanitary, and uncongested dwelling accommodations within the area of
+operation of the authority and to provide an adequate standard of living; and
+(3)  The authority may rent or lease to a tenant a
+dwelling consisting of the number of rooms, but no greater number, than the
+authority deems necessary to provide safe and sanitary accommodations to the
+proposed occupants thereof, without overcrowding.
+(b)  Nothing in this part shall be construed as
+limiting the power of the authority to:
+(1)  Vest in an obligee the right, in the event of a
+default by the authority, to take possession of a public housing project or
+cause the appointment of a receiver thereof, free from all the restrictions
+imposed by this part with respect to rentals, tenant selection, manner of
+operation, or otherwise; or
+(2)  Vest in obligees the right, in the event of a
+default by the authority, to acquire title to a public housing project or the
+property mortgaged by the authority, free from all the restrictions imposed by
+this part. [L 2006, c 180, pt of §2; am L 2013, c 148, §2; am L 2023, c 99, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_31__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In the operation or management of federal public housing projects, the
+authority, acting directly or by an agent or agents, at all times shall observe
+the following duties with respect to rentals and tenant selection:</p>
+            </content>
+            <paragraph eId="356D_31__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The authority may establish maximum limits of
+annual net income for tenant selection in any public housing project, less any
+exemptions as may be authorized by federal regulations pertaining to public
+housing.  The authority may agree to conditions as to tenant eligibility or
+preference required by the federal government pursuant to federal law in any
+contract for financial assistance with the authority;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_31__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The authority may rent or lease the dwelling
+units therein only at rentals within the financial reach of persons who lack
+the amount of income that the authority determines to be necessary to obtain
+safe, sanitary, and uncongested dwelling accommodations within the area of
+operation of the authority and to provide an adequate standard of living; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_31__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The authority may rent or lease to a tenant a
+dwelling consisting of the number of rooms, but no greater number, than the
+authority deems necessary to provide safe and sanitary accommodations to the
+proposed occupants thereof, without overcrowding.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_31__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Nothing in this part shall be construed as
+limiting the power of the authority to:</p>
+            </content>
+            <paragraph eId="356D_31__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Vest in an obligee the right, in the event of a
+default by the authority, to take possession of a public housing project or
+cause the appointment of a receiver thereof, free from all the restrictions
+imposed by this part with respect to rentals, tenant selection, manner of
+operation, or otherwise; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_31__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Vest in obligees the right, in the event of a
+default by the authority, to acquire title to a public housing project or the
+property mortgaged by the authority, free from all the restrictions imposed by
+this part. [L 2006, c 180, pt of §2; am L 2013, c 148, §2; am L 2023, c 99, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

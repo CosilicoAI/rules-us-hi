@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/398-26"/>
+          <FRBRuri value="/us-hi/act/hrs/398-26"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/398-26/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/398-26/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/398-26/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/398-26/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_398">
+        <num>Chapter 398</num>
+        <heading>Family Leave</heading>
+        <section eId="sec_398_26">
+          <num>398-26</num>
+          <heading>Remedies</heading>
+          <content>
+            <p>[§398-26]  Remedies.
+(a)  In addition
+to all employment terms and benefits provided under section 398-7, remedies
+prescribed and ordered by the department or the court under this chapter may
+include any legal, equitable, and other relief the department or court deems
+appropriate.
+(b)  Relief under this section may include:
+(1)  The amount of any wages, salary, employment
+benefits, or other compensation denied or lost to the employee by reason of the
+violation; or
+(2)  In a case in which wages, salary, employment
+benefits, or other compensation have not been denied or lost to the employee,
+any actual monetary losses sustained by the employee as a direct result of the
+violation, such as the cost of providing care, up to a sum equal to four weeks
+of wages or salary for the employee.
+(c)  An employer may be liable for an
+additional amount as liquidated damages equal to the sum of the applicable
+amount in subsection (b)(1) and (2); provided that if an employer who has
+violated this chapter proves to the satisfaction of the department or the court
+that the act or omission that violated this chapter was in good faith and that
+the employer had reasonable grounds for believing that the act or omission was
+not a violation of this chapter, the department or the court may reduce the
+amount of the liability to the applicable amount determined under subsection
+(b)(1) or (2). [L 1995, c 154, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="398_26__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In addition
+to all employment terms and benefits provided under section 398-7, remedies
+prescribed and ordered by the department or the court under this chapter may
+include any legal, equitable, and other relief the department or court deems
+appropriate.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_26__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Relief under this section may include:</p>
+            </content>
+            <paragraph eId="398_26__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The amount of any wages, salary, employment
+benefits, or other compensation denied or lost to the employee by reason of the
+violation; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="398_26__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>In a case in which wages, salary, employment
+benefits, or other compensation have not been denied or lost to the employee,
+any actual monetary losses sustained by the employee as a direct result of the
+violation, such as the cost of providing care, up to a sum equal to four weeks
+of wages or salary for the employee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="398_26__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An employer may be liable for an
+additional amount as liquidated damages equal to the sum of the applicable
+amount in subsection</p>
+            </content>
+            <paragraph eId="398_26__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>and (2); provided that if an employer who has
+violated this chapter proves to the satisfaction of the department or the court
+that the act or omission that violated this chapter was in good faith and that
+the employer had reasonable grounds for believing that the act or omission was
+not a violation of this chapter, the department or the court may reduce the
+amount of the liability to the applicable amount determined under subsection</p>
+              </content>
+            </paragraph>
+            <paragraph eId="398_26__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>or (2). [L 1995, c 154, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

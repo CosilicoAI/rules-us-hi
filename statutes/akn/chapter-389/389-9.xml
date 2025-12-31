@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-9"/>
+          <FRBRuri value="/us-hi/act/hrs/389-9"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-9/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-9/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-9/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-9/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_9">
+          <num>389-9</num>
+          <heading>Protection from liability; employers</heading>
+          <content>
+            <p>[§389-9]  Protection from liability; employers.
+(a)  No covered employer or other employer shall be liable for or bear
+responsibility for:
+(1)  An employee's decision to opt in or not
+participate in the program;
+(2)  Investment decisions made by the participants and
+the board;
+(3)  The administration, investment, investment
+returns, or investment performance of the program, including any interest rate
+or other rate of return earned on any contribution or account balance; provided
+that the employer played no role in the investment;
+(4)  The program design or the benefits paid to
+participants;
+(5)  Individuals' awareness of or compliance with the
+conditions and other provisions of the tax laws that determine:
+(A)  Which individuals are eligible to make
+tax-favored contributions to IRAs;
+(B)  The permissible amount of contributions;
+and
+(C)  The time frame and manner within which
+contributions are to be made;
+(6)  Any loss, failure to realize any gain, or any
+other adverse consequences, including any adverse tax consequences or loss of
+favorable tax treatment, public assistance, or other benefits, incurred by any
+person as a result of program participation; or
+(7)  Any loss, deficiency, or damages caused by or
+related to the action or inaction of the program manager.
+(b)  No covered employer or other employer
+shall be, or shall be considered to be, a fiduciary in relation to the program
+or any other arrangement under the program. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No covered employer or other employer shall be liable for or bear
+responsibility for:</p>
+            </content>
+            <paragraph eId="389_9__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>An employee's decision to opt in or not
+participate in the program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_9__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Investment decisions made by the participants and
+the board;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_9__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The administration, investment, investment
+returns, or investment performance of the program, including any interest rate
+or other rate of return earned on any contribution or account balance; provided
+that the employer played no role in the investment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_9__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The program design or the benefits paid to
+participants;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_9__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Individuals' awareness of or compliance with the
+conditions and other provisions of the tax laws that determine:</p>
+              </content>
+              <subparagraph eId="389_9__subsec_a__para_5__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Which individuals are eligible to make
+tax-favored contributions to IRAs;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_9__subsec_a__para_5__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The permissible amount of contributions;
+and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_9__subsec_a__para_5__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>The time frame and manner within which
+contributions are to be made;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="389_9__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Any loss, failure to realize any gain, or any
+other adverse consequences, including any adverse tax consequences or loss of
+favorable tax treatment, public assistance, or other benefits, incurred by any
+person as a result of program participation; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_9__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Any loss, deficiency, or damages caused by or
+related to the action or inaction of the program manager.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No covered employer or other employer
+shall be, or shall be considered to be, a fiduciary in relation to the program
+or any other arrangement under the program. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

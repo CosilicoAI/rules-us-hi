@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-16"/>
+          <FRBRuri value="/us-hi/act/hrs/389-16"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-16/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-16/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-16/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-16/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_16">
+          <num>389-16</num>
+          <heading>Audits and annual reports</heading>
+          <content>
+            <p>[§389-16]  Audits and annual reports.
+(a) 
+The board shall cause an accurate account of all activities, operations,
+receipts, and expenditures to be maintained in relation to the program and the
+board.  Each year, after the first full fiscal year following program
+implementation, a full audit of the books and accounts of the board pertaining
+to the activities, operations, receipts and expenditures, personnel, services,
+or facilities of the program and the board shall be conducted by a certified
+public accountant.  The audit shall include but not be limited to the review of
+direct and indirect costs attributable to the use of outside consultants,
+independent contractors, and any other persons who are not state employees for
+the administration of the program.  For purposes of the audit, the auditors
+shall have access to the properties and records of the program and board and
+may prescribe methods of accounting and the rendering of periodic reports in
+relation to projects undertaken by the program.
+(b)  No later than twenty days before the
+convening of each regular session, the board shall prepare and submit to the governor
+and the legislature, and make available to the public, an annual report that
+shall include but not be limited to:
+(1)  The audited financial report prepared in
+accordance with generally accepted accounting principles, detailing the
+activities, operations, receipts, and expenditures of the program and board
+during the preceding calendar year; and
+(2)  The progress and accomplishments made by the
+board during the preceding year and projected activities of the program for the
+current calendar year;
+provided that the annual report for the first full
+fiscal year following program implementation shall include the board's findings
+and recommendations, including any proposed legislation, relating to the
+feasibility of expanding the program's eligibility to Hawaii's independent
+workforce, including self-employed workers. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_16__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The board shall cause an accurate account of all activities, operations,
+receipts, and expenditures to be maintained in relation to the program and the
+board.  Each year, after the first full fiscal year following program
+implementation, a full audit of the books and accounts of the board pertaining
+to the activities, operations, receipts and expenditures, personnel, services,
+or facilities of the program and the board shall be conducted by a certified
+public accountant.  The audit shall include but not be limited to the review of
+direct and indirect costs attributable to the use of outside consultants,
+independent contractors, and any other persons who are not state employees for
+the administration of the program.  For purposes of the audit, the auditors
+shall have access to the properties and records of the program and board and
+may prescribe methods of accounting and the rendering of periodic reports in
+relation to projects undertaken by the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_16__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No later than twenty days before the
+convening of each regular session, the board shall prepare and submit to the governor
+and the legislature, and make available to the public, an annual report that
+shall include but not be limited to:</p>
+            </content>
+            <paragraph eId="389_16__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The audited financial report prepared in
+accordance with generally accepted accounting principles, detailing the
+activities, operations, receipts, and expenditures of the program and board
+during the preceding calendar year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_16__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The progress and accomplishments made by the
+board during the preceding year and projected activities of the program for the
+current calendar year;
+provided that the annual report for the first full
+fiscal year following program implementation shall include the board's findings
+and recommendations, including any proposed legislation, relating to the
+feasibility of expanding the program's eligibility to Hawaii's independent
+workforce, including self-employed workers. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

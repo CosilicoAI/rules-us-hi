@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/347-19"/>
+          <FRBRuri value="/us-hi/act/hrs/347-19"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/347-19/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/347-19/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/347-19/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/347-19/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_347">
+        <num>Chapter 347</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_347_19">
+          <num>347-19</num>
+          <heading>Rights of blind; partially blind</heading>
+          <content>
+            <p>§347-19  Rights of blind; partially blind.
+A blind or visually handicapped person not carrying a cane or using a service animal
+in any of the places, accommodations or conveyances listed in section 347-13,
+shall have all of the rights and privileges conferred by law upon other
+persons, and the failure of a blind or visually handicapped person to carry a
+cane or to use a service animal in any such places, accommodations, or
+conveyances shall not constitute nor be evidence of negligence. [L 1972, c 75,
+§3; am L 2011, c 175, §7; am L 2018, c 217, §6]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

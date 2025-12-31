@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-154"/>
+          <FRBRuri value="/us-hi/act/hrs/386-154"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-154/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-154/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-154/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-154/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_154">
+          <num>386-154</num>
+          <heading>Section 386-154</heading>
+          <content>
+            <p>§386-154  Charge against employers not
+insured under section 386-121(a)(1).
+(a)  As used in this section:
+&quot;Anticipated total assessment&quot; means
+the amount derived by dividing the total amount of the levy to be paid by
+insurance carriers in a calendar year as required by section 386-153 by the
+most recent carrier's compensation ratio.
+&quot;Average annual compensation&quot; means
+the average of annual compensation payments made by an employing unit for a
+period consisting of two consecutive calendar years immediately preceding the
+year for which the charge is assessed under this section; provided that if, at
+the end of a calendar year, an employing unit was subject to this chapter for a
+period less than twelve consecutive months the total amount of compensation
+payments made by the employing unit during such period shall constitute the
+employing unit's average annual compensation.
+&quot;Carrier's compensation ratio&quot; means
+the quotient derived by dividing the total average annual compensation paid
+during the two most recent calendar years by all insurance carriers on behalf
+of employers insured and keeping insured under section 386-121(a)(1) by the
+total average annual compensation paid during the same two calendar years by
+all employers subject to this chapter.
+&quot;Employing unit&quot; means an employer
+who has not secured compensation to the employer's employees under section
+386-121(a)(1); except that, for employers who are members of a workers'
+compensation group under part VI, the term means the group.
+&quot;Employing unit's compensation ratio&quot;
+means the percentage ratio derived by dividing an employing unit's average
+annual compensation at the end of a calendar year by the total average annual
+compensation paid during the same two calendar years by all employers subject
+to this chapter.
+(b)  For the calendar year 1974 and for each
+calendar year thereafter an employing unit shall, except as otherwise provided
+in section 386-152, pay into the special compensation fund a charge in an
+amount which is equal to the product derived by multiplying the employing
+unit's most recent compensation ratio by the most recent anticipated total
+assessment.
+For each calendar year the director shall
+determine the amount of the charge to be paid by each employing unit, and shall
+give notice of such charge to each employing unit by August 15 of the year
+for which the charge is assessed.  The amount of the charge shall be paid to
+the director on or before September 30 following notification.
+The director of finance may withhold the
+additional charge due from a political subdivision from any moneys due the
+subdivision from the State if the subdivision has not paid its charge as
+required by this section and shall deposit the withheld amount in the special
+compensation fund. [L 1963, c 103, pt of §1; Supp, §97-143; HRS §386-154; am L
+1973, c 183, §4; am L 1982, c 51, §2 and c 204, §8; am L 1983, c 124, §17; gen
+ch 1985; am L 1986, c 304, §5; am L 1993, c 123, §1]
+Revision
+Note
+In subsection (a), definitions rearranged pursuant
+to §23G-15.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_154__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:
+&quot;Anticipated total assessment&quot; means
+the amount derived by dividing the total amount of the levy to be paid by
+insurance carriers in a calendar year as required by section 386-153 by the
+most recent carrier's compensation ratio.
+&quot;Average annual compensation&quot; means
+the average of annual compensation payments made by an employing unit for a
+period consisting of two consecutive calendar years immediately preceding the
+year for which the charge is assessed under this section; provided that if, at
+the end of a calendar year, an employing unit was subject to this chapter for a
+period less than twelve consecutive months the total amount of compensation
+payments made by the employing unit during such period shall constitute the
+employing unit's average annual compensation.
+&quot;Carrier's compensation ratio&quot; means
+the quotient derived by dividing the total average annual compensation paid
+during the two most recent calendar years by all insurance carriers on behalf
+of employers insured and keeping insured under section 386-121</p>
+            </content>
+            <paragraph eId="386_154__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>by the
+total average annual compensation paid during the same two calendar years by
+all employers subject to this chapter.
+&quot;Employing unit&quot; means an employer
+who has not secured compensation to the employer's employees under section
+386-121</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_154__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the calendar year 1974 and for each
+calendar year thereafter an employing unit shall, except as otherwise provided
+in section 386-152, pay into the special compensation fund a charge in an
+amount which is equal to the product derived by multiplying the employing
+unit's most recent compensation ratio by the most recent anticipated total
+assessment.
+For each calendar year the director shall
+determine the amount of the charge to be paid by each employing unit, and shall
+give notice of such charge to each employing unit by August 15 of the year
+for which the charge is assessed.  The amount of the charge shall be paid to
+the director on or before September 30 following notification.
+The director of finance may withhold the
+additional charge due from a political subdivision from any moneys due the
+subdivision from the State if the subdivision has not paid its charge as
+required by this section and shall deposit the withheld amount in the special
+compensation fund. [L 1963, c 103, pt of §1; Supp, §97-143; HRS §386-154; am L
+1973, c 183, §4; am L 1982, c 51, §2 and c 204, §8; am L 1983, c 124, §17; gen
+ch 1985; am L 1986, c 304, §5; am L 1993, c 123, §1]
+Revision
+Note
+In subsection</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-183"/>
+          <FRBRuri value="/us-hi/act/hrs/346-183"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-183/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-183/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-183/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-183/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_183">
+          <num>346-183</num>
+          <heading>Section 346-183</heading>
+          <content>
+            <p>§346-183
+Child care grant program
+special fund; established.
+(a)  There is established within the state
+treasury the child care grant program special fund, to be administered by the
+department, into which shall be deposited:
+(1)  Donations to the fund;
+(2)  Appropriations made by the legislature to the
+fund;
+(3)  Revenues regardless of their source; and
+(4)  Earnings on moneys in the fund.
+(b)  The department shall expend moneys in the
+special fund to award grants to private entities for:
+(1)  The operating costs of new or existing child care
+facilities;
+(2)  The establishment of new child care facilities;
+(3)  The expansion of existing child care facilities;
+or
+(4)  Child care accreditation program grants awarded
+pursuant to section 346-188.
+(c)  Except for child care accreditation
+program grants awarded pursuant to section 346-188, expenditures from the fund
+may be made by the department without allotment.
+(d)  Any grant awarded or expenditure of funds
+for the administration of a grant program pursuant to this section shall be
+exempt from chapters 103D and 103F.  The department shall adopt rules pursuant
+to chapter 91 to effectuate the grant programs.
+(e)  Grants shall be disbursed pursuant to a
+contract between the department or its designee and the grant recipient, in
+accordance with the rules adopted pursuant to subsection (d).
+(f)  The department shall submit an annual
+report to the legislature, no later than twenty days prior to the convening of
+each regular session, on the sources of moneys deposited into the fund and
+expenditures of moneys in the fund.
+(g)  For the purposes of this section,
+&quot;grant&quot; means an award of funds to a specified
+recipient to support the activities of the recipient and permit the community
+to benefit from those activities.
+[L 2020, c 46, pt of §7; am L 2022, c
+128, §3; am L 2023, c 169, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_183__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the state
+treasury the child care grant program special fund, to be administered by the
+department, into which shall be deposited:</p>
+            </content>
+            <paragraph eId="346_183__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Donations to the fund;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_183__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Appropriations made by the legislature to the
+fund;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_183__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Revenues regardless of their source; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_183__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Earnings on moneys in the fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_183__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall expend moneys in the
+special fund to award grants to private entities for:</p>
+            </content>
+            <paragraph eId="346_183__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The operating costs of new or existing child care
+facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_183__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The establishment of new child care facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_183__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The expansion of existing child care facilities;
+or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_183__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Child care accreditation program grants awarded
+pursuant to section 346-188.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_183__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Except for child care accreditation
+program grants awarded pursuant to section 346-188, expenditures from the fund
+may be made by the department without allotment.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_183__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any grant awarded or expenditure of funds
+for the administration of a grant program pursuant to this section shall be
+exempt from chapters 103D and 103F.  The department shall adopt rules pursuant
+to chapter 91 to effectuate the grant programs.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_183__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Grants shall be disbursed pursuant to a
+contract between the department or its designee and the grant recipient, in
+accordance with the rules adopted pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="346_183__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The department shall submit an annual
+report to the legislature, no later than twenty days prior to the convening of
+each regular session, on the sources of moneys deposited into the fund and
+expenditures of moneys in the fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_183__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>For the purposes of this section,
+&quot;grant&quot; means an award of funds to a specified
+recipient to support the activities of the recipient and permit the community
+to benefit from those activities.
+[L 2020, c 46, pt of §7; am L 2022, c
+128, §3; am L 2023, c 169, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

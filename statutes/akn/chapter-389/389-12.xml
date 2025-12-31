@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-12"/>
+          <FRBRuri value="/us-hi/act/hrs/389-12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-12/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-12/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_12">
+          <num>389-12</num>
+          <heading>Section 389-12</heading>
+          <content>
+            <p>[§389-12]  Collaboration and cooperation; intergovernmental;
+interstate.
+(a)  The board may enter into an intergovernmental agreement
+or memorandum of understanding with the State or any agency of the State to
+receive outreach, technical assistance, enforcement and compliance services, or
+collection or dissemination of information pertinent to the program, subject to
+a confidentiality agreement deemed appropriate by the board and other agencies
+of the State.
+(b)  The State and any department, board,
+commission, or agency that enter into an agreement or memorandum of
+understanding pursuant to this section shall collaborate to provide the
+outreach, assistance, information, and compliance or other services or assistance
+to the board.  Memoranda of understanding executed pursuant to this section may
+cover the sharing of costs incurred in gathering and disseminating information
+and the reimbursement of costs for any enforcement activities or assistance.
+(c)  The board may enter into a contract,
+agreement, memorandum of understanding, or other arrangement to collaborate,
+cooperate, coordinate, contract, or combine resources, investments, or
+administrative functions with other governmental entities, including other
+states or any of their agencies or instrumentalities that maintain or are
+establishing retirement savings programs compatible with the program, including
+collective, common, or pooled investments with other funds of other states'
+programs with which the assets of the program and trust are permitted by law to
+be collectively invested, to the extent necessary or desirable for the
+effective and efficient design, administration, and implementation of the
+program consistent with the purposes set forth in this chapter, including the
+purpose of achieving economies of scale and other efficiencies designed to
+minimize costs for the program and its participants. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The board may enter into an intergovernmental agreement
+or memorandum of understanding with the State or any agency of the State to
+receive outreach, technical assistance, enforcement and compliance services, or
+collection or dissemination of information pertinent to the program, subject to
+a confidentiality agreement deemed appropriate by the board and other agencies
+of the State.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The State and any department, board,
+commission, or agency that enter into an agreement or memorandum of
+understanding pursuant to this section shall collaborate to provide the
+outreach, assistance, information, and compliance or other services or assistance
+to the board.  Memoranda of understanding executed pursuant to this section may
+cover the sharing of costs incurred in gathering and disseminating information
+and the reimbursement of costs for any enforcement activities or assistance.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The board may enter into a contract,
+agreement, memorandum of understanding, or other arrangement to collaborate,
+cooperate, coordinate, contract, or combine resources, investments, or
+administrative functions with other governmental entities, including other
+states or any of their agencies or instrumentalities that maintain or are
+establishing retirement savings programs compatible with the program, including
+collective, common, or pooled investments with other funds of other states'
+programs with which the assets of the program and trust are permitted by law to
+be collectively invested, to the extent necessary or desirable for the
+effective and efficient design, administration, and implementation of the
+program consistent with the purposes set forth in this chapter, including the
+purpose of achieving economies of scale and other efficiencies designed to
+minimize costs for the program and its participants. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

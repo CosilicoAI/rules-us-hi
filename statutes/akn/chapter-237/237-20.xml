@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-20"/>
+          <FRBRuri value="/us-hi/act/hrs/237-20"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-20/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-20/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-20/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-20/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_20">
+          <num>237-20</num>
+          <heading>Section 237-20</heading>
+          <content>
+            <p>§237-20  Principles applicable in certain
+situations.
+A person or company having shareholders or members (a
+corporation, association, group, trust, partnership, joint adventure, or other
+person) is taxable upon its business with them, and they are taxable upon their
+business with it.  A person or company, whether or not called a cooperative,
+through which shareholders or members are pursuing a common objective (for
+example, the obtaining of property or services for their individual businesses
+or use, or the marketing of their individual products) is a taxable person, and
+such facts do not give rise to any tax exemption or tax benefit except as
+specifically provided.  Even though a business has some of the aspects of
+agency it shall not be so regarded unless it is a true agency.  The
+reimbursement of costs or advances made for or on behalf of one person by
+another shall not constitute gross income of the latter, unless the person
+receiving such reimbursement also receives additional monetary consideration
+for making such costs or advances. [L 1957, c 34, §11(i); am L 1965, c 201,
+§24; Supp, §117-17.1; am L 1967, c 297, §2; HRS §237-20; am L 1985, c 303, §1;
+am L 1986, c 340, §8]
+Law Journals and Reviews
+Rule of Strict Construction in Tax Cases, a Question of
+Classification or Exemption.  11 HBJ, no. 4, at 98 (1975).
+Case Notes
+Amounts received from manufacturer by taxpayer for warranty
+service work constituted, not reimbursement, but taxable gross income.  56 H.
+321, 536 P.2d 91 (1975).
+&quot;Cost&quot; means monetary amount paid out by taxpayer
+for property or service furnished by a third party.  56 H. 321, 536 P.2d 91
+(1975).
+Payments by joint venture to member for services rendered
+joint venture were subject to general excise taxation.  59 H. 307, 582 P.2d 703
+(1978).
+The reimbursement provision of this section did not apply to
+taxpayer where taxpayer did not pay any costs or made any advances to the
+landlords and the record did not indicate that the taxpayer received a
+reimbursement of a cost or advance.  110 H. 25, 129 P.3d 528 (2006).
+Taxpayer partnership's provision of medical equipment and
+ancillary services to its joint venture constituted &quot;business&quot; under
+§237-2 and was thus made subject to the general excise tax by this section.  93
+H. 267 (App.), 999 P.2d 865 (2000).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

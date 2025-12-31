@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/241-7"/>
+          <FRBRuri value="/us-hi/act/hrs/241-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/241-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/241-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/241-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/241-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_241">
+        <num>Chapter 241</num>
+        <heading>Banks and Other Financial Corporations--Franchise Tax</heading>
+        <section eId="sec_241_7">
+          <num>241-7</num>
+          <heading>Disposition of funds</heading>
+          <content>
+            <p>§241-7  Disposition of funds.
+From the
+revenues collected under this chapter each fiscal year, the sum representing
+the first $2,000,000 of such revenues shall be deposited with the director of
+finance to the credit of the compliance resolution fund as established pursuant
+to section 26-9(o) before tax credits are realized.  Any revenues collected
+under this chapter in excess of $2,000,000 at the close of any fiscal year
+shall be deposited into the general fund. [L Sp 1957, c 1, pt of §10(a); Supp,
+§127-7; HRS §241-7; am L 1999, c 182, §1; am L 2001, c 28, §1; am L 2022, c 72,
+§2]
+Note
+The 2022 amendment applies to taxable years beginning after
+December 31, 2021.  L 2022, c 72, §4.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="241_7__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>before tax credits are realized.  Any revenues collected
+under this chapter in excess of $2,000,000 at the close of any fiscal year
+shall be deposited into the general fund. [L Sp 1957, c 1, pt of §10</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

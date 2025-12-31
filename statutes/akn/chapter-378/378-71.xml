@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-71"/>
+          <FRBRuri value="/us-hi/act/hrs/378-71"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-71/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-71/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-71/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-71/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_71">
+          <num>378-71</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>PART VI. 
+VICTIMS PROTECTIONS
+Note
+Part heading amended by L 2011, c 206, §3(1).
+[A.]  General
+Provisions
+Note
+Section 378-71 designated as Subpart A by L 2011, c 206, §3(2).
+[§378-71]  Definitions.
+As used in this
+part:
+&quot;Child&quot; means an individual who is a
+biological, adopted, or foster son or daughter; a stepchild; or a legal ward of
+an employee.
+&quot;Course of conduct&quot; means acts over
+any period of time of repeatedly maintaining a visual or physical proximity to
+a person or conveying verbal or written threats, including threats conveyed
+through electronic communications or threats implied by conduct.
+&quot;Domestic abuse&quot; means conduct
+defined in section 586-1.
+&quot;Domestic or sexual violence&quot; means
+domestic abuse, sexual assault, or stalking.
+&quot;Electronic communications&quot; includes
+communications via telephone, mobile phone, computer, e-mail, video recorder,
+fax machine, telex, or pager.
+&quot;Employee&quot; means a person who
+performs services for hire for not fewer than six consecutive months for the
+employer from whom benefits are sought under this chapter.
+&quot;Health care provider&quot; means a
+physician as defined under section 386-1.
+&quot;Sexual assault&quot; means any conduct
+proscribed by chapter 707, part V.
+&quot;Stalking&quot; means engaging in a course
+of conduct directed at a specifically targeted person that would cause a
+reasonable person to suffer substantial emotional distress or to fear bodily
+injury, sexual assault, or death to the person or to the person's spouse,
+parent, child, or any other person who regularly resides in the person's
+household, and where the conduct does cause the targeted person to have such
+distress or fear.
+&quot;Victim services organization&quot;
+includes:
+(1)  A nonprofit, nongovernmental organization that
+provides assistance to victims of domestic or sexual violence or to advocates
+for such victims, including a rape crisis center;
+(2)  An organization operating a shelter or providing
+professional counseling services; or
+(3)  An organization providing assistance through the
+legal process. [L 2003, c 60, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/388-4"/>
+          <FRBRuri value="/us-hi/act/hrs/388-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/388-4/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/388-4/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/388-4/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/388-4/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_388">
+        <num>Chapter 388</num>
+        <heading>Payment of Wages and Other Compensation</heading>
+        <section eId="sec_388_4">
+          <num>388-4</num>
+          <heading>Section 388-4</heading>
+          <content>
+            <p>§388-4  Payment of wages to relatives of
+deceased employees.
+Where an employee dies leaving any wages, vacation, or
+sick leave pay due the employee, the employer shall, within thirty days after
+such death, whether or not a personal representative has been appointed, pay
+the wages, vacation, or sick leave pay in an amount not exceeding $2,000 to,
+and upon application by the surviving spouse or reciprocal beneficiary or, if
+none, by an adult child.  The employer shall require the applicant to show
+proof of his or her relationship to the deceased by affidavit and to acknowledge
+receipt of the payment in writing.  Any such payment shall discharge the
+employer to the extent thereof and the employer shall not be liable to the
+decedent's estate.  Any person to whom payment is made shall be answerable
+therefor to anyone prejudiced by an improper distribution. [L 1967, c 11, §1;
+HRS §388-4; am L 1984, c 174, §1; gen ch 1985; am L 1997, c 383, §56]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

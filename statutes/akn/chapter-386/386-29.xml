@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-29"/>
+          <FRBRuri value="/us-hi/act/hrs/386-29"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-29/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-29/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-29/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-29/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_29">
+          <num>386-29</num>
+          <heading>Section 386-29</heading>
+          <content>
+            <p>[
+§386-29]  Qualifying injured
+employees; initial concurrent prescriptions; opioids and benzodiazepines.
+(a) 
+Initial concurrent prescriptions for opioids and benzodiazepines shall not be
+for longer than seven consecutive days unless a supply of longer than seven
+days is determined to be reasonably needed for the treatment of:
+(1)  Pain experienced while the qualifying injured
+employee is in post-operative care;
+(2)  Chronic pain and pain management;
+(3)  Substance abuse or opioid or opiate dependence;
+(4)  Cancer;
+(5)  Pain experienced while the qualifying injured
+employee is in palliative care; or
+(6)  Pain experienced while the qualifying injured
+employee is in hospice care;
+provided that if a health care provider authorized
+to prescribe opioids issues a concurrent prescription for more than a seven-day
+supply of an opioid and benzodiazepine, the health care provider shall document
+in the qualifying injured employee's medical record the condition for which the
+health care provider issued the prescription and that an alternative to the
+opioid and benzodiazepine was not appropriate treatment for the condition.
+(b)  After an initial concurrent prescription
+for opioids and benzodiazepines has been made, a health care provider
+authorized to prescribe opioids may authorize subsequent prescriptions through
+a telephone consultation with the qualifying injured employee when the health
+care provider deems such action to be reasonably needed for post-operative care
+and pain management; provided that the health care provider shall consult with
+a qualifying injured employee in person at least once every ninety days for the
+duration during which the health care provider concurrently prescribes opioids
+and benzodiazepines to the qualifying injured employee.
+(c)  For the purposes of this section,
+&quot;qualifying injured employee&quot; has the same meaning as in section
+386-28. [L 2018, c 155, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_29__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Initial concurrent prescriptions for opioids and benzodiazepines shall not be
+for longer than seven consecutive days unless a supply of longer than seven
+days is determined to be reasonably needed for the treatment of:</p>
+            </content>
+            <paragraph eId="386_29__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Pain experienced while the qualifying injured
+employee is in post-operative care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_29__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Chronic pain and pain management;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_29__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Substance abuse or opioid or opiate dependence;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_29__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Cancer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_29__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Pain experienced while the qualifying injured
+employee is in palliative care; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_29__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Pain experienced while the qualifying injured
+employee is in hospice care;
+provided that if a health care provider authorized
+to prescribe opioids issues a concurrent prescription for more than a seven-day
+supply of an opioid and benzodiazepine, the health care provider shall document
+in the qualifying injured employee's medical record the condition for which the
+health care provider issued the prescription and that an alternative to the
+opioid and benzodiazepine was not appropriate treatment for the condition.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_29__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>After an initial concurrent prescription
+for opioids and benzodiazepines has been made, a health care provider
+authorized to prescribe opioids may authorize subsequent prescriptions through
+a telephone consultation with the qualifying injured employee when the health
+care provider deems such action to be reasonably needed for post-operative care
+and pain management; provided that the health care provider shall consult with
+a qualifying injured employee in person at least once every ninety days for the
+duration during which the health care provider concurrently prescribes opioids
+and benzodiazepines to the qualifying injured employee.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_29__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the purposes of this section,
+&quot;qualifying injured employee&quot; has the same meaning as in section
+386-28. [L 2018, c 155, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

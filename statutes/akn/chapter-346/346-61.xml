@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-61"/>
+          <FRBRuri value="/us-hi/act/hrs/346-61"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-61/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-61/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-61/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-61/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_61">
+          <num>346-61</num>
+          <heading>Optometric services, choice</heading>
+          <content>
+            <p>[§346-61]  Optometric services, choice.
+Whenever visual or optometric services within the lawful scope of practice of a
+duly licensed optometrist are included in any program, financed with public
+funds or administered by any public agency, for aid to the indigent, the aged,
+the legally blind, or any other group or class, the recipient of the aid shall
+be entitled to choose whether the services are to be performed by a duly
+licensed physician or by a duly licensed optometrist.  Visual or optometric
+services as used herein include eye and/or visual examination or a correction
+of any vision or muscular anomaly and the supplying of ophthalmic materials,
+including contact lenses and subnormal vision aids. [L 1977, c 36, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

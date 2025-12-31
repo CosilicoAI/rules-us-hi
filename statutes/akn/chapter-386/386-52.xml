@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-52"/>
+          <FRBRuri value="/us-hi/act/hrs/386-52"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-52/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-52/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-52/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-52/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_52">
+          <num>386-52</num>
+          <heading>Section 386-52</heading>
+          <content>
+            <p>§386-52  Credit for voluntary payments and
+supplies in kind.
+(a)  Any payments made by the employer to the injured
+employee during the employee's disability or to the employee's dependents which
+by the terms of this chapter were not payable when made, shall be deducted from
+the amount payable as compensation subject to the approval of the director;
+provided that:
+(1)  The employer notifies the injured employee and
+the director in writing of any such credit request stating the reasons for such
+credit and informing the injured employee that the employee has the right to
+file a written request for a hearing to submit any evidence to dispute such a
+credit;
+(2)  The deduction shall be made by shortening the
+period during which the compensation must be paid, or by reducing the total
+amount for which the employer is liable and not the amount of weekly benefits;
+(3)  If overpayment cannot be credited, the director
+shall order the claimant to reimburse the employer.  Failure to reimburse the
+employer shall entitle the employer to file for enforcement of such a decision
+in accordance with section 386-91.
+(b)  If the employer continues to furnish to
+the injured employee, during the employee's disability, or to the employee's
+dependents, during their entitlement to weekly benefits, board, lodging, fuel,
+and other advantages the value of which has been included in the calculation of
+wages as provided in section 386-1, the furnishing of such advantages may be
+considered as payment in kind of that portion of the compensation which is
+based on such remuneration in kind; but if at any time during the compensation
+period the employer ceases to furnish such advantages, no further deduction of
+the value of such advantages as payment in kind from the compensation shall be
+permissible. [L 1963, c 116, pt of §1; Supp, §97-51; HRS §386-52; am L 1979, c
+66, §2; gen ch 1985]
+Case Notes
+Claimant required to reimburse employer/carrier where
+claimant's attendant care services were not &quot;constantly necessary&quot;
+under §386-23 and benefits were thus not &quot;payable when made&quot; and
+employer/carrier letter satisfied notice requirements of this section.  83 H.
+361, 926 P.2d 1284 (1996).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_52__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any payments made by the employer to the injured
+employee during the employee's disability or to the employee's dependents which
+by the terms of this chapter were not payable when made, shall be deducted from
+the amount payable as compensation subject to the approval of the director;
+provided that:</p>
+            </content>
+            <paragraph eId="386_52__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The employer notifies the injured employee and
+the director in writing of any such credit request stating the reasons for such
+credit and informing the injured employee that the employee has the right to
+file a written request for a hearing to submit any evidence to dispute such a
+credit;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_52__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The deduction shall be made by shortening the
+period during which the compensation must be paid, or by reducing the total
+amount for which the employer is liable and not the amount of weekly benefits;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_52__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>If overpayment cannot be credited, the director
+shall order the claimant to reimburse the employer.  Failure to reimburse the
+employer shall entitle the employer to file for enforcement of such a decision
+in accordance with section 386-91.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_52__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the employer continues to furnish to
+the injured employee, during the employee's disability, or to the employee's
+dependents, during their entitlement to weekly benefits, board, lodging, fuel,
+and other advantages the value of which has been included in the calculation of
+wages as provided in section 386-1, the furnishing of such advantages may be
+considered as payment in kind of that portion of the compensation which is
+based on such remuneration in kind; but if at any time during the compensation
+period the employer ceases to furnish such advantages, no further deduction of
+the value of such advantages as payment in kind from the compensation shall be
+permissible. [L 1963, c 116, pt of §1; Supp, §97-51; HRS §386-52; am L 1979, c
+66, §2; gen ch 1985]
+Case Notes
+Claimant required to reimburse employer/carrier where
+claimant's attendant care services were not &quot;constantly necessary&quot;
+under §386-23 and benefits were thus not &quot;payable when made&quot; and
+employer/carrier letter satisfied notice requirements of this section.  83 H.
+361, 926 P.2d 1284 (1996).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

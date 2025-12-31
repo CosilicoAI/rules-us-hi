@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/398-24"/>
+          <FRBRuri value="/us-hi/act/hrs/398-24"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/398-24/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/398-24/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/398-24/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/398-24/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_398">
+        <num>Chapter 398</num>
+        <heading>Family Leave</heading>
+        <section eId="sec_398_24">
+          <num>398-24</num>
+          <heading>Appeal and hearing</heading>
+          <content>
+            <p>[§398-24]  Appeal and hearing.
+(a) 
+Upon appeal by the employer, the order issued by the department shall be
+subject to a de novo review by a hearings officer appointed by the director.
+(b)  The hearings officer shall schedule a
+contested case hearing that shall be heard in accordance with chapter 91.
+(c)  At any time after the filing of an appeal
+under subsection (a), but prior to the hearing, the hearings officer may hold a
+prehearing conference with the parties or their representatives.
+(d)  If a hearing is held as provided under
+subsection (b), the hearings officer shall issue a decision and grant relief as
+provided under this chapter.
+(e)  Any person aggrieved by the decision of
+the hearings officer shall be entitled to judicial review as provided by
+section 91-14.
+(f)  The hearings officer may administer oaths,
+take or cause to be taken depositions of witnesses, and may issue subpoenas to
+compel the attendance and testimony of witnesses or the production of records,
+payrolls, correspondence, documents, or other material relating to any matter
+to be heard. [L 1995, c 154, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="398_24__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon appeal by the employer, the order issued by the department shall be
+subject to a de novo review by a hearings officer appointed by the director.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_24__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The hearings officer shall schedule a
+contested case hearing that shall be heard in accordance with chapter 91.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_24__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>At any time after the filing of an appeal
+under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="398_24__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If a hearing is held as provided under
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="398_24__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any person aggrieved by the decision of
+the hearings officer shall be entitled to judicial review as provided by
+section 91-14.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_24__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The hearings officer may administer oaths,
+take or cause to be taken depositions of witnesses, and may issue subpoenas to
+compel the attendance and testimony of witnesses or the production of records,
+payrolls, correspondence, documents, or other material relating to any matter
+to be heard. [L 1995, c 154, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

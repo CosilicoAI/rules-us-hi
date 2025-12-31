@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-161"/>
+          <FRBRuri value="/us-hi/act/hrs/386-161"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-161/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-161/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-161/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-161/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_161">
+          <num>386-161</num>
+          <heading>Who entitled to compensation</heading>
+          <content>
+            <p>PART V. 
+APPLICABILITY TO HAWAII GUARD, VOLUNTEER PERSONNEL
+AND PUBLIC
+BOARD MEMBERS
+A.  Hawaii
+Guard
+§386-161  Who entitled to compensation.
+If a member of the Hawaii national guard or Hawaii state defense force suffers
+a personal injury arising out of and in the performance of the member's duty
+therein, compensation shall be paid to the member or the member's dependents by
+the State for such injury in the manner and in the amounts provided for in this
+chapter; provided that if in any case arising after May 10, 1951, any such
+member or the member's dependents receive compensation from the federal
+government by reason of such injury, the amount of the compensation shall be
+deducted from the amount which may thereafter become due from the State. [L
+1963, c 116, pt of §1; Supp, §97-150; HRS §386-161; gen ch 1985; am L 1988, c
+135, §1]
+Case Notes
+Does not exclude members of the Hawaii National Guard from
+receiving benefits under state workers' compensation because the members were
+on federal active duty.  72 H. 157, 809 P.2d 1136 (1991).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

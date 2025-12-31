@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-26"/>
+          <FRBRuri value="/us-hi/act/hrs/392-26"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-26/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-26/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-26/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-26/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_26">
+          <num>392-26</num>
+          <heading>Section 392-26</heading>
+          <content>
+            <p>§392-26  Care by physician, advanced
+practice registered nurse, or equivalent required.
+(a)  An individual
+shall be ineligible to receive temporary disability benefits with respect to
+any period during which the individual is not under the care of a person duly
+licensed to practice medicine, surgery, dentistry, chiropractic, osteopathy, or
+naturopathic medicine, a physician assistant, or an advanced practice
+registered nurse, who shall certify, in the form and manner specified by rule
+of the director, the disability of the claimant, the probable duration of the
+disability, and such other medical facts within the person's knowledge as
+required by rule.
+(b)  This section shall not apply to an
+individual who, pursuant to the teachings, faith, or belief of any group,
+depends for healing upon prayer or other spiritual means.  In that case the
+disability, the probable duration thereof, and any other pertinent facts
+required to be certified by regulation of the director shall be certified, in
+the form and manner specified by the regulation, by a duly authorized or
+accredited practitioner of such group.
+(c)  The proof of disability duly certified by
+a person licensed to practice medicine, surgery, dentistry, chiropractic,
+osteopathy, or naturopathic medicine, a physician assistant, or an advanced
+practice registered nurse, or an authorized or accredited practitioner of any
+group that depends for healing upon prayer or other spiritual means shall be
+submitted by the certifying person to the disabled employee within seven
+working days after the date on which the employee was examined and found
+disabled.  If the certifying person fails to submit the required proof within
+seven working days, the director, upon notification by the insurer, may levy a
+penalty of $25 for each delinquent certification where the certifying person
+fails to show good cause for the person's failure to file on time. [L 1969, c
+148, pt of §1; am L 1971, c 109, §1(b); am L 1973, c 172, §1; am L 1974, c 154,
+§1; am L 1979, c 105, §41; gen ch 1985; L Sp 2009, c 22, §11(2); am L 2018, c
+162, §1; am L 2022, c 293, §9]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="392_26__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An individual
+shall be ineligible to receive temporary disability benefits with respect to
+any period during which the individual is not under the care of a person duly
+licensed to practice medicine, surgery, dentistry, chiropractic, osteopathy, or
+naturopathic medicine, a physician assistant, or an advanced practice
+registered nurse, who shall certify, in the form and manner specified by rule
+of the director, the disability of the claimant, the probable duration of the
+disability, and such other medical facts within the person's knowledge as
+required by rule.</p>
+            </content>
+          </subsection>
+          <subsection eId="392_26__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This section shall not apply to an
+individual who, pursuant to the teachings, faith, or belief of any group,
+depends for healing upon prayer or other spiritual means.  In that case the
+disability, the probable duration thereof, and any other pertinent facts
+required to be certified by regulation of the director shall be certified, in
+the form and manner specified by the regulation, by a duly authorized or
+accredited practitioner of such group.</p>
+            </content>
+          </subsection>
+          <subsection eId="392_26__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The proof of disability duly certified by
+a person licensed to practice medicine, surgery, dentistry, chiropractic,
+osteopathy, or naturopathic medicine, a physician assistant, or an advanced
+practice registered nurse, or an authorized or accredited practitioner of any
+group that depends for healing upon prayer or other spiritual means shall be
+submitted by the certifying person to the disabled employee within seven
+working days after the date on which the employee was examined and found
+disabled.  If the certifying person fails to submit the required proof within
+seven working days, the director, upon notification by the insurer, may levy a
+penalty of $25 for each delinquent certification where the certifying person
+fails to show good cause for the person's failure to file on time. [L 1969, c
+148, pt of §1; am L 1971, c 109, §1</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

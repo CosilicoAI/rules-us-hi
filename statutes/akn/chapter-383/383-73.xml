@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-73"/>
+          <FRBRuri value="/us-hi/act/hrs/383-73"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-73/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-73/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-73/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-73/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_73">
+          <num>383-73</num>
+          <heading>Penalty for delinquency; remission</heading>
+          <content>
+            <p>§383-73  Penalty for delinquency; remission
+. 
+(a)  A penalty of ten per cent or $100, whichever is greater, shall be added to
+the amount of all delinquent contributions, as hereafter defined, and any
+delinquent contribution and penalty remaining unpaid fifteen days after the
+date of delinquency shall bear interest from the date of delinquency at the
+rate of two-thirds of one per cent for each month or fraction of a month until
+paid.  Any penalty and interest assessed pursuant to this section shall be
+added to the contribution and shall be collected as a part of the
+contribution.  For the purposes of this section, a contribution shall be deemed
+delinquent:
+(1)  Upon a nonpayment thereof on the date prescribed
+for its payment, but only in case of failure to pay a contribution shown due by
+a return, or in case of failure to file a return, or in case of failure to pay
+a contribution because of a false or fraudulent return; and
+(2)  Upon nonpayment thereof within the time provided
+by subsection (c) of section 383-70, in any other case.
+(b)  Except in cases of
+fraud or wilful violation of this chapter, or wilful refusal to make a return,
+the director may, in a case of excusable failure to file a return, or pay a
+contribution within the time required by this chapter, or in a case of uncollectibility
+of the whole amount due, remit any amount of penalties or interest added to any
+delinquent contribution
+; provided that a claim of nonliability shall not be
+deemed as a refusal to make a return.
+(c)  The department shall keep a record of any
+remittance approved by the director.
+(d)  Whenever an employer makes a partial
+payment of a sum owed for delinquent contributions, penalties, and interest,
+the amount received by the director shall first be credited to interest, then
+to penalties, and then to principal. [L 1939, c 219, §7(f); am L 1941, c 304,
+§1, subs 24; RL 1945, §4259; am L 1951, c 123, §1; am L 1953, c 23, §1(4); RL
+1955, §93-72; am L 1957, c 205, §1(b); HRS §383-73; gen ch 1985; am L 2020, c
+44, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_73__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A penalty of ten per cent or $100, whichever is greater, shall be added to
+the amount of all delinquent contributions, as hereafter defined, and any
+delinquent contribution and penalty remaining unpaid fifteen days after the
+date of delinquency shall bear interest from the date of delinquency at the
+rate of two-thirds of one per cent for each month or fraction of a month until
+paid.  Any penalty and interest assessed pursuant to this section shall be
+added to the contribution and shall be collected as a part of the
+contribution.  For the purposes of this section, a contribution shall be deemed
+delinquent:</p>
+            </content>
+            <paragraph eId="383_73__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Upon a nonpayment thereof on the date prescribed
+for its payment, but only in case of failure to pay a contribution shown due by
+a return, or in case of failure to file a return, or in case of failure to pay
+a contribution because of a false or fraudulent return; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_73__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Upon nonpayment thereof within the time provided
+by subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_73__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of section 383-70, in any other case.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_73__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except in cases of
+fraud or wilful violation of this chapter, or wilful refusal to make a return,
+the director may, in a case of excusable failure to file a return, or pay a
+contribution within the time required by this chapter, or in a case of uncollectibility
+of the whole amount due, remit any amount of penalties or interest added to any
+delinquent contribution
+; provided that a claim of nonliability shall not be
+deemed as a refusal to make a return.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_73__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall keep a record of any
+remittance approved by the director.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_73__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Whenever an employer makes a partial
+payment of a sum owed for delinquent contributions, penalties, and interest,
+the amount received by the director shall first be credited to interest, then
+to penalties, and then to principal. [L 1939, c 219, §7</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

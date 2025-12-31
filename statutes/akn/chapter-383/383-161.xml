@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-161"/>
+          <FRBRuri value="/us-hi/act/hrs/383-161"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-161/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-161/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-161/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-161/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_161">
+          <num>383-161</num>
+          <heading>Waiver of rights void</heading>
+          <content>
+            <p>PART VII. 
+MISCELLANEOUS PROVISIONS
+Cross References
+Special assessments on employers to pay principal and
+interest on loans from Secretary of Labor, see §383-61.5.
+§383-161  Waiver of rights void.
+(a) 
+Any agreement by an individual to waive, release, or commute the individual's
+rights to benefits or any other rights under this chapter shall be void, except
+agreements to withhold and deduct benefits for the following purposes:
+(1)  The payment of child support obligations as
+provided in section 383-163.5;
+(2)  The voluntary deduction and withholding of
+federal and state income tax from unemployment compensation as provided in
+section 383-163.6; and
+(3)  The repayment of uncollected overissuances of
+food stamp coupons as provided in section 383-163.7.
+(b)  Any agreement by an individual in the
+employ of a person or concern to pay all or any portion of an employer's
+contributions required under this chapter from the employer, shall be void.  No
+employer, directly or indirectly, shall make, require, or accept any deduction
+from wages to finance the employer's contributions required from the employer,
+require or accept any waiver of any right hereunder by any individual in the
+employer's employ, discriminate in regard to the hiring or tenure of work or any
+term or condition of work of any individual on account of the individual's
+claiming benefits under this chapter, or in any manner obstruct or impede the
+filing of claims for benefits.  Any employer, officer, or agent of any employer
+who violates this section, for each offense, shall be fined not less than $100
+nor more than $1,000, or imprisoned not more than six months, or both. [L 1939,
+c 219, §13(a); am L 1941, c 304, §1, pt of subs 35; RL 1945, §4285; RL 1955,
+§93-150; HRS §383-161; am L 1982, c 58, §8; gen ch 1985; am L 1997, c 172, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_161__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any agreement by an individual to waive, release, or commute the individual's
+rights to benefits or any other rights under this chapter shall be void, except
+agreements to withhold and deduct benefits for the following purposes:</p>
+            </content>
+            <paragraph eId="383_161__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The payment of child support obligations as
+provided in section 383-163.5;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_161__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The voluntary deduction and withholding of
+federal and state income tax from unemployment compensation as provided in
+section 383-163.6; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_161__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The repayment of uncollected overissuances of
+food stamp coupons as provided in section 383-163.7.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_161__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any agreement by an individual in the
+employ of a person or concern to pay all or any portion of an employer's
+contributions required under this chapter from the employer, shall be void.  No
+employer, directly or indirectly, shall make, require, or accept any deduction
+from wages to finance the employer's contributions required from the employer,
+require or accept any waiver of any right hereunder by any individual in the
+employer's employ, discriminate in regard to the hiring or tenure of work or any
+term or condition of work of any individual on account of the individual's
+claiming benefits under this chapter, or in any manner obstruct or impede the
+filing of claims for benefits.  Any employer, officer, or agent of any employer
+who violates this section, for each offense, shall be fined not less than $100
+nor more than $1,000, or imprisoned not more than six months, or both. [L 1939,
+c 219, §13</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/363-3.5"/>
+          <FRBRuri value="/us-hi/act/hrs/363-3.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/363-3.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/363-3.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/363-3.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/363-3.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_363">
+        <num>Chapter 363</num>
+        <heading>Hawaiian Home Lands Trust</heading>
+        <section eId="sec_363_3_5">
+          <num>363-3.5</num>
+          <heading>Section 363-3.5</heading>
+          <content>
+            <p>§363-3  Activities of the office.
+Except as otherwise provided by law, the office shall:
+(1)  Maintain or cause to be maintained, subject to
+the control and supervision of the office, a center to which veterans,
+including their families and dependents, may come for information, counsel,
+aid, and assistance, and by which they may be directed or referred to any
+agency in the community whose function it is, by law or otherwise, to provide
+the services, assistance, or benefits which in each instance appear necessary
+or appropriate.  Agencies to which any referrals may be made shall include, but
+are not limited to, departments and divisions of the federal and state
+governments, veterans' organizations, and so-called &quot;private&quot; social
+agencies;
+(2)  Assume the initiative, in cooperation with
+agencies in the community, for coordinating all services now available, and
+which hereafter may become available, for the use and benefit of veterans,
+including their families and dependents, to the end that maximum effectiveness
+of the services may be realized, and overlapping and duplication of effort as
+between agencies may be minimized;
+(3)  Assemble, analyze, compile, and disseminate
+factual, up-to-date information with respect to:
+(A)
+Benefits, rights,
+and services of whatever nature to which veterans, including their families and
+dependents, are entitled, or which may be available to them; and
+(B)  The structure, functions, area of
+service, and other pertinent information regarding each agency and organization
+participating in the veterans' assistance program in the State;
+(4)  Cooperate with federal departments and other
+agencies which, by law, have responsibility for the administration of rights
+and benefits granted by the federal government to veterans, including their
+families and dependents;
+(5)  As soon as possible after the close of each
+fiscal year, compile and submit to the governor, for such use or distribution
+as the governor may deem appropriate, a comprehensive report of the activities
+and operations of the office, and of all disbursements and expenditures
+authorized by the office under this section;
+(6)  Inspect every three years all state war memorials
+and veterans' cemeteries for repair and maintenance deficiencies, and report
+all repair and maintenance problems at these memorials and cemeteries to the
+adjutant general, the comptroller, and the legislature prior to the start of
+the next regular session; and
+(7)  Organize, coordinate, and conduct a biennial Hawaii
+veterans summit.  The summit shall assemble any department or division of the
+federal or state government, veterans' organizations, or any other entity in
+the community whose function is, by law or otherwise, to provide services,
+assistance, or benefits to assist veterans and their families and dependents,
+to discuss and collaborate on issues affecting veterans and their families and
+dependents.  The issues to be addressed shall include benefits, rights, and
+services available to veterans, and any other pertinent information on
+assistance for veterans and their families and dependents. [L 1951, c 75, §6;
+RL 1955, §349-6; am L Sp 1959 2d, c 1, §20; HRS §363-3; am L 1970, c 105, §5;
+gen ch 1985; am L 1987, c 339, §4; am L 1988, c 115, §5; am L 1995, c 63, §2;
+am L 1997, c 360, §1; am L 2018, c 52, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

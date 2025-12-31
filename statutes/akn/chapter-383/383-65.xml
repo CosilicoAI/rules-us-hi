@@ -1,0 +1,288 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-65"/>
+          <FRBRuri value="/us-hi/act/hrs/383-65"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-65/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-65/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-65/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-65/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_65">
+          <num>383-65</num>
+          <heading>Section 383-65</heading>
+          <content>
+            <p>§383-65  Charges and noncharges for
+benefits.
+(a)  Except as otherwise provided in subsection (b), benefits
+paid to an individual shall be charged against the accounts of the individual's
+base period employers and the amount of benefits so chargeable against each
+base period employer's account shall bear the same ratio to the total benefits
+paid to the individual as the base period wages paid to the individual by the
+employer bear to the total amount of base period wages paid to the individual
+by all of the individual's base period employers.  Benefits paid shall be
+charged to employers' accounts in the calendar year in which the benefits are
+paid.
+(b)  Benefits paid to an individual shall not
+be charged against the account of any of the individual's base period employers
+on a contributory plan under section 383-61 when such benefits are:
+(1)  Paid to an individual during any benefit year if
+the individual:
+(A)  Left work voluntarily without good cause;
+(B)  Was discharged for misconduct connected
+with the individual's work; or
+(C)  Left work voluntarily for good cause not
+attributable to the employer.
+The chargeability of benefits to an
+employer's account shall be determined in accordance with section 383-94 and
+other applicable provisions of this chapter, or as may be otherwise specified
+by the department;
+(2)  Paid to an individual, who, during the
+individual's base period, earned wages for part-time employment with an
+employer, if the employer continues to give the individual employment to the
+same extent while the individual is receiving benefits as during the base
+period and the employer establishes such fact to the satisfaction of the
+director of labor and industrial relations;
+(3)  Paid to an individual for the period the
+individual is enrolled in and is in regular attendance at a vocational training
+or retraining course approved by the director pursuant to section 383-29;
+(4)  Paid to an individual under the extended benefits
+program, sections 383-168 to 383-174; except that one-half of the amount of
+such benefits which are based on services performed for a governmental employer
+on a contributory plan shall be charged to the account of such employer;
+(5)  Paid to an individual who qualifies to receive
+benefits by meeting the minimum earnings and employment requirements only by
+combining the individual's employment and wages earned in two or more states;
+(6)  Benefits overpaid to a claimant as a result of
+ineligibility or disqualification under sections 383-29 and 383-30 unless such
+overpayment resulted from the employer's failure to furnish information as
+required by this chapter or the rules of the department; or
+(7)  Benefits paid to an individual during any benefit
+year beginning September 13, l992 and thereafter shall not be charged to
+the account of any base period employer from whose employment the individual is
+separated as a direct result of a major disaster and would have been entitled
+to disaster unemployment assistance under the Stafford Disaster Relief and
+Emergency Assistance Act (P.L. 100-707) but for the receipt of unemployment
+insurance benefits paid under this chapter; provided that the employer must petition
+for relief of any charges to an employer's reserve account as requested by the
+department and the director approves granting relief of charges.
+(c)  The amount of noncharged benefits shall
+bear the same ratio to the total benefits paid to the individual as the base
+period wages paid to the individual by the employer or employers not charged
+bear to the total amount of base period wages paid to the individual by all of
+the individual's base period employers.  The noncharging provisions of
+subsection (b) shall not apply to governmental employers or nonprofit
+organizations making payments in lieu of contributions under section 383-62.
+(d)  For the purposes of the arrangements in
+which the department will participate pursuant to section 383-106(b) only,
+&quot;base period&quot; as used in this section means the base period of this
+or any other state applied to a claim involving the combining of an
+individual's wages and employment covered under two or more state unemployment
+compensation laws. [L 1939, c 219, §7(c)(2); am L 1941, c 304, §1, pt of subs
+21; RL 1945, §4250; am L 1949, c 316, §1(6); am L 1951, c 195, §1(6); am L
+1953, c 41, §1(8); am L 1955, c 80, §1(c); RL 1955, §93-64; am L 1957, c 205,
+§1(e); am L 1963, c 174, §1; HRS §383-65; am L 1969, c 8, §1; am L 1971, c 187,
+§8; am L 1973, c 120, §3; am L 1976, c 157, §5; am L 1977, c 148, §7; am L
+1984, c 229, §3; gen ch 1985; am L 1986, c 180, §2; am L 1993, c 342, §1]
+Revision Note
+In subsection (b)(1)(A), &quot;or&quot; deleted pursuant to
+§23G-15.
+Case Notes
+&quot;Left his work voluntarily&quot; as used in §§383-30(1)
+and 383-65 have the same meaning; striker not deemed to have left work
+voluntarily; strike of itself, does not sever employer-employee relationship. 
+46 H. 164, 377 P.2d 932 (1962).
+Overpayment of benefits chargeable to employer's account
+where overpayment due to employer's error in reporting claimant's earnings.  68
+H. 349, 714 P.2d 520 (1986).
+Cited:  44 H. 93, 94, 352 P.2d 856 (1960); 46 H. 140, 143,
+377 P.2d 715 (1962).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_65__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="383_65__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Benefits paid to an individual shall not
+be charged against the account of any of the individual's base period employers
+on a contributory plan under section 383-61 when such benefits are:</p>
+            </content>
+            <paragraph eId="383_65__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Paid to an individual during any benefit year if
+the individual:</p>
+              </content>
+              <subparagraph eId="383_65__subsec_b__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Left work voluntarily without good cause;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="383_65__subsec_b__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Was discharged for misconduct connected
+with the individual's work; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="383_65__subsec_b__para_1__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Left work voluntarily for good cause not
+attributable to the employer.
+The chargeability of benefits to an
+employer's account shall be determined in accordance with section 383-94 and
+other applicable provisions of this chapter, or as may be otherwise specified
+by the department;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="383_65__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Paid to an individual, who, during the
+individual's base period, earned wages for part-time employment with an
+employer, if the employer continues to give the individual employment to the
+same extent while the individual is receiving benefits as during the base
+period and the employer establishes such fact to the satisfaction of the
+director of labor and industrial relations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_65__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Paid to an individual for the period the
+individual is enrolled in and is in regular attendance at a vocational training
+or retraining course approved by the director pursuant to section 383-29;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_65__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Paid to an individual under the extended benefits
+program, sections 383-168 to 383-174; except that one-half of the amount of
+such benefits which are based on services performed for a governmental employer
+on a contributory plan shall be charged to the account of such employer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_65__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Paid to an individual who qualifies to receive
+benefits by meeting the minimum earnings and employment requirements only by
+combining the individual's employment and wages earned in two or more states;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_65__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Benefits overpaid to a claimant as a result of
+ineligibility or disqualification under sections 383-29 and 383-30 unless such
+overpayment resulted from the employer's failure to furnish information as
+required by this chapter or the rules of the department; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_65__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Benefits paid to an individual during any benefit
+year beginning September 13, l992 and thereafter shall not be charged to
+the account of any base period employer from whose employment the individual is
+separated as a direct result of a major disaster and would have been entitled
+to disaster unemployment assistance under the Stafford Disaster Relief and
+Emergency Assistance Act (P.L. 100-707) but for the receipt of unemployment
+insurance benefits paid under this chapter; provided that the employer must petition
+for relief of any charges to an employer's reserve account as requested by the
+department and the director approves granting relief of charges.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_65__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The amount of noncharged benefits shall
+bear the same ratio to the total benefits paid to the individual as the base
+period wages paid to the individual by the employer or employers not charged
+bear to the total amount of base period wages paid to the individual by all of
+the individual's base period employers.  The noncharging provisions of
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="383_65__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>shall not apply to governmental employers or nonprofit
+organizations making payments in lieu of contributions under section 383-62.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_65__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For the purposes of the arrangements in
+which the department will participate pursuant to section 383-106</p>
+            </content>
+          </subsection>
+          <subsection eId="383_65__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>only,
+&quot;base period&quot; as used in this section means the base period of this
+or any other state applied to a claim involving the combining of an
+individual's wages and employment covered under two or more state unemployment
+compensation laws. [L 1939, c 219, §7</p>
+            </content>
+            <paragraph eId="383_65__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>and 383-65 have the same meaning; striker not deemed to have left work
+voluntarily; strike of itself, does not sever employer-employee relationship. 
+46 H. 164, 377 P.2d 932 (1962).
+Overpayment of benefits chargeable to employer's account
+where overpayment due to employer's error in reporting claimant's earnings.  68
+H. 349, 714 P.2d 520 (1986).
+Cited:  44 H. 93, 94, 352 P.2d 856 (1960); 46 H. 140, 143,
+377 P.2d 715 (1962).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

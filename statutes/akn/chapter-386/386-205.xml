@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-205"/>
+          <FRBRuri value="/us-hi/act/hrs/386-205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-205/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-205/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_205">
+          <num>386-205</num>
+          <heading>Refunds</heading>
+          <content>
+            <p>§386-205  Refunds.
+(a)  Any moneys for
+a fund year in excess of the amount necessary to fund all obligations for that
+fund year may be declared to be refundable by the board of trustees not less
+than twelve months after the end of the fund year.
+(b)  Each member shall be given a written
+description of the refund plan at the time of application for membership.  A
+refund for any fund year shall be paid only to those employers who remain
+participants in the group for the entire fund year.  Payment of a refund based
+on a previous fund year shall not be contingent on continued membership in the
+group after that fund year. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_205__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any moneys for
+a fund year in excess of the amount necessary to fund all obligations for that
+fund year may be declared to be refundable by the board of trustees not less
+than twelve months after the end of the fund year.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_205__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each member shall be given a written
+description of the refund plan at the time of application for membership.  A
+refund for any fund year shall be paid only to those employers who remain
+participants in the group for the entire fund year.  Payment of a refund based
+on a previous fund year shall not be contingent on continued membership in the
+group after that fund year. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-129"/>
+          <FRBRuri value="/us-hi/act/hrs/383-129"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-129/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-129/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-129/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-129/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_129">
+          <num>383-129</num>
+          <heading>Section 383-129</heading>
+          <content>
+            <p>§383-129  Employment and training
+assessment.
+(a)  In addition to contributions determined by section
+383-68, every employer, except an employer who has selected an alternative
+method of financing liability for unemployment compensation benefits pursuant
+to section 383-62, or an employer who has been assigned a minimum rate of zero
+per cent or the maximum rate of the applicable schedule in accordance with
+section 383-68, shall be subject to an employment and training fund assessment
+at a rate of .01 per cent of taxable wages as specified in section 383-61.
+(b)  Collections from the employment and
+training assessment shall be made in the same manner and at the same time as
+any contributions required under section 383-61, and shall not be deducted, in
+whole or in part, from the wages of individuals in an employer's employ.
+(c)  Any assessments collected pursuant to this
+section shall remain separate and shall not be included in any manner in
+computing unemployment contribution rates assigned to employers in accordance
+with sections 383-63 to 383-68.
+(d)  The director may impose penalty and
+interest on delinquent employment and training assessments in the same manner
+as provided for contributions to the unemployment compensation fund in section
+383-73.  For purposes of computation of penalty and interest under this
+subsection, employment and training assessments shall be considered part of the
+employer's contributions to the unemployment compensation fund.
+(e)  Collection of money from an employer
+delinquent in paying employment and training assessments, unemployment
+insurance technology assessments, or contributions to the unemployment
+compensation fund pursuant to this chapter shall first be applied to interest
+and penalty, then applied to delinquent unemployment compensation
+contributions, then to delinquent unemployment insurance technology
+assessments, and finally to delinquent employment and training assessments. [L
+1991, c 68, pt of §2; am L 1996, c 223, §4; am L 1997, c 194, §2; am L 2000, c
+197, §1; am L 2002, c 248, §2; am L 2011, c 2, §§3, 5; am L 2012, c 6, §§4, 7;
+am L 2013, c 102, §1; am L 2023, c 208, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_129__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In addition to contributions determined by section
+383-68, every employer, except an employer who has selected an alternative
+method of financing liability for unemployment compensation benefits pursuant
+to section 383-62, or an employer who has been assigned a minimum rate of zero
+per cent or the maximum rate of the applicable schedule in accordance with
+section 383-68, shall be subject to an employment and training fund assessment
+at a rate of .01 per cent of taxable wages as specified in section 383-61.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_129__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Collections from the employment and
+training assessment shall be made in the same manner and at the same time as
+any contributions required under section 383-61, and shall not be deducted, in
+whole or in part, from the wages of individuals in an employer's employ.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_129__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any assessments collected pursuant to this
+section shall remain separate and shall not be included in any manner in
+computing unemployment contribution rates assigned to employers in accordance
+with sections 383-63 to 383-68.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_129__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The director may impose penalty and
+interest on delinquent employment and training assessments in the same manner
+as provided for contributions to the unemployment compensation fund in section
+383-73.  For purposes of computation of penalty and interest under this
+subsection, employment and training assessments shall be considered part of the
+employer's contributions to the unemployment compensation fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_129__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Collection of money from an employer
+delinquent in paying employment and training assessments, unemployment
+insurance technology assessments, or contributions to the unemployment
+compensation fund pursuant to this chapter shall first be applied to interest
+and penalty, then applied to delinquent unemployment compensation
+contributions, then to delinquent unemployment insurance technology
+assessments, and finally to delinquent employment and training assessments. [L
+1991, c 68, pt of §2; am L 1996, c 223, §4; am L 1997, c 194, §2; am L 2000, c
+197, §1; am L 2002, c 248, §2; am L 2011, c 2, §§3, 5; am L 2012, c 6, §§4, 7;
+am L 2013, c 102, §1; am L 2023, c 208, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

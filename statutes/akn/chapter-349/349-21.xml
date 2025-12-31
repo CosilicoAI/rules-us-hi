@@ -1,0 +1,525 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-21"/>
+          <FRBRuri value="/us-hi/act/hrs/349-21"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-21/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-21/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-21/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-21/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_21">
+          <num>349-21</num>
+          <heading>to 349-23 were renumbered from §§349-12 to 349-14 pursuant to §23G-15</heading>
+          <content>
+            <p>[PART III.] 
+OFFICE OF THE LONG-TERM CARE OMBUDSMAN
+Note
+Part heading added by L 2007, c 93, §4.
+Revision Note
+Enacted as Part II, this Part was renumbered as Part III and
+§§349-21 to 349-23 were renumbered from §§349-12 to 349-14 pursuant to §23G-15.
+Law Journals and Reviews
+Elder Abuse and Laws to Protect Older Persons in Hawaii.  15
+HBJ, no. 13, at 93 (2013).
+Long-Term Care in Hawaii.  18 HBJ, no. 13, at 59 (2015).
+[§349-21]  Office of the long-term care
+ombudsman.
+(a)  There is established the office of the long-term care
+ombudsman in the executive office on aging to protect the health, safety,
+welfare, and rights of residents of long-term care facilities in accordance
+with state and federal law.  The office of the long-term care ombudsman shall
+be headed by the long-term care ombudsman.
+(b)  The long-term care ombudsman shall:
+(1)  Be hired pursuant to chapter 76;
+(2)  Be free of conflict of interest;
+(3)  Have expertise and experience in the fields of
+long-term care and advocacy;
+(4)  Serve on a full-time basis; and
+(5)  Prepare an annual report in accordance with the
+federal Older Americans Act, as amended.
+(c)  The long-term care ombudsman, personally
+or through a designee, shall:
+(1)  Represent the interests of residents of long-term
+care facilities, individually and as a class, to:
+(A)  Protect their health, safety, welfare,
+and rights; and
+(B)  Promote improvement in the quality of
+care they receive and their quality of life;
+(2)  Identify, investigate, and resolve complaints,
+including complaints against providers of long-term care services and their
+representatives, made by or on behalf of residents of long-term care facilities
+relating to actions, inactions or decisions that may adversely affect the
+health, safety, welfare, or rights of residents of long-term care facilities,
+including the appointment and activities of guardians and representative
+payees;
+(3)  Monitor and comment on the development and
+implementation of federal, state, and local laws, regulations, policies, and
+actions that pertain to the health, safety, welfare, or rights of residents of
+long-term care facilities, including the adequacy of long-term care facilities
+and services in the State, and recommend changes as necessary;
+(4)  Provide information as appropriate to public
+agencies regarding the problems of residents of long-term care facilities;
+(5)  Train volunteers and employees;
+(6)  Promote the development of citizen organizations
+to participate in the advocacy program;
+(7)  Establish procedures for appropriate access by
+the long-term care ombudsman to long-term care facilities and to residents of
+long-term care facilities;
+(8)  Establish procedures for appropriate access by
+the long-term care ombudsman to all resident records or portions thereof
+necessary for the long-term care ombudsman to evaluate the merits of a specific
+complaint or complaints; provided that resident records shall be divulged only
+with the written consent of the resident or the resident's legal
+representative;
+(9)  Establish procedures for appropriate access to
+files maintained by the long-term care ombudsman, except that the identity of
+any complainant or resident of a long-term care facility shall not be disclosed
+unless:
+(A)  The complainant or resident, or the
+complainant's or resident's legal representative, consents in writing to the
+disclosure;
+(B)  The complainant or resident consents
+orally and the consent is documented contemporaneously in writing by the long-term
+care ombudsman or designee; or
+(C)  The disclosure is required by court
+order;
+(10)  Provide technical support for the development of
+resident and family councils to help protect the health, safety, welfare, and
+rights of residents of long-term care facilities;
+(11)  Provide residents of long-term care facilities
+with:
+(A)  Information regarding how to obtain
+necessary services;
+(B)  Regular access to the office of the
+long-term care ombudsman at times deemed reasonable and necessary by the
+long-term care ombudsman; and
+(C)  Regular and timely responses to their
+complaints;
+(12)  Seek administrative, legal, or other remedies to
+carry out this part; and
+(13)  Carry out all other responsibilities as provided
+by state or federal law.
+(d)  The long-term care ombudsman shall
+establish procedures to ensure that all designees, employees, and volunteers
+are free of conflict of interest.
+(e)  The long-term care ombudsman shall adopt
+rules pursuant to chapter 91 for the purposes of administering and implementing
+this part.
+(f)  For the purposes of this part:
+&quot;Conflict of interest&quot; includes:
+(1)  Any direct involvement in the licensing or
+certification of a long-term care facility or of a provider of a long-term care
+service;
+(2)  An ownership or investment interest in a long-term
+care facility or a long-term care service;
+(3)  Employment by, or participation in the management
+of, a long-term care facility; and
+(4)  Receipt of, or the right to receive, directly or
+indirectly, remuneration under a compensation arrangement with an owner or
+operator of a long-term care facility.
+&quot;Long-term care facility&quot; means any:
+(1)  Skilled nursing facility as defined in section
+1819(a) of the Social Security Act, as amended;
+(2)  Nursing facility, as defined in section 1919(a)
+of the Social Security Act, as amended;
+(3)  Adult residential care home, including any
+expanded adult residential care home;
+(4)  Assisted living facility;
+(5)  Intermediate care facility as defined in section
+1905(c) of the Social Security Act, as amended; and
+(6)  Other similar facility licensed by the State
+serving elders. [L 1979, c 206, §2(1); gen ch 1985; am L 1990, c 67, §8; am L
+2007, c 93, §5]
+Cross References
+Dependent elder abuse; suits by the State; civil penalties,
+see §28-94.
+Investigations of nurse aide abuse, see §346-47.
+Long-term care financing, see chapter 346C.
+Law Journals and Reviews
+Elder Law Hawaii.  13 HBJ, no. 13, at 85 (2009).
+Elder Abuse and Laws to Protect Older Persons in Hawaii.  15
+HBJ, no. 13, at 93 (2013).
+Holding Hawai`i Nursing Facilities Accountable for the
+Inadequate Pain Management of Elderly Residents.  27 UH L. Rev. 233 (2004).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_21__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established the office of the long-term care
+ombudsman in the executive office on aging to protect the health, safety,
+welfare, and rights of residents of long-term care facilities in accordance
+with state and federal law.  The office of the long-term care ombudsman shall
+be headed by the long-term care ombudsman.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_21__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The long-term care ombudsman shall:</p>
+            </content>
+            <paragraph eId="349_21__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Be hired pursuant to chapter 76;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Be free of conflict of interest;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Have expertise and experience in the fields of
+long-term care and advocacy;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Serve on a full-time basis; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Prepare an annual report in accordance with the
+federal Older Americans Act, as amended.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_21__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The long-term care ombudsman, personally
+or through a designee, shall:</p>
+            </content>
+            <paragraph eId="349_21__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Represent the interests of residents of long-term
+care facilities, individually and as a class, to:</p>
+              </content>
+              <subparagraph eId="349_21__subsec_c__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Protect their health, safety, welfare,
+and rights; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_21__subsec_c__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Promote improvement in the quality of
+care they receive and their quality of life;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Identify, investigate, and resolve complaints,
+including complaints against providers of long-term care services and their
+representatives, made by or on behalf of residents of long-term care facilities
+relating to actions, inactions or decisions that may adversely affect the
+health, safety, welfare, or rights of residents of long-term care facilities,
+including the appointment and activities of guardians and representative
+payees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Monitor and comment on the development and
+implementation of federal, state, and local laws, regulations, policies, and
+actions that pertain to the health, safety, welfare, or rights of residents of
+long-term care facilities, including the adequacy of long-term care facilities
+and services in the State, and recommend changes as necessary;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Provide information as appropriate to public
+agencies regarding the problems of residents of long-term care facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Train volunteers and employees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Promote the development of citizen organizations
+to participate in the advocacy program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Establish procedures for appropriate access by
+the long-term care ombudsman to long-term care facilities and to residents of
+long-term care facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Establish procedures for appropriate access by
+the long-term care ombudsman to all resident records or portions thereof
+necessary for the long-term care ombudsman to evaluate the merits of a specific
+complaint or complaints; provided that resident records shall be divulged only
+with the written consent of the resident or the resident's legal
+representative;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Establish procedures for appropriate access to
+files maintained by the long-term care ombudsman, except that the identity of
+any complainant or resident of a long-term care facility shall not be disclosed
+unless:</p>
+              </content>
+              <subparagraph eId="349_21__subsec_c__para_9__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>The complainant or resident, or the
+complainant's or resident's legal representative, consents in writing to the
+disclosure;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_21__subsec_c__para_9__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The complainant or resident consents
+orally and the consent is documented contemporaneously in writing by the long-term
+care ombudsman or designee; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_21__subsec_c__para_9__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>The disclosure is required by court
+order;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Provide technical support for the development of
+resident and family councils to help protect the health, safety, welfare, and
+rights of residents of long-term care facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_11">
+              <num>(11)</num>
+              <content>
+                <p>Provide residents of long-term care facilities
+with:</p>
+              </content>
+              <subparagraph eId="349_21__subsec_c__para_11__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Information regarding how to obtain
+necessary services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_21__subsec_c__para_11__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Regular access to the office of the
+long-term care ombudsman at times deemed reasonable and necessary by the
+long-term care ombudsman; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_21__subsec_c__para_11__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Regular and timely responses to their
+complaints;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_12">
+              <num>(12)</num>
+              <content>
+                <p>Seek administrative, legal, or other remedies to
+carry out this part; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_c__para_13">
+              <num>(13)</num>
+              <content>
+                <p>Carry out all other responsibilities as provided
+by state or federal law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_21__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The long-term care ombudsman shall
+establish procedures to ensure that all designees, employees, and volunteers
+are free of conflict of interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_21__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The long-term care ombudsman shall adopt
+rules pursuant to chapter 91 for the purposes of administering and implementing
+this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_21__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For the purposes of this part:
+&quot;Conflict of interest&quot; includes:</p>
+            </content>
+            <paragraph eId="349_21__subsec_f__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Any direct involvement in the licensing or
+certification of a long-term care facility or of a provider of a long-term care
+service;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_f__para_2">
+              <num>(2)</num>
+              <content>
+                <p>An ownership or investment interest in a long-term
+care facility or a long-term care service;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_f__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Employment by, or participation in the management
+of, a long-term care facility; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_f__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Receipt of, or the right to receive, directly or
+indirectly, remuneration under a compensation arrangement with an owner or
+operator of a long-term care facility.
+&quot;Long-term care facility&quot; means any:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_f__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Skilled nursing facility as defined in section
+1819</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_21__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the Social Security Act, as amended;</p>
+            </content>
+            <paragraph eId="349_21__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Nursing facility, as defined in section 1919</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_21__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the Social Security Act, as amended;</p>
+            </content>
+            <paragraph eId="349_21__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Adult residential care home, including any
+expanded adult residential care home;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Assisted living facility;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_21__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Intermediate care facility as defined in section
+1905</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_21__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Social Security Act, as amended; and</p>
+            </content>
+            <paragraph eId="349_21__subsec_c__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Other similar facility licensed by the State
+serving elders. [L 1979, c 206, §2(1); gen ch 1985; am L 1990, c 67, §8; am L
+2007, c 93, §5]
+Cross References
+Dependent elder abuse; suits by the State; civil penalties,
+see §28-94.
+Investigations of nurse aide abuse, see §346-47.
+Long-term care financing, see chapter 346C.
+Law Journals and Reviews
+Elder Law Hawaii.  13 HBJ, no. 13, at 85 (2009).
+Elder Abuse and Laws to Protect Older Persons in Hawaii.  15
+HBJ, no. 13, at 93 (2013).
+Holding Hawai`i Nursing Facilities Accountable for the
+Inadequate Pain Management of Elderly Residents.  27 UH L. Rev. 233 (2004).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

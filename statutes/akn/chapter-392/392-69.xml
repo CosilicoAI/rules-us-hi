@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-69"/>
+          <FRBRuri value="/us-hi/act/hrs/392-69"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-69/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-69/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-69/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-69/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_69">
+          <num>392-69</num>
+          <heading>Request for wage and employment information</heading>
+          <content>
+            <p>§392-69  Request for wage and employment information
+.  An employer to whom the department has sent a request
+for wage and employment information for an employee claiming benefits against
+the trust fund for disability benefits, shall complete and file such
+information within seven days from date the request was sent.  If an employer
+fails to file such information in seven days, the director shall levy a penalty
+of $250 for each delinquent request, unless the failure to file such
+information is excused by the director after a showing by the employer that
+such filing could not be made on the prescribed date therefor owing to
+conditions over which the employer had no control.
+[L 1971, c 109,
+§1(1); gen ch 1985; am L 2013, c 100, §8; am L 2020, c 44, §14]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

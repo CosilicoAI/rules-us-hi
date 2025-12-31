@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-223"/>
+          <FRBRuri value="/us-hi/act/hrs/346-223"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-223/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-223/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-223/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-223/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_223">
+          <num>346-223</num>
+          <heading>Jurisdiction; venue</heading>
+          <content>
+            <p>§346-223
+Jurisdiction; venue.
+The
+family court shall have jurisdiction over protective proceedings under this
+part that concern a vulnerable adult who was or is found within the judicial
+circuit at the time the facts and circumstances occurred, were discovered, or
+were reported to the department, which constitute the basis for a finding that
+the vulnerable adult has incurred abuse or is in danger of abuse if immediate
+action is not taken; provided that the protective proceedings under this part
+shall not be considered exclusive and shall not preclude any other criminal,
+civil, or administrative remedy.  The protective proceedings under this part
+shall be held in the judicial circuit in which the vulnerable adult resides at
+the time of the filing of the petition or in which the vulnerable adult has
+assets. [L 1989, c 381, pt of §1; am L 1990, c 144, §1 and c 234, §9; am L
+2008, c 154, §5]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

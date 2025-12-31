@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-242"/>
+          <FRBRuri value="/us-hi/act/hrs/346-242"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-242/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-242/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-242/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-242/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_242">
+          <num>346-242</num>
+          <heading>Review hearings</heading>
+          <content>
+            <p>§346-242
+Review hearings.
+Except
+for good cause shown, the court shall set each case for a review hearing not
+later than six months after the date that a protective order and protective
+services plan are ordered by the court.  Thereafter, the court shall review the
+matter at intervals of not longer than six months until the court's
+jurisdiction has been terminated.  The department and the guardian ad litem, if
+any, shall submit a written report, with copies to the parties or their
+counsel, at least fifteen days prior to the date set for each review.  The
+report shall evaluate whether the parties have complied with the terms and
+conditions of the protective order and protective services plan; shall
+recommend any modification to the order or plan; and shall recommend whether
+the court shall retain jurisdiction or terminate the case.  At each review, the
+court shall determine whether the parties have complied with the terms and
+conditions of the order and plan; enforce sanctions for noncompliance as may be
+appropriate; and order revisions to the existing order or plan as are in the
+best interests of the vulnerable adult.  At each review, the court shall make
+an express finding as to whether it shall retain jurisdiction or terminate the
+case, and, in each instance, shall state the basis for its action. [L 1989, c
+381, pt of §1; am L 1990, c 144, §1 and c 234, §9; am L 1992, c 62, §5; am L
+2008, c 154, §23]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

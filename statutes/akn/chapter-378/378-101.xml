@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-101"/>
+          <FRBRuri value="/us-hi/act/hrs/378-101"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-101/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-101/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-101/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-101/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_101">
+          <num>378-101</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>[
+Part VIII.]  mobile applications
+[
+§378-101]  Definitions.
+As used
+in this part:
+&quot;Employee&quot; means an individual who
+performs a service for wages or other remuneration under a contract for hire,
+written or oral, or expressed or implied.  &quot;Employee&quot; includes:
+(1)  A prospective employee who has applied for or otherwise
+actively expressed interest in employment with an employer; and
+(2)  An individual employed by the State or a
+political subdivision of the State.
+&quot;Employer&quot; means a person who has one
+or more employees.  &quot;Employer&quot; includes an agent of an employer or of
+the State or a political subdivision thereof but does not include the United
+States.
+&quot;Employer-owned communication device&quot;
+means a device allowing for electronic communications, such as a mobile phone
+or tablet, that is owned or whose cost is reimbursed by the employer.
+&quot;Mobile application&quot; means a type of
+application software designed to run on a mobile electronic device, such as a
+smartphone or tablet computer.
+&quot;Personal communication device&quot; means
+a device allowing for electronic communication, including a mobile phone and
+tablet, that is not owned, or the cost of which is not reimbursed, by the
+employer. [L 2021, c 206, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

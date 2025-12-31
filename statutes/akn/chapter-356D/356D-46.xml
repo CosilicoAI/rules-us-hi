@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-46"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-46"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-46/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-46/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-46/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-46/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_46">
+          <num>356D-46</num>
+          <heading>Investigatory powers</heading>
+          <content>
+            <p>[§356D-46]  Investigatory powers.
+(a) 
+The authority may:
+(1)  Investigate living, dwelling, and housing
+conditions and the means and methods of improving those conditions;
+(2)  Enter upon any building or property to conduct
+investigations or to make surveys or soundings;
+(3)  Conduct examinations and investigations, and hear
+testimony and take proof under oath at public or private hearings on any matter
+material for its information;
+(4)  Issue subpoenas requiring the attendance of
+witnesses or the production of books and papers, and order the examination of
+witnesses who are unable to attend before the authority, are excused from
+attendance, or by leave of courts as provided by chapter 624, are out of the
+State; and
+(5)  Make available to any government agency charged
+with the duty of abating or requiring the correction of nuisances or like
+conditions, or of demolishing unsafe or unsanitary structures within its
+jurisdictional limits, its findings and recommendations with regard to any
+building or property where conditions exist that are dangerous to the public
+health, safety, or welfare.
+(b)  Investigations or examinations may be
+conducted by the authority, or by a committee appointed by it consisting of one
+or more members of the board, or by counsel, or by an officer or employee
+specially authorized by the authority to conduct it.  Any person designated by
+the authority to conduct an investigation or examination may administer oaths,
+take affidavits, and issue subpoenas or orders for the taking of depositions.
+[L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_46__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The authority may:</p>
+            </content>
+            <paragraph eId="356D_46__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Investigate living, dwelling, and housing
+conditions and the means and methods of improving those conditions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_46__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Enter upon any building or property to conduct
+investigations or to make surveys or soundings;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_46__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Conduct examinations and investigations, and hear
+testimony and take proof under oath at public or private hearings on any matter
+material for its information;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_46__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Issue subpoenas requiring the attendance of
+witnesses or the production of books and papers, and order the examination of
+witnesses who are unable to attend before the authority, are excused from
+attendance, or by leave of courts as provided by chapter 624, are out of the
+State; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_46__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Make available to any government agency charged
+with the duty of abating or requiring the correction of nuisances or like
+conditions, or of demolishing unsafe or unsanitary structures within its
+jurisdictional limits, its findings and recommendations with regard to any
+building or property where conditions exist that are dangerous to the public
+health, safety, or welfare.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_46__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Investigations or examinations may be
+conducted by the authority, or by a committee appointed by it consisting of one
+or more members of the board, or by counsel, or by an officer or employee
+specially authorized by the authority to conduct it.  Any person designated by
+the authority to conduct an investigation or examination may administer oaths,
+take affidavits, and issue subpoenas or orders for the taking of depositions.
+[L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

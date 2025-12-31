@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-21"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-21"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-21/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-21/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-21/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-21/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_21">
+          <num>356D-21</num>
+          <heading>Bonds; authorization</heading>
+          <content>
+            <p>[§356D-21]  Bonds; authorization.
+(a) 
+The authority, with the approval of the governor, may issue from time to time
+bonds (including refunding bonds to pay, retire, or provide for the retirement
+of bonds previously issued by the authority) in amounts not exceeding the total
+amount of bonds authorized to be issued by the legislature for any of its
+corporate purposes.
+(b)  All bonds shall be issued pursuant to part
+III of chapter 39, except as provided in this part.
+(c)  The bonds shall be issued in the name of
+the authority, and not in the name of the State.  The final maturity date of
+the revenue bonds may be any date not exceeding sixty years from the date of
+issuance.
+(d)  The authority may issue bonds as it may
+determine, including without limitation bonds payable from and secured, in
+whole or in part, by:
+(1)  Income and revenues derived from the public
+housing project or projects financed from the proceeds of bonds;
+(2)  Receipts derived from any grant from the federal
+government made in aid of a public housing project or projects financed from
+the proceeds of bonds;
+(3)  Income and revenues derived from a particular
+designated public housing project or projects whether or not financed, in whole
+or in part, from the proceeds of bonds;
+(4)  Income and revenues of the authority generally;
+or
+(5)  Any combination of paragraphs (1) through (4).
+(e)  Any pledge made by the authority shall
+create a perfected security interest in the revenues, moneys, or property so
+pledged and thereafter received by the authority from and after the time that a
+financing statement with respect to the revenues, moneys, or property so
+pledged and thereafter received shall be filed with the bureau of conveyances. 
+Upon the filing, the revenues, moneys, or property so pledged and thereafter
+received by the authority shall immediately be subject to the lien of the pledge
+without any physical delivery thereof or further act, and the lien of the
+pledge shall be prior to the lien of all parties having claims of any kind in
+tort, contract, or otherwise against the authority, irrespective of whether the
+parties have notice thereof.  This section shall apply to any financing
+statement heretofore or hereafter filed with the bureau of conveyances with
+respect to any pledge made to secure revenue bonds issued under this part.
+(f)  Any public housing project or projects
+authorized by, and undertaken pursuant to, this chapter shall constitute an
+&quot;undertaking&quot; within the meaning of that term as defined and used in
+part III, chapter 39.  The authority shall constitute a &quot;department&quot;
+and the board shall constitute a &quot;governing body&quot; within the meaning
+of those terms as defined and used in part III, chapter 39.
+(g)  Neither the members of the board nor any
+person executing the bonds shall be liable personally on the bonds by reason of
+the issuance thereof. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_21__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The authority, with the approval of the governor, may issue from time to time
+bonds (including refunding bonds to pay, retire, or provide for the retirement
+of bonds previously issued by the authority) in amounts not exceeding the total
+amount of bonds authorized to be issued by the legislature for any of its
+corporate purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_21__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All bonds shall be issued pursuant to part
+III of chapter 39, except as provided in this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_21__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The bonds shall be issued in the name of
+the authority, and not in the name of the State.  The final maturity date of
+the revenue bonds may be any date not exceeding sixty years from the date of
+issuance.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_21__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The authority may issue bonds as it may
+determine, including without limitation bonds payable from and secured, in
+whole or in part, by:</p>
+            </content>
+            <paragraph eId="356D_21__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Income and revenues derived from the public
+housing project or projects financed from the proceeds of bonds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_21__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Receipts derived from any grant from the federal
+government made in aid of a public housing project or projects financed from
+the proceeds of bonds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_21__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Income and revenues derived from a particular
+designated public housing project or projects whether or not financed, in whole
+or in part, from the proceeds of bonds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_21__subsec_d__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Income and revenues of the authority generally;
+or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_21__subsec_d__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Any combination of paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_21__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>through (4).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_21__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any pledge made by the authority shall
+create a perfected security interest in the revenues, moneys, or property so
+pledged and thereafter received by the authority from and after the time that a
+financing statement with respect to the revenues, moneys, or property so
+pledged and thereafter received shall be filed with the bureau of conveyances. 
+Upon the filing, the revenues, moneys, or property so pledged and thereafter
+received by the authority shall immediately be subject to the lien of the pledge
+without any physical delivery thereof or further act, and the lien of the
+pledge shall be prior to the lien of all parties having claims of any kind in
+tort, contract, or otherwise against the authority, irrespective of whether the
+parties have notice thereof.  This section shall apply to any financing
+statement heretofore or hereafter filed with the bureau of conveyances with
+respect to any pledge made to secure revenue bonds issued under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_21__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any public housing project or projects
+authorized by, and undertaken pursuant to, this chapter shall constitute an
+&quot;undertaking&quot; within the meaning of that term as defined and used in
+part III, chapter 39.  The authority shall constitute a &quot;department&quot;
+and the board shall constitute a &quot;governing body&quot; within the meaning
+of those terms as defined and used in part III, chapter 39.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_21__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Neither the members of the board nor any
+person executing the bonds shall be liable personally on the bonds by reason of
+the issuance thereof. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

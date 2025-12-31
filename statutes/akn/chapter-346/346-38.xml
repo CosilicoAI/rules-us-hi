@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-38"/>
+          <FRBRuri value="/us-hi/act/hrs/346-38"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-38/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-38/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-38/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-38/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_38">
+          <num>346-38</num>
+          <heading>Incompetency of recipient</heading>
+          <content>
+            <p>§346-38  Incompetency of recipient.
+If
+the recipient is found incapable of taking care of the recipient's money or
+oneself, the department of human services may direct its assistance to be paid
+to a legal guardian or any other reputable person for the recipient's benefit
+or may suspend assistance for such period as it deems fit. [L 1941, c 296, pt
+of §1; RL 1945, §4844; RL 1955, §108-24; HRS §346-38; am L 1970, c 105, §5; gen
+ch 1985; am L 1987, c 339, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

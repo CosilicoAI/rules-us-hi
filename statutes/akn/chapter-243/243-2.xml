@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/243-2"/>
+          <FRBRuri value="/us-hi/act/hrs/243-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/243-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/243-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/243-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/243-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_243">
+        <num>Chapter 243</num>
+        <heading>Fuel Tax Law</heading>
+        <section eId="sec_243_2">
+          <num>243-2</num>
+          <heading>Section 243-2</heading>
+          <content>
+            <p>§243-2  Distributors to register and be
+licensed.
+(a)  Every distributor, and any person before becoming a
+distributor, shall register as such with the department of taxation on forms to
+be prescribed, prepared, and furnished by the department and the department
+shall issue to such distributor a license which shall be valid until revoked by
+the department as hereinafter provided.
+(b)  Any license issued under this chapter
+shall not be assignable and shall be conspicuously displayed on the licensed
+premises of the licensee.  Whenever a license is defaced, destroyed, or lost,
+or the licensed premises are relocated, the department may issue a duplicate
+license to the licensee upon the payment of a fee of 50 cents.
+(c)  The department may suspend or revoke any
+license issued under this chapter whenever the department finds that the
+licensee has failed to comply with this chapter or any rule adopted under this
+chapter, or for any other good cause.  Good cause includes but is not limited
+to instances where an applicant or licensee has:
+(1)  Submitted a false or fraudulent application or
+provided a false statement in an application;
+(2)  Possessed or displayed a false or fraudulent
+license;
+(3)  Failed to comply with, violated, or been
+convicted of violating any county, state, or federal law directly pertaining to
+the sale, importation, acquisition, possession, distribution, transportation,
+or smuggling of fuel, including petroleum products and alternative fuels; or
+(4)  Failed to maintain complete and accurate records
+when and if required to be kept.
+Upon suspending or revoking any license, the
+department may request that the licensee surrender the license or any duplicate
+issued to or printed by the licensee, and the licensee shall surrender the
+license or duplicate promptly to the department as requested.
+(d)  When the department suspends or revokes a
+license, the department shall immediately notify the licensee and afford the
+licensee a hearing, if requested; provided that a hearing has not already been
+afforded.  The department shall provide no less than thirty days' notice to the
+licensee of a hearing afforded under this subsection.  After the hearing, the
+department shall:
+(1)  Rescind its order of suspension;
+(2)  Continue the suspension;
+(3)  Revoke the license; or
+(4)  Rescind its order of revocation. [L 1932 1st, c
+19, §3; RL 1935, §2012; am L Sp 1941, c 26, pt of §1; RL 1945, §5403; RL 1955,
+§123-2; am L Sp 1959 2d, c 1, §16; HRS §243-2; am L 2021, c 116, §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="243_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every distributor, and any person before becoming a
+distributor, shall register as such with the department of taxation on forms to
+be prescribed, prepared, and furnished by the department and the department
+shall issue to such distributor a license which shall be valid until revoked by
+the department as hereinafter provided.</p>
+            </content>
+          </subsection>
+          <subsection eId="243_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any license issued under this chapter
+shall not be assignable and shall be conspicuously displayed on the licensed
+premises of the licensee.  Whenever a license is defaced, destroyed, or lost,
+or the licensed premises are relocated, the department may issue a duplicate
+license to the licensee upon the payment of a fee of 50 cents.</p>
+            </content>
+          </subsection>
+          <subsection eId="243_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may suspend or revoke any
+license issued under this chapter whenever the department finds that the
+licensee has failed to comply with this chapter or any rule adopted under this
+chapter, or for any other good cause.  Good cause includes but is not limited
+to instances where an applicant or licensee has:</p>
+            </content>
+            <paragraph eId="243_2__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Submitted a false or fraudulent application or
+provided a false statement in an application;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_2__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Possessed or displayed a false or fraudulent
+license;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_2__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Failed to comply with, violated, or been
+convicted of violating any county, state, or federal law directly pertaining to
+the sale, importation, acquisition, possession, distribution, transportation,
+or smuggling of fuel, including petroleum products and alternative fuels; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_2__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Failed to maintain complete and accurate records
+when and if required to be kept.
+Upon suspending or revoking any license, the
+department may request that the licensee surrender the license or any duplicate
+issued to or printed by the licensee, and the licensee shall surrender the
+license or duplicate promptly to the department as requested.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="243_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>When the department suspends or revokes a
+license, the department shall immediately notify the licensee and afford the
+licensee a hearing, if requested; provided that a hearing has not already been
+afforded.  The department shall provide no less than thirty days' notice to the
+licensee of a hearing afforded under this subsection.  After the hearing, the
+department shall:</p>
+            </content>
+            <paragraph eId="243_2__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Rescind its order of suspension;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_2__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Continue the suspension;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_2__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Revoke the license; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="243_2__subsec_d__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Rescind its order of revocation. [L 1932 1st, c
+19, §3; RL 1935, §2012; am L Sp 1941, c 26, pt of §1; RL 1945, §5403; RL 1955,
+§123-2; am L Sp 1959 2d, c 1, §16; HRS §243-2; am L 2021, c 116, §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

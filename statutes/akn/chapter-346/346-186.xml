@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-186"/>
+          <FRBRuri value="/us-hi/act/hrs/346-186"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-186/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-186/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-186/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-186/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_186">
+          <num>346-186</num>
+          <heading>Section 346-186</heading>
+          <content>
+            <p>§346-186  Prior early learning program
+information.
+(a)  The department shall establish or augment an existing
+database to collect and analyze information it receives from the department of
+education pursuant to sections 302A-1165 and 302A-1166 and the state public
+charter school commission pursuant to sections 302D-37 and 302D-38 and any
+other information the department may collect on all children in the State who
+are three to four years old and children who will not be at least five years of
+age on or before July 31 of the current school year.
+(b)  To the extent not prohibited by
+administrative rule or law, the department, department of education, state public
+charter school commission, and executive office on early learning shall share
+any information gathered pursuant to sections 302A-1165, 302A-1166, 302D-37,
+and 302D-38 with each other, along with any other information the department,
+department of education, or state public charter school commission may collect
+on all children in the State who are three to four years old and children who
+will not be at least five years of age on or before July 31 of the current
+school year.
+(c)  An organization whose mission is to
+strengthen the education pipeline from early childhood through postsecondary
+education and training with data-informed decision making, advocacy, and policy
+coordination may include, in the state longitudinal system, prior early
+learning program information from the department, executive office on early
+learning, department of education, Hawaii state public charter school
+commission, and department of health.
+(d)  Any procurement executed pursuant to this
+section shall be exempt from chapters 103D and 103F. [L 2020, c 46, §8; am L
+2021, c 210, §9 and c 230, §8]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_186__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall establish or augment an existing
+database to collect and analyze information it receives from the department of
+education pursuant to sections 302A-1165 and 302A-1166 and the state public
+charter school commission pursuant to sections 302D-37 and 302D-38 and any
+other information the department may collect on all children in the State who
+are three to four years old and children who will not be at least five years of
+age on or before July 31 of the current school year.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_186__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To the extent not prohibited by
+administrative rule or law, the department, department of education, state public
+charter school commission, and executive office on early learning shall share
+any information gathered pursuant to sections 302A-1165, 302A-1166, 302D-37,
+and 302D-38 with each other, along with any other information the department,
+department of education, or state public charter school commission may collect
+on all children in the State who are three to four years old and children who
+will not be at least five years of age on or before July 31 of the current
+school year.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_186__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An organization whose mission is to
+strengthen the education pipeline from early childhood through postsecondary
+education and training with data-informed decision making, advocacy, and policy
+coordination may include, in the state longitudinal system, prior early
+learning program information from the department, executive office on early
+learning, department of education, Hawaii state public charter school
+commission, and department of health.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_186__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any procurement executed pursuant to this
+section shall be exempt from chapters 103D and 103F. [L 2020, c 46, §8; am L
+2021, c 210, §9 and c 230, §8]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-27.1"/>
+          <FRBRuri value="/us-hi/act/hrs/237-27.1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-27.1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-27.1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-27.1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-27.1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_27_1">
+          <num>237-27.1</num>
+          <heading>Section 237-27.1</heading>
+          <content>
+            <p>§237-27  Exemption of certain petroleum
+refiners.
+(a)  As used in this section:
+&quot;Petroleum products&quot; means petroleum;
+any distillate, fraction, or derivative of petroleum; natural gas or its
+components; gas manufactured from a petroleum product; and any product derived
+from the gas or from the manufacture thereof, such as benzene, xylene, toluene,
+acetylene, tars, components of tars, and ammonia.
+&quot;Refiner&quot; means any person who, in
+the State, engages in the business of refining petroleum products and is
+taxable under this chapter, upon the value or gross proceeds of sales of the
+petroleum products resultant from the business.  A person who is engaged in
+business as a refiner and also in other business shall be deemed a refiner only
+in respect of the business that produces the products included in the measure
+of the tax imposed by this chapter.
+&quot;Refining&quot; means:
+(1)  Any process performed by a refiner that includes
+a change in the character or properties of a petroleum product through the
+application of heat; or
+(2)  The compounding by a refiner of a petroleum
+product with a product that has been refined by the refiner by the process
+stated in paragraph (1).
+(b)  There shall be excluded from the measure
+of the tax on a refiner such part of the petroleum products resultant from the
+refiner's business as is to be further refined by another refiner, to the
+extent that the petroleum products resultant from such further refining will be
+(or but for this subsection would be) included in the measure of the tax on
+such other refiner, and where petroleum products are to be used partly for such
+refining and partly for other purposes, the proportion used for each purpose
+shall be determined upon the basis of weight or BTU content. [L 1953, c 274,
+§3; RL 1955, §117-22; HRS §237-27; gen ch 1985; am L 2018, c 18, §11]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="237_27_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this section:
+&quot;Petroleum products&quot; means petroleum;
+any distillate, fraction, or derivative of petroleum; natural gas or its
+components; gas manufactured from a petroleum product; and any product derived
+from the gas or from the manufacture thereof, such as benzene, xylene, toluene,
+acetylene, tars, components of tars, and ammonia.
+&quot;Refiner&quot; means any person who, in
+the State, engages in the business of refining petroleum products and is
+taxable under this chapter, upon the value or gross proceeds of sales of the
+petroleum products resultant from the business.  A person who is engaged in
+business as a refiner and also in other business shall be deemed a refiner only
+in respect of the business that produces the products included in the measure
+of the tax imposed by this chapter.
+&quot;Refining&quot; means:</p>
+            </content>
+            <paragraph eId="237_27_1__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Any process performed by a refiner that includes
+a change in the character or properties of a petroleum product through the
+application of heat; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="237_27_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The compounding by a refiner of a petroleum
+product with a product that has been refined by the refiner by the process
+stated in paragraph (1).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="237_27_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There shall be excluded from the measure
+of the tax on a refiner such part of the petroleum products resultant from the
+refiner's business as is to be further refined by another refiner, to the
+extent that the petroleum products resultant from such further refining will be
+(or but for this subsection would be) included in the measure of the tax on
+such other refiner, and where petroleum products are to be used partly for such
+refining and partly for other purposes, the proportion used for each purpose
+shall be determined upon the basis of weight or BTU content. [L 1953, c 274,
+§3; RL 1955, §117-22; HRS §237-27; gen ch 1985; am L 2018, c 18, §11]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

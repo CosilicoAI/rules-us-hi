@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/256-5"/>
+          <FRBRuri value="/us-hi/act/hrs/256-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/256-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/256-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/256-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/256-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_256">
+        <num>Chapter 256</num>
+        <heading>Multistate Tax Compact</heading>
+        <section eId="sec_256_5">
+          <num>256-5</num>
+          <heading>Section 256-5</heading>
+          <content>
+            <p>§256-5  Program limitations; college
+account.
+(a)  Nothing in this chapter shall be construed to:
+(1)  Give any designated beneficiary any rights or
+legal interest with respect to an account;
+(2)  Guarantee that a designated beneficiary:
+(A)  Will be admitted to an institution of
+higher education; or
+(B)  Upon admission to an institution of
+higher education, will be permitted to continue to attend or will receive a
+degree from the institution;
+(3)  Create state residency for an individual merely
+because the individual is a designated beneficiary; or
+(4)  Guarantee that amounts saved pursuant to the
+program will be sufficient to cover the qualified higher education expenses of
+a designated beneficiary.
+(b)  Nothing in this chapter shall create or be
+construed to create any obligation of the director of finance, the State, or
+any agency or instrumentality of the State to guarantee for the benefit of any
+account owner or designated beneficiary with respect to:
+(1)  The rate of interest or other return on any
+account;
+(2)  The payment of interest or other return on any
+account; or
+(3)  The repayment of the principal of any account.
+The director of finance shall provide by rule that
+every tuition savings agreement, contract, application, deposit slip, or other
+similar document that may be used in connection with a contribution to an
+account clearly indicate that the account is not insured by the State and
+neither the principal deposited nor the investment return is guaranteed by the
+State. [L 1999, c 81, pt of §2; am L 2000, c 90, §4]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="256_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Nothing in this chapter shall be construed to:</p>
+            </content>
+            <paragraph eId="256_5__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Give any designated beneficiary any rights or
+legal interest with respect to an account;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_5__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Guarantee that a designated beneficiary:</p>
+              </content>
+              <subparagraph eId="256_5__subsec_a__para_2__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Will be admitted to an institution of
+higher education; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="256_5__subsec_a__para_2__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Upon admission to an institution of
+higher education, will be permitted to continue to attend or will receive a
+degree from the institution;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="256_5__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Create state residency for an individual merely
+because the individual is a designated beneficiary; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_5__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Guarantee that amounts saved pursuant to the
+program will be sufficient to cover the qualified higher education expenses of
+a designated beneficiary.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="256_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Nothing in this chapter shall create or be
+construed to create any obligation of the director of finance, the State, or
+any agency or instrumentality of the State to guarantee for the benefit of any
+account owner or designated beneficiary with respect to:</p>
+            </content>
+            <paragraph eId="256_5__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The rate of interest or other return on any
+account;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_5__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The payment of interest or other return on any
+account; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="256_5__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The repayment of the principal of any account.
+The director of finance shall provide by rule that
+every tuition savings agreement, contract, application, deposit slip, or other
+similar document that may be used in connection with a contribution to an
+account clearly indicate that the account is not insured by the State and
+neither the principal deposited nor the investment return is guaranteed by the
+State. [L 1999, c 81, pt of §2; am L 2000, c 90, §4]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

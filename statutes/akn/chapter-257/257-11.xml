@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/257-11"/>
+          <FRBRuri value="/us-hi/act/hrs/257-11"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/257-11/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/257-11/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/257-11/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/257-11/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_257">
+        <num>Chapter 257</num>
+        <heading>Uniform Division of Income for Tax Purposes Act</heading>
+        <section eId="sec_257_11">
+          <num>257-11</num>
+          <heading>Section 257-11</heading>
+          <content>
+            <p>[§257-11]  Administration; evaluation;
+information; reporting.
+(a)  The fiduciary organization running an
+individual development account program shall have sole authority over the
+administration of the project.  The State may prescribe only such regulations
+with respect to demonstration projects under this chapter as are necessary to
+ensure compliance pursuant to this chapter.
+(b)  Each individual development account
+program shall annually report the number of accounts, the amount of savings and
+matches for each account, the uses of the account, and the number of
+businesses, homes, and educations purchased, as well as other information as
+may be required for responsible operation of the program.
+(c)  The fiduciary organization shall submit to
+the legislature its findings and recommendations no later than twenty days
+prior to the convening of each legislative session.
+(d)  Selected fiduciary organizations may use
+no more than ten per cent of state funds as appropriated under this [chapter]
+to cover administrative costs in any given year. [L 1999, c 160, pt of §25]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="257_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The fiduciary organization running an
+individual development account program shall have sole authority over the
+administration of the project.  The State may prescribe only such regulations
+with respect to demonstration projects under this chapter as are necessary to
+ensure compliance pursuant to this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="257_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each individual development account
+program shall annually report the number of accounts, the amount of savings and
+matches for each account, the uses of the account, and the number of
+businesses, homes, and educations purchased, as well as other information as
+may be required for responsible operation of the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="257_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The fiduciary organization shall submit to
+the legislature its findings and recommendations no later than twenty days
+prior to the convening of each legislative session.</p>
+            </content>
+          </subsection>
+          <subsection eId="257_11__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Selected fiduciary organizations may use
+no more than ten per cent of state funds as appropriated under this [chapter]
+to cover administrative costs in any given year. [L 1999, c 160, pt of §25]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-130"/>
+          <FRBRuri value="/us-hi/act/hrs/383-130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-130/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-130/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_130">
+          <num>383-130</num>
+          <heading>]</heading>
+          <content>
+            <p>[§383-130]
+Unemployment insurance
+technology special fund.
+(a)  There is established in the state treasury
+the unemployment insurance technology special fund to be administered by the
+department.  All assessments collected pursuant to section 383-131 and all
+moneys received by the fund from any other source shall be deposited in the
+unemployment insurance technology special fund.
+(b)  Moneys in the unemployment insurance
+technology special fund shall be used by the department for the operating
+expenses to operate and maintain the department's information technology
+infrastructure used for the payment of benefits and contributions as provided
+for in this chapter.  Administrative costs for the collection of the
+unemployment insurance technology assessments and for costs related to the
+establishment and maintenance of the unemployment insurance technology special
+fund shall be borne by the fund.
+(c)  The director shall submit a report to the
+legislature on the status of the unemployment insurance technology special
+fund, including expenditures and program results, not less than twenty days
+prior to the convening of each regular session; provided that the director may
+include the report in the report required by section 383-126.5. [L 2023, c 208,
+pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_130__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established in the state treasury
+the unemployment insurance technology special fund to be administered by the
+department.  All assessments collected pursuant to section 383-131 and all
+moneys received by the fund from any other source shall be deposited in the
+unemployment insurance technology special fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_130__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Moneys in the unemployment insurance
+technology special fund shall be used by the department for the operating
+expenses to operate and maintain the department's information technology
+infrastructure used for the payment of benefits and contributions as provided
+for in this chapter.  Administrative costs for the collection of the
+unemployment insurance technology assessments and for costs related to the
+establishment and maintenance of the unemployment insurance technology special
+fund shall be borne by the fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_130__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director shall submit a report to the
+legislature on the status of the unemployment insurance technology special
+fund, including expenditures and program results, not less than twenty days
+prior to the convening of each regular session; provided that the director may
+include the report in the report required by section 383-126.5. [L 2023, c 208,
+pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

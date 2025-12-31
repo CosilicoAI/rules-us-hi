@@ -1,0 +1,455 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-98"/>
+          <FRBRuri value="/us-hi/act/hrs/386-98"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-98/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-98/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-98/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-98/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_98">
+          <num>386-98</num>
+          <heading>Fraud violations and penalties</heading>
+          <content>
+            <p>§386-98  Fraud violations and penalties.
+(a)  A fraudulent insurance act, under this chapter, shall include acts or
+omissions committed by any person who intentionally or knowingly acts or omits
+to act so as to obtain benefits, deny benefits, obtain benefits compensation
+for services provided, or provides legal assistance or counsel to obtain
+benefits or recovery through fraud or deceit by doing the following:
+(1)  Presenting, or causing to be presented, any false
+information on an application;
+(2)  Presenting, or causing to be presented, any false
+or fraudulent claim for the payment of a loss;
+(3)  Presenting multiple claims for the same loss or
+injury, including presenting multiple claims to more than one insurer except
+when these multiple claims are appropriate and each insurer is notified
+immediately in writing of all other claims and insurers;
+(4)  Making, or causing to be made, any false or
+fraudulent claim for payment or denial of a health care benefit;
+(5)  Submitting a claim for a health care benefit that
+was not used by, or on behalf of, the claimant;
+(6)  Presenting multiple claims for payment of the
+same health care benefit;
+(7)  Presenting for payment any undercharges for
+health care benefits on behalf of a specific claimant unless any known
+overcharges for health care benefits for that claimant are presented for
+reconciliation at that same time;
+(8)  Misrepresenting or concealing a material fact;
+(9)  Fabricating, altering, concealing, making a false
+entry in, or destroying a document;
+(10)  Making, or causing to be made, any false or
+fraudulent statements with regard to entitlements or benefits, with the intent
+to discourage an injured employee from claiming benefits or pursuing a workers'
+compensation claim; or
+(11)  Making, or causing to be made, any false or
+fraudulent statements or claims by, or on behalf of, a client with regard to
+obtaining legal recovery or benefits.
+(b)  No employer shall wilfully make a false
+statement or representation to avoid the impact of past adverse claims
+experience through change of ownership, control, management, or operation to
+directly obtain any workers' compensation insurance policy.
+(c)  It shall be inappropriate for any
+discussion on benefits, recovery, or settlement to include the threat or
+implication of criminal prosecution.  Any threat or implication shall be
+immediately referred in writing to:
+(1)  The state bar if attorneys are in violation;
+(2)  The insurance commissioner if insurance company
+personnel are in violation; or
+(3)  The regulated industries complaints office if
+health care providers are in violation,
+for investigation and, if appropriate, disciplinary
+action.
+(d)  An offense under subsections (a) and (b)
+shall constitute a:
+(1)  Class C felony if the value of the moneys
+obtained or denied is not less than $2,000;
+(2)  Misdemeanor if the value of the moneys obtained
+or denied is less than $2,000; or
+(3)  Petty misdemeanor if the providing of false
+information did not cause any monetary loss.
+Any person subject to a criminal penalty under
+this section shall be ordered by a court to make restitution to an insurer or
+any other person for any financial loss sustained by the insurer or other
+person caused by the fraudulent act.
+(e)  In lieu of the criminal penalties set
+forth in subsection (d), any person who violates subsections (a) and (b) may be
+subject to the administrative penalties of restitution of benefits or payments
+fraudulently received under this chapter, whether received from an employer,
+insurer, or the special compensation fund, to be made to the source from which
+the compensation was received, and one or more of the following:
+(1)  A fine of no more than $20,000 for each
+violation;
+(2)  Suspension or termination of benefits in whole or
+in part;
+(3)  Suspension or disqualification from providing
+medical care or services, vocational rehabilitation services, and all other
+services rendered for payment under this chapter;
+(4)  Suspension or termination of payments for
+medical, vocational rehabilitation and all other services rendered under this
+chapter;
+(5)  Recoupment by the insurer of all payments made
+for medical care, medical services, vocational rehabilitation services, and all
+other services rendered for payment under this chapter; and
+(6)  Reimbursement of attorney's fees and costs of the
+party or parties defrauded.
+(f)  With respect to the administrative
+penalties set forth in subsection (e), no penalty shall be imposed except upon
+consideration of a written complaint that specifically alleges a violation of
+this section occurring within two years of the date of said complaint.  A copy
+of the complaint specifying the alleged violation shall be served promptly upon
+the person charged.  The director or board shall issue, where a penalty is
+ordered, a written decision stating all findings following a hearing held not
+fewer than twenty days after written notice to the person charged.  Any person
+aggrieved by the decision may appeal the decision under sections 386-87 and
+386-88. [L 1963, c 116, pt of §1; Supp, §97-113; HRS §386-98; am L 1982, c 98,
+§1; am L 1985, c 296, §7; am L 1995, c 234, §16; am L 1996, c 260, §5; am L Sp
+2005, c 11, §11; am L 2020, c 44, §9]
+Case Notes
+A violation of this section, a fraudulent insurance act, must
+be proven by clear and convincing evidence.  113 H. 1, 147 P.3d 785 (2006).
+In the context of subsection (a), for a fraudulent insurance
+act to occur, the &quot;logical result or purpose&quot; of &quot;acts or
+omissions&quot; must be &quot;to obtain benefits&quot;; subsection (a) thus
+does not require that a party actually obtain benefits to be subject to a
+penalty, it only requires that obtaining benefits was the &quot;logical result
+or purpose&quot; of the party's acts or omissions.  113 H. 1, 147 P.3d 785
+(2006).
+Subsection (a)(8) does not require reliance or detrimental
+reliance by any party for a violation of its terms to occur.  113 H. 1, 147
+P.3d 785 (2006).
+Where appellant was subjected to the administrative penalties
+set forth in subsection (e), and not criminal penalties, appellant's arguments
+that this section unconstitutionally delegates the State's police power to
+private parties by permitting such parties to file a complaint were
+unpersuasive.  113 H. 1, 147 P.3d 785 (2006).
+Where six out of seven factors weighed against  concluding
+that the sanction of a fine under subsection (e) was punitive, appellant failed
+to provide the &quot;clearest proof&quot; that the administrative penalties
+imposed pursuant to subsection (e) were criminal and punitive, despite the
+legislature's expressed intent to the contrary.  113 H. 1, 147 P.3d 785 (2006).
+Discussed: 945 F. Supp. 2d 1133 (2013).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_98__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A fraudulent insurance act, under this chapter, shall include acts or
+omissions committed by any person who intentionally or knowingly acts or omits
+to act so as to obtain benefits, deny benefits, obtain benefits compensation
+for services provided, or provides legal assistance or counsel to obtain
+benefits or recovery through fraud or deceit by doing the following:</p>
+            </content>
+            <paragraph eId="386_98__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Presenting, or causing to be presented, any false
+information on an application;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Presenting, or causing to be presented, any false
+or fraudulent claim for the payment of a loss;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Presenting multiple claims for the same loss or
+injury, including presenting multiple claims to more than one insurer except
+when these multiple claims are appropriate and each insurer is notified
+immediately in writing of all other claims and insurers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Making, or causing to be made, any false or
+fraudulent claim for payment or denial of a health care benefit;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Submitting a claim for a health care benefit that
+was not used by, or on behalf of, the claimant;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Presenting multiple claims for payment of the
+same health care benefit;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Presenting for payment any undercharges for
+health care benefits on behalf of a specific claimant unless any known
+overcharges for health care benefits for that claimant are presented for
+reconciliation at that same time;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Misrepresenting or concealing a material fact;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Fabricating, altering, concealing, making a false
+entry in, or destroying a document;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Making, or causing to be made, any false or
+fraudulent statements with regard to entitlements or benefits, with the intent
+to discourage an injured employee from claiming benefits or pursuing a workers'
+compensation claim; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_a__para_11">
+              <num>(11)</num>
+              <content>
+                <p>Making, or causing to be made, any false or
+fraudulent statements or claims by, or on behalf of, a client with regard to
+obtaining legal recovery or benefits.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_98__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No employer shall wilfully make a false
+statement or representation to avoid the impact of past adverse claims
+experience through change of ownership, control, management, or operation to
+directly obtain any workers' compensation insurance policy.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_98__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>It shall be inappropriate for any
+discussion on benefits, recovery, or settlement to include the threat or
+implication of criminal prosecution.  Any threat or implication shall be
+immediately referred in writing to:</p>
+            </content>
+            <paragraph eId="386_98__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The state bar if attorneys are in violation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The insurance commissioner if insurance company
+personnel are in violation; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The regulated industries complaints office if
+health care providers are in violation,
+for investigation and, if appropriate, disciplinary
+action.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_98__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>An offense under subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="386_98__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="386_98__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>shall constitute a:</p>
+            </content>
+            <paragraph eId="386_98__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Class C felony if the value of the moneys
+obtained or denied is not less than $2,000;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Misdemeanor if the value of the moneys obtained
+or denied is less than $2,000; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Petty misdemeanor if the providing of false
+information did not cause any monetary loss.
+Any person subject to a criminal penalty under
+this section shall be ordered by a court to make restitution to an insurer or
+any other person for any financial loss sustained by the insurer or other
+person caused by the fraudulent act.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_98__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>In lieu of the criminal penalties set
+forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="386_98__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="386_98__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>may be
+subject to the administrative penalties of restitution of benefits or payments
+fraudulently received under this chapter, whether received from an employer,
+insurer, or the special compensation fund, to be made to the source from which
+the compensation was received, and one or more of the following:</p>
+            </content>
+            <paragraph eId="386_98__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>A fine of no more than $20,000 for each
+violation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Suspension or termination of benefits in whole or
+in part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Suspension or disqualification from providing
+medical care or services, vocational rehabilitation services, and all other
+services rendered for payment under this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Suspension or termination of payments for
+medical, vocational rehabilitation and all other services rendered under this
+chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Recoupment by the insurer of all payments made
+for medical care, medical services, vocational rehabilitation services, and all
+other services rendered for payment under this chapter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_98__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Reimbursement of attorney's fees and costs of the
+party or parties defrauded.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_98__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>With respect to the administrative
+penalties set forth in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="386_98__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>thus
+does not require that a party actually obtain benefits to be subject to a
+penalty, it only requires that obtaining benefits was the &quot;logical result
+or purpose&quot; of the party's acts or omissions.  113 H. 1, 147 P.3d 785</p>
+            </content>
+            <paragraph eId="386_98__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>does not require reliance or detrimental
+reliance by any party for a violation of its terms to occur.  113 H. 1, 147
+P.3d 785 (2006).
+Where appellant was subjected to the administrative penalties
+set forth in subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_98__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>was punitive, appellant failed
+to provide the &quot;clearest proof&quot; that the administrative penalties
+imposed pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="386_98__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>were criminal and punitive, despite the
+legislature's expressed intent to the contrary.  113 H. 1, 147 P.3d 785 (2006).
+Discussed: 945 F. Supp. 2d 1133 (2013).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

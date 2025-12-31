@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-26"/>
+          <FRBRuri value="/us-hi/act/hrs/237-26"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-26/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-26/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-26/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-26/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_26">
+          <num>237-26</num>
+          <heading>Section 237-26</heading>
+          <content>
+            <p>§237-26  Exemption of certain scientific
+contracts with the United States.
+(a)  Any provision of law to the
+contrary notwithstanding, there shall be exempted from the measure of the taxes
+imposed by chapter 237, all of the gross proceeds derived by a contractor or
+subcontractor arising from the performance of any scientific work as defined in
+subsection (b), under a contract or subcontract entered into with the United
+States (including any agency or instrumentality thereof but not including
+national banks), and all of the gross proceeds derived from the sale of
+tangible personal property by a seller of such tangible personal property to
+such contractor or subcontractor; provided the exemption herein shall apply
+only to such tangible personal property which is to be affixed to, or to become
+a physical, integral part of the scientific facility, or which is to be
+entirely consumed during the performance of the service required by the
+contract or subcontract.
+(b)  For purposes of this section, &quot;scientific
+work&quot; is work involving primarily the research and development for, or the
+design, manufacture, instrumentation, installation, maintenance, or operation
+of aerospace, agricultural, astronomical, biomedical, electronic, geophysical,
+oceanographic, test range, or other scientific facilities.  Maintenance or
+operation, for purposes of this section, shall include housekeeping functions
+in providing certain nonscientific logistic and support services. [L 1965, c
+201, §27; Supp, §117-21.6; HRS §237-26; am L 1970, c 180, §13; am L 1971, c 4,
+§5; am L 1988, c 163, §1]
+Case Notes
+Construed as read before 1970 amendment.  57 H. 253, 554 P.2d
+238 (1976).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="237_26__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any provision of law to the
+contrary notwithstanding, there shall be exempted from the measure of the taxes
+imposed by chapter 237, all of the gross proceeds derived by a contractor or
+subcontractor arising from the performance of any scientific work as defined in
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="237_26__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this section, &quot;scientific
+work&quot; is work involving primarily the research and development for, or the
+design, manufacture, instrumentation, installation, maintenance, or operation
+of aerospace, agricultural, astronomical, biomedical, electronic, geophysical,
+oceanographic, test range, or other scientific facilities.  Maintenance or
+operation, for purposes of this section, shall include housekeeping functions
+in providing certain nonscientific logistic and support services. [L 1965, c
+201, §27; Supp, §117-21.6; HRS §237-26; am L 1970, c 180, §13; am L 1971, c 4,
+§5; am L 1988, c 163, §1]
+Case Notes
+Construed as read before 1970 amendment.  57 H. 253, 554 P.2d
+238 (1976).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

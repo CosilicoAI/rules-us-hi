@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-25"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-25"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-25/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-25/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-25/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-25/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_25">
+          <num>356D-25</num>
+          <heading>Investment of reserves, etc</heading>
+          <content>
+            <p>[§356D-25]  Investment of reserves, etc.
+The authority may invest any funds held in reserves or sinking funds or any
+funds not required for immediate disbursement, including the proceeds of bonds,
+in property or securities in which the director of finance may legally invest,
+as provided in section 36-21; provided that funds held outside the state
+treasury may be invested for terms not to exceed thirty-five years.  No
+provisions with respect to the acquisition, operation, or disposition of
+property by other government agencies shall be applicable to the authority
+unless the legislature shall specifically so state. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-70"/>
+          <FRBRuri value="/us-hi/act/hrs/383-70"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-70/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-70/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-70/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-70/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_70">
+          <num>383-70</num>
+          <heading>Section 383-70</heading>
+          <content>
+            <p>§383-70  Contributions; levy; returns;
+assessments.
+(a)  Contributions are hereby levied against employers as
+provided in this chapter.  Except as may be provided to the contrary in
+accordance with such regulations as the department of labor and industrial
+relations may prescribe, contributions shall be paid quarterly on or before the
+last day of the month succeeding the last month of each quarter.
+(b)  Each employer shall make at the time and
+in the manner prescribed by the department a full, true, and correct report
+with respect to the wages paid by the employer, which report shall contain
+other information as may be prescribed by the department.  For each calendar
+quarter beginning July 1, 1988, such report shall include wage information
+for each employee in accordance with such rules as the department may
+prescribe.  The report shall be made by the employer even though the employer
+is not required to pay contributions.
+(c)  If any return filed is erroneous, or is so
+deficient as not to disclose the full liability, or if the employer disclaims
+liability for contributions with respect to any wages upon which contributions
+are required to be paid, the department shall assess the correct amount of
+contributions and shall notify the employer thereof; and if any employer fails,
+neglects, or refuses to make a return, the department shall proceed as it deems
+best to obtain information on which to base the assessment of contributions and
+shall assess the same and notify the employer thereof.  The amount so assessed
+shall be paid on the twenty-first day after the notice was mailed, properly
+addressed to the employer at the employer's last known place of business.
+(d)  Notices of assessment of contributions,
+records of contributions assessed and payments thereon, and delinquent
+contributions lists showing unpaid contributions assessed against any employer
+shall be prima facie proof of the assessment of the person assessed, the amount
+of contributions due and unpaid, and the delinquency in payment, and that all
+requirements of law in relation to the assessment of the contributions have
+been complied with.
+(e)  If the department determines that any
+reason exists why the collection of any contributions accrued will be
+jeopardized by delaying collection, it may make an immediate assessment thereof
+and the director of labor and industrial relations may proceed to enforce
+collection immediately, but interest shall not begin to accrue upon any
+contributions until the date when such contributions would normally have become
+delinquent. [L 1939, c 219, §7(d); am L 1941, c 304, §1, pt of subs 22; RL
+1945, pt of §4257; am L 1953, c 23, §1(1), (5); RL 1955, §93-69; am L 1957, c
+115, §1(c); am L Sp 1959 2d, c 1, §27; am L 1967, c 19, §1; HRS §383-70; am L
+1969, c 12, §1; gen ch 1985; am L 1986, c 32, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_70__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Contributions are hereby levied against employers as
+provided in this chapter.  Except as may be provided to the contrary in
+accordance with such regulations as the department of labor and industrial
+relations may prescribe, contributions shall be paid quarterly on or before the
+last day of the month succeeding the last month of each quarter.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_70__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each employer shall make at the time and
+in the manner prescribed by the department a full, true, and correct report
+with respect to the wages paid by the employer, which report shall contain
+other information as may be prescribed by the department.  For each calendar
+quarter beginning July 1, 1988, such report shall include wage information
+for each employee in accordance with such rules as the department may
+prescribe.  The report shall be made by the employer even though the employer
+is not required to pay contributions.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_70__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If any return filed is erroneous, or is so
+deficient as not to disclose the full liability, or if the employer disclaims
+liability for contributions with respect to any wages upon which contributions
+are required to be paid, the department shall assess the correct amount of
+contributions and shall notify the employer thereof; and if any employer fails,
+neglects, or refuses to make a return, the department shall proceed as it deems
+best to obtain information on which to base the assessment of contributions and
+shall assess the same and notify the employer thereof.  The amount so assessed
+shall be paid on the twenty-first day after the notice was mailed, properly
+addressed to the employer at the employer's last known place of business.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_70__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Notices of assessment of contributions,
+records of contributions assessed and payments thereon, and delinquent
+contributions lists showing unpaid contributions assessed against any employer
+shall be prima facie proof of the assessment of the person assessed, the amount
+of contributions due and unpaid, and the delinquency in payment, and that all
+requirements of law in relation to the assessment of the contributions have
+been complied with.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_70__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If the department determines that any
+reason exists why the collection of any contributions accrued will be
+jeopardized by delaying collection, it may make an immediate assessment thereof
+and the director of labor and industrial relations may proceed to enforce
+collection immediately, but interest shall not begin to accrue upon any
+contributions until the date when such contributions would normally have become
+delinquent. [L 1939, c 219, §7</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

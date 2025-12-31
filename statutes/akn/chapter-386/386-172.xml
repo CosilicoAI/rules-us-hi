@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-172"/>
+          <FRBRuri value="/us-hi/act/hrs/386-172"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-172/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-172/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-172/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-172/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_172">
+          <num>386-172</num>
+          <heading>Administration and procedure</heading>
+          <content>
+            <p>§386-172  Administration and procedure.
+Section 386-171 shall be administered by the director of labor and industrial
+relations.  Procedure in respect of claims hereunder, including procedure upon
+appeals, shall correspond to the procedure provided under this chapter.  Notice
+of injury shall be given to the head of the department for which the injured
+person is performing service, and the department head shall report the injury
+to the director.  The director may make such rules and regulations as the
+director may deem necessary or convenient for carrying out section 386-171. [L
+1963, c 116, pt of §1; Supp, §97-161; HRS §386-172; gen ch 1985]
+Cross References
+Rulemaking, see chapter 91.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

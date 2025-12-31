@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-16"/>
+          <FRBRuri value="/us-hi/act/hrs/352-16"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-16/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-16/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-16/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-16/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_16">
+          <num>352-16</num>
+          <heading>Establishment of work release</heading>
+          <content>
+            <p>§352-16  Establishment of work release.
+(a)  The director, in accordance with rules and regulations adopted by the
+director, may establish a work release plan for persons who are committed to
+the director's care and who are receiving care and treatment in a youth
+correctional facility; provided that such a plan shall not interfere with any
+educational program in which such persons may be enrolled.
+(b)  Under such a work release plan, any such
+person may be authorized to secure or continue in suitable employment outside
+of such youth correctional facility, and unless otherwise authorized by the
+department with respect to specific cases, return to and remain in such
+facility during non-working hours.
+(c)  Employment under such a work release plan
+may be at a wage less than the minimum wage authorized in chapter 387; provided
+that no more than five hours of a person's workweek shall be paid at wages less
+than the minimum wage.
+(d)  It shall be the duty of the employer of a
+person participating in a work release plan to transmit to the director the
+earnings of such persons.  The transmission to the director of the earnings of
+such person shall operate to discharge such employer from any further
+obligation to such person except with respect to any taxes lawfully withheld
+from the wages of such person.
+(e)  The earnings transmitted to the director
+by a person's employer under a work release plan shall be held to the account
+of such person. [L 1980, c 303, pt of §8(1); am L 1981, c 224, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="352_16__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director, in accordance with rules and regulations adopted by the
+director, may establish a work release plan for persons who are committed to
+the director's care and who are receiving care and treatment in a youth
+correctional facility; provided that such a plan shall not interfere with any
+educational program in which such persons may be enrolled.</p>
+            </content>
+          </subsection>
+          <subsection eId="352_16__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Under such a work release plan, any such
+person may be authorized to secure or continue in suitable employment outside
+of such youth correctional facility, and unless otherwise authorized by the
+department with respect to specific cases, return to and remain in such
+facility during non-working hours.</p>
+            </content>
+          </subsection>
+          <subsection eId="352_16__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Employment under such a work release plan
+may be at a wage less than the minimum wage authorized in chapter 387; provided
+that no more than five hours of a person's workweek shall be paid at wages less
+than the minimum wage.</p>
+            </content>
+          </subsection>
+          <subsection eId="352_16__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>It shall be the duty of the employer of a
+person participating in a work release plan to transmit to the director the
+earnings of such persons.  The transmission to the director of the earnings of
+such person shall operate to discharge such employer from any further
+obligation to such person except with respect to any taxes lawfully withheld
+from the wages of such person.</p>
+            </content>
+          </subsection>
+          <subsection eId="352_16__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The earnings transmitted to the director
+by a person's employer under a work release plan shall be held to the account
+of such person. [L 1980, c 303, pt of §8(1); am L 1981, c 224, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

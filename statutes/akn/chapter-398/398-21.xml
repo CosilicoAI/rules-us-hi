@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/398-21"/>
+          <FRBRuri value="/us-hi/act/hrs/398-21"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/398-21/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/398-21/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/398-21/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/398-21/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_398">
+        <num>Chapter 398</num>
+        <heading>Family Leave</heading>
+        <section eId="sec_398_21">
+          <num>398-21</num>
+          <heading>Filing of complaint</heading>
+          <content>
+            <p>[PART
+II.]  ENFORCEMENT
+[§398-21]  Filing of complaint.
+(a) 
+Any individual claiming to be aggrieved by an alleged unlawful act may file
+with the department a verified complaint in writing.
+(b)  The attorney general or the department, in
+like manner, may file a complaint on behalf of an individual.
+(c)  A complaint may be filed on behalf of a
+class by the attorney general or the department.
+(d)  No complaint shall be filed after the
+expiration of ninety days after the:
+(1)  Date of the alleged unlawful act; or
+(2)  Date of discovery by the employee of the alleged
+unlawful act; however, in no event shall such a complaint be filed after the
+expiration of one hundred eighty days of the alleged unlawful act.
+(e)  After the filing of any complaint, the
+attorney general or the department, as applicable, shall serve a copy of the
+complaint upon the employer. [L 1995, c 154, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="398_21__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any individual claiming to be aggrieved by an alleged unlawful act may file
+with the department a verified complaint in writing.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_21__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The attorney general or the department, in
+like manner, may file a complaint on behalf of an individual.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_21__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A complaint may be filed on behalf of a
+class by the attorney general or the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_21__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>No complaint shall be filed after the
+expiration of ninety days after the:</p>
+            </content>
+            <paragraph eId="398_21__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Date of the alleged unlawful act; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="398_21__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Date of discovery by the employee of the alleged
+unlawful act; however, in no event shall such a complaint be filed after the
+expiration of one hundred eighty days of the alleged unlawful act.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="398_21__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>After the filing of any complaint, the
+attorney general or the department, as applicable, shall serve a copy of the
+complaint upon the employer. [L 1995, c 154, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

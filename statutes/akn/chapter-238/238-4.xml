@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/238-4"/>
+          <FRBRuri value="/us-hi/act/hrs/238-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/238-4/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/238-4/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/238-4/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/238-4/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_238">
+        <num>Chapter 238</num>
+        <heading>Use Tax Law</heading>
+        <section eId="sec_238_4">
+          <num>238-4</num>
+          <heading>Certain property used by producers</heading>
+          <content>
+            <p>§238-4  Certain property used by producers.
+If a licensed producer, or a cooperative association acting under the authority
+of chapter 421 or 422, in order to sell to such producer, or a licensed person,
+imports into the State or acquires in the State commodities, materials, items,
+services, or living things enumerated in section [237-4(a)(3) and (5) to (7)],
+then section 237-4 shall apply.  If section 237-4 applies and the producer is
+engaged in the sale of the producer's products at retail or in any manner other
+than at wholesale, then the tax upon use of property in the State imposed by
+section 238-2(2) shall apply the same as in the case of a purchaser who is a
+licensed retailer.  In other such cases no tax shall be imposed under this
+chapter. [L 1965, c 155, pt of §2; Supp, §119-4; am L 1966, c 28, §6; am L
+1967, c 155, §2; HRS §238-4; am L 1984, c 73, §4]
+Revision Note
+Chapter 422 referred to in text is repealed.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

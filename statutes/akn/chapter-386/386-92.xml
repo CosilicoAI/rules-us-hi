@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-92"/>
+          <FRBRuri value="/us-hi/act/hrs/386-92"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-92/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-92/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-92/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-92/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_92">
+          <num>386-92</num>
+          <heading>Section 386-92</heading>
+          <content>
+            <p>§386-92  Default in payments of
+compensation, penalty.
+If any compensation payable under the terms of a
+final decision or judgment is not paid by a self-insured employer or an
+insurance carrier within thirty-one days after it becomes due, as provided by
+the final decision or judgment, or if any temporary total disability benefits
+are not paid by the employer or carrier within ten days, exclusive of
+Saturdays, Sundays, and holidays, after the employer or carrier has been
+notified of the disability, and where the right to benefits are not
+controverted in the employer's initial report of industrial injury or where
+temporary total disability benefits are terminated in violation of section
+386-31, there shall be added to the unpaid compensation an amount equal to
+twenty per cent thereof payable at the same time as, but in addition to, the
+compensation, unless the nonpayment is excused by the director after a showing
+by the employer or insurance carrier that the payment of the compensation could
+not be made on the date prescribed therefor owing to the conditions over which
+the employer or carrier had no control. [L 1963, c 116, pt of §1; Supp,
+§97-101; HRS §386-92; am L 1971, c 159, §1; am L 1979, c 66, §4; gen ch 1985;
+am L 1995, c 234, §14]
+Case Notes
+Administrative penalties authorized by this section and
+§386-31(b) not intended to provide an injured worker's exclusive remedy for
+injuries resulting from an insurer's tortious delay or termination of
+benefits.  83 H. 457, 927 P.2d 858 (1996).
+Employer was not subject to penalties for failing to make
+immediate payments of temporary total disability even though the claim was not
+controverted in the employer's initial injury report, given that:  (1) employer
+was unable to controvert claimant's shoulder injury in the initial injury
+report because claimant had not complained of any shoulder injury, but employer
+did controvert the shoulder injuries as soon as claimant made those claims; and
+(2) holding that employer had not controverted claimant's shoulder injury for
+purposes of this section merely because employer had not done so in the initial
+injury report would have the effect of allowing employees to subsequently add
+any injuries to their claims and prevent their employers from controverting the
+additional injuries without paying a penalty.  136 H. 448, 363 P.3d 296 (2015).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_92__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>not intended to provide an injured worker's exclusive remedy for
+injuries resulting from an insurer's tortious delay or termination of
+benefits.  83 H. 457, 927 P.2d 858</p>
+            </content>
+            <paragraph eId="386_92__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>employer
+was unable to controvert claimant's shoulder injury in the initial injury
+report because claimant had not complained of any shoulder injury, but employer
+did controvert the shoulder injuries as soon as claimant made those claims; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_92__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>holding that employer had not controverted claimant's shoulder injury for
+purposes of this section merely because employer had not done so in the initial
+injury report would have the effect of allowing employees to subsequently add
+any injuries to their claims and prevent their employers from controverting the
+additional injuries without paying a penalty.  136 H. 448, 363 P.3d 296 (2015).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

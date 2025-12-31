@@ -1,0 +1,321 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-137"/>
+          <FRBRuri value="/us-hi/act/hrs/353-137"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-137/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-137/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-137/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-137/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_137">
+          <num>353-137</num>
+          <heading>Section 353-137</heading>
+          <content>
+            <p>§
+353-137  Automated victim
+information and notification system governance committee.
+(a)  There is
+established within the department of corrections and rehabilitation, an
+automated victim information and notification system governance committee.  The
+members of the governance committee shall be appointed by the director of
+corrections and rehabilitation from a list submitted by the governance
+committee; provided that the initial members of the committee shall be selected
+by the director from a list of members provided by the statewide automated
+victim information and notification governance committee currently serving in
+that capacity under a grant from the federal Bureau of Justice Assistance
+establishing the victim notification system.
+(b)  The terms of the members shall be for four
+years and shall commence on July 1 and expire on June 30; provided that the
+governance committee may elect to reduce the terms of those initially appointed
+so as to provide, as nearly as can be, for the expiration of an equal number of
+terms at intervals of one year.  No person shall be appointed consecutively to
+more than two terms on the governance committee; provided that membership shall
+not exceed eight consecutive years.  Any member whose term has expired and who
+is not disqualified for membership under this subsection may continue in office
+as a holdover member until a successor is nominated and appointed; provided
+that a holdover member shall not hold office beyond the end of the second
+regular legislative session following the expiration of the member's term of
+office.
+(c)  A vacancy occurring in the membership of
+the governance committee during a term shall be filled for the unexpired term
+thereof as provided in subsection (a).  The director of corrections and
+rehabilitation may remove or suspend for cause any member after due notice and
+public hearing.
+(d)  The governance committee members shall
+include:
+(1)  A victim;
+(2)  One representative from a victim assistance
+program in each county;
+(3)  One representative from the police department of
+each county; and
+(4)  One representative from each of the following:
+(A)  Mothers Against Drunk Driving shall be
+requested to serve;
+(B)  The Hawaii State Coalition Against
+Domestic Violence shall be requested to serve;
+(C)  Sex Abuse Treatment Center shall be
+requested to serve;
+(D)  Crime victim compensation commission;
+(E)  The Hawaii paroling authority;
+(F)  The judiciary;
+(G)  The crime prevention and justice
+assistance division of the department of the attorney general; and
+(H)  The information technology section of the
+department.
+The committee members shall elect a member who shall
+serve as the chairperson.
+(e)  The governance committee may advise the
+department on the following issues:
+(1)  The implementation and operation of the system;
+(2)  The establishment of performance measures;
+(3)  Specifications and configuration parameters for
+the operation of the system;
+(4)  Management of the system; and
+(5)  Policies and procedures governing the use of the
+system, including policies to safeguard the safety, confidentiality, and
+autonomy of victims.
+(f)  Meetings of the governance committee shall
+be held on a quarterly basis during the system's first year of implementation
+and no less than twice a year thereafter.
+(g)  The members of the governance committee
+shall serve without compensation but shall be reimbursed for expenses,
+including travel expenses, necessary for the performance of their duties.
+(h)  Members of the governance committee acting
+in good faith and within the scope of their duties under this chapter shall be
+immune from any civil or criminal liability arising from these acts, except
+where the member's conduct would constitute gross negligence, wilful and wanton
+misconduct, or intentional misconduct. [L 2012, c 190, pt of §1; am L 2022, c
+278, §29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_137__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is
+established within the department of corrections and rehabilitation, an
+automated victim information and notification system governance committee.  The
+members of the governance committee shall be appointed by the director of
+corrections and rehabilitation from a list submitted by the governance
+committee; provided that the initial members of the committee shall be selected
+by the director from a list of members provided by the statewide automated
+victim information and notification governance committee currently serving in
+that capacity under a grant from the federal Bureau of Justice Assistance
+establishing the victim notification system.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_137__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The terms of the members shall be for four
+years and shall commence on July 1 and expire on June 30; provided that the
+governance committee may elect to reduce the terms of those initially appointed
+so as to provide, as nearly as can be, for the expiration of an equal number of
+terms at intervals of one year.  No person shall be appointed consecutively to
+more than two terms on the governance committee; provided that membership shall
+not exceed eight consecutive years.  Any member whose term has expired and who
+is not disqualified for membership under this subsection may continue in office
+as a holdover member until a successor is nominated and appointed; provided
+that a holdover member shall not hold office beyond the end of the second
+regular legislative session following the expiration of the member's term of
+office.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_137__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A vacancy occurring in the membership of
+the governance committee during a term shall be filled for the unexpired term
+thereof as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="353_137__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The governance committee members shall
+include:</p>
+            </content>
+            <paragraph eId="353_137__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>A victim;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_137__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>One representative from a victim assistance
+program in each county;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_137__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>One representative from the police department of
+each county; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_137__subsec_d__para_4">
+              <num>(4)</num>
+              <content>
+                <p>One representative from each of the following:</p>
+              </content>
+              <subparagraph eId="353_137__subsec_d__para_4__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Mothers Against Drunk Driving shall be
+requested to serve;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_137__subsec_d__para_4__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The Hawaii State Coalition Against
+Domestic Violence shall be requested to serve;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_137__subsec_d__para_4__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Sex Abuse Treatment Center shall be
+requested to serve;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_137__subsec_d__para_4__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>Crime victim compensation commission;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_137__subsec_d__para_4__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>The Hawaii paroling authority;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_137__subsec_d__para_4__subpara_F">
+                <num>(F)</num>
+                <content>
+                  <p>The judiciary;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_137__subsec_d__para_4__subpara_G">
+                <num>(G)</num>
+                <content>
+                  <p>The crime prevention and justice
+assistance division of the department of the attorney general; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_137__subsec_d__para_4__subpara_H">
+                <num>(H)</num>
+                <content>
+                  <p>The information technology section of the
+department.
+The committee members shall elect a member who shall
+serve as the chairperson.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="353_137__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The governance committee may advise the
+department on the following issues:</p>
+            </content>
+            <paragraph eId="353_137__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The implementation and operation of the system;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_137__subsec_e__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The establishment of performance measures;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_137__subsec_e__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Specifications and configuration parameters for
+the operation of the system;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_137__subsec_e__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Management of the system; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_137__subsec_e__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Policies and procedures governing the use of the
+system, including policies to safeguard the safety, confidentiality, and
+autonomy of victims.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="353_137__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Meetings of the governance committee shall
+be held on a quarterly basis during the system's first year of implementation
+and no less than twice a year thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_137__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The members of the governance committee
+shall serve without compensation but shall be reimbursed for expenses,
+including travel expenses, necessary for the performance of their duties.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_137__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Members of the governance committee acting
+in good faith and within the scope of their duties under this chapter shall be
+immune from any civil or criminal liability arising from these acts, except
+where the member's conduct would constitute gross negligence, wilful and wanton
+misconduct, or intentional misconduct. [L 2012, c 190, pt of §1; am L 2022, c
+278, §29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

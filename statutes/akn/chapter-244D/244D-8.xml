@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/244D-8"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/244D-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/244D-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_244D">
+        <num>Chapter 244D</num>
+        <heading>Liquor Tax</heading>
+        <section eId="sec_244D_8">
+          <num>244D-8</num>
+          <heading>Section 244D-8</heading>
+          <content>
+            <p>[§244D-8]  Determination of tax, additional
+assessments, credit, and refunds.
+(a)  As soon as practicable after each
+return has been filed, the department of taxation shall cause it to be examined
+and shall compute and determine the amount of the tax payable thereon.
+(b)  If it should appear upon such examination
+or thereafter within five years after the filing of the return, or at any time
+if no return has been filed, as a result of such examination or as a result of
+any examination of the records of the taxpayer or of any other inquiry or
+investigation, that the correct amount of the tax is greater than that shown on
+the return, or that any tax imposed by the chapter has not been paid, an
+assessment of such tax may be made in the manner provided in section 235-108(b). 
+The amount of the tax for the period covered by the assessment shall not be
+reduced below the amount determined by an assessment so made, except upon
+appeal or in a proceeding brought pursuant to section 40-35.
+(c)  If the taxpayer has paid or returned with
+respect to any month more than the amount determined to be the correct amount
+of tax for such month, the amount of the tax so returned and any assessment of
+tax made pursuant to the return may be reduced, and any overpayment of tax may
+be credited upon the tax imposed by this chapter, or at the election of the
+taxpayer, the taxpayer not being delinquent in the payment of any taxes owing
+to the State, may be refunded in the manner provided in section 231-23(c);
+provided that no reduction of tax may be made when forbidden by subsection (b)
+or more than five years after the filing of the return. [L Sp 1984 1st, c 1, pt
+of §2; gen ch 1985]
+Revision Note
+In subsection (c), &quot;231-23(c)&quot; substituted for &quot;231-23(d)&quot;
+pursuant to §23G-15.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="244D_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As soon as practicable after each
+return has been filed, the department of taxation shall cause it to be examined
+and shall compute and determine the amount of the tax payable thereon.</p>
+            </content>
+          </subsection>
+          <subsection eId="244D_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If it should appear upon such examination
+or thereafter within five years after the filing of the return, or at any time
+if no return has been filed, as a result of such examination or as a result of
+any examination of the records of the taxpayer or of any other inquiry or
+investigation, that the correct amount of the tax is greater than that shown on
+the return, or that any tax imposed by the chapter has not been paid, an
+assessment of such tax may be made in the manner provided in section 235-108</p>
+            </content>
+          </subsection>
+          <subsection eId="244D_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the taxpayer has paid or returned with
+respect to any month more than the amount determined to be the correct amount
+of tax for such month, the amount of the tax so returned and any assessment of
+tax made pursuant to the return may be reduced, and any overpayment of tax may
+be credited upon the tax imposed by this chapter, or at the election of the
+taxpayer, the taxpayer not being delinquent in the payment of any taxes owing
+to the State, may be refunded in the manner provided in section 231-23</p>
+            </content>
+          </subsection>
+          <subsection eId="244D_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>or more than five years after the filing of the return. [L Sp 1984 1st, c 1, pt
+of §2; gen ch 1985]
+Revision Note
+In subsection</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

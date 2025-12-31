@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-192"/>
+          <FRBRuri value="/us-hi/act/hrs/386-192"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-192/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-192/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-192/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-192/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_192">
+          <num>386-192</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>§386-192  Definitions.
+For the purpose
+of this part:
+&quot;Administrator&quot; means an individual,
+partnership, or corporation engaged by a workers' compensation self-insurance
+group's board of trustees to carry out the policies established by the group's
+board of trustees and to provide day-to-day management of the group.
+&quot;Insolvent&quot; or &quot;insolvency&quot;
+means the inability of a workers' compensation self-insurance group to pay its
+outstanding lawful obligations as they mature in the regular course of
+business, as may be shown either by an excess of its required reserves and
+other liabilities over its assets or by its not having sufficient assets to
+reinsure all of its outstanding liabilities after paying all accrued claims
+owed by it.
+&quot;Net premium&quot; means premium derived
+from standard premium adjusted by any advance premium discounts.
+&quot;Service company&quot; means a person or
+entity which provides services which are not provided by the administrator. 
+The services which may be provided by a service company include but are not
+limited to:
+(1)  Claims adjustment;
+(2)  Safety engineering;
+(3)  Compilation of statistics and the preparation of
+premium, loss, and tax reports;
+(4)  Preparation of other required self-insurance
+reports;
+(5)  Development of members' assessments and fees; and
+(6)  Administration of a claims fund account.
+&quot;Standard premium&quot; means the premium
+derived from the manual rates adjusted by experience modification factors but
+before advance premium discounts.
+&quot;Workers' compensation self-insurance
+group&quot; or &quot;group&quot; means a not-for-profit unincorporated
+association consisting of five or more employers who:
+(1)  Are engaged in the same or similar type of
+business;
+(2)  Are members of the same bona fide trade or
+professional association which has been in existence for not less than five
+years; and
+(3)  Enter into agreements to pool their liabilities
+for workers' compensation benefits in this State. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

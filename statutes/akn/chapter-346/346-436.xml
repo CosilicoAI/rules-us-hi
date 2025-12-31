@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-436"/>
+          <FRBRuri value="/us-hi/act/hrs/346-436"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-436/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-436/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-436/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-436/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_436">
+          <num>346-436</num>
+          <heading>Section 346-436</heading>
+          <content>
+            <p>[
+§346-436]  State of well-being
+project; established.
+[Section effective July 1, 2025.]
+(a)  There
+is established within the office the state of well-being project to assess and
+enhance tier 1 and tier 2 mental health support services for key stakeholder
+communities across the State.  The project shall:
+(1)  Assess and enhance existing tier 1 and tier 2
+mental health support training and ongoing support services to public schools,
+public community centers, first responder groups, police departments, fire
+departments, hospitals, and medical staff and, when non-existent, build out
+culturally grounded and community-informed well-being programming;
+(2)  Track and measure aggregate mental health trends
+across all populations served by the project; and
+(3)  Hire and train mental health specialists and work
+with approved partner organizations identified by the office to lead project
+execution across tier 1 and tier 2 mental health support services in each key
+stakeholder community.
+(b)  The office shall administer the state of
+well-being project in accordance with the following timeline:
+(1)  Beginning in 2024, initiate a landscape
+assessment of existing tier 1 and tier 2 mental health support services by
+December 31, 2025; and
+(2)  Beginning in 2025, initiate the enhancement of
+existing tier 1 and tier 2 mental health support services and, when
+non-existent, build out culturally grounded and community-informed well-being
+programming, with statewide implementation to be achieved by December 31, 2027.
+(c)  For the purposes of this section:
+&quot;Tier 1 mental health support&quot; means
+well-being service provisions that are aimed at the entire system and
+population within an organization.
+&quot;Tier 2 mental health support&quot; means
+well-being service provisions that are aimed at populations within an
+organization that are at higher risk of mental health challenges. [L 2024, c
+106, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_436__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There
+is established within the office the state of well-being project to assess and
+enhance tier 1 and tier 2 mental health support services for key stakeholder
+communities across the State.  The project shall:</p>
+            </content>
+            <paragraph eId="346_436__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Assess and enhance existing tier 1 and tier 2
+mental health support training and ongoing support services to public schools,
+public community centers, first responder groups, police departments, fire
+departments, hospitals, and medical staff and, when non-existent, build out
+culturally grounded and community-informed well-being programming;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_436__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Track and measure aggregate mental health trends
+across all populations served by the project; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_436__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Hire and train mental health specialists and work
+with approved partner organizations identified by the office to lead project
+execution across tier 1 and tier 2 mental health support services in each key
+stakeholder community.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_436__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The office shall administer the state of
+well-being project in accordance with the following timeline:</p>
+            </content>
+            <paragraph eId="346_436__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Beginning in 2024, initiate a landscape
+assessment of existing tier 1 and tier 2 mental health support services by
+December 31, 2025; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_436__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Beginning in 2025, initiate the enhancement of
+existing tier 1 and tier 2 mental health support services and, when
+non-existent, build out culturally grounded and community-informed well-being
+programming, with statewide implementation to be achieved by December 31, 2027.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_436__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the purposes of this section:
+&quot;Tier 1 mental health support&quot; means
+well-being service provisions that are aimed at the entire system and
+population within an organization.
+&quot;Tier 2 mental health support&quot; means
+well-being service provisions that are aimed at populations within an
+organization that are at higher risk of mental health challenges. [L 2024, c
+106, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-261"/>
+          <FRBRuri value="/us-hi/act/hrs/346-261"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-261/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-261/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-261/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-261/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_261">
+          <num>346-261</num>
+          <heading>Section 346-261</heading>
+          <content>
+            <p>PART XI. 
+FIRST-TO-WORK PROGRAM
+Note
+Part heading amended by L 2008, c 88, pt of §1.
+§346-261  First-To-Work; establishment;
+purpose.
+(a)  There is established a mandatory work program for certain
+applicants and recipients of temporary assistance for needy families and
+temporary assistance for other needy families consistent with federal
+regulations and requirements under title IV, part A of the Social Security Act,
+title 42 United States Code section 601 et seq.  The purposes of the
+first-to-work program shall be to encourage, assist, and require temporary
+assistance for needy families and temporary assistance for other needy families
+applicants and recipients to fulfill their responsibilities to support their
+children by preparing for, accepting, and retaining employment.  The department
+shall adopt rules consistent with the requirements of title IV, part A of the
+Social Security Act, title 42 United States Code section 601 et seq., and in
+accordance with chapter 91 for the purposes of this part.
+(b)  The department may provide housing
+assistance subsidies of up to $500 per month to eligible households receiving
+benefits under the temporary assistance for needy families or temporary
+assistance for other needy families programs during the household's
+participation in the first-to-work program.  Any plan developed pursuant to
+section 346-51.5 for expenditure of temporary assistance for needy families
+funds shall be updated to account for expenditures for housing assistance
+subsidies.  The expenditure of funds for the administration of housing
+assistance subsidies shall be exempt from chapters 103D and 103F. [L 1990, c
+321, pt of §1; am L 2008, c 88, pt of §1; am L 2022, c 237, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_261__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established a mandatory work program for certain
+applicants and recipients of temporary assistance for needy families and
+temporary assistance for other needy families consistent with federal
+regulations and requirements under title IV, part A of the Social Security Act,
+title 42 United States Code section 601 et seq.  The purposes of the
+first-to-work program shall be to encourage, assist, and require temporary
+assistance for needy families and temporary assistance for other needy families
+applicants and recipients to fulfill their responsibilities to support their
+children by preparing for, accepting, and retaining employment.  The department
+shall adopt rules consistent with the requirements of title IV, part A of the
+Social Security Act, title 42 United States Code section 601 et seq., and in
+accordance with chapter 91 for the purposes of this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_261__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may provide housing
+assistance subsidies of up to $500 per month to eligible households receiving
+benefits under the temporary assistance for needy families or temporary
+assistance for other needy families programs during the household's
+participation in the first-to-work program.  Any plan developed pursuant to
+section 346-51.5 for expenditure of temporary assistance for needy families
+funds shall be updated to account for expenditures for housing assistance
+subsidies.  The expenditure of funds for the administration of housing
+assistance subsidies shall be exempt from chapters 103D and 103F. [L 1990, c
+321, pt of §1; am L 2008, c 88, pt of §1; am L 2022, c 237, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

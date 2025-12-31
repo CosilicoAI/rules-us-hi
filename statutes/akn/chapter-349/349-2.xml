@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-2"/>
+          <FRBRuri value="/us-hi/act/hrs/349-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_2">
+          <num>349-2</num>
+          <heading>Section 349-2</heading>
+          <content>
+            <p>§349-2  Executive office on aging;
+appointments.
+(a)  There is established within the department of health,
+for administrative purposes only, an executive office on aging.
+(b)  The head of this office shall be known as
+the director of the executive office on aging, hereinafter referred to as
+director.  The director shall have professional training in the field of social
+work, education, public health, and other related fields; extensive direct
+experience in programs or services related to elders; and recent experience in
+a supervisory, consultative, or administrative position.  The director shall be
+nominated and appointed by the governor without regard to chapters 76 and 89. 
+Effective July 1, 2005, the director shall be paid a salary set by the
+appointing authority that shall not exceed sixty-nine per cent of the salary of
+the director of human resources development.  The director shall be included in
+any benefit program generally applicable to the officers and employees of the
+State. [L 1976, c 217, pt of §2; am L 1982, c 129, §12; am L 1986, c 128, §11;
+am L 1989, c 329, §9; am L 1990, c 67, §8; am L 2002, c 148, §39; am L 2003, c
+204, §1; am L 2005, c 226, §9]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the department of health,
+for administrative purposes only, an executive office on aging.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The head of this office shall be known as
+the director of the executive office on aging, hereinafter referred to as
+director.  The director shall have professional training in the field of social
+work, education, public health, and other related fields; extensive direct
+experience in programs or services related to elders; and recent experience in
+a supervisory, consultative, or administrative position.  The director shall be
+nominated and appointed by the governor without regard to chapters 76 and 89. 
+Effective July 1, 2005, the director shall be paid a salary set by the
+appointing authority that shall not exceed sixty-nine per cent of the salary of
+the director of human resources development.  The director shall be included in
+any benefit program generally applicable to the officers and employees of the
+State. [L 1976, c 217, pt of §2; am L 1982, c 129, §12; am L 1986, c 128, §11;
+am L 1989, c 329, §9; am L 1990, c 67, §8; am L 2002, c 148, §39; am L 2003, c
+204, §1; am L 2005, c 226, §9]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

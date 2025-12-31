@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-6"/>
+          <FRBRuri value="/us-hi/act/hrs/392-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_6">
+          <num>392-6</num>
+          <heading>Individual in current employment</heading>
+          <content>
+            <p>§392-6  Individual in current employment.
+&quot;Individual in current employment&quot; means:
+(1)  An individual who performed regular service in
+employment immediately or not longer than two weeks prior to the onset of the
+sickness or to the accident causing disability and who would have continued in
+or resumed employment except for such disability.
+(2)  An individual who performed regular service in
+employment immediately or not longer than two weeks prior to becoming totally
+disabled from performing the duties of her employment because of pregnancy or
+termination of pregnancy and who would have continued in or resumed such
+employment except for such disability. [L 1969, c 148, pt of §1; am L 1973, c
+61, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

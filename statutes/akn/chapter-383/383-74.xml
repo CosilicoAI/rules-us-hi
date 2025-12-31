@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-74"/>
+          <FRBRuri value="/us-hi/act/hrs/383-74"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-74/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-74/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-74/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-74/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_74">
+          <num>383-74</num>
+          <heading>Section 383-74</heading>
+          <content>
+            <p>§383-74  Appeal; correction of assessment or
+contributions.
+Any person aggrieved by any assessment of a contribution or
+a penalty or contributions assessed pursuant to this chapter, having paid the
+contribution or penalty, may appeal from the assessment by filing a written
+notice of appeal with the department within twenty days after the date of
+mailing of the notice of assessment to the person's last known address.  The
+appeal shall be heard by the referee in accordance with applicable provisions
+of sections 383-38 and 383-39.  Any amount determined to have been erroneously
+paid as a result of the final determination of the appeal in favor of the
+employing unit, or as a result of a final judgment for the employing unit in an
+action brought pursuant to section 40-35, shall be refunded, without interest
+and without the addition of any other charges, in the same manner as other
+refunds under this chapter.  Notwithstanding any other provisions of law to the
+contrary, any amount which is paid under protest or which is covered by any
+appeal or action referred to in this section shall not be held as a special
+deposit, but the amount shall in all respects be subject to sections 383-122
+and 383-127 to the same effect as though the amount had not been paid under
+protest and was not covered by the appeal or action. [L 1939, c 219, §7(g); am
+L 1941, c 304, §1, subs 25; RL 1945, §4260; RL 1955, §93-73; am L Sp 1957, c 1,
+§29; am L Sp 1959 2d, c 1, §§14, 27; am L 1963, c 114, §1; HRS §383-74; am L
+1969, c 129, §1; gen ch 1985; am L 1987, c 119, §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

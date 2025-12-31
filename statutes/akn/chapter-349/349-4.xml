@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-4"/>
+          <FRBRuri value="/us-hi/act/hrs/349-4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-4/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-4/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-4/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-4/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_4">
+          <num>349-4</num>
+          <heading>Section 349-4</heading>
+          <content>
+            <p>§349-4  Policy advisory board for elder
+affairs; lifetime honorary kupuna.
+(a)  There shall be a policy advisory
+board for elder affairs, appointed by the governor under section 26-34.  The
+board shall advise the director in but not limited to the following areas:
+(1)  The identification of issues and alternative
+approaches to solutions;
+(2)  The development of position statements and
+papers;
+(3)  Advocacy and legislative actions; and
+(4)  Program development and operations.
+The board shall consist of not less than fifteen nor
+more than twenty-one members, a majority of whom are over sixty years of age
+and who shall be selected on the basis of their interests and knowledge in and
+their ability to make contributions to the solution of problems relating to
+aging, and shall include at least one member from the county of Hawaii, one
+member from the county of Maui, one member from the county of Kauai, and one
+member from the city and county of Honolulu.  There may be up to ten members
+who shall serve as ex officio[,] nonvoting members and may consist of the heads
+of the following agencies that provide services or programs affecting elders: 
+health, human services, education, labor and industrial relations, commerce and
+consumer affairs, University of Hawaii, transportation, the state retirement
+system, and, by invitation, the Hawaii representatives of the United States
+Department of Health and Human Services and the Social Security
+Administration.  Ex officio members may delegate their board responsibilities
+to another member of their agency.  Of the non ex officio members, one-third of
+the members shall be appointed for the term of four years, one-third for the
+term of three years, and one-third for the term of two years; and thereafter
+the terms of office of each member shall be four years.  The members shall
+serve without compensation, but shall be paid their necessary expenses in
+attending meetings and carrying out the responsibilities of the board.  The
+chairperson shall be elected annually from the nongovernmental members of the
+board.  There shall be not less than twelve meetings of the board each year. 
+Quorum shall be a majority of the currently serving members, but in no event
+fewer than eight members shall constitute a quorum.
+(b)  The policy advisory board for elder
+affairs may honor a non ex officio member by voting to award the member a
+lifetime honorary kupuna title at a meeting called for the purpose and attended
+by a quorum.  The governor:
+(1)  Shall take into consideration a person's receipt
+of a lifetime honorary kupuna title when considering the person's reappointment
+to the board; and
+(2)  Notwithstanding section 26-34, may reappoint a
+person who holds the lifetime honorary kupuna title for continued terms over
+the person's lifetime. [L 1976, c 217, pt of §2; am L 1979, c 136, §1(1); am L
+1987, c 339, §4; am L 1990, c 67, §8; gen ch 1993; am L 2013, c 8, §1; am L
+2018, c 134, §2; am L 2019, c 125, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be a policy advisory
+board for elder affairs, appointed by the governor under section 26-34.  The
+board shall advise the director in but not limited to the following areas:</p>
+            </content>
+            <paragraph eId="349_4__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The identification of issues and alternative
+approaches to solutions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_4__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The development of position statements and
+papers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_4__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Advocacy and legislative actions; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_4__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Program development and operations.
+The board shall consist of not less than fifteen nor
+more than twenty-one members, a majority of whom are over sixty years of age
+and who shall be selected on the basis of their interests and knowledge in and
+their ability to make contributions to the solution of problems relating to
+aging, and shall include at least one member from the county of Hawaii, one
+member from the county of Maui, one member from the county of Kauai, and one
+member from the city and county of Honolulu.  There may be up to ten members
+who shall serve as ex officio[,] nonvoting members and may consist of the heads
+of the following agencies that provide services or programs affecting elders: 
+health, human services, education, labor and industrial relations, commerce and
+consumer affairs, University of Hawaii, transportation, the state retirement
+system, and, by invitation, the Hawaii representatives of the United States
+Department of Health and Human Services and the Social Security
+Administration.  Ex officio members may delegate their board responsibilities
+to another member of their agency.  Of the non ex officio members, one-third of
+the members shall be appointed for the term of four years, one-third for the
+term of three years, and one-third for the term of two years; and thereafter
+the terms of office of each member shall be four years.  The members shall
+serve without compensation, but shall be paid their necessary expenses in
+attending meetings and carrying out the responsibilities of the board.  The
+chairperson shall be elected annually from the nongovernmental members of the
+board.  There shall be not less than twelve meetings of the board each year. 
+Quorum shall be a majority of the currently serving members, but in no event
+fewer than eight members shall constitute a quorum.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The policy advisory board for elder
+affairs may honor a non ex officio member by voting to award the member a
+lifetime honorary kupuna title at a meeting called for the purpose and attended
+by a quorum.  The governor:</p>
+            </content>
+            <paragraph eId="349_4__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Shall take into consideration a person's receipt
+of a lifetime honorary kupuna title when considering the person's reappointment
+to the board; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_4__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding section 26-34, may reappoint a
+person who holds the lifetime honorary kupuna title for continued terms over
+the person's lifetime. [L 1976, c 217, pt of §2; am L 1979, c 136, §1(1); am L
+1987, c 339, §4; am L 1990, c 67, §8; gen ch 1993; am L 2013, c 8, §1; am L
+2018, c 134, §2; am L 2019, c 125, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-95"/>
+          <FRBRuri value="/us-hi/act/hrs/383-95"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-95/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-95/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-95/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-95/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_95">
+          <num>383-95</num>
+          <heading>Disclosure of information</heading>
+          <content>
+            <p>§383-95  Disclosure of information.
+(a) 
+Except as otherwise provided in this chapter, information obtained from any
+employing unit or individual pursuant to the administration of this chapter and
+determinations as to the benefit rights of any individual shall be held
+confidential and shall not be disclosed or be open to public inspection in any
+manner revealing the individual's or employing unit's identity.  Any claimant
+(or the claimant's legal representative) shall be supplied with information
+from the records of the department to the extent necessary for the proper
+presentation of the claimant's claim in any proceeding under this chapter. 
+Subject to restrictions as the director may by rule prescribe, reimbursement of
+costs to the department incurred in furnishing the information, and the
+establishment of all safeguards as are necessary to ensure that information
+furnished by the department is used only for authorized purposes, the
+information and determinations may be made available to:
+(1)  Any federal or state agency
+charged with the administration of an unemployment compensation law or the
+maintenance of a system of public employment offices;
+(2)  The Internal Revenue Service
+of the United States Department of the Treasury;
+(3)  Any federal, state, or
+municipal agency charged with the administration of a fair employment practice
+or anti-discrimination law;
+(4)  Any other federal, state, or
+municipal agency if the director deems that the disclosure to the agency serves
+the public interest; and
+(5)  Any federal, state, or municipal agency if the
+disclosure is authorized under section 303 of the Social Security Act and
+section 3304 of the Internal Revenue Code of 1986, as amended.
+(b)  Information obtained in connection with
+the administration of the employment service may be made available to persons
+or agencies for purposes appropriate to the operation of a public employment
+service.
+(c)  Upon requests therefor the department
+shall furnish to any agency of the United States charged with the
+administration of public works or assistance through public employment, and may
+furnish to any state agency similarly charged, the name, address, ordinary
+occupation and employment status of each recipient of benefits and the
+recipient's rights to further benefits under this chapter.
+(d)  The department may request the Comptroller
+of the Currency of the United States to cause an examination of the correctness
+of any return or report of any national banking association rendered pursuant
+to this chapter, and may in connection with the request transmit any of the
+report or return to the Comptroller of the Currency of the United States as
+provided in section 3305(c) of the federal Internal Revenue Code. [L 1939, c
+219, §10(g); am L 1941, c 304, §1, pt of subs 32; RL 1945, §4274; RL 1955,
+§93-94; am L Sp 1959 2d, c 1, §27; HRS §383-95; am L 1969, c 16, §1; gen ch
+1985; am L 1997, c 172, §3; am L 2015, c 35, §14]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_95__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided in this chapter, information obtained from any
+employing unit or individual pursuant to the administration of this chapter and
+determinations as to the benefit rights of any individual shall be held
+confidential and shall not be disclosed or be open to public inspection in any
+manner revealing the individual's or employing unit's identity.  Any claimant
+(or the claimant's legal representative) shall be supplied with information
+from the records of the department to the extent necessary for the proper
+presentation of the claimant's claim in any proceeding under this chapter. 
+Subject to restrictions as the director may by rule prescribe, reimbursement of
+costs to the department incurred in furnishing the information, and the
+establishment of all safeguards as are necessary to ensure that information
+furnished by the department is used only for authorized purposes, the
+information and determinations may be made available to:</p>
+            </content>
+            <paragraph eId="383_95__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Any federal or state agency
+charged with the administration of an unemployment compensation law or the
+maintenance of a system of public employment offices;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_95__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The Internal Revenue Service
+of the United States Department of the Treasury;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_95__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Any federal, state, or
+municipal agency charged with the administration of a fair employment practice
+or anti-discrimination law;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_95__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Any other federal, state, or
+municipal agency if the director deems that the disclosure to the agency serves
+the public interest; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_95__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Any federal, state, or municipal agency if the
+disclosure is authorized under section 303 of the Social Security Act and
+section 3304 of the Internal Revenue Code of 1986, as amended.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_95__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Information obtained in connection with
+the administration of the employment service may be made available to persons
+or agencies for purposes appropriate to the operation of a public employment
+service.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_95__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Upon requests therefor the department
+shall furnish to any agency of the United States charged with the
+administration of public works or assistance through public employment, and may
+furnish to any state agency similarly charged, the name, address, ordinary
+occupation and employment status of each recipient of benefits and the
+recipient's rights to further benefits under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="383_95__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department may request the Comptroller
+of the Currency of the United States to cause an examination of the correctness
+of any return or report of any national banking association rendered pursuant
+to this chapter, and may in connection with the request transmit any of the
+report or return to the Comptroller of the Currency of the United States as
+provided in section 3305</p>
+            </content>
+          </subsection>
+          <subsection eId="383_95__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the federal Internal Revenue Code. [L 1939, c
+219, §10</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/347-2.5"/>
+          <FRBRuri value="/us-hi/act/hrs/347-2.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/347-2.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/347-2.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/347-2.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/347-2.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_347">
+        <num>Chapter 347</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_347_2_5">
+          <num>347-2.5</num>
+          <heading>Section 347-2.5</heading>
+          <content>
+            <p>§347-2  Blind, defined.
+The term
+&quot;blind&quot; as used in this chapter, whether used as an adjective or
+noun, means blind or visually handicapped. [L 1947, c 108, §1; RL 1955, §109-5;
+am L 1959, c 246, §3; am L 1961, c 177, §1; HRS §347-2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

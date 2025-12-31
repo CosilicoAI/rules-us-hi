@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-36"/>
+          <FRBRuri value="/us-hi/act/hrs/383-36"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-36/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-36/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-36/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-36/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_36">
+          <num>383-36</num>
+          <heading>Notice of determinations</heading>
+          <content>
+            <p>§383-36  Notice of determinations.
+Notice of a determination or redetermination upon a claim shall be promptly
+given to the claimant, by delivery thereof or by mailing the notice to the
+claimant's last known address.  In addition, notice of a determination or
+redetermination with respect to the first week of a benefit year shall be given
+to each employer by whom the claimant was employed during the claimant's base
+period, and to the last employing unit by whom the claimant was employed, and
+notice of any determination or redetermination which involves the application
+of section 383-30 shall be given to the last employing unit by whom the
+claimant was employed, in every case by delivery thereof to such party or by
+mailing the notice to the party's last known address. [L 1941, c 304, §1, pt of
+subs 18; RL 1945, §4237; am L 1953, c 22, §1(5); RL 1955, §93-35; HRS §383-36;
+gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

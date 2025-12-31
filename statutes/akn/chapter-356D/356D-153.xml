@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-153"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-153"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-153/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-153/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-153/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-153/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_153">
+          <num>356D-153</num>
+          <heading>Section 356D-153</heading>
+          <content>
+            <p>§356D-153  Qualified tenant defined;
+preference.
+(a)  As used in this part, &quot;qualified tenant&quot; means
+any single person or family, pursuant to criteria and procedures established by
+the authority, who has been determined to have an income not exceeding the
+income limit as determined by the authority pursuant to rules adopted by the
+authority; provided that the income limit shall not exceed ninety‑five per cent
+of the annual median income as determined by the United States Department of
+Housing and Urban Development; provided further that the qualified tenant's
+primary place of residence shall be in the State or the qualified tenant
+intends to make the State the qualified tenant's primary place of residence. 
+The terms &quot;qualified tenant&quot; and &quot;tenant&quot; shall include a
+person or family who satisfies the foregoing requirements and is a member of a
+cooperative who, upon resale of the member's membership to the cooperative,
+will not be reimbursed for more than fifty per cent of any equity increment
+accumulated through payments under this part.
+With respect to members of a cooperative, as
+used in this part, the terms &quot;rental&quot; and &quot;rental charges&quot;
+mean the charges under the occupancy agreements between the members and the
+cooperative.
+(b)  The authority shall give preference to
+qualified tenants with incomes at or below eighty per cent of the annual median
+income as determined by the United States Department of Housing and Urban
+Development. [L 2006, c 180, pt of §2; am L 2007, c 223, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_153__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As used in this part, &quot;qualified tenant&quot; means
+any single person or family, pursuant to criteria and procedures established by
+the authority, who has been determined to have an income not exceeding the
+income limit as determined by the authority pursuant to rules adopted by the
+authority; provided that the income limit shall not exceed ninety‑five per cent
+of the annual median income as determined by the United States Department of
+Housing and Urban Development; provided further that the qualified tenant's
+primary place of residence shall be in the State or the qualified tenant
+intends to make the State the qualified tenant's primary place of residence. 
+The terms &quot;qualified tenant&quot; and &quot;tenant&quot; shall include a
+person or family who satisfies the foregoing requirements and is a member of a
+cooperative who, upon resale of the member's membership to the cooperative,
+will not be reimbursed for more than fifty per cent of any equity increment
+accumulated through payments under this part.
+With respect to members of a cooperative, as
+used in this part, the terms &quot;rental&quot; and &quot;rental charges&quot;
+mean the charges under the occupancy agreements between the members and the
+cooperative.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_153__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The authority shall give preference to
+qualified tenants with incomes at or below eighty per cent of the annual median
+income as determined by the United States Department of Housing and Urban
+Development. [L 2006, c 180, pt of §2; am L 2007, c 223, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

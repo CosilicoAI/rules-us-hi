@@ -1,0 +1,500 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/383-168"/>
+          <FRBRuri value="/us-hi/act/hrs/383-168"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/383-168/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/383-168/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/383-168/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/383-168/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_383">
+        <num>Chapter 383</num>
+        <heading>Hawaii Employment Security Law</heading>
+        <section eId="sec_383_168">
+          <num>383-168</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>§383-168  Definitions.
+As used in this
+part, unless the context clearly requires otherwise:
+(1)  &quot;Extended benefit period&quot; means a
+period which:
+(A)  Begins with the third week after the
+first week for which there is a state &quot;on&quot; indicator; and
+(B)  Ends with either of the following weeks,
+whichever occurs later:
+(i)  The third week after the first week for
+which there is a state &quot;off&quot; indicator; or
+(ii)  The thirteenth consecutive week of such
+period; provided that no extended benefit period may begin before the
+fourteenth week following the end of a prior extended benefit period which was
+in effect with respect to this State.
+(2)  (A)  There is a &quot;state 'on'
+indicator&quot; for this State for a week which begins before September 26,
+1982, if the director of labor and industrial relations determines, in
+accordance with the regulations of the United States Secretary of Labor, that for
+the period consisting of such week and the immediately preceding twelve weeks,
+the rate of insured unemployment (not seasonally adjusted) under this chapter:
+(i)  Equaled or exceeded 120 per cent of the
+average of such rates for the corresponding thirteen-week period ending in each
+of the preceding two calendar years, and
+(ii)  Equaled or exceeded 4 per cent.
+(B)  There is a &quot;state 'on'
+indicator&quot; for this State for a week which begins after September 25,
+1982, if the director of labor and industrial relations determines, in
+accordance with the regulations of the United States Secretary of Labor, that
+for the period consisting of such week and the immediately preceding twelve
+weeks, the rate of insured unemployment (not seasonally adjusted) under this
+chapter:
+(i)  Equaled or exceeded 120 per cent of the
+average of such rates for the corresponding thirteen-week period ending in each
+of the preceding two calendar years, and
+(ii)  Equaled or exceeded 5 per cent.
+(3)  (A)  There is a &quot;state 'off'
+indicator&quot; for this State for a week which begins before
+September 26, 1982, if the director determines, in accordance with the
+regulations of the United States Secretary of Labor, that for the period
+consisting of such week and the immediately preceding twelve weeks, the rate of
+insured unemployment (not seasonally adjusted) under this chapter:
+(i)  Was less than 120 per cent of the average
+of such rates for the corresponding thirteen-week period ending in each of the
+preceding two calendar years, or
+(ii)  Was less than 4 per cent.
+(B)  There is a &quot;state 'off'
+indicator&quot; for this State for a week which begins after September 25,
+1982, if the director determines, in accordance with the regulations of the
+United States Secretary of Labor, that for the period consisting of such week
+and the immediately preceding twelve weeks, the rate of insured unemployment
+(not seasonally adjusted) under this chapter:
+(i)  Was less than 120 per cent of the average
+of such rates for the corresponding thirteen-week period ending in each of the
+preceding two calendar years, or
+(ii)  Was less than 5 per cent.
+(4)  (A)  Effective with respect to compensation
+for weeks of unemployment beginning after December 31, 1977, the determination
+of whether there has been a state &quot;on&quot; or &quot;off&quot; indicator
+shall be made under paragraphs (2)(A) and (3)(A) of this section as if
+paragraph (2)(A) did not contain clause (i) thereof and the figure
+&quot;4&quot; contained in clause (ii) thereof were &quot;5&quot;, and as if
+paragraph (3)(A) did not contain clause (i) thereof and the figure
+&quot;4&quot; contained in clause (ii) thereof were &quot;5&quot;; except that,
+notwithstanding the other provisions of this paragraph to the contrary, any
+week for which there would otherwise be a state &quot;on&quot; indicator shall
+continue to be such a week and shall not be determined to be a week for which
+there is a state &quot;off&quot; indicator.
+(B)  Effective with respect to compensation
+for weeks of unemployment beginning after September 25, 1982, the
+determination of whether there has been a state &quot;on&quot; or
+&quot;off&quot; indicator shall be made under paragraphs (2)(B) and (3)(B) of this
+section as if paragraph (2)(B) did not contain clause (i) thereof and the
+figure &quot;5&quot; contained in clause (ii) thereof were &quot;6&quot;;
+except that, notwithstanding the other provisions of this paragraph to the
+contrary, any week for which there would otherwise be a state &quot;on&quot;
+indicator shall continue to be such a week and shall not be determined to be a
+week for which there is a state &quot;off&quot; indicator.
+(5)  &quot;Rate of insured unemployment,&quot; for
+purposes of paragraphs (2) and (3) of this section, means the percentage
+derived by dividing:
+(A)  The average weekly number of individuals
+filing claims for regular compensation in this State for weeks of unemployment
+with respect to the most recent thirteen-consecutive-week period, as determined
+by the director on the basis of the director's reports to the United States
+Secretary of Labor, by
+(B)  The average monthly employment covered
+under this chapter for the first four of the most recent six completed calendar
+quarters ending before the end of such thirteen-week period.
+(6)  &quot;Regular benefits&quot; means benefits
+payable to an individual under this chapter or under any other state law
+(including benefits payable to federal civilian employees and ex-servicemen
+pursuant to 5 United States Code chapter 85) other than extended benefits and
+additional benefits.
+(7)  &quot;Extended benefits&quot; means benefits
+(including benefits payable to federal civilian employees and to ex-servicemen
+pursuant to 5 United States Code chapter 85) payable to an individual under the
+provisions of this part for weeks of unemployment in the individual's
+eligibility period.
+(8)  &quot;Additional benefits&quot; means benefits
+payable to exhaustees by reason of conditions of high unemployment or by reason
+of other special factors under the provisions of any state law, including but
+not limited to chapter 385.
+(9)  &quot;Eligibility period&quot; of an individual
+means the period consisting of the weeks in the individual's benefit year which
+begin in an extended benefit period and, if the individual's benefit year ends
+within such extended benefit period, any week thereafter which begins in such
+period.
+(10)  &quot;Exhaustee&quot; means an individual who,
+with respect to any week of unemployment in the individual's eligibility
+period:
+(A)  Has received, prior to such week, all of
+the regular benefits that were available to the individual under this chapter
+or any other state law (including dependents' allowances and benefits payable
+to federal civilian employees and ex-servicemen under 5 United States Code
+chapter 85) in the individual's current benefit year that includes such week;
+provided that for the purposes of this subparagraph, an individual shall be
+deemed to have received all of the regular benefits that were available to the
+individual although, as a result of a pending appeal with respect to wages
+and/or employment that were not considered in the original monetary
+determination in the individual's benefit year, the individual may subsequently
+be determined to be entitled to added regular benefits; or
+(B)  The individual's benefit year having
+expired prior to such week has no, or has insufficient, wages and/or employment
+on the basis of which the individual could establish a new benefit year that
+would include such week; and
+(C)  (i)  Has no right to unemployment benefits or
+allowances, as the case may be, under the Railroad Unemployment Insurance Act,
+the Trade Expansion Act of 1962, the Automotive Products Trade Act of 1965, and
+such other federal laws as are specified in regulations issued by the United
+States Secretary of Labor; and
+(ii)  Has not received and is not seeking
+unemployment benefits under the unemployment compensation law of the Virgin
+Islands or of Canada; but if the individual is seeking such benefits and the
+appropriate agency finally determines that the individual is not entitled to
+benefits under such law the individual is considered an exhaustee; provided
+that this provision shall not be applicable to benefits under the Virgin
+Islands law beginning on the day after the day on which the United States
+Secretary of Labor approves under section 3304(a) of the Internal Revenue Code
+of 1954 an unemployment compensation law submitted by the Virgin Islands for
+approval.
+(11)  &quot;State law&quot; means the unemployment
+insurance law of any state, approved by the United States Secretary of Labor
+under section 3304 of the Internal Revenue Code of 1954. [L 1971, c 187, pt of
+§13; am L 1973, c 120, §4; am L 1974, c 156, §2; am L 1977, c 148, §9; am L
+1982, c 58, §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The third week after the first week for
+which there is a state &quot;off&quot; indicator; or
+(ii)  The thirteenth consecutive week of such
+period; provided that no extended benefit period may begin before the
+fourteenth week following the end of a prior extended benefit period which was
+in effect with respect to this State.</p>
+            </content>
+            <paragraph eId="383_168__subsec_i__para_2">
+              <num>(2)</num>
+              <subparagraph eId="383_168__subsec_i__para_2__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>There is a &quot;state 'on'
+indicator&quot; for this State for a week which begins before September 26,
+1982, if the director of labor and industrial relations determines, in
+accordance with the regulations of the United States Secretary of Labor, that for
+the period consisting of such week and the immediately preceding twelve weeks,
+the rate of insured unemployment (not seasonally adjusted) under this chapter:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Equaled or exceeded 120 per cent of the
+average of such rates for the corresponding thirteen-week period ending in each
+of the preceding two calendar years, and
+(ii)  Equaled or exceeded 4 per cent.
+(B)  There is a &quot;state 'on'
+indicator&quot; for this State for a week which begins after September 25,
+1982, if the director of labor and industrial relations determines, in
+accordance with the regulations of the United States Secretary of Labor, that
+for the period consisting of such week and the immediately preceding twelve
+weeks, the rate of insured unemployment (not seasonally adjusted) under this
+chapter:</p>
+            </content>
+          </subsection>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Equaled or exceeded 120 per cent of the
+average of such rates for the corresponding thirteen-week period ending in each
+of the preceding two calendar years, and
+(ii)  Equaled or exceeded 5 per cent.</p>
+            </content>
+            <paragraph eId="383_168__subsec_i__para_3">
+              <num>(3)</num>
+              <subparagraph eId="383_168__subsec_i__para_3__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>There is a &quot;state 'off'
+indicator&quot; for this State for a week which begins before
+September 26, 1982, if the director determines, in accordance with the
+regulations of the United States Secretary of Labor, that for the period
+consisting of such week and the immediately preceding twelve weeks, the rate of
+insured unemployment (not seasonally adjusted) under this chapter:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Was less than 120 per cent of the average
+of such rates for the corresponding thirteen-week period ending in each of the
+preceding two calendar years, or
+(ii)  Was less than 4 per cent.
+(B)  There is a &quot;state 'off'
+indicator&quot; for this State for a week which begins after September 25,
+1982, if the director determines, in accordance with the regulations of the
+United States Secretary of Labor, that for the period consisting of such week
+and the immediately preceding twelve weeks, the rate of insured unemployment
+(not seasonally adjusted) under this chapter:</p>
+            </content>
+          </subsection>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Was less than 120 per cent of the average
+of such rates for the corresponding thirteen-week period ending in each of the
+preceding two calendar years, or
+(ii)  Was less than 5 per cent.</p>
+            </content>
+            <paragraph eId="383_168__subsec_i__para_4">
+              <num>(4)</num>
+              <subparagraph eId="383_168__subsec_i__para_4__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Effective with respect to compensation
+for weeks of unemployment beginning after December 31, 1977, the determination
+of whether there has been a state &quot;on&quot; or &quot;off&quot; indicator
+shall be made under paragraphs</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="383_168__subsec_i__para_4__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="383_168__subsec_i__para_4__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>of this section as if
+paragraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="383_168__subsec_i__para_4__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>did not contain clause</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>thereof and the figure
+&quot;4&quot; contained in clause (ii) thereof were &quot;5&quot;, and as if
+paragraph (3)(A) did not contain clause</p>
+            </content>
+          </subsection>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>thereof and the figure
+&quot;4&quot; contained in clause (ii) thereof were &quot;5&quot;; except that,
+notwithstanding the other provisions of this paragraph to the contrary, any
+week for which there would otherwise be a state &quot;on&quot; indicator shall
+continue to be such a week and shall not be determined to be a week for which
+there is a state &quot;off&quot; indicator.
+(B)  Effective with respect to compensation
+for weeks of unemployment beginning after September 25, 1982, the
+determination of whether there has been a state &quot;on&quot; or
+&quot;off&quot; indicator shall be made under paragraphs (2)(B) and (3)(B) of this
+section as if paragraph (2)(B) did not contain clause</p>
+            </content>
+          </subsection>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>thereof and the
+figure &quot;5&quot; contained in clause (ii) thereof were &quot;6&quot;;
+except that, notwithstanding the other provisions of this paragraph to the
+contrary, any week for which there would otherwise be a state &quot;on&quot;
+indicator shall continue to be such a week and shall not be determined to be a
+week for which there is a state &quot;off&quot; indicator.</p>
+            </content>
+            <paragraph eId="383_168__subsec_i__para_5">
+              <num>(5)</num>
+              <content>
+                <p>&quot;Rate of insured unemployment,&quot; for
+purposes of paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_168__subsec_i__para_2">
+              <num>(2)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_168__subsec_i__para_3">
+              <num>(3)</num>
+              <content>
+                <p>of this section, means the percentage
+derived by dividing:</p>
+              </content>
+              <subparagraph eId="383_168__subsec_i__para_3__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>The average weekly number of individuals
+filing claims for regular compensation in this State for weeks of unemployment
+with respect to the most recent thirteen-consecutive-week period, as determined
+by the director on the basis of the director's reports to the United States
+Secretary of Labor, by</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="383_168__subsec_i__para_3__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The average monthly employment covered
+under this chapter for the first four of the most recent six completed calendar
+quarters ending before the end of such thirteen-week period.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="383_168__subsec_i__para_6">
+              <num>(6)</num>
+              <content>
+                <p>&quot;Regular benefits&quot; means benefits
+payable to an individual under this chapter or under any other state law
+(including benefits payable to federal civilian employees and ex-servicemen
+pursuant to 5 United States Code chapter 85) other than extended benefits and
+additional benefits.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_168__subsec_i__para_7">
+              <num>(7)</num>
+              <content>
+                <p>&quot;Extended benefits&quot; means benefits
+(including benefits payable to federal civilian employees and to ex-servicemen
+pursuant to 5 United States Code chapter 85) payable to an individual under the
+provisions of this part for weeks of unemployment in the individual's
+eligibility period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_168__subsec_i__para_8">
+              <num>(8)</num>
+              <content>
+                <p>&quot;Additional benefits&quot; means benefits
+payable to exhaustees by reason of conditions of high unemployment or by reason
+of other special factors under the provisions of any state law, including but
+not limited to chapter 385.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_168__subsec_i__para_9">
+              <num>(9)</num>
+              <content>
+                <p>&quot;Eligibility period&quot; of an individual
+means the period consisting of the weeks in the individual's benefit year which
+begin in an extended benefit period and, if the individual's benefit year ends
+within such extended benefit period, any week thereafter which begins in such
+period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="383_168__subsec_i__para_10">
+              <num>(10)</num>
+              <content>
+                <p>&quot;Exhaustee&quot; means an individual who,
+with respect to any week of unemployment in the individual's eligibility
+period:</p>
+              </content>
+              <subparagraph eId="383_168__subsec_i__para_10__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Has received, prior to such week, all of
+the regular benefits that were available to the individual under this chapter
+or any other state law (including dependents' allowances and benefits payable
+to federal civilian employees and ex-servicemen under 5 United States Code
+chapter 85) in the individual's current benefit year that includes such week;
+provided that for the purposes of this subparagraph, an individual shall be
+deemed to have received all of the regular benefits that were available to the
+individual although, as a result of a pending appeal with respect to wages
+and/or employment that were not considered in the original monetary
+determination in the individual's benefit year, the individual may subsequently
+be determined to be entitled to added regular benefits; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="383_168__subsec_i__para_10__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The individual's benefit year having
+expired prior to such week has no, or has insufficient, wages and/or employment
+on the basis of which the individual could establish a new benefit year that
+would include such week; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="383_168__subsec_i__para_10__subpara_C">
+                <num>(C)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="383_168__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Has no right to unemployment benefits or
+allowances, as the case may be, under the Railroad Unemployment Insurance Act,
+the Trade Expansion Act of 1962, the Automotive Products Trade Act of 1965, and
+such other federal laws as are specified in regulations issued by the United
+States Secretary of Labor; and
+(ii)  Has not received and is not seeking
+unemployment benefits under the unemployment compensation law of the Virgin
+Islands or of Canada; but if the individual is seeking such benefits and the
+appropriate agency finally determines that the individual is not entitled to
+benefits under such law the individual is considered an exhaustee; provided
+that this provision shall not be applicable to benefits under the Virgin
+Islands law beginning on the day after the day on which the United States
+Secretary of Labor approves under section 3304</p>
+            </content>
+          </subsection>
+          <subsection eId="383_168__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the Internal Revenue Code
+of 1954 an unemployment compensation law submitted by the Virgin Islands for
+approval.</p>
+            </content>
+            <paragraph eId="383_168__subsec_a__para_11">
+              <num>(11)</num>
+              <content>
+                <p>&quot;State law&quot; means the unemployment
+insurance law of any state, approved by the United States Secretary of Labor
+under section 3304 of the Internal Revenue Code of 1954. [L 1971, c 187, pt of
+§13; am L 1973, c 120, §4; am L 1974, c 156, §2; am L 1977, c 148, §9; am L
+1982, c 58, §1; gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

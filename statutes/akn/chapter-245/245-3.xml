@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-3"/>
+          <FRBRuri value="/us-hi/act/hrs/245-3"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-3/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-3/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-3/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-3/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_3">
+          <num>245-3</num>
+          <heading>Taxes</heading>
+          <content>
+            <p>§245-3  Taxes.
+(a)  Every wholesaler or
+dealer, in addition to any other taxes provided by law, shall pay, for the
+privilege of conducting business and other activities in the State, an excise
+tax equal to:
+(1)  5.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer after June 30, 1998, whether or not sold at
+wholesale, or if not sold, then at the same rate upon the use by the wholesaler
+or dealer;
+(2)  6.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer after September 30, 2002, whether or not
+sold at wholesale, or if not sold, then at the same rate upon the use by the
+wholesaler or dealer;
+(3)  6.50 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer after June 30, 2003, whether or not sold at
+wholesale, or if not sold, then at the same rate upon the use by the wholesaler
+or dealer;
+(4)  7.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer after June 30, 2004, whether or not sold at
+wholesale, or if not sold, then at the same rate upon the use by the wholesaler
+or dealer;
+(5)  8.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer on and after September 30, 2006, whether or
+not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;
+(6)  9.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer on and after September 30, 2007, whether or
+not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;
+(7)  10.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer on and after September 30, 2008, whether or
+not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;
+(8)  13.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer on and after July 1, 2009, whether or not
+sold at wholesale, or if not sold, then at the same rate upon the use by the
+wholesaler or dealer;
+(9)  11.00 cents for each little cigar sold, used, or
+possessed by a wholesaler or dealer on and after October 1, 2009, whether or
+not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;
+(10)  15.00 cents for each cigarette or little cigar sold,
+used, or possessed by a wholesaler or dealer on and after July 1, 2010, whether
+or not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;
+(11)  16.00 cents for each cigarette or little cigar sold,
+used, or possessed by a wholesaler or dealer on and after July 1, 2011, whether
+or not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;
+(12)
+Seventy
+per cent of the wholesale price of each article or item of tobacco products,
+other than large cigars, electronic smoking devices, and e-liquids, sold by the
+wholesaler or dealer on and after September 30, 2009, whether or not sold at
+wholesale, or if not sold, then at the same rate upon the use by the wholesaler
+or dealer;
+(13)  Fifty per cent of the wholesale price of each
+large cigar of any length sold, used, or possessed by a wholesaler or dealer on
+and after September 30, 2009, whether or not sold at wholesale, or if not sold,
+then at the same rate upon the use by the wholesaler or dealer; and
+(14)  Seventy per cent of the wholesale price of each
+electronic smoking device or e-liquid sold, used, or possessed by a wholesaler
+or dealer on and after January 1, 2024, whether or not sold at wholesale, or if
+not sold, then at the same rate upon the use by the wholesaler or dealer.
+Where the tax imposed has been paid on cigarettes,
+little cigars, or tobacco products that thereafter become the subject of a
+casualty loss deduction allowable under chapter 235, the tax paid shall be
+refunded or credited to the account of the wholesaler or dealer.  The tax shall
+be applied to cigarettes through the use of stamps.
+(b)  The taxes, however, are subject to the
+following limitations:
+(1)  The measure of the taxes shall not include any
+cigarettes or tobacco products exempted, and so long as the same are exempted,
+from the imposition of taxes by the Constitution or laws of the United States;
+(2)  The measure of taxes shall exempt and exclude all
+sales of cigarettes and tobacco products to the United States (including any
+agency or instrumentality thereof that is wholly owned or otherwise so
+constituted as to be immune from the levy of a tax under this chapter), sold by
+any person licensed under this chapter; and
+(3)  The taxes shall be paid only once with respect to
+the same cigarettes or tobacco product.  This limitation shall not prohibit the
+imposition of the excise tax on receipts from sales of tobacco products under
+subsection (a)(5); provided that the amount subject to the tax on each sale
+shall not include amounts previously taxed under this chapter. [L 1939, c 220,
+§4; RL 1945, §5753; am L 1945, c 115, §1; am L 1949, c 344, §1; RL 1955, §125-3;
+am L 1957, c 34, §21; am L Sp 1957, c 1, §8(b); am L 1965, c 155, §6; HRS §245-3;
+gen ch 1985; am L 1993, c 220, §9; am L 1994, c 104, §2; am L 1997, c 331, §1;
+am L 1999, c 10, §1; am L 2000, c 249, §§4, 20(2); am L 2002, c 94, §3 and c
+246, §§2, 3; am L 2003, c 3, §7; am L 2006, c 316, §7; am L 2009, c 56, §1 and
+c 58, §3; am L 2010, c 59, §3 and c 90, §3; am L 2023, c 62, §5]
+Cross References
+Other tax exemption
+on sales to U.S. government, see §237-25.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="245_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every wholesaler or
+dealer, in addition to any other taxes provided by law, shall pay, for the
+privilege of conducting business and other activities in the State, an excise
+tax equal to:</p>
+            </content>
+            <paragraph eId="245_3__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>5.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer after June 30, 1998, whether or not sold at
+wholesale, or if not sold, then at the same rate upon the use by the wholesaler
+or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>6.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer after September 30, 2002, whether or not
+sold at wholesale, or if not sold, then at the same rate upon the use by the
+wholesaler or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>6.50 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer after June 30, 2003, whether or not sold at
+wholesale, or if not sold, then at the same rate upon the use by the wholesaler
+or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>7.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer after June 30, 2004, whether or not sold at
+wholesale, or if not sold, then at the same rate upon the use by the wholesaler
+or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>8.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer on and after September 30, 2006, whether or
+not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>9.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer on and after September 30, 2007, whether or
+not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>10.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer on and after September 30, 2008, whether or
+not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>13.00 cents for each cigarette sold, used, or
+possessed by a wholesaler or dealer on and after July 1, 2009, whether or not
+sold at wholesale, or if not sold, then at the same rate upon the use by the
+wholesaler or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_9">
+              <num>(9)</num>
+              <content>
+                <p>11.00 cents for each little cigar sold, used, or
+possessed by a wholesaler or dealer on and after October 1, 2009, whether or
+not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_10">
+              <num>(10)</num>
+              <content>
+                <p>15.00 cents for each cigarette or little cigar sold,
+used, or possessed by a wholesaler or dealer on and after July 1, 2010, whether
+or not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_11">
+              <num>(11)</num>
+              <content>
+                <p>16.00 cents for each cigarette or little cigar sold,
+used, or possessed by a wholesaler or dealer on and after July 1, 2011, whether
+or not sold at wholesale, or if not sold, then at the same rate upon the use by
+the wholesaler or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_12">
+              <num>(12)</num>
+              <content>
+                <p>Seventy
+per cent of the wholesale price of each article or item of tobacco products,
+other than large cigars, electronic smoking devices, and e-liquids, sold by the
+wholesaler or dealer on and after September 30, 2009, whether or not sold at
+wholesale, or if not sold, then at the same rate upon the use by the wholesaler
+or dealer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_13">
+              <num>(13)</num>
+              <content>
+                <p>Fifty per cent of the wholesale price of each
+large cigar of any length sold, used, or possessed by a wholesaler or dealer on
+and after September 30, 2009, whether or not sold at wholesale, or if not sold,
+then at the same rate upon the use by the wholesaler or dealer; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_a__para_14">
+              <num>(14)</num>
+              <content>
+                <p>Seventy per cent of the wholesale price of each
+electronic smoking device or e-liquid sold, used, or possessed by a wholesaler
+or dealer on and after January 1, 2024, whether or not sold at wholesale, or if
+not sold, then at the same rate upon the use by the wholesaler or dealer.
+Where the tax imposed has been paid on cigarettes,
+little cigars, or tobacco products that thereafter become the subject of a
+casualty loss deduction allowable under chapter 235, the tax paid shall be
+refunded or credited to the account of the wholesaler or dealer.  The tax shall
+be applied to cigarettes through the use of stamps.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The taxes, however, are subject to the
+following limitations:</p>
+            </content>
+            <paragraph eId="245_3__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The measure of the taxes shall not include any
+cigarettes or tobacco products exempted, and so long as the same are exempted,
+from the imposition of taxes by the Constitution or laws of the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The measure of taxes shall exempt and exclude all
+sales of cigarettes and tobacco products to the United States (including any
+agency or instrumentality thereof that is wholly owned or otherwise so
+constituted as to be immune from the levy of a tax under this chapter), sold by
+any person licensed under this chapter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_3__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The taxes shall be paid only once with respect to
+the same cigarettes or tobacco product.  This limitation shall not prohibit the
+imposition of the excise tax on receipts from sales of tobacco products under
+subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

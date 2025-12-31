@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-102"/>
+          <FRBRuri value="/us-hi/act/hrs/346-102"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-102/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-102/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-102/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-102/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_102">
+          <num>346-102</num>
+          <heading>Section 346-102</heading>
+          <content>
+            <p>§346-102  Public service employment;
+established.
+(a)  The department of human services shall be responsible
+for providing employment on public works projects as defined in section 346-71,
+for persons:
+(1)  Receiving full or partial public assistance from
+the State;
+(2)  Receiving unemployment compensation benefits from
+the State whose benefits thereunder are within the last two weeks of
+eligibility and who upon termination of unemployment compensation benefits will
+be eligible for full or partial public assistance from the State; or
+(3)  Who reside on an island where the primary
+economic base providing employment for such persons is lost or is in danger of
+being lost.
+Public assistance recipients participating in
+public service employment shall be considered to be employees of the
+department; provided however that except for coverage under the workers'
+compensation law, laws relating to civil service, classification, retirement,
+vacation, sick leave, and other matters relating to regular public employees
+shall not apply to such persons.
+(b)  The department shall promulgate rules
+under chapter 91 necessary to carry out the purposes of public service
+employment, including but not limited to the following:
+(1)  The employment of public assistance recipients
+shall not displace any state or county employee or any individual performing
+work for the State or county on a contractual basis;
+(2)  The minimum period of employment shall not be
+less than four calendar weeks; and
+(3)  There shall be no discrimination based on race,
+color, creed, sex, age, religion, or national origin. [L 1973, c 177, pt of §2;
+am L Sp 1974, c 1, §2; am L 1975, c 41, §1; am L 1987, c 339, §4]
+Revision Note
+In subsection (a)(1), &quot;or&quot; deleted pursuant to
+§23G-15.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_102__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department of human services shall be responsible
+for providing employment on public works projects as defined in section 346-71,
+for persons:</p>
+            </content>
+            <paragraph eId="346_102__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Receiving full or partial public assistance from
+the State;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_102__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Receiving unemployment compensation benefits from
+the State whose benefits thereunder are within the last two weeks of
+eligibility and who upon termination of unemployment compensation benefits will
+be eligible for full or partial public assistance from the State; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_102__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Who reside on an island where the primary
+economic base providing employment for such persons is lost or is in danger of
+being lost.
+Public assistance recipients participating in
+public service employment shall be considered to be employees of the
+department; provided however that except for coverage under the workers'
+compensation law, laws relating to civil service, classification, retirement,
+vacation, sick leave, and other matters relating to regular public employees
+shall not apply to such persons.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_102__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall promulgate rules
+under chapter 91 necessary to carry out the purposes of public service
+employment, including but not limited to the following:</p>
+            </content>
+            <paragraph eId="346_102__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The employment of public assistance recipients
+shall not displace any state or county employee or any individual performing
+work for the State or county on a contractual basis;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_102__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The minimum period of employment shall not be
+less than four calendar weeks; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_102__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>There shall be no discrimination based on race,
+color, creed, sex, age, religion, or national origin. [L 1973, c 177, pt of §2;
+am L Sp 1974, c 1, §2; am L 1975, c 41, §1; am L 1987, c 339, §4]
+Revision Note
+In subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

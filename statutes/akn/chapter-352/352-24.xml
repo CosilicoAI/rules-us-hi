@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-24"/>
+          <FRBRuri value="/us-hi/act/hrs/352-24"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-24/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-24/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-24/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-24/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_24">
+          <num>352-24</num>
+          <heading>Juvenile parole program</heading>
+          <content>
+            <p>§352-24  Juvenile parole program.
+The
+director shall establish a program of juvenile parole.  The duties of the
+juvenile parole officer shall include:
+(1)  Assisting in locating appropriate residential
+placement for paroled persons;
+(2)  Efforts to obtain suitable employment for paroled
+persons;
+(3)  Assisting a paroled person in adjusting to
+community life by familiarizing the person with available community resources
+and providing opportunities for counseling;
+(4)  Maintaining a record of all paroled persons and
+periodically updating information therein concerning the residence, employment,
+and wages, and such details concerning the person's health, conduct, and
+environment as may come to the juvenile parole officer's attention either from
+reports or through the officer's own personal investigation;
+(5)  To make such other investigations, secure such
+other information and data, perform such other duties, and make such other
+reports, in addition to those which may be required by law, as may be required
+by the director. [L 1980, c 303, pt of §8(1); am L 1987, c 132, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

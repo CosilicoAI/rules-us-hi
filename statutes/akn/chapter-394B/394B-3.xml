@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/394B-3"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-3"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/394B-3/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-3/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/394B-3/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/394B-3/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_394B">
+        <num>Chapter 394B</num>
+        <heading>Dislocated Workers</heading>
+        <section eId="sec_394B_3">
+          <num>394B-3</num>
+          <heading>Employment opportunities</heading>
+          <content>
+            <p>[§394B-3]  Employment opportunities.
+The director shall identify job opportunities that exist within or outside the
+labor market area for which dislocated workers could be retrained and assisted
+in securing and whether assistance and training opportunities for such
+employment exist or could be provided within the labor market area. [L 1983, c
+195, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

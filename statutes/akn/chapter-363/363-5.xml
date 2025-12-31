@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/363-5"/>
+          <FRBRuri value="/us-hi/act/hrs/363-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/363-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/363-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/363-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/363-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_363">
+        <num>Chapter 363</num>
+        <heading>Hawaiian Home Lands Trust</heading>
+        <section eId="sec_363_5">
+          <num>363-5</num>
+          <heading>Section 363-5</heading>
+          <content>
+            <p>§363-5  Councils' responsibility; burial of
+service members, veterans, and dependents; office of veterans' services
+approval.
+(a)  The councils of the counties of Hawaii, Kauai, and Maui
+shall each provide for the establishment of the veterans cemetery or cemeteries
+to be located within their respective counties, which includes grading,
+filling, leveling, platting, paving of roadways and walks, installation of
+curbs, building of fences, planting of grass, trees and shrubs, erection of
+memorial buildings and monuments, and building of other necessary or convenient
+structures, and shall make provisions for the maintenance and upkeep of the
+cemetery or cemeteries.  The councils shall each provide for the interment of
+the remains, of:
+(1)  Service members who died while in the armed
+forces of the United States;
+(2)  Eligible veterans who entered military service
+after September 7, 1980, as an enlisted person, or after October 16, 1980, as
+an officer, and served a minimum of twenty-four continuous months or the full
+period for which the person was called to active duty, as in the case of a
+reservist;
+(3)  Eligible veterans who were discharged under
+conditions other than dishonorable of the armed forces of the United States
+with either peacetime or wartime service; and
+(4)  The wife, husband, minor children, or unmarried
+disabled adult children, who predecease a service member or veteran who would
+be entitled to interment, in any state veterans cemetery.
+The cost of transportation of the remains to the
+county of interment shall be borne by the family or estate of the deceased.
+(b)  The determination of eligibility for
+burial within any state veterans cemetery shall be in accordance with current
+Veterans Affairs and National Cemeteries Administration Regulations.
+(c)  Prior to any county action that may:
+(1)  Have an adverse financial impact upon the State's
+fiscal obligation to establish and maintain veterans cemeteries; or
+(2)  Impair or conflict with federal requirements that
+are a prescribed condition for the allocation of federal funds,
+the county shall obtain approval of the action from
+the office of veterans' services.  In the event of any disagreement between any
+county and the office of veterans' services over whether this subsection
+applies, the decision of the office of veterans' services shall control. [L
+1947, c 214, §2; RL 1955, §348-2; am L 1957, c 131, §1; HRS §363-5; am L 1972,
+c 94, §1; am L 2012, c 307, §§1, 4; am L 2013, c 41, §1; am L 2014, c 197, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="363_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The councils of the counties of Hawaii, Kauai, and Maui
+shall each provide for the establishment of the veterans cemetery or cemeteries
+to be located within their respective counties, which includes grading,
+filling, leveling, platting, paving of roadways and walks, installation of
+curbs, building of fences, planting of grass, trees and shrubs, erection of
+memorial buildings and monuments, and building of other necessary or convenient
+structures, and shall make provisions for the maintenance and upkeep of the
+cemetery or cemeteries.  The councils shall each provide for the interment of
+the remains, of:</p>
+            </content>
+            <paragraph eId="363_5__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Service members who died while in the armed
+forces of the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_5__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Eligible veterans who entered military service
+after September 7, 1980, as an enlisted person, or after October 16, 1980, as
+an officer, and served a minimum of twenty-four continuous months or the full
+period for which the person was called to active duty, as in the case of a
+reservist;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_5__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Eligible veterans who were discharged under
+conditions other than dishonorable of the armed forces of the United States
+with either peacetime or wartime service; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_5__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The wife, husband, minor children, or unmarried
+disabled adult children, who predecease a service member or veteran who would
+be entitled to interment, in any state veterans cemetery.
+The cost of transportation of the remains to the
+county of interment shall be borne by the family or estate of the deceased.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="363_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The determination of eligibility for
+burial within any state veterans cemetery shall be in accordance with current
+Veterans Affairs and National Cemeteries Administration Regulations.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Prior to any county action that may:</p>
+            </content>
+            <paragraph eId="363_5__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Have an adverse financial impact upon the State's
+fiscal obligation to establish and maintain veterans cemeteries; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_5__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Impair or conflict with federal requirements that
+are a prescribed condition for the allocation of federal funds,
+the county shall obtain approval of the action from
+the office of veterans' services.  In the event of any disagreement between any
+county and the office of veterans' services over whether this subsection
+applies, the decision of the office of veterans' services shall control. [L
+1947, c 214, §2; RL 1955, §348-2; am L 1957, c 131, §1; HRS §363-5; am L 1972,
+c 94, §1; am L 2012, c 307, §§1, 4; am L 2013, c 41, §1; am L 2014, c 197, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

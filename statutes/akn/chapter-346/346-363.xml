@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-363"/>
+          <FRBRuri value="/us-hi/act/hrs/346-363"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-363/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-363/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-363/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-363/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_363">
+          <num>346-363</num>
+          <heading>Section 346-363</heading>
+          <content>
+            <p>[§346-363]  Exception to liability for
+donors.
+(a)  Any donor who gives money to a provider agency, to a homeless
+facility to or through the department, or for any other program for the
+homeless authorized by this part shall not be liable for any civil damages
+resulting from the donation.
+(b)  Any donor who gives land and improvements,
+or who leases land and improvements at a nominal consideration, to a provider
+agency, to a homeless facility to or through the department, or for any other
+program for the homeless authorized by this part shall not be liable for any
+civil damages resulting from the donation, except as may result from the donor's
+gross negligence or wanton acts or omissions; provided that if the donor at the
+time of donation gave the department a full disclosure of all the dangers
+concerning the land and improvements known to the donor, the donor shall not be
+liable for any civil damages resulting from the donation.
+(c)  Any donor who, in good faith and without
+remuneration or expectation of remuneration, provides services or materials
+used to build and construct a facility for the homeless, or who renovates,
+repairs, or maintains an existing or acquired facility for the homeless, or who
+provides shelter to homeless persons, shall not be liable for any civil damages
+resulting from the donor's acts or omissions, except for damages resulting from
+the donor's gross negligence relating to the donation.
+(d)  The department shall be responsible for
+inspecting, reviewing, analyzing, qualifying, and determining that the land,
+structures, materials, or services donated to the department for use by the
+department in facilities for the homeless are reasonably safe for public use.
+[L 2010, c 89, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_363__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any donor who gives money to a provider agency, to a homeless
+facility to or through the department, or for any other program for the
+homeless authorized by this part shall not be liable for any civil damages
+resulting from the donation.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_363__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any donor who gives land and improvements,
+or who leases land and improvements at a nominal consideration, to a provider
+agency, to a homeless facility to or through the department, or for any other
+program for the homeless authorized by this part shall not be liable for any
+civil damages resulting from the donation, except as may result from the donor's
+gross negligence or wanton acts or omissions; provided that if the donor at the
+time of donation gave the department a full disclosure of all the dangers
+concerning the land and improvements known to the donor, the donor shall not be
+liable for any civil damages resulting from the donation.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_363__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any donor who, in good faith and without
+remuneration or expectation of remuneration, provides services or materials
+used to build and construct a facility for the homeless, or who renovates,
+repairs, or maintains an existing or acquired facility for the homeless, or who
+provides shelter to homeless persons, shall not be liable for any civil damages
+resulting from the donor's acts or omissions, except for damages resulting from
+the donor's gross negligence relating to the donation.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_363__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department shall be responsible for
+inspecting, reviewing, analyzing, qualifying, and determining that the land,
+structures, materials, or services donated to the department for use by the
+department in facilities for the homeless are reasonably safe for public use.
+[L 2010, c 89, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

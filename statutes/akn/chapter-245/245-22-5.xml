@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-22.5"/>
+          <FRBRuri value="/us-hi/act/hrs/245-22.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-22.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-22.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-22.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-22.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_22_5">
+          <num>245-22.5</num>
+          <heading>Section 245-22.5</heading>
+          <content>
+            <p>§245-22  Affixation; required prior to
+distribution; method and manner.
+(a)  Beginning January 1, 2001, a
+licensee or the authorized agent or designee of a licensee shall affix a stamp
+to the bottom of each individual package of cigarettes prior to distribution.
+(b)  Beginning April 1, 2001, no individual
+package of cigarettes may be sold or offered for sale to the general public
+unless affixed with the stamp required under this section.
+(c)  Beginning April 1, 2001, no cigarette
+package may be placed or stored in a vending machine unless affixed with the
+stamp required under subsection (a).
+(d)  The department shall adopt rules
+describing the method and manner in which stamps are to be affixed to packages
+of cigarettes.
+(e)  For the purpose of allowing compensation
+for the costs necessarily incurred in affixing the proper tax stamps to each
+package of cigarettes prior to distribution, each licensee or authorized agent
+or a designee of a licensee purchasing stamps from the department may purchase
+the stamps at a reduction of 0.4 per cent of the denominated value of each
+stamp purchased.  The reduction shall be the only discount allowed to
+purchasers from the department.  If a purchaser does not comply with all of the
+provisions of title 14, the licensee shall pay the full denominated value of
+the stamps purchased until the licensee has complied.  The department may
+increase or decrease the 0.4 per cent reduction by rule under chapter 91. [L
+2000, c 249, pt of §1, §20(2); am L 2001, c 270, §8; am L 2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="245_22_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning January 1, 2001, a
+licensee or the authorized agent or designee of a licensee shall affix a stamp
+to the bottom of each individual package of cigarettes prior to distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_22_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning April 1, 2001, no individual
+package of cigarettes may be sold or offered for sale to the general public
+unless affixed with the stamp required under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_22_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Beginning April 1, 2001, no cigarette
+package may be placed or stored in a vending machine unless affixed with the
+stamp required under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="245_22_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department shall adopt rules
+describing the method and manner in which stamps are to be affixed to packages
+of cigarettes.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_22_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For the purpose of allowing compensation
+for the costs necessarily incurred in affixing the proper tax stamps to each
+package of cigarettes prior to distribution, each licensee or authorized agent
+or a designee of a licensee purchasing stamps from the department may purchase
+the stamps at a reduction of 0.4 per cent of the denominated value of each
+stamp purchased.  The reduction shall be the only discount allowed to
+purchasers from the department.  If a purchaser does not comply with all of the
+provisions of title 14, the licensee shall pay the full denominated value of
+the stamps purchased until the licensee has complied.  The department may
+increase or decrease the 0.4 per cent reduction by rule under chapter 91. [L
+2000, c 249, pt of §1, §20(2); am L 2001, c 270, §8; am L 2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

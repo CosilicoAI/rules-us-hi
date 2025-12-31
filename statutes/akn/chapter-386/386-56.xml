@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-56"/>
+          <FRBRuri value="/us-hi/act/hrs/386-56"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-56/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-56/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-56/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-56/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_56">
+          <num>386-56</num>
+          <heading>Section 386-56</heading>
+          <content>
+            <p>§386-56  Payment from the special
+compensation fund in case of default.
+Where an injured employee or the
+employee's dependents fail to receive prompt and proper compensation and this
+default is caused through no fault of the employee, the director shall pay the
+full amount of all compensation awards and benefits from the special
+compensation fund to the employee or dependent.
+The employer, upon order of the director, shall
+reimburse the special compensation fund for the sums paid therefrom under this
+section, and the fund, represented by the director, shall be subrogated to all
+the rights and remedies of the individual receiving the payments.
+In case a defaulting employer moves to another
+state without reimbursing the special compensation fund, the director shall be
+authorized to contract, on a contingent fee basis, with a private collection
+agency in that state to effect collection from the employer. [L 1963, c 116, pt
+of §1; Supp, §97-55; HRS §386-56; am L 1971, c 86, §1; am L 1985, c 296, §18;
+gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

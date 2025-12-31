@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-8"/>
+          <FRBRuri value="/us-hi/act/hrs/353-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_8">
+          <num>353-8</num>
+          <heading>Section 353-8</heading>
+          <content>
+            <p>§353-8  Conditional release centers for
+committed persons.
+(a)  The director may establish and operate facilities
+to be known as conditional release centers, either operated separately, or as
+part of community correctional centers.
+(b)  The purpose of such facilities is to
+provide housing, meals, supervision, guidance, furloughs, and other
+correctional programs for persons committed to the department of corrections
+and rehabilitation and to give committed persons, in selected cases, a chance
+to begin adjustment to life in a free society and to serve as a test of an
+individual's fitness for release on parole.
+(c)  The department shall notify the county
+prosecutors and police chiefs whenever a person committed for an offense
+against the person as described in chapter 707, or any convicted felon, is
+admitted to a work furlough, conditional release, or similar program. 
+Notification shall be transmitted in writing no later than thirty days prior to
+the commencement of the program and shall list the conditions pertaining
+thereto.  For parole violators who are recommitted to prison for less than
+thirty days or who are placed on a work furlough, conditional release, or
+similar program, notification as described above shall be transmitted in
+writing on the next working day after recommitment or placement in a program.
+(d)  Additionally, whenever the department
+admits a committed person who has been convicted of an offense against the
+person as described in chapter 707, or of an attempt to commit such an offense,
+to a work furlough program, conditional release program, or other similar
+programs, it shall give written notice to each victim of the offense, who has
+made written request for such notice, of the admission of the committed person
+to the program.  Notice shall be given to the victim at the address given on the
+request for notice or such address as may be provided to the department by the
+victim from time to time.  Neither the failure of any state officer or employee
+to carry out the requirements of this section nor compliance with it shall
+subject the State or the officer or employee to liability in any civil action. 
+However, such failure may provide a basis for such disciplinary action as may
+be deemed appropriate by competent authority. [L 1987, c 338, pt of §3; am L
+1989, c 211, §8; am L 1992, c 64, §1; am L 1993, c 21, §1; am L 2022, c 278, §29]
+Cross References
+Registration of sex offenders and other covered offenders,
+see chapter 846E.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director may establish and operate facilities
+to be known as conditional release centers, either operated separately, or as
+part of community correctional centers.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The purpose of such facilities is to
+provide housing, meals, supervision, guidance, furloughs, and other
+correctional programs for persons committed to the department of corrections
+and rehabilitation and to give committed persons, in selected cases, a chance
+to begin adjustment to life in a free society and to serve as a test of an
+individual's fitness for release on parole.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall notify the county
+prosecutors and police chiefs whenever a person committed for an offense
+against the person as described in chapter 707, or any convicted felon, is
+admitted to a work furlough, conditional release, or similar program. 
+Notification shall be transmitted in writing no later than thirty days prior to
+the commencement of the program and shall list the conditions pertaining
+thereto.  For parole violators who are recommitted to prison for less than
+thirty days or who are placed on a work furlough, conditional release, or
+similar program, notification as described above shall be transmitted in
+writing on the next working day after recommitment or placement in a program.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Additionally, whenever the department
+admits a committed person who has been convicted of an offense against the
+person as described in chapter 707, or of an attempt to commit such an offense,
+to a work furlough program, conditional release program, or other similar
+programs, it shall give written notice to each victim of the offense, who has
+made written request for such notice, of the admission of the committed person
+to the program.  Notice shall be given to the victim at the address given on the
+request for notice or such address as may be provided to the department by the
+victim from time to time.  Neither the failure of any state officer or employee
+to carry out the requirements of this section nor compliance with it shall
+subject the State or the officer or employee to liability in any civil action. 
+However, such failure may provide a basis for such disciplinary action as may
+be deemed appropriate by competent authority. [L 1987, c 338, pt of §3; am L
+1989, c 211, §8; am L 1992, c 64, §1; am L 1993, c 21, §1; am L 2022, c 278, §29]
+Cross References
+Registration of sex offenders and other covered offenders,
+see chapter 846E.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

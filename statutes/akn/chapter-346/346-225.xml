@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-225"/>
+          <FRBRuri value="/us-hi/act/hrs/346-225"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-225/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-225/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-225/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-225/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_225">
+          <num>346-225</num>
+          <heading>Confidentiality of reports</heading>
+          <content>
+            <p>§346-225  Confidentiality of reports.
+A
+report made pursuant to this part, including the identity of the reporting
+person and all records of the report, shall be confidential and any person who
+makes an unauthorized disclosure of a report or records of a report shall be
+guilty of a misdemeanor.  The director may adopt, amend, or repeal rules,
+pursuant to chapter 91, to provide for the confidentiality of reports and
+records, and for the authorized disclosure of reports and records. [L 1989, c
+381, pt of §1; am L 1990, c 144, §1 and c 234, §3; am L 2008, c 154, §7]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-125"/>
+          <FRBRuri value="/us-hi/act/hrs/386-125"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-125/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-125/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-125/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-125/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_125">
+          <num>386-125</num>
+          <heading>Section 386-125</heading>
+          <content>
+            <p>§386-125  Knowledge of employer imputed to
+insurance carrier.
+Every policy and contract shall contain a provision
+that, as between the employee and the insurance carrier, the notice to or
+knowledge of the occurrence of the injury on the part of the employer shall be
+deemed notice or knowledge, as the case may be, on the part of the insurance
+carrier; that jurisdiction of the employer shall, for the purpose of this
+chapter, be jurisdiction of the insurance carrier, and that the insurance
+carrier shall in all respects be bound by and subject to the orders, findings,
+and decisions rendered against the employer for the payment of compensation
+under this chapter. [L 1963, c 116, pt of §1; Supp, §97-124; HRS §386-125]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/244D-13"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-13"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/244D-13/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-13/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/244D-13/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/244D-13/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_244D">
+        <num>Chapter 244D</num>
+        <heading>Liquor Tax</heading>
+        <section eId="sec_244D_13">
+          <num>244D-13</num>
+          <heading>Other provisions applicable</heading>
+          <content>
+            <p>§244D-13  Other provisions applicable.
+All of the provisions of chapters 235 and 237 not inconsistent with this
+chapter and which may appropriately be applied to the taxes, persons,
+circumstances, and situations involved in this chapter, including (without
+prejudice to the generality of the foregoing) provisions as to penalties and
+interest, and provisions granting administrative powers to the director of
+taxation, and provisions for the assessment, levy, and collection of taxes,
+shall be applicable to the taxes imposed by this chapter, and to the
+assessment, levy, and collection thereof, except that returns, return
+information, or reports under this chapter and relating only to this chapter
+may be made known to the liquor commission by the department of taxation, if
+not in conflict with section 231-18. [L Sp 1984 1st, c 1, pt of §2; am L 1986,
+c 344, §9]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

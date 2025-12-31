@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-5"/>
+          <FRBRuri value="/us-hi/act/hrs/237-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_5">
+          <num>237-5</num>
+          <heading>&quot;Producer&quot; defined</heading>
+          <content>
+            <p>§237-5  &quot;Producer&quot; defined.
+&quot;Producer&quot;
+means any person engaged in the business of raising and producing agricultural
+products in their natural state, or in producing natural resource products, or
+engaged in the business of fishing or aquaculture, for sale, or for shipment or
+transportation out of the State, of the agricultural or aquaculture products in
+their natural or processed state, or butchered and dressed, or the natural
+resource products, or fish.
+As used in this section &quot;agricultural
+products&quot; include floricultural, horticultural, viticultural, forestry,
+nut, coffee, dairy, livestock, poultry, bee, animal, and any other farm,
+agronomic, or plantation products. [L 1935, c 141, pt of §1; RL 1945, §5447; RL
+1955, §117-6; am L 1957, c 34, §11(b); HRS §237-5; am L 1982, c 253, §1; am L
+1984, c 73, §3]
+Case Notes
+Cited:  41 H. 615, 619 (1957).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

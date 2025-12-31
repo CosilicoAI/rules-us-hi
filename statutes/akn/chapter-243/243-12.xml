@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/243-12"/>
+          <FRBRuri value="/us-hi/act/hrs/243-12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/243-12/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/243-12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/243-12/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/243-12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_243">
+        <num>Chapter 243</num>
+        <heading>Fuel Tax Law</heading>
+        <section eId="sec_243_12">
+          <num>243-12</num>
+          <heading>Section 243-12</heading>
+          <content>
+            <p>§243-12  Procedure upon failure to file
+statement; penalties.
+If any distributor or other person fails, neglects,
+or refuses to file any statement or report as herein provided, the director of
+taxation, immediately after the required time for such filing has expired, may
+proceed to inform oneself as best the director may regarding the matters and
+things required to be set forth in such statement and from such information as
+the director is able to obtain shall:
+(1)  Make a statement showing such matters and things;
+and
+(2)  Determine and fix the amount of license tax due
+from the distributor or other person for such month, and proceed to collect the
+amount of the license tax with penalties and interest added thereto pursuant to
+section 231-39.
+Upon request of the director, the attorney
+general (or the attorney general's deputies, including the county attorneys and
+public prosecutor) shall commence and prosecute to final determination in any
+court of competent jurisdiction an action at law to collect any tax herein
+imposed which is delinquent and all penalties and interest accrued, or any
+other appropriate action at law or otherwise to enforce this chapter. [L 1932
+1st, c 19, §9; RL 1935, §2018; am L Sp 1941, c 26, pt of §1; RL 1945, §5411; am
+L 1953, c 125, pt of §9; RL 1955, §123-9; am L Sp 1959 2d, c 1, §16; HRS
+§243-12; gen ch 1985]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

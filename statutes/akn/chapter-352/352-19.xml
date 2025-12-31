@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-19"/>
+          <FRBRuri value="/us-hi/act/hrs/352-19"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-19/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-19/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-19/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-19/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_19">
+          <num>352-19</num>
+          <heading>Withdrawals from accounts</heading>
+          <content>
+            <p>§352-19  Withdrawals from accounts.
+(a)  The director may permit withdrawals by a committed person from the
+person's account for the following purposes:
+(1)  Disbursement to the dependents of such person for
+such amounts as the person is legally obligated to pay;
+(2)  To satisfy the whole or part of any debt of such
+person;
+(3)  Disbursement to relatives of the person;
+(4)  To secure a release from any person making a
+claim against the committed person for crimes affecting property.
+(b)  The director may make withdrawals from a
+committed person's account for purposes of restitution payments as ordered by a
+court.
+(c)  The director may retain any balance
+remaining until the termination of the director's legal custody of such person
+at which time the director shall transfer the balance to the person, the
+person's guardian, or to whomever legal custody is transferred. [L 1980, c 303,
+pt of §8(1)]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="352_19__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director may permit withdrawals by a committed person from the
+person's account for the following purposes:</p>
+            </content>
+            <paragraph eId="352_19__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Disbursement to the dependents of such person for
+such amounts as the person is legally obligated to pay;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="352_19__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>To satisfy the whole or part of any debt of such
+person;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="352_19__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Disbursement to relatives of the person;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="352_19__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>To secure a release from any person making a
+claim against the committed person for crimes affecting property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="352_19__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The director may make withdrawals from a
+committed person's account for purposes of restitution payments as ordered by a
+court.</p>
+            </content>
+          </subsection>
+          <subsection eId="352_19__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director may retain any balance
+remaining until the termination of the director's legal custody of such person
+at which time the director shall transfer the balance to the person, the
+person's guardian, or to whomever legal custody is transferred. [L 1980, c 303,
+pt of §8(1)]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

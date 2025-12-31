@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-30"/>
+          <FRBRuri value="/us-hi/act/hrs/353-30"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-30/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-30/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-30/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-30/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_30">
+          <num>353-30</num>
+          <heading>Others by permission</heading>
+          <content>
+            <p>§353-30  Others by permission.
+Only
+official visitors shall be allowed to visit any state correctional facility or
+to have any oral or written communication with a committed person, unless with
+the written permission of the administrator of the correctional facility or the
+director.  No visitor shall deliver to or receive from any committed person any
+letter or message except with permission granted by the administrator of a
+state correctional facility pursuant to rules adopted by the director or
+facility administrator.  Unauthorized communications, passing of documents, or
+visiting shall be a class C felony. [L 1987, c 338, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

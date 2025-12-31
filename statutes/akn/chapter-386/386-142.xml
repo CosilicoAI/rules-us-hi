@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-142"/>
+          <FRBRuri value="/us-hi/act/hrs/386-142"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-142/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-142/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-142/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-142/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_142">
+          <num>386-142</num>
+          <heading>Section 386-142</heading>
+          <content>
+            <p>[§386-142]  Employment rights of injured
+employees.
+It shall be unlawful for any employer to suspend or discharge
+any employee solely because the employee suffers any work injury which is
+compensable under this chapter and which arises out of and in the course of
+employment with the employer unless it is shown to the satisfaction of the
+director that the employee will no longer be capable of performing the
+employee's work as a result of the work injury and that the employer has no
+other available work which the employee is capable of performing.  Any employee
+who is suspended or discharged because of such work injury shall be given first
+preference of reemployment by the employer in any position which the employee
+is capable of performing and which becomes available after the suspension or
+discharge and during the period thereafter until the employee secures new
+employment.  This section shall not apply to the United States or to employers
+subject to part III of chapter 378. [L 1978, c 201, §1; gen ch 1985]
+Case Notes
+Worker's compensation insurer's settlement offer did not
+violate public policy or amount to an unlawful retaliatory discharge by
+including claimant's resignation as one of its terms.  112 H. 195 (App.), 145
+P.3d 738 (2006).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

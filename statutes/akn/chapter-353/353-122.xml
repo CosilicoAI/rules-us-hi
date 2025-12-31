@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-122"/>
+          <FRBRuri value="/us-hi/act/hrs/353-122"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-122/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-122/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-122/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-122/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_122">
+          <num>353-122</num>
+          <heading>Section 353-122</heading>
+          <content>
+            <p>[§353-
+122]
+Limitation on use of restraints.
+(a)
+ While transporting, no restraints of any kind may be used on any committed
+female:
+(1)  During the third
+trimester of her pregnancy;
+(2)  During postpartum
+recovery; or
+(3)  During any portion of her pregnancy, if her physician so
+orders;
+except in extraordinary
+circumstances.
+(b)  While the pregnant female
+is in labor or in childbirth no restraints of any kind shall be used.  Nothing
+in this section affects the use of hospital restraints requested for the
+medical safety of the patient by a treating physician.
+(c)  Any restraints used on a
+pregnant female shall be the least restrictive available and the most
+reasonable under the circumstances, but in no case shall leg irons or waist
+chains be used on any pregnant female.
+(d)  No correctional
+personnel shall be present in the room during the pregnant female's labor or
+childbirth, unless specifically requested by medical personnel.  If the correctional
+personnel's presence is requested by medical personnel, the correctional
+personnel shall be female, if practicable.
+(e)  If the doctor, nurse, or
+other health professional treating the pregnant female requests that restraints
+not be used, the corrections officer accompanying the pregnant female shall
+immediately remove all restraints.
+(f)  For the purpose of this
+section, &quot;extraordinary circumstances&quot; exist where a corrections
+officer makes an individualized determination that restraints are necessary to
+prevent an incarcerated pregnant female from escaping or injuring herself,
+medical or correctional personnel, or others.
+If a corrections officer
+determines that extraordinary circumstances exist and restraints are used, the
+corrections officer shall fully document in writing the facts upon which a
+finding of extraordinary circumstances was based.  The corrections officer
+shall also include the kind of restraints used and the reasons those restraints
+were considered the most reasonable and least restrictive available under the
+circumstances. [L 2011, c 174, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_122__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>While transporting, no restraints of any kind may be used on any committed
+female:</p>
+            </content>
+            <paragraph eId="353_122__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>During the third
+trimester of her pregnancy;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_122__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>During postpartum
+recovery; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_122__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>During any portion of her pregnancy, if her physician so
+orders;
+except in extraordinary
+circumstances.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="353_122__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>While the pregnant female
+is in labor or in childbirth no restraints of any kind shall be used.  Nothing
+in this section affects the use of hospital restraints requested for the
+medical safety of the patient by a treating physician.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_122__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any restraints used on a
+pregnant female shall be the least restrictive available and the most
+reasonable under the circumstances, but in no case shall leg irons or waist
+chains be used on any pregnant female.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_122__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>No correctional
+personnel shall be present in the room during the pregnant female's labor or
+childbirth, unless specifically requested by medical personnel.  If the correctional
+personnel's presence is requested by medical personnel, the correctional
+personnel shall be female, if practicable.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_122__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If the doctor, nurse, or
+other health professional treating the pregnant female requests that restraints
+not be used, the corrections officer accompanying the pregnant female shall
+immediately remove all restraints.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_122__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For the purpose of this
+section, &quot;extraordinary circumstances&quot; exist where a corrections
+officer makes an individualized determination that restraints are necessary to
+prevent an incarcerated pregnant female from escaping or injuring herself,
+medical or correctional personnel, or others.
+If a corrections officer
+determines that extraordinary circumstances exist and restraints are used, the
+corrections officer shall fully document in writing the facts upon which a
+finding of extraordinary circumstances was based.  The corrections officer
+shall also include the kind of restraints used and the reasons those restraints
+were considered the most reasonable and least restrictive available under the
+circumstances. [L 2011, c 174, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

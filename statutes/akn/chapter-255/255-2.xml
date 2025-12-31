@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/255-2"/>
+          <FRBRuri value="/us-hi/act/hrs/255-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/255-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/255-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/255-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/255-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_255">
+        <num>Chapter 255</num>
+        <heading>Tax Information Sharing</heading>
+        <section eId="sec_255_2">
+          <num>255-2</num>
+          <heading>Section 255-2</heading>
+          <content>
+            <p>[§255-2  Representation on multistate
+commission.]
+The director of taxation, or the director's designee, shall
+represent the State on the Multistate Tax Commission.  The attorney general, or
+the attorney general's designee, shall act as an alternate for the director of
+taxation. [L 1968, c 30, §3; gen ch 1993]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

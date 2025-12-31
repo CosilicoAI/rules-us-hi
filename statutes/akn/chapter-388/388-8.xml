@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/388-8"/>
+          <FRBRuri value="/us-hi/act/hrs/388-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/388-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/388-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/388-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/388-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_388">
+        <num>Chapter 388</num>
+        <heading>Payment of Wages and Other Compensation</heading>
+        <section eId="sec_388_8">
+          <num>388-8</num>
+          <heading>Section 388-8</heading>
+          <content>
+            <p>§388-8  Provisions of law may not be waived
+by agreement.
+Except as provided in section 388-11, no provision of this
+chapter may in any way be contravened or set aside by private agreement. [L
+1963, c 158, pt of §3; am L 1965, c 77, §1(a); Supp, §95-7; HRS §388-8]
+Case Notes
+When a hotel or restaurant applying a service charge for the
+sale of food or beverage services allegedly violates §481B-14 by:  (1) not
+distributing the full service charge directly to its employees as &quot;tip
+income&quot; (in other words, as &quot;wages and tips of employees&quot;); and
+(2) failing to disclose this practice to the purchaser of the services, the
+employees may bring an action under §§388-6 and 388-10 and this section to
+enforce the employees' rights and seek remedies.  130 H. 130, 306 P.3d 175
+(2013).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

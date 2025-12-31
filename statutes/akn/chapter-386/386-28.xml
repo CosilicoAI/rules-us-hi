@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-28"/>
+          <FRBRuri value="/us-hi/act/hrs/386-28"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-28/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-28/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-28/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-28/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_28">
+          <num>386-28</num>
+          <heading>Section 386-28</heading>
+          <content>
+            <p>[§386-28]  Opioid therapy; qualifying
+injured employees; informed consent process.
+(a)  Beginning on July 1,
+2019, any health care provider authorized to prescribe opioids shall adopt and
+maintain a written policy or policies that include execution of a written
+agreement to engage in an informed consent process between the health care
+provider authorized to prescribe opioids and a qualifying injured employee.
+(b)  If the qualifying injured employee is
+unable to physically or mentally execute the written agreement pursuant to
+subsection (a), due to the injury, then the physician shall execute the
+agreement as soon as the employee's condition improves.  At no time shall the
+employee be responsible for the payment of the medication prescribed.
+(c)  The department shall make available on its
+website a copy of the template for an opioid therapy informed consent process
+agreement developed by the department of health pursuant to section
+329-38.5(b).  The template shall be posted to the department's website no later
+than December 31, 2018.
+(d)  For the purposes of this section,
+&quot;qualifying injured employee&quot; means:
+(1)  An injured employee requiring opioid treatment
+for more than three months;
+(2)  An injured employee who is prescribed
+benzodiazepines and opioids together; or
+(3)  An injured employee who is prescribed a dose of
+opioids that exceeds ninety morphine equivalent doses.
+(e)  A violation of this section shall not be
+subject to the penalty provisions of part IV of chapter 329. [L 2018, c 155, pt
+of §2]
+Note
+Section 329-38.5 referred to in subsection (c) is repealed.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_28__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning on July 1,
+2019, any health care provider authorized to prescribe opioids shall adopt and
+maintain a written policy or policies that include execution of a written
+agreement to engage in an informed consent process between the health care
+provider authorized to prescribe opioids and a qualifying injured employee.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_28__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the qualifying injured employee is
+unable to physically or mentally execute the written agreement pursuant to
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="386_28__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall make available on its
+website a copy of the template for an opioid therapy informed consent process
+agreement developed by the department of health pursuant to section
+329-38.5</p>
+            </content>
+          </subsection>
+          <subsection eId="386_28__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For the purposes of this section,
+&quot;qualifying injured employee&quot; means:</p>
+            </content>
+            <paragraph eId="386_28__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>An injured employee requiring opioid treatment
+for more than three months;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_28__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>An injured employee who is prescribed
+benzodiazepines and opioids together; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_28__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>An injured employee who is prescribed a dose of
+opioids that exceeds ninety morphine equivalent doses.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_28__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A violation of this section shall not be
+subject to the penalty provisions of part IV of chapter 329. [L 2018, c 155, pt
+of §2]
+Note
+Section 329-38.5 referred to in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="386_28__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>is repealed.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

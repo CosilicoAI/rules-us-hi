@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/354D-10"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/354D-10/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/354D-10/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_354D">
+        <num>Chapter 354D</num>
+        <heading>Hawaii Paroling Authority</heading>
+        <section eId="sec_354D_10">
+          <num>354D-10</num>
+          <heading>Section 354D-10</heading>
+          <content>
+            <p>§354D-10  Correctional industries revolving
+fund.
+(a)  There is created the correctional industries revolving fund to
+be administered by the department.  All moneys collected by the department from
+the sale or disposition of goods and services produced in accordance with this
+chapter and any inmate deductions shall be deposited into the correctional
+industries revolving fund.  The proceeds in the correctional industries
+revolving fund shall be used for:  the purchase or lease of supplies,
+equipment, and machinery; the construction, leasing, or renovating of buildings
+used to carry out the purposes of this chapter; the salaries of personnel
+necessary to administer the enterprises established in accordance with this
+chapter; payment of inmates for work assignments; the reimbursement of
+incarceration costs of the inmates related to the inmates' participation in
+correctional industries; and other necessary expenses; provided that the
+correctional industries revolving fund shall not be maintained in excess of the
+amount necessary to carry out the purposes of this chapter.
+(b)  The director shall perform actuarial
+evaluations of the management and operation of the fund from time to time, as
+may be necessary, to ensure that the fund is self-sufficient. [L 1990, c 341,
+pt of §1; am L 1991, c 256, §4; am L 1993, c 280, §56 and c 303, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="354D_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is created the correctional industries revolving fund to
+be administered by the department.  All moneys collected by the department from
+the sale or disposition of goods and services produced in accordance with this
+chapter and any inmate deductions shall be deposited into the correctional
+industries revolving fund.  The proceeds in the correctional industries
+revolving fund shall be used for:  the purchase or lease of supplies,
+equipment, and machinery; the construction, leasing, or renovating of buildings
+used to carry out the purposes of this chapter; the salaries of personnel
+necessary to administer the enterprises established in accordance with this
+chapter; payment of inmates for work assignments; the reimbursement of
+incarceration costs of the inmates related to the inmates' participation in
+correctional industries; and other necessary expenses; provided that the
+correctional industries revolving fund shall not be maintained in excess of the
+amount necessary to carry out the purposes of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="354D_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The director shall perform actuarial
+evaluations of the management and operation of the fund from time to time, as
+may be necessary, to ensure that the fund is self-sufficient. [L 1990, c 341,
+pt of §1; am L 1991, c 256, §4; am L 1993, c 280, §56 and c 303, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

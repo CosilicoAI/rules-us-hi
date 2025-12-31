@@ -1,0 +1,285 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-10"/>
+          <FRBRuri value="/us-hi/act/hrs/353-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-10/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-10/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_10">
+          <num>353-10</num>
+          <heading>Intake service centers</heading>
+          <content>
+            <p>§353-10  Intake service centers.
+(a) 
+There shall be within the department of corrections and rehabilitation, an
+intake service center for adults in each of the counties to screen, evaluate,
+and classify the admission of persons to community correctional centers.  Each
+center shall be directed and managed by a manager and shall be staffed by a
+team of psychiatrists, social workers, technicians, and other personnel as may
+be necessary.  The director of corrections and rehabilitation may appoint
+full-time or part-time professional and clerical staff or contract for
+professional services.
+(b)  The centers shall:
+(1)  Provide orientation, guidance, and technical
+services;
+(2)  Provide social-medical-psychiatric-psychological
+diagnostic evaluation;
+(3)  Conduct internal pretrial risk assessments on
+adult offenders within three working days of admission to a community
+correctional center; provided that this paragraph shall not apply to persons
+subject to county or state detainers or holds, persons detained without bail,
+persons detained for probation violation, persons facing revocation of bail or
+supervised release, and persons who have had a pretrial risk assessment
+completed prior to admission to a community correctional center.  For purposes
+of this paragraph, &quot;pretrial risk assessment&quot; means an objective,
+research-based, validated assessment tool that measures an offender's risk of
+flight, risk of criminal conduct, and risk of violence or harm to any person or
+the general public while on pretrial release pending adjudication.  The
+pretrial risk assessment tool and procedures associated with its administration
+shall be periodically reviewed and subject to further validation at least every
+five years to evaluate the effectiveness of the tool and the procedures
+associated with its administration.  The findings of periodic reviews shall be
+publicly reported;
+(4)
+Provide correctional prescription program planning
+and security classification;
+(5)  Provide other personal and correctional services
+as needed for both detained and committed persons;
+(6)  Monitor and record the progress of persons
+assigned to correctional facilities who undergo further treatment or who
+participate in prescribed correctional programs;
+(7)  Provide continuing supervision and control of
+persons ordered to be placed on pretrial supervision by the court and persons
+ordered by the director;
+(8)  Make inquiry with the offender concerning the
+offender's financial circumstances and include this information in the bail
+report; provided that the department of corrections and rehabilitation's
+pretrial services officers shall be provided limited access for the purpose of
+viewing other state agencies' relevant data related to an offender's employment
+wages and taxes;
+(9)  Provide pretrial bail reports to the courts on
+adult offenders, within three working days of admission of the offender to a
+community correctional center, that are ordered by the court or consented to by
+the offender.  A complete copy of the executed pretrial risk assessment
+delineating the scored items, the total score, any administrative scoring
+overrides applied, and written explanations for administrative scoring
+overrides, shall be included in the pretrial bail report.  The pretrial bail
+reports shall be confidential and shall not be deemed to be public records.  A
+copy of a pretrial bail report shall be provided only:
+(A)  To the defendant or defendant's counsel;
+(B)  To the prosecuting attorney;
+(C)  To the department of corrections and
+rehabilitation;
+(D)  To any psychiatrist, psychologist, or
+other treatment practitioner who is treating the defendant pursuant to a court
+order;
+(E)  Upon request, to the adult client
+services branch; and
+(F)  In accordance with applicable laws,
+persons, or entities doing research.  The research entity must be approved and
+contracted by the department of corrections and rehabilitation to protect the
+confidentiality of the information, insofar as the information is not a public
+record. [L 1987, c 338, pt of §3; am L 1989, c 211, §8; am L 1996, c 130, §2;
+am L Sp 2009, c 24, §1; am L 2012, c 76, §3, c 139, §§3, 14(4) and c 141, §1;
+am L 2013, c 67, §§1, 2; am L 2019, c 179, §13; am L 2022, c 278, §29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There shall be within the department of corrections and rehabilitation, an
+intake service center for adults in each of the counties to screen, evaluate,
+and classify the admission of persons to community correctional centers.  Each
+center shall be directed and managed by a manager and shall be staffed by a
+team of psychiatrists, social workers, technicians, and other personnel as may
+be necessary.  The director of corrections and rehabilitation may appoint
+full-time or part-time professional and clerical staff or contract for
+professional services.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The centers shall:</p>
+            </content>
+            <paragraph eId="353_10__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Provide orientation, guidance, and technical
+services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Provide social-medical-psychiatric-psychological
+diagnostic evaluation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Conduct internal pretrial risk assessments on
+adult offenders within three working days of admission to a community
+correctional center; provided that this paragraph shall not apply to persons
+subject to county or state detainers or holds, persons detained without bail,
+persons detained for probation violation, persons facing revocation of bail or
+supervised release, and persons who have had a pretrial risk assessment
+completed prior to admission to a community correctional center.  For purposes
+of this paragraph, &quot;pretrial risk assessment&quot; means an objective,
+research-based, validated assessment tool that measures an offender's risk of
+flight, risk of criminal conduct, and risk of violence or harm to any person or
+the general public while on pretrial release pending adjudication.  The
+pretrial risk assessment tool and procedures associated with its administration
+shall be periodically reviewed and subject to further validation at least every
+five years to evaluate the effectiveness of the tool and the procedures
+associated with its administration.  The findings of periodic reviews shall be
+publicly reported;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Provide correctional prescription program planning
+and security classification;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Provide other personal and correctional services
+as needed for both detained and committed persons;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Monitor and record the progress of persons
+assigned to correctional facilities who undergo further treatment or who
+participate in prescribed correctional programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Provide continuing supervision and control of
+persons ordered to be placed on pretrial supervision by the court and persons
+ordered by the director;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Make inquiry with the offender concerning the
+offender's financial circumstances and include this information in the bail
+report; provided that the department of corrections and rehabilitation's
+pretrial services officers shall be provided limited access for the purpose of
+viewing other state agencies' relevant data related to an offender's employment
+wages and taxes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Provide pretrial bail reports to the courts on
+adult offenders, within three working days of admission of the offender to a
+community correctional center, that are ordered by the court or consented to by
+the offender.  A complete copy of the executed pretrial risk assessment
+delineating the scored items, the total score, any administrative scoring
+overrides applied, and written explanations for administrative scoring
+overrides, shall be included in the pretrial bail report.  The pretrial bail
+reports shall be confidential and shall not be deemed to be public records.  A
+copy of a pretrial bail report shall be provided only:</p>
+              </content>
+              <subparagraph eId="353_10__subsec_b__para_9__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>To the defendant or defendant's counsel;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_10__subsec_b__para_9__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>To the prosecuting attorney;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_10__subsec_b__para_9__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>To the department of corrections and
+rehabilitation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_10__subsec_b__para_9__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>To any psychiatrist, psychologist, or
+other treatment practitioner who is treating the defendant pursuant to a court
+order;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_10__subsec_b__para_9__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>Upon request, to the adult client
+services branch; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_10__subsec_b__para_9__subpara_F">
+                <num>(F)</num>
+                <content>
+                  <p>In accordance with applicable laws,
+persons, or entities doing research.  The research entity must be approved and
+contracted by the department of corrections and rehabilitation to protect the
+confidentiality of the information, insofar as the information is not a public
+record. [L 1987, c 338, pt of §3; am L 1989, c 211, §8; am L 1996, c 130, §2;
+am L Sp 2009, c 24, §1; am L 2012, c 76, §3, c 139, §§3, 14</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="353_10__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>and c 141, §1;
+am L 2013, c 67, §§1, 2; am L 2019, c 179, §13; am L 2022, c 278, §29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

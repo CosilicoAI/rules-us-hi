@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/348-1"/>
+          <FRBRuri value="/us-hi/act/hrs/348-1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/348-1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/348-1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/348-1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/348-1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_348">
+        <num>Chapter 348</num>
+        <heading>Vocational Rehabilitation</heading>
+        <section eId="sec_348_1">
+          <num>348-1</num>
+          <heading>Section 348-1</heading>
+          <content>
+            <p>§348-1  State vocational rehabilitation;
+policy and scope.
+(a)  Vocational rehabilitation services shall be
+provided to handicapped individuals throughout the State in accordance with
+this chapter and within the limits of available federal, state, and private
+funds.  The vocational rehabilitation plan, formulated in conformance with the
+Federal Vocational Rehabilitation Act, as amended, and adopted pursuant to this
+chapter, shall be in effect in all political subdivisions of the State.
+(b)  The acceptance of federal funds,
+donations, grants-in-aid, and outright grants, for use in carrying out the
+purposes of this chapter, is authorized, provided restrictions imposed by the
+donor are not inconsistent with this chapter. [L 1955, c 231, pt of §2; RL
+1955, §42-30; HRS §348-1; am L 1969, c 53, §1; am L 1979, c 188, §1(1)]
+Cross References
+Administration of vocational rehabilitation, see §26-14.
+Regulation of occupational therapy practice, see chapter
+457G.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="348_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Vocational rehabilitation services shall be
+provided to handicapped individuals throughout the State in accordance with
+this chapter and within the limits of available federal, state, and private
+funds.  The vocational rehabilitation plan, formulated in conformance with the
+Federal Vocational Rehabilitation Act, as amended, and adopted pursuant to this
+chapter, shall be in effect in all political subdivisions of the State.</p>
+            </content>
+          </subsection>
+          <subsection eId="348_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The acceptance of federal funds,
+donations, grants-in-aid, and outright grants, for use in carrying out the
+purposes of this chapter, is authorized, provided restrictions imposed by the
+donor are not inconsistent with this chapter. [L 1955, c 231, pt of §2; RL
+1955, §42-30; HRS §348-1; am L 1969, c 53, §1; am L 1979, c 188, §1(1)]
+Cross References
+Administration of vocational rehabilitation, see §26-14.
+Regulation of occupational therapy practice, see chapter
+457G.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

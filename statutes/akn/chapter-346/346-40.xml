@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-40"/>
+          <FRBRuri value="/us-hi/act/hrs/346-40"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-40/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-40/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-40/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-40/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_40">
+          <num>346-40</num>
+          <heading>Section 346-40</heading>
+          <content>
+            <p>§346-40  Maintenance and availability of
+records; penalty.
+(a)  To enable another provider to determine the proper
+course of treatment in emergencies and in order to determine whether a provider
+is genuinely entitled to reimbursement and to protect the medicaid program
+against fraud and abuse, each provider of health care, service or supplies
+under the state medicaid program shall maintain, and keep for a period of three
+years, such records as are necessary to disclose fully the type and extent of
+health care, service or supplies provided to medicaid recipients.  The
+department may identify the types of records necessary to be kept by
+promulgation of appropriate rules.
+(b)  No provider shall refuse or fail to make
+available at the provider's place of business or appropriate location, during
+normal business hours, or, if the appropriate representative agrees, at the
+mutual convenience of the parties, immediate access to all records required to
+be maintained under this section or rules promulgated hereunder and all
+diagnostic devices concerning or used for the provision of health care, service
+or supplies to a medicaid recipient to any duly authorized representative of the
+attorney general's office or the department of human services acting in the
+course and scope of the duly authorized representative's employment; such
+diagnostic devices may be examined and tested and such records may be retained
+by said duly authorized representative for a reasonable period of time for the
+purpose of examination, audit, copying, testing or photographing.  This
+subsection shall supersede any other provision of the Hawaii Revised Statutes
+to the contrary notwithstanding.
+(c)  Whenever a provider without reasonable
+justification fails to keep adequate supporting records as required by this
+section or rules promulgated hereunder or fails to make them available as
+required by this section, the director of human services shall suspend the
+provider during the period of noncompliance with this section, and no payment
+may be made to such provider with respect to any item or service furnished by
+such provider during the period of suspension.  A provider shall receive notice
+and be provided an opportunity for a hearing in compliance with regulations of
+the department of human services for such suspension.
+(d)  Wilful refusal or failure to make records
+available as provided in subsection (b) of this section is a misdemeanor. [L
+1978, c 105, §6; gen ch 1985; am L 1987, c 339, §4]
+Revision Note
+Subsection designations &quot;b&quot;, &quot;c&quot;, and
+&quot;d&quot; substituted for &quot;c&quot;, &quot;d&quot;, and &quot;e&quot;
+pursuant to §23G-15.
+Cross References
+Medicaid fraud unit, see §28-91.
+Case Notes
+State has compelling interest in ensuring that medicaid
+program is not being defrauded.  481 F. Supp. 1028 (1979).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_40__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To enable another provider to determine the proper
+course of treatment in emergencies and in order to determine whether a provider
+is genuinely entitled to reimbursement and to protect the medicaid program
+against fraud and abuse, each provider of health care, service or supplies
+under the state medicaid program shall maintain, and keep for a period of three
+years, such records as are necessary to disclose fully the type and extent of
+health care, service or supplies provided to medicaid recipients.  The
+department may identify the types of records necessary to be kept by
+promulgation of appropriate rules.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_40__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No provider shall refuse or fail to make
+available at the provider's place of business or appropriate location, during
+normal business hours, or, if the appropriate representative agrees, at the
+mutual convenience of the parties, immediate access to all records required to
+be maintained under this section or rules promulgated hereunder and all
+diagnostic devices concerning or used for the provision of health care, service
+or supplies to a medicaid recipient to any duly authorized representative of the
+attorney general's office or the department of human services acting in the
+course and scope of the duly authorized representative's employment; such
+diagnostic devices may be examined and tested and such records may be retained
+by said duly authorized representative for a reasonable period of time for the
+purpose of examination, audit, copying, testing or photographing.  This
+subsection shall supersede any other provision of the Hawaii Revised Statutes
+to the contrary notwithstanding.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_40__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Whenever a provider without reasonable
+justification fails to keep adequate supporting records as required by this
+section or rules promulgated hereunder or fails to make them available as
+required by this section, the director of human services shall suspend the
+provider during the period of noncompliance with this section, and no payment
+may be made to such provider with respect to any item or service furnished by
+such provider during the period of suspension.  A provider shall receive notice
+and be provided an opportunity for a hearing in compliance with regulations of
+the department of human services for such suspension.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_40__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Wilful refusal or failure to make records
+available as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="346_40__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section is a misdemeanor. [L
+1978, c 105, §6; gen ch 1985; am L 1987, c 339, §4]
+Revision Note
+Subsection designations &quot;b&quot;, &quot;c&quot;, and
+&quot;d&quot; substituted for &quot;c&quot;, &quot;d&quot;, and &quot;e&quot;
+pursuant to §23G-15.
+Cross References
+Medicaid fraud unit, see §28-91.
+Case Notes
+State has compelling interest in ensuring that medicaid
+program is not being defrauded.  481 F. Supp. 1028 (1979).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

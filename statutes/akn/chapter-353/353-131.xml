@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-131"/>
+          <FRBRuri value="/us-hi/act/hrs/353-131"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-131/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-131/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-131/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-131/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_131">
+          <num>353-131</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>[PART VII.] 
+AUTOMATED VICTIM INFORMATION AND
+NOTIFICATION
+SYSTEM
+§353-131  Definitions.
+For purposes of
+this part:
+&quot;Offender&quot; means a person in the
+custody of the department of corrections and rehabilitation or the Hawaii
+paroling authority but does not include juveniles under the jurisdiction of the
+family court.
+&quot;System&quot; means the statewide
+automated victim information and notification system.
+&quot;Victim&quot; means a person against whom
+a crime has been committed by the offender and includes, in homicide cases,
+surviving immediate family members. [L 2012, c 190, pt of §1; am L 2022, c 278,
+§29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

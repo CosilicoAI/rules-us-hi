@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-1"/>
+          <FRBRuri value="/us-hi/act/hrs/349-1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_1">
+          <num>349-1</num>
+          <heading>Section 349-1</heading>
+          <content>
+            <p>PART I. 
+GENERAL PROVISIONS
+Note
+Sections 349-1 to 349-11 designated as Part I by L 2007, c 93,
+§3.
+§349-1  Declaration of purpose; support;
+duties.
+(a)  The legislature hereby declares that, in keeping with the
+traditional American concept of the inherent dignity of the individual in our
+democratic society, the older people of our State are entitled to, and it is
+the joint and several duty and responsibility of the State of Hawaii and its
+counties to enable our older people to secure equal opportunity to the full and
+free enjoyment of the following:
+(1)  An adequate income in retirement in accordance
+with the American standard of living;
+(2)  The best possible physical and mental health
+which science can make available, without regard to economic status;
+(3)  Suitable housing, independently selected,
+designed, and located with reference to special needs and available at costs which
+older citizens can afford;
+(4)  Full restorative services for those who require
+institutional care;
+(5)  Opportunity for employment with no discriminatory
+personnel practices because of age;
+(6)  Retirement in health, honor, and dignity;
+(7)  Pursuit of meaningful activity within the widest
+range of civic, cultural, and recreational opportunities;
+(8)  Efficient community services which provide social
+assistance in a coordinated manner and which are readily available when needed;
+(9)  Immediate benefit from proven research knowledge
+which can sustain and improve health and happiness;
+(10)  Freedom, independence, and the free exercise of
+individual initiative in planning and managing their own lives.
+(b)  In support of the declaration of purpose
+in subsection (a), it shall be the policy of the State and its counties to:
+(1)  Make available comprehensive programs which
+include a full range of health, education, and social services to our older
+residents who need them;
+(2)  Give full and special consideration to older
+residents with special needs in planning such programs; and, pending the
+availability of such programs for all older residents, give priority to elders
+with the greatest economic and social need;
+(3)  Provide comprehensive programs which will assure
+the coordinated delivery of a full range of essential services to our older
+residents, and where applicable, also furnish meaningful employment
+opportunities for individuals, including older persons from the community; and
+(4)  Insure that the planning and operation of such
+programs will be undertaken as a partnership of older residents, the at-large
+community, and the State and its counties with appropriate assistance from the
+federal government.
+(c)  It shall be the duty and responsibility of
+every state department and county agency providing programs and services to
+elders to actively work toward the goals articulated in subsections (a) and (b)
+and to employ the State's policy as included in the state master plan for
+elders in the planning and implementation of their individual programs. [L
+1976, c 217, pt of §2; am L 1990, c 67, §8]
+Revision Note
+In subsection (a)(1) to (9), punctuation changed pursuant to
+§23G-15.
+Cross References
+Housing for elders, see chapter 356D, part IV.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The legislature hereby declares that, in keeping with the
+traditional American concept of the inherent dignity of the individual in our
+democratic society, the older people of our State are entitled to, and it is
+the joint and several duty and responsibility of the State of Hawaii and its
+counties to enable our older people to secure equal opportunity to the full and
+free enjoyment of the following:</p>
+            </content>
+            <paragraph eId="349_1__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>An adequate income in retirement in accordance
+with the American standard of living;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The best possible physical and mental health
+which science can make available, without regard to economic status;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Suitable housing, independently selected,
+designed, and located with reference to special needs and available at costs which
+older citizens can afford;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Full restorative services for those who require
+institutional care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Opportunity for employment with no discriminatory
+personnel practices because of age;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Retirement in health, honor, and dignity;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Pursuit of meaningful activity within the widest
+range of civic, cultural, and recreational opportunities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Efficient community services which provide social
+assistance in a coordinated manner and which are readily available when needed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Immediate benefit from proven research knowledge
+which can sustain and improve health and happiness;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_a__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Freedom, independence, and the free exercise of
+individual initiative in planning and managing their own lives.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In support of the declaration of purpose
+in subsection</p>
+            </content>
+            <paragraph eId="349_1__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Make available comprehensive programs which
+include a full range of health, education, and social services to our older
+residents who need them;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Give full and special consideration to older
+residents with special needs in planning such programs; and, pending the
+availability of such programs for all older residents, give priority to elders
+with the greatest economic and social need;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Provide comprehensive programs which will assure
+the coordinated delivery of a full range of essential services to our older
+residents, and where applicable, also furnish meaningful employment
+opportunities for individuals, including older persons from the community; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_1__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Insure that the planning and operation of such
+programs will be undertaken as a partnership of older residents, the at-large
+community, and the State and its counties with appropriate assistance from the
+federal government.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>It shall be the duty and responsibility of
+every state department and county agency providing programs and services to
+elders to actively work toward the goals articulated in subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="349_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="349_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and to employ the State's policy as included in the state master plan for
+elders in the planning and implementation of their individual programs. [L
+1976, c 217, pt of §2; am L 1990, c 67, §8]
+Revision Note
+In subsection</p>
+            </content>
+            <paragraph eId="349_1__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>to (9), punctuation changed pursuant to
+§23G-15.
+Cross References
+Housing for elders, see chapter 356D, part IV.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

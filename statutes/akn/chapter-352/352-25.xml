@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/352-25"/>
+          <FRBRuri value="/us-hi/act/hrs/352-25"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/352-25/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/352-25/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/352-25/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/352-25/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_352">
+        <num>Chapter 352</num>
+        <heading>Youth Correctional Facilities</heading>
+        <section eId="sec_352_25">
+          <num>352-25</num>
+          <heading>Furlough, parole, discharge</heading>
+          <content>
+            <p>§352-25  Furlough, parole, discharge.
+(a) 
+The director, for good reasons shown to the director's satisfaction, may
+furlough or parole any person committed to the director's custody.  The
+director shall give the court and the prosecutor's office of the appropriate
+county a thirty-day notice prior to discharging a committed person.  Prior
+court approval shall be obtained when such is specifically required in the
+commitment order.
+No furlough, parole, or discharge shall be
+granted unless it appears to the director that there is a reasonable
+probability that the person will not violate the law and that the person's
+release is not incompatible with the welfare and safety of society.
+(b)  When granting parole, the director shall
+consider whether:
+(1)  The results of a risk and needs assessment
+indicate the person is at a lower risk to reoffend;
+(2)  The person has substantially complied with the
+facility rules and has had no significant misconduct in the prior two months;
+(3)  The person has demonstrated efforts toward
+rehabilitation;
+(4)  The person is likely to follow the reentry plan
+established pursuant to section 352-8.5; and
+(5)  A home visit has been completed and the living
+situation upon parole is determined to be safe and conducive to rehabilitation.
+The form of furlough or parole may include
+return to the person's own home, transfer to another youth correctional
+facility, a group home or foster home placement, or other appropriate
+alternative.  Nonresidential programs may be made available to selected persons
+on furlough such that they return to the facility during nontreatment hours.
+(c)  The director shall submit an annual report
+to the board of family court judges and the Hawaii juvenile justice state
+advisory council.  The report shall include the number of persons committed to
+the director's custody who are not serving a concurrent term of probation, the
+number of those persons who were granted parole in the previous year, the
+length of the parole term for each paroled person, and the number of persons on
+parole who return to the Hawaii youth correctional facilities for any reason. [L
+1980, c 303, pt of §8(1); am L 1990, c 92, §2; am L 1997, c 325, §2; am L 2014,
+c 201, §4]
+Note
+The 2014 amendment applies to delinquent behavior committed
+on or after July 1, 2014.  L 2014, c 201, §21.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="352_25__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director, for good reasons shown to the director's satisfaction, may
+furlough or parole any person committed to the director's custody.  The
+director shall give the court and the prosecutor's office of the appropriate
+county a thirty-day notice prior to discharging a committed person.  Prior
+court approval shall be obtained when such is specifically required in the
+commitment order.
+No furlough, parole, or discharge shall be
+granted unless it appears to the director that there is a reasonable
+probability that the person will not violate the law and that the person's
+release is not incompatible with the welfare and safety of society.</p>
+            </content>
+          </subsection>
+          <subsection eId="352_25__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When granting parole, the director shall
+consider whether:</p>
+            </content>
+            <paragraph eId="352_25__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The results of a risk and needs assessment
+indicate the person is at a lower risk to reoffend;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="352_25__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The person has substantially complied with the
+facility rules and has had no significant misconduct in the prior two months;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="352_25__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The person has demonstrated efforts toward
+rehabilitation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="352_25__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The person is likely to follow the reentry plan
+established pursuant to section 352-8.5; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="352_25__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>A home visit has been completed and the living
+situation upon parole is determined to be safe and conducive to rehabilitation.
+The form of furlough or parole may include
+return to the person's own home, transfer to another youth correctional
+facility, a group home or foster home placement, or other appropriate
+alternative.  Nonresidential programs may be made available to selected persons
+on furlough such that they return to the facility during nontreatment hours.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="352_25__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director shall submit an annual report
+to the board of family court judges and the Hawaii juvenile justice state
+advisory council.  The report shall include the number of persons committed to
+the director's custody who are not serving a concurrent term of probation, the
+number of those persons who were granted parole in the previous year, the
+length of the parole term for each paroled person, and the number of persons on
+parole who return to the Hawaii youth correctional facilities for any reason. [L
+1980, c 303, pt of §8(1); am L 1990, c 92, §2; am L 1997, c 325, §2; am L 2014,
+c 201, §4]
+Note
+The 2014 amendment applies to delinquent behavior committed
+on or after July 1, 2014.  L 2014, c 201, §21.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-32"/>
+          <FRBRuri value="/us-hi/act/hrs/237-32"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-32/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-32/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-32/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-32/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_32">
+          <num>237-32</num>
+          <heading>Penalties</heading>
+          <content>
+            <p>§237-32  Penalties.
+Penalties and
+interest shall be added to and become a part of the tax, when and as provided
+by section 231-39. [L 1935, c 141, pt of §13; am L 1941, c 265, §8; RL 1945,
+§5463; am L 1945, c 253, §5; am L 1953, c 125, §10; RL 1955, §117-27; HRS
+§237-32]
+Case Notes
+Penalties and interest automatically follow nonpayment of
+taxes.  40 H. 121 (1953), aff'd 216 F.2d 700 (1954).
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

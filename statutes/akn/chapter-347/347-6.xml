@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/347-6"/>
+          <FRBRuri value="/us-hi/act/hrs/347-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/347-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/347-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/347-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/347-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_347">
+        <num>Chapter 347</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_347_6">
+          <num>347-6</num>
+          <heading>Registration of blind</heading>
+          <content>
+            <p>§347-6  Registration of blind.
+The
+department of human services shall cause to be maintained a complete register
+of the blind in the State which shall describe the condition, causes of
+blindness, capacity for education and industrial training, and such other facts
+as may seem to it to be of value regarding each blind person, together with
+recommendations for rehabilitation and relief.
+It shall register cases of persons whose
+eyesight is seriously defective or who are likely to become visually
+handicapped or blind, and take such measures in cooperation with other
+authorities, as it deems advisable for the prevention of blindness or conservation
+of eyesight, and in appropriate cases provide for or secure the vocational
+guidance of persons having seriously defective sight. [L 1941, c 296, pt of §1;
+RL 1945, §4857, ren §4872; am L 1945, c 113, §5; RL 1955, §109-6; am L Sp 1959
+2d, c 1, §20; HRS §347-6; am L 1970, c 105, §5; am L 1987, c 339, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

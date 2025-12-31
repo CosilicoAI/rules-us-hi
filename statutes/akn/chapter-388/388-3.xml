@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/388-3"/>
+          <FRBRuri value="/us-hi/act/hrs/388-3"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/388-3/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/388-3/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/388-3/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/388-3/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_388">
+        <num>Chapter 388</num>
+        <heading>Payment of Wages and Other Compensation</heading>
+        <section eId="sec_388_3">
+          <num>388-3</num>
+          <heading>Section 388-3</heading>
+          <content>
+            <p>§388-3  Employees who are separated from the
+payroll before paydays.
+(a)  Whenever an employer discharges an employee
+either with or without cause, the employer shall pay the employee's wages in
+full at the time of discharge or if the discharge occurs at a time and under
+conditions which prevent an employer from making immediate payment, then not
+later than the working day following discharge.
+(b)  Whenever an employee quits or resigns, the
+employer shall pay the employee's wages in full no later than the next regular
+payday, as provided under section 388-2, either through the regular pay
+channels or by mail if requested by the employee, except that if the employee
+gives at least one pay period's notice of intention to quit, the employer shall
+pay all wages earned by the employee at the time of quitting.
+(c)  When work of an employee is suspended as a
+result of a labor dispute, or when an employee for any reason whatsoever is
+temporarily laid off, the employer shall pay in full to the employee not later
+than the next regular payday, as designated under section 388-2, either through
+the regular pay channels or by mail if requested by the employee, wages earned
+at the time of suspension or layoff. [L 1963, c 158, pt of §3; Supp, §95-3; HRS
+§388-3]
+Case Notes
+In reading this section in the context of the entire statute
+and in light of the common law, the trial court did not err in concluding that
+payment for unused vacation upon separation from employment did not constitute
+&quot;wages&quot; under the plain meaning of §388-1.  108 H. 411, 121 P.3d 391
+(2005).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="388_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whenever an employer discharges an employee
+either with or without cause, the employer shall pay the employee's wages in
+full at the time of discharge or if the discharge occurs at a time and under
+conditions which prevent an employer from making immediate payment, then not
+later than the working day following discharge.</p>
+            </content>
+          </subsection>
+          <subsection eId="388_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Whenever an employee quits or resigns, the
+employer shall pay the employee's wages in full no later than the next regular
+payday, as provided under section 388-2, either through the regular pay
+channels or by mail if requested by the employee, except that if the employee
+gives at least one pay period's notice of intention to quit, the employer shall
+pay all wages earned by the employee at the time of quitting.</p>
+            </content>
+          </subsection>
+          <subsection eId="388_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>When work of an employee is suspended as a
+result of a labor dispute, or when an employee for any reason whatsoever is
+temporarily laid off, the employer shall pay in full to the employee not later
+than the next regular payday, as designated under section 388-2, either through
+the regular pay channels or by mail if requested by the employee, wages earned
+at the time of suspension or layoff. [L 1963, c 158, pt of §3; Supp, §95-3; HRS
+§388-3]
+Case Notes
+In reading this section in the context of the entire statute
+and in light of the common law, the trial court did not err in concluding that
+payment for unused vacation upon separation from employment did not constitute
+&quot;wages&quot; under the plain meaning of §388-1.  108 H. 411, 121 P.3d 391
+(2005).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

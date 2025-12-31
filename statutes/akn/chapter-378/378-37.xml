@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-37"/>
+          <FRBRuri value="/us-hi/act/hrs/378-37"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-37/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-37/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-37/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-37/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_37">
+          <num>378-37</num>
+          <heading>Section 378-37</heading>
+          <content>
+            <p>§378-37  Enforcement of order; judgment
+rendered thereon.
+If an employer fails or neglects to comply with the
+final order of the department of labor and industrial relations from which no
+appeal has been taken as provided by this part, the department or the employee
+affected may apply to the circuit court of the judicial circuit in which the
+employer resides or transacts business for a judgment to enforce the provisions
+of the final order and for any other appropriate relief.  In any proceeding to
+enforce the provisions of the final order, the department or the employee
+affected need only file with the court proof that notice of the hearing was
+given, a certified copy of the final order, and proof that the final order was
+served.  The judgment shall have the same effect, and all proceedings in
+relation thereto shall thereafter be the same, as though the judgment had been
+rendered in an action duly heard and determined by the court. [L 1967, c 22, pt
+of §1; HRS §378-37; am L 1986, c 21, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

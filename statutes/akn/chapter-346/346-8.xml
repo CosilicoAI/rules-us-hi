@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-8"/>
+          <FRBRuri value="/us-hi/act/hrs/346-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_8">
+          <num>346-8</num>
+          <heading>Additional funds</heading>
+          <content>
+            <p>§346-8  Additional funds.
+(a)  The
+department of human services may accept and deposit with the director of
+finance, for use in carrying out any of the purposes of this chapter or for
+costs of administration, any funds which may be provided by the United States
+government, any county, or any other source, in each case upon such terms and
+conditions as the department, in its discretion, may approve.  All such funds
+shall be deemed additional to the funds provided by legislative appropriation. 
+Any such funds received in reimbursement of expenditures made from funds
+provided by legislative appropriation for any purpose are reappropriated for
+the same purpose.
+(b)  Except as expressly otherwise provided,
+all appropriations made by the legislature shall be deemed subject to the
+foregoing provisions, to the end that the amounts of such appropriations shall
+be deemed to limit the amounts expendable from the general fund of the State
+but not to limit the amounts expendable by the department.
+(c)  The department shall submit a report
+detailing all moneys received under this section to the legislature no later
+than twenty days prior to the convening of each regular session. [L 1933, c
+209, §22; RL 1935, chap IV, appendix, §22; am L 1941, c 213, §1(19); am L 1943,
+c 101, pt of §2; RL 1945, §4813; RL 1955, §107-11; am L Sp 1959 2d, c 1, §14;
+am L 1963, c 114, §1; HRS §346-8; am L 1970, c 105, §5; am L 1987, c 339, §4;
+am L 1993, c 280, §59]
+Case Notes
+Cited:  35 H. 855, 864 (1941), aff'd 130 F.2d 786 (1942).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The
+department of human services may accept and deposit with the director of
+finance, for use in carrying out any of the purposes of this chapter or for
+costs of administration, any funds which may be provided by the United States
+government, any county, or any other source, in each case upon such terms and
+conditions as the department, in its discretion, may approve.  All such funds
+shall be deemed additional to the funds provided by legislative appropriation. 
+Any such funds received in reimbursement of expenditures made from funds
+provided by legislative appropriation for any purpose are reappropriated for
+the same purpose.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except as expressly otherwise provided,
+all appropriations made by the legislature shall be deemed subject to the
+foregoing provisions, to the end that the amounts of such appropriations shall
+be deemed to limit the amounts expendable from the general fund of the State
+but not to limit the amounts expendable by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall submit a report
+detailing all moneys received under this section to the legislature no later
+than twenty days prior to the convening of each regular session. [L 1933, c
+209, §22; RL 1935, chap IV, appendix, §22; am L 1941, c 213, §1(19); am L 1943,
+c 101, pt of §2; RL 1945, §4813; RL 1955, §107-11; am L Sp 1959 2d, c 1, §14;
+am L 1963, c 114, §1; HRS §346-8; am L 1970, c 105, §5; am L 1987, c 339, §4;
+am L 1993, c 280, §59]
+Case Notes
+Cited:  35 H. 855, 864 (1941), aff'd 130 F.2d 786 (1942).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

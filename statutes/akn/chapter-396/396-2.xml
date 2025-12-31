@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/396-2"/>
+          <FRBRuri value="/us-hi/act/hrs/396-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/396-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/396-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/396-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/396-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_396">
+        <num>Chapter 396</num>
+        <heading>Occupational Safety and Health</heading>
+        <section eId="sec_396_2">
+          <num>396-2</num>
+          <heading>Findings and purpose</heading>
+          <content>
+            <p>§396-2  Findings and purpose.
+Through
+years of research and study, Congress has found that the number of industrial
+accidents that take place in the United States can be reduced if certain
+minimum standards are established and enforced.
+Congress has also found that personal injuries
+and illnesses arising out of work situations impose a substantial burden upon,
+and are a hindrance to, interstate commerce in terms of lost production, wage
+loss, medical expenses, and disability compensation payments.  The overall
+congressional findings would definitely be applicable to Hawaii.  There is a
+need to assure so far as possible, every working man and woman in the State
+safe and healthful working conditions.  This legislation is also designed to permit
+and encourage employer and employee efforts to reduce injury and disease
+arising out of employment, and to stimulate them to institute new programs and
+to perfect existing programs for providing safe and healthful working
+environments. [L 1972, c 57, pt of §1; am L 1976, c 95, §2]
+Case Notes
+Cited:  59 H. 53, 575 P.2d 1299 (1978).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

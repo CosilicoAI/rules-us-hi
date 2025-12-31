@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-184"/>
+          <FRBRuri value="/us-hi/act/hrs/346-184"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-184/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-184/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-184/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-184/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_184">
+          <num>346-184</num>
+          <heading>Section 346-184</heading>
+          <content>
+            <p>§346-184  Preschool open doors program;
+provider accreditation.
+(a)  Each service provider of the preschool open
+doors program shall be accredited or shall obtain accreditation within seven
+calendar years of first receiving any funds from the preschool open doors
+program; provided that any existing service provider unaccredited on July 1,
+2022, shall commence the accreditation process no later than July 1, 2029, and
+obtain accreditation by July 1, 2034; provided further that the director may grant
+to any service provider one or more extensions to obtain accreditation on a
+case-by-case basis.
+(b)  Accreditation under this section shall be
+obtained from one or more of the following national early learning accrediting
+organizations:
+(1)  National Association for the Education of Young
+Children;
+(2)  National Early Childhood Program Accreditation;
+(3)  National Association for Family Child Care; or
+(4)  An accrediting organization approved by the
+director.
+(c)  Notwithstanding subsections (a) and
+(b), a service provider may receive or continue to receive funding through the
+preschool open doors program if the service provider maintains a satisfactory
+performance rating under the Classroom Assessment Scoring System developed by
+the University of Virginia and performed in conformance with United States
+Department of Health and Human Services guidelines.
+(d)  The department shall provide operational
+and financial support to service providers to assist the service providers in
+obtaining accreditation.  The department may contract with a private entity to
+assist service providers in obtaining accreditation. [L 2020, c 46, pt of §7;
+am L 2021, c 210, §7; am L 2023, c 169, §5 and c 171, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_184__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each service provider of the preschool open
+doors program shall be accredited or shall obtain accreditation within seven
+calendar years of first receiving any funds from the preschool open doors
+program; provided that any existing service provider unaccredited on July 1,
+2022, shall commence the accreditation process no later than July 1, 2029, and
+obtain accreditation by July 1, 2034; provided further that the director may grant
+to any service provider one or more extensions to obtain accreditation on a
+case-by-case basis.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_184__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Accreditation under this section shall be
+obtained from one or more of the following national early learning accrediting
+organizations:</p>
+            </content>
+            <paragraph eId="346_184__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>National Association for the Education of Young
+Children;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_184__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>National Early Childhood Program Accreditation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_184__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>National Association for Family Child Care; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_184__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>An accrediting organization approved by the
+director.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_184__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notwithstanding subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="346_184__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="346_184__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department shall provide operational
+and financial support to service providers to assist the service providers in
+obtaining accreditation.  The department may contract with a private entity to
+assist service providers in obtaining accreditation. [L 2020, c 46, pt of §7;
+am L 2021, c 210, §7; am L 2023, c 169, §5 and c 171, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

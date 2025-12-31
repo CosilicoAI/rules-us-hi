@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-75"/>
+          <FRBRuri value="/us-hi/act/hrs/392-75"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-75/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-75/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-75/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-75/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_75">
+          <num>392-75</num>
+          <heading>Judicial review</heading>
+          <content>
+            <p>§392-75  Judicial review.
+Any party or
+the director may obtain judicial review of the decision of the referee in the
+manner provided in chapter 91, by instituting proceedings in the circuit court
+of the circuit in which the claimant resides or in which the claimant was last
+employed.  The proceedings shall be heard in a summary manner and shall be
+given precedence over all other civil cases except proceedings arising under
+the Employment Security Law and the Workers' Compensation Law of the State. 
+Proceedings for review by the intermediate appellate court, subject to chapter
+602, may be taken and had in the same manner as is provided for a review of a
+judgment of a circuit court.  No bond shall be required as a condition of
+initiating a proceeding for judicial review or initiating proceedings for
+review by the intermediate appellate court.  Upon the final termination of any
+judicial proceeding, the referee shall enter an order in accordance with the
+mandate of the court. [L 1969, c 148, pt of §1; am L 1975, c 41, §1; am L 2004,
+c 202, §47; am L 2006, c 94, §1; am L 2010, c 109, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

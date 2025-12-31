@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/257-2"/>
+          <FRBRuri value="/us-hi/act/hrs/257-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/257-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/257-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/257-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/257-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_257">
+        <num>Chapter 257</num>
+        <heading>Uniform Division of Income for Tax Purposes Act</heading>
+        <section eId="sec_257_2">
+          <num>257-2</num>
+          <heading>Eligible individuals</heading>
+          <content>
+            <p>[§257-2]  Eligible individuals.
+(a) 
+The income of the household of the individual development account holder shall
+not exceed eighty per cent of the area household median income.
+(b)  The individual shall enter into an
+individual development account agreement with a fiduciary organization. [L
+1999, c 160, pt of §25]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="257_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The income of the household of the individual development account holder shall
+not exceed eighty per cent of the area household median income.</p>
+            </content>
+          </subsection>
+          <subsection eId="257_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The individual shall enter into an
+individual development account agreement with a fiduciary organization. [L
+1999, c 160, pt of §25]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

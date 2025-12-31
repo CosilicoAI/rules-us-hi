@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/249-36"/>
+          <FRBRuri value="/us-hi/act/hrs/249-36"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/249-36/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/249-36/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/249-36/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/249-36/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_249">
+        <num>Chapter 249</num>
+        <heading>County Vehicular Taxes</heading>
+        <section eId="sec_249_36">
+          <num>249-36</num>
+          <heading>Section 249-36</heading>
+          <content>
+            <p>[§249-36]  State
+mileage-based road usage charge.
+(a)  Beginning July 1, 2025, in addition
+to all other fees and taxes levied by this chapter, electric vehicles shall be
+subject to a state mileage-based road usage charge.  The state mileage-based
+road usage charge shall be
+calculated
+by the
+county director of finance at the rate of 0.8 cents per mile traveled,
+multiplied by the number of miles traveled, less the estimated amount of paid
+state fuel taxes that correspond with the number of miles traveled.  The
+department shall adopt rules pursuant to chapter 91 to determine the method for
+calculating the estimated amount of paid state fuel taxes that correspond with
+the number of miles traveled.  The number of miles traveled shall be calculated
+as the difference between the vehicle's two most recent odometer readings, as
+noted on the vehicle's certificate of inspection pursuant to section 286
+‑
+26(e).  The state mileage-based road usage charge shall be
+not less than $0, and the state mileage-based road usage charge shall be not
+more than $50 per year.  For the first registration renewal of new motor
+vehicles for which no certificate of inspection is required, the state mileage-based
+road usage charge assessed shall be $50, and such amount once paid shall be
+subtracted from the calculation of the state mileage-based road usage charge
+upon that vehicle's second registration renewal.
+(b)  The state
+mileage-based road usage charge shall be paid each year following the vehicle's
+most recent inspection together with all other taxes and fees levied by this
+chapter on a staggered basis as established by each county as authorized by
+section 286-51 so that the state mileage-based road usage charge is due and
+payable at the same time and shall be collected together with the county
+vehicle weight tax.  The state mileage-based road usage charge shall be deemed
+delinquent if not paid with the county registration fee.  The respective
+counties shall collect this road usage charge together with the vehicle weight
+tax collected for the county and shall transfer the moneys collected under this
+section to the state director of finance for deposit into the state highway
+fund established under section 248-8.
+(c)  Vehicles subject
+to the state mileage-based road usage charge shall include all electric
+vehicles in the State except for vehicles that qualify for any of the
+exemptions in sections 249-4, 249-5.5, 249-6, and 249-6.5.
+(d)  Until June 30, 2028, owners of electric
+vehicles shall be offered a choice to pay a $50 registration surcharge in lieu
+of the state mileage-based road usage charge
+.
+(e)  The department of transportation shall
+develop a long-term mileage-based road usage charge implementation plan that
+includes findings, recommendations, implementation phase schedules, and
+proposed legislation for the deployment of a state mileage-based road usage
+charge program to encompass all passenger vehicles and light duty trucks by
+December 31, 2033.  The plan shall also include recommendations for ensuring
+compatibility with the deployment of a mileage-based road usage charge by any
+county and recommendations on how to ensure that broad implementation continues
+to account for and incentivize more fuel-efficient vehicles.  The plan shall be
+completed and submitted to the legislature no later than twenty days prior to
+the convening of the regular session of 2026.
+(f)  T
+he department
+of transportation shall adopt rules pursuant to chapter 91 for establishing and
+administering the state mileage-based road usage charge.
+(g)  For the purposes
+of this section, &quot;electric vehicle&quot; means a vehicle, with three or
+more wheels, a gross vehicle weight rating less than or equal to ten thousand
+pounds, and the capability to operate legally at a speed of more than thirty-five
+miles per hour, that draws propulsion energy exclusively from a battery that
+can be recharged from an external source of electricity. [L 2023, c 222, §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="249_36__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning July 1, 2025, in addition
+to all other fees and taxes levied by this chapter, electric vehicles shall be
+subject to a state mileage-based road usage charge.  The state mileage-based
+road usage charge shall be
+calculated
+by the
+county director of finance at the rate of 0.8 cents per mile traveled,
+multiplied by the number of miles traveled, less the estimated amount of paid
+state fuel taxes that correspond with the number of miles traveled.  The
+department shall adopt rules pursuant to chapter 91 to determine the method for
+calculating the estimated amount of paid state fuel taxes that correspond with
+the number of miles traveled.  The number of miles traveled shall be calculated
+as the difference between the vehicle's two most recent odometer readings, as
+noted on the vehicle's certificate of inspection pursuant to section 286
+‑
+26</p>
+            </content>
+          </subsection>
+          <subsection eId="249_36__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The state
+mileage-based road usage charge shall be paid each year following the vehicle's
+most recent inspection together with all other taxes and fees levied by this
+chapter on a staggered basis as established by each county as authorized by
+section 286-51 so that the state mileage-based road usage charge is due and
+payable at the same time and shall be collected together with the county
+vehicle weight tax.  The state mileage-based road usage charge shall be deemed
+delinquent if not paid with the county registration fee.  The respective
+counties shall collect this road usage charge together with the vehicle weight
+tax collected for the county and shall transfer the moneys collected under this
+section to the state director of finance for deposit into the state highway
+fund established under section 248-8.</p>
+            </content>
+          </subsection>
+          <subsection eId="249_36__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Vehicles subject
+to the state mileage-based road usage charge shall include all electric
+vehicles in the State except for vehicles that qualify for any of the
+exemptions in sections 249-4, 249-5.5, 249-6, and 249-6.5.</p>
+            </content>
+          </subsection>
+          <subsection eId="249_36__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Until June 30, 2028, owners of electric
+vehicles shall be offered a choice to pay a $50 registration surcharge in lieu
+of the state mileage-based road usage charge
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="249_36__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department of transportation shall
+develop a long-term mileage-based road usage charge implementation plan that
+includes findings, recommendations, implementation phase schedules, and
+proposed legislation for the deployment of a state mileage-based road usage
+charge program to encompass all passenger vehicles and light duty trucks by
+December 31, 2033.  The plan shall also include recommendations for ensuring
+compatibility with the deployment of a mileage-based road usage charge by any
+county and recommendations on how to ensure that broad implementation continues
+to account for and incentivize more fuel-efficient vehicles.  The plan shall be
+completed and submitted to the legislature no later than twenty days prior to
+the convening of the regular session of 2026.</p>
+            </content>
+          </subsection>
+          <subsection eId="249_36__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>T
+he department
+of transportation shall adopt rules pursuant to chapter 91 for establishing and
+administering the state mileage-based road usage charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="249_36__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>For the purposes
+of this section, &quot;electric vehicle&quot; means a vehicle, with three or
+more wheels, a gross vehicle weight rating less than or equal to ten thousand
+pounds, and the capability to operate legally at a speed of more than thirty-five
+miles per hour, that draws propulsion energy exclusively from a battery that
+can be recharged from an external source of electricity. [L 2023, c 222, §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

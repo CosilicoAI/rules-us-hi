@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/347-8"/>
+          <FRBRuri value="/us-hi/act/hrs/347-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/347-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/347-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/347-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/347-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_347">
+        <num>Chapter 347</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_347_8">
+          <num>347-8</num>
+          <heading>Workshops</heading>
+          <content>
+            <p>§347-8  Workshops.
+The department of
+human services may also, whenever it deems proper, aid blind and visually
+handicapped persons and others, who, in the opinion of the department, will be
+benefited by the experience, to become self-supporting by employing them in
+workshops or in their own homes at such compensation as the department may
+determine their services shall warrant and by furnishing them with materials,
+machinery, necessary supervision, and other help and facilities.  No person so
+employed shall be deemed an employee of the State or of the department within
+the meaning of this or any other chapter, or any act; provided that persons
+employed in such workshops shall come under and be entitled to all the benefits
+of chapter 386 relating to workers' compensation, the cost of which shall be
+borne by the state insurance fund; provided further that nothing in this
+section shall be construed to prevent the persons so employed from being
+considered employees of the State or of the department for purposes of part VI,
+chapter 88, if they would be considered employees under Title II of the federal
+Social Security Act, as amended. [L 1941, c 296, pt of §1; RL 1945, §4860, ren
+§4875; am L 1945, c 113, §5; am L 1951, c 259, §1; RL 1955, §109-9; am L 1957,
+c 91, §1; am L 1959, c 246, §6; am L Sp 1959 2d, c 1, §20; HRS §347-8; am L
+1970, c 105, §5; am L 1975, c 41, §1; am L 1987, c 339, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-44"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-44"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-44/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-44/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-44/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-44/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_44">
+          <num>356D-44</num>
+          <heading>Section 356D-44</heading>
+          <content>
+            <p>§356D-44  Administration of state low-income
+public housing projects and programs.
+(a)  The authority shall construct,
+develop, and administer property or housing for the purpose of state low-income
+public housing projects and programs.
+(b)  The authority shall offer any
+decommissioned low-income public housing project, except for federal housing
+projects, to nonprofit or for-profit organizations or government agencies for
+rehabilitation into emergency or transitional shelter facilities for the
+homeless or rehabilitation into rental units that set aside at least fifty per
+cent of the units to persons or families with incomes at or below fifty per
+cent of the area median family income; provided that:
+(1)  The housing project is wholly owned by the State
+on either state-owned or ceded lands;
+(2)  The authority has determined that the housing
+project is not eligible for rehabilitation using the authority's current
+resources; and
+(3)  The nonprofit or for-profit organization or
+government agency demonstrates expertise in rehabilitation of housing projects
+and has community, public, and private resources to substantially pay for the
+rehabilitation.
+The land and improvements may be leased to the
+nonprofit or for-profit organization or government agency for a period not to
+exceed ninety-nine years for a sum of $1 per year.
+(c)  The authority shall adopt necessary rules
+in accordance with chapter 91, including the establishment and collection of
+reasonable fees for administering the state low-income housing projects or
+programs and to carry out any state program under subsection (a). [L 2006, c
+180, pt of §2; am L 2007, c 249, §35; am L 2017, c 114, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_44__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The authority shall construct,
+develop, and administer property or housing for the purpose of state low-income
+public housing projects and programs.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_44__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The authority shall offer any
+decommissioned low-income public housing project, except for federal housing
+projects, to nonprofit or for-profit organizations or government agencies for
+rehabilitation into emergency or transitional shelter facilities for the
+homeless or rehabilitation into rental units that set aside at least fifty per
+cent of the units to persons or families with incomes at or below fifty per
+cent of the area median family income; provided that:</p>
+            </content>
+            <paragraph eId="356D_44__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The housing project is wholly owned by the State
+on either state-owned or ceded lands;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_44__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The authority has determined that the housing
+project is not eligible for rehabilitation using the authority's current
+resources; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_44__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The nonprofit or for-profit organization or
+government agency demonstrates expertise in rehabilitation of housing projects
+and has community, public, and private resources to substantially pay for the
+rehabilitation.
+The land and improvements may be leased to the
+nonprofit or for-profit organization or government agency for a period not to
+exceed ninety-nine years for a sum of $1 per year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_44__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The authority shall adopt necessary rules
+in accordance with chapter 91, including the establishment and collection of
+reasonable fees for administering the state low-income housing projects or
+programs and to carry out any state program under subsection</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

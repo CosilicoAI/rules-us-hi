@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/351-81"/>
+          <FRBRuri value="/us-hi/act/hrs/351-81"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/351-81/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/351-81/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/351-81/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/351-81/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_351">
+        <num>Chapter 351</num>
+        <heading>Crime Victim Compensation</heading>
+        <section eId="sec_351_81">
+          <num>351-81</num>
+          <heading>Section 351-81</heading>
+          <content>
+            <p>PART VI. 
+LIMITING COMMERCIAL EXPLOITATION OF CRIME
+§351-81  Deposit of copy of contract upon
+indictment or charge of criminal offense.
+Every person, firm, corporation,
+partnership, association, or other legal entity upon entering into a contract
+with any person indicted or charged with a criminal offense committed in this
+State or a representative or assignee of any such person, shall submit a copy
+of the contract to the commission if:
+(1)  The contract provides for monetary compensation
+payable to the person indicted or charged or payable at the person's direction;
+and
+(2)  The subject matter of the contract is the
+reenactment of the crime, or the expression of the thoughts, feelings,
+opinions, or emotions of the person about the criminal offense for which the
+person is indicted or charged which is to be reflected in a movie, book,
+article, radio or television program, or other form of communication. [L 1986,
+c 155, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-365"/>
+          <FRBRuri value="/us-hi/act/hrs/346-365"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-365/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-365/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-365/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-365/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_365">
+          <num>346-365</num>
+          <heading>Program administration</heading>
+          <content>
+            <p>[§346-365]  Program administration.
+To
+the extent that appropriations are made available, the department may contract
+with a provider agency to administer homeless facilities or any other program
+for the homeless created by this part.  The selection of provider agencies to
+administer homeless facilities or any other program for the homeless authorized
+by this part shall not be subject to chapters 42F, 102, and 103.  The selection
+of provider agencies shall be subject to qualifying standards and criteria
+established by rule.
+The provider agency shall be qualified by the department
+to operate and manage a homeless facility or any other program for the homeless
+authorized by this part pursuant to standards and criteria established by rules
+for eligibility. [L 2010, c 89, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

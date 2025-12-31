@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-66"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-66"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-66/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-66/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-66/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-66/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_66">
+          <num>356D-66</num>
+          <heading>Judicial review</heading>
+          <content>
+            <p>[§356D-66]  Judicial review.
+(a)  Any
+tenant aggrieved by a final decision and order of the authority or by a
+preliminary ruling of the nature that deferral of review pending entry of a
+subsequent final decision would deprive the appellant of adequate relief is
+entitled to judicial review thereof under this subpart.
+(b)  Except as otherwise provided in this
+section, proceedings for review shall be instituted in the circuit court within
+thirty days after the preliminary ruling or within thirty days after service of
+the certified copy of the final decision and order of the authority pursuant to
+the rules of the court, except where a statute provides for a direct appeal to
+the intermediate appellate court.  In such cases, the appeal shall be treated
+in the same manner as an appeal from the circuit court, including payment of
+the fee prescribed by section 607-5 for filing the notice of appeal.  The court
+in its discretion may permit other interested persons to intervene.
+(c)  The proceedings for review shall not stay
+enforcement of the decision of the authority; provided that the authority or
+the reviewing court may order a stay upon terms as it deems proper.
+(d)  Within twenty days after the determination
+of the contents of the record on appeal in the manner provided by the rules of
+court, or within such further time as the court may allow, the authority shall
+transmit to the reviewing court the record of the proceeding under review.  The
+court may require or permit subsequent corrections or additions to the record
+when deemed desirable.
+(e)  If, before the date set for hearing,
+application is made to the court for leave to present additional evidence and
+the evidence is material and good cause exists for the failure to present the
+evidence in the proceeding before the authority, the court may order the
+authority to hear the evidence upon the conditions as the court deems proper. 
+The authority may modify its findings, decision, and order by reason of the
+additional evidence and shall file with the reviewing court, to become a part
+of the record, the additional evidence, together with any modification of its
+findings, decision, or order.
+(f)  The review shall be conducted by the court
+without a jury and shall be confined to the record.  In cases of alleged
+irregularities in procedure before the authority and not shown in the record,
+testimony thereon may be taken in court.  The court, upon request by any party,
+may hear oral arguments and receive written briefs.
+(g)  Upon review of the record, the court may
+affirm the decision of the authority or remand the case with instructions for
+further proceedings, or it may reverse or modify the decision and order if the
+substantial rights of the petitioners may have been prejudiced because the
+administrative findings, conclusions, decisions, or orders are:
+(1)  In violation of constitutional or statutory
+provisions;
+(2)  In excess of the statutory authority or
+jurisdiction of the authority;
+(3)  Made upon unlawful procedure;
+(4)  Affected by other error of law;
+(5)  Clearly erroneous in view of the reliable,
+probative, and substantial evidence on the whole record; or
+(6)  Arbitrary, capricious, or characterized by abuse
+of discretion or clearly unwarranted exercise of discretion. [L 2018, c 204, pt
+of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_66__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any
+tenant aggrieved by a final decision and order of the authority or by a
+preliminary ruling of the nature that deferral of review pending entry of a
+subsequent final decision would deprive the appellant of adequate relief is
+entitled to judicial review thereof under this subpart.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_66__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except as otherwise provided in this
+section, proceedings for review shall be instituted in the circuit court within
+thirty days after the preliminary ruling or within thirty days after service of
+the certified copy of the final decision and order of the authority pursuant to
+the rules of the court, except where a statute provides for a direct appeal to
+the intermediate appellate court.  In such cases, the appeal shall be treated
+in the same manner as an appeal from the circuit court, including payment of
+the fee prescribed by section 607-5 for filing the notice of appeal.  The court
+in its discretion may permit other interested persons to intervene.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_66__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The proceedings for review shall not stay
+enforcement of the decision of the authority; provided that the authority or
+the reviewing court may order a stay upon terms as it deems proper.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_66__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Within twenty days after the determination
+of the contents of the record on appeal in the manner provided by the rules of
+court, or within such further time as the court may allow, the authority shall
+transmit to the reviewing court the record of the proceeding under review.  The
+court may require or permit subsequent corrections or additions to the record
+when deemed desirable.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_66__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If, before the date set for hearing,
+application is made to the court for leave to present additional evidence and
+the evidence is material and good cause exists for the failure to present the
+evidence in the proceeding before the authority, the court may order the
+authority to hear the evidence upon the conditions as the court deems proper. 
+The authority may modify its findings, decision, and order by reason of the
+additional evidence and shall file with the reviewing court, to become a part
+of the record, the additional evidence, together with any modification of its
+findings, decision, or order.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_66__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The review shall be conducted by the court
+without a jury and shall be confined to the record.  In cases of alleged
+irregularities in procedure before the authority and not shown in the record,
+testimony thereon may be taken in court.  The court, upon request by any party,
+may hear oral arguments and receive written briefs.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_66__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Upon review of the record, the court may
+affirm the decision of the authority or remand the case with instructions for
+further proceedings, or it may reverse or modify the decision and order if the
+substantial rights of the petitioners may have been prejudiced because the
+administrative findings, conclusions, decisions, or orders are:</p>
+            </content>
+            <paragraph eId="356D_66__subsec_g__para_1">
+              <num>(1)</num>
+              <content>
+                <p>In violation of constitutional or statutory
+provisions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_66__subsec_g__para_2">
+              <num>(2)</num>
+              <content>
+                <p>In excess of the statutory authority or
+jurisdiction of the authority;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_66__subsec_g__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Made upon unlawful procedure;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_66__subsec_g__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Affected by other error of law;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_66__subsec_g__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Clearly erroneous in view of the reliable,
+probative, and substantial evidence on the whole record; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_66__subsec_g__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Arbitrary, capricious, or characterized by abuse
+of discretion or clearly unwarranted exercise of discretion. [L 2018, c 204, pt
+of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

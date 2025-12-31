@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-199"/>
+          <FRBRuri value="/us-hi/act/hrs/386-199"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-199/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-199/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-199/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-199/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_199">
+          <num>386-199</num>
+          <heading>Service companies</heading>
+          <content>
+            <p>§386-199  Service companies.
+(a)  No
+service company or its employees, officers, or directors shall be an employee,
+officer, or director of, or have either a direct or indirect financial interest
+in, an administrator.  No administrator or its employees, officers, or
+directors shall be an employee, officer, or director of, or have either a
+direct or indirect financial interest in, a service company.
+(b)  The service contract shall state that
+unless the insurance commissioner permits otherwise the service company shall
+handle all claims and other obligations incurred during the contract period to
+their conclusion. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_199__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No
+service company or its employees, officers, or directors shall be an employee,
+officer, or director of, or have either a direct or indirect financial interest
+in, an administrator.  No administrator or its employees, officers, or
+directors shall be an employee, officer, or director of, or have either a
+direct or indirect financial interest in, a service company.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_199__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The service contract shall state that
+unless the insurance commissioner permits otherwise the service company shall
+handle all claims and other obligations incurred during the contract period to
+their conclusion. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

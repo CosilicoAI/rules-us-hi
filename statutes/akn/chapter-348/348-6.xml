@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/348-6"/>
+          <FRBRuri value="/us-hi/act/hrs/348-6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/348-6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/348-6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/348-6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/348-6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_348">
+        <num>Chapter 348</num>
+        <heading>Vocational Rehabilitation</heading>
+        <section eId="sec_348_6">
+          <num>348-6</num>
+          <heading>Section 348-6</heading>
+          <content>
+            <p>§348-6  Administrative personnel and
+administration.
+(a)  The department of human services may adopt and
+promulgate regulations with respect to methods of administration, use of
+medical and other records of individuals who have been provided vocational
+rehabilitation services, and the establishment and maintenance of personnel
+standards, including provisions relating to the tenure, appointment, and
+qualification of personnel, which shall govern with respect to such matters
+notwithstanding any other law.
+(b)  The department shall adopt and promulgate
+regulations respecting[:]
+(1)  The establishment and maintenance of minimum
+standards governing the facilities and personnel utilized in the provision of
+vocational rehabilitation services; and
+(2)  The order to be followed in selecting those to
+whom vocational rehabilitation services are to be provided in situations where
+such services cannot be provided all eligible handicapped people.
+(c)  The department may also promulgate
+regulations with regard to the use of professional personnel of the department
+in cooperation with the federal government for the purpose of surveying needs
+and implementing rehabilitation services in any of the federal government's
+political subdivisions or trust territories, when such actions or services
+involve no cost to the State. [L 1955, c 231, pt of §2; RL 1955, §42-35; am L
+Sp 1959 2d, c 1, §18; HRS §348-6; am L 1970, c 105, §5; am L 1979, c 188,
+§1(5); am L 1987, c 339, §4]
+Revision Note
+In subsection (b), (1) and (2) reformatted as paragraphs (1)
+and (2), and in paragraph (1), ending punctuation changed pursuant to §23G-15.
+Cross References
+Administration of vocational rehabilitation, see §26-14.
+Personnel, see chapter 76.
+Rulemaking, see chapter 91.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="348_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department of human services may adopt and
+promulgate regulations with respect to methods of administration, use of
+medical and other records of individuals who have been provided vocational
+rehabilitation services, and the establishment and maintenance of personnel
+standards, including provisions relating to the tenure, appointment, and
+qualification of personnel, which shall govern with respect to such matters
+notwithstanding any other law.</p>
+            </content>
+          </subsection>
+          <subsection eId="348_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall adopt and promulgate
+regulations respecting[:]</p>
+            </content>
+            <paragraph eId="348_6__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The establishment and maintenance of minimum
+standards governing the facilities and personnel utilized in the provision of
+vocational rehabilitation services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348_6__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The order to be followed in selecting those to
+whom vocational rehabilitation services are to be provided in situations where
+such services cannot be provided all eligible handicapped people.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="348_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may also promulgate
+regulations with regard to the use of professional personnel of the department
+in cooperation with the federal government for the purpose of surveying needs
+and implementing rehabilitation services in any of the federal government's
+political subdivisions or trust territories, when such actions or services
+involve no cost to the State. [L 1955, c 231, pt of §2; RL 1955, §42-35; am L
+Sp 1959 2d, c 1, §18; HRS §348-6; am L 1970, c 105, §5; am L 1979, c 188,
+§1</p>
+            </content>
+            <paragraph eId="348_6__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348_6__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>reformatted as paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="348_6__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>and (2), and in paragraph (1), ending punctuation changed pursuant to §23G-15.
+Cross References
+Administration of vocational rehabilitation, see §26-14.
+Personnel, see chapter 76.
+Rulemaking, see chapter 91.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

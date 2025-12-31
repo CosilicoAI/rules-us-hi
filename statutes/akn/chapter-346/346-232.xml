@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-232"/>
+          <FRBRuri value="/us-hi/act/hrs/346-232"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-232/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-232/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-232/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-232/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_232">
+          <num>346-232</num>
+          <heading>Section 346-232</heading>
+          <content>
+            <p>§346-232
+Order to show cause
+hearing.
+(a)  When a written order for immediate protection is issued, the
+court shall hold a hearing on the application for immediate protection, no
+later than seventy-two hours after issuance of the written order, excluding any
+Saturday or Sunday, requiring cause to be shown why the order or orders should
+not continue.  The department shall make arrangements to have the vulnerable
+adult attend the hearing or show cause why the vulnerable adult cannot attend.
+(b)  When the court finds that there is
+probable cause to believe that a vulnerable adult has incurred abuse or is in
+danger of abuse if immediate action is not taken, and the vulnerable adult
+consents, or if the vulnerable adult does not consent and the court finds that
+there is probable cause to believe that the vulnerable adult lacks the capacity
+to make decisions concerning the vulnerable adult's person, the court may
+continue or modify any order pending an adjudicatory hearing on the petition. 
+These orders may include orders for the vulnerable adult's temporary placement
+and ordinary medical care.
+(c)  The parties personally or through counsel
+may stipulate to the entry or continuance of such orders as the court deems to
+be in the best interest of the vulnerable adult, and the court shall set the
+case for an adjudicatory hearing as soon as it is practical. [L 1989, c 381, pt
+of §1; am L 1990, c 144, §1 and c 234, §5; am L 2008, c 154, §14]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_232__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When a written order for immediate protection is issued, the
+court shall hold a hearing on the application for immediate protection, no
+later than seventy-two hours after issuance of the written order, excluding any
+Saturday or Sunday, requiring cause to be shown why the order or orders should
+not continue.  The department shall make arrangements to have the vulnerable
+adult attend the hearing or show cause why the vulnerable adult cannot attend.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_232__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When the court finds that there is
+probable cause to believe that a vulnerable adult has incurred abuse or is in
+danger of abuse if immediate action is not taken, and the vulnerable adult
+consents, or if the vulnerable adult does not consent and the court finds that
+there is probable cause to believe that the vulnerable adult lacks the capacity
+to make decisions concerning the vulnerable adult's person, the court may
+continue or modify any order pending an adjudicatory hearing on the petition. 
+These orders may include orders for the vulnerable adult's temporary placement
+and ordinary medical care.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_232__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The parties personally or through counsel
+may stipulate to the entry or continuance of such orders as the court deems to
+be in the best interest of the vulnerable adult, and the court shall set the
+case for an adjudicatory hearing as soon as it is practical. [L 1989, c 381, pt
+of §1; am L 1990, c 144, §1 and c 234, §5; am L 2008, c 154, §14]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

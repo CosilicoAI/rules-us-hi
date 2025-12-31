@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-104"/>
+          <FRBRuri value="/us-hi/act/hrs/378-104"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-104/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-104/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-104/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-104/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_104">
+          <num>378-104</num>
+          <heading>Section 378-104</heading>
+          <content>
+            <p>[
+§378-104]  Civil actions for injunctive
+relief or damages.
+(a)  A person who alleges a violation of this part may bring
+a civil action for appropriate injunctive relief, actual damages, or both within
+two years after the occurrence of the alleged violation.
+(b)  A cause of action pursuant to subsection (a)
+may be brought in the appropriate court in the circuit where the alleged violation
+occurred, where the plaintiff resides, or where the defendant resides or has a principal
+place of business.
+(c)  A defendant who violates this part shall be
+fined $500 for each violation.  A civil fine that is ordered pursuant to this section
+shall be deposited with the director of finance to the credit of the general fund.
+(d)  For purposes of this section, &quot;damages&quot;
+means damages for injury or loss caused by each violation of this part, including
+reasonable attorney's fees. [L 2021, c 206, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="378_104__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A person who alleges a violation of this part may bring
+a civil action for appropriate injunctive relief, actual damages, or both within
+two years after the occurrence of the alleged violation.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_104__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A cause of action pursuant to subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="378_104__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>may be brought in the appropriate court in the circuit where the alleged violation
+occurred, where the plaintiff resides, or where the defendant resides or has a principal
+place of business.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_104__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A defendant who violates this part shall be
+fined $500 for each violation.  A civil fine that is ordered pursuant to this section
+shall be deposited with the director of finance to the credit of the general fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="378_104__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For purposes of this section, &quot;damages&quot;
+means damages for injury or loss caused by each violation of this part, including
+reasonable attorney's fees. [L 2021, c 206, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

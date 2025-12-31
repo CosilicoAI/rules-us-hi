@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-41"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-41"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-41/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-41/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-41/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-41/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_41">
+          <num>356D-41</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>PART III. 
+STATE LOW-INCOME HOUSING
+A.  State
+Low-Income Housing; Administration
+[§356D-41]  Definitions.
+As used in
+this subpart, unless a different meaning clearly appears from the context:
+&quot;Administer&quot; or
+&quot;administration&quot; means the management, operation, maintenance, and
+regulation of any state low-income housing project.  It also includes any and
+all undertakings necessary therefor.
+&quot;Veteran&quot; includes any person who
+served in the military or naval forces of the United States during World War II
+and who has been discharged or released therefrom under conditions other than
+dishonorable.  The term &quot;veteran&quot; also includes Filipino World War II
+veterans who served honorably in an active duty status under the command of the
+United States Armed Forces in the Far East (USAFFE), or within the Philippine
+Army, the Philippine Scouts, or recognized guerilla units.  The Filipino World
+War II veterans must have:  served at any time between September 1, 1939,
+and December 31, 1946; been born in the Philippines; and resided in the Philippines prior to the military service. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-123"/>
+          <FRBRuri value="/us-hi/act/hrs/386-123"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-123/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-123/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-123/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-123/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_123">
+          <num>386-123</num>
+          <heading>Section 386-123</heading>
+          <content>
+            <p>§386-123  Failure to give security for
+compensation; penalty; injunction.
+If an employer fails to comply with
+section 386-121, the employer shall be liable for a penalty of not less than
+$500 or of $100 for each employee for every day during which such failure
+continues, whichever sum is greater, to be recovered in an action brought by
+the director in the name of the State, and the amount so collected shall be
+paid into the special compensation fund created by section 386-151.  The
+director may, however, in the director's discretion, for good cause shown,
+remit all or any part of the penalty in excess of $500; provided that the
+employer in default complies with section 386-121.  With respect to such
+actions, the attorney general or any county attorney or public prosecutor shall
+prosecute the same if so requested by the director.
+In addition, if any employer is in default
+under section 386-121 for a period of fourteen days, the employer may be
+enjoined, by the circuit court of the circuit in which the employer's principal
+place of business is located in the State or where the violation occurred, from
+carrying on the employer's business anywhere in the State so long as the
+default continues, such action for injunction to be prosecuted by the attorney
+general or any county attorney if so requested by the director. [L 1963, c 116,
+pt of §1; Supp, §97-122; HRS §386-123; gen ch 1985; am L 1988, c 37, §5; am L
+2016, c 187, §4; am L 2017, c 135, §1]
+Rules of Court
+Injunctions, see HRCP rule 65.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

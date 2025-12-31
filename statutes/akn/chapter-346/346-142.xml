@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-142"/>
+          <FRBRuri value="/us-hi/act/hrs/346-142"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-142/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-142/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-142/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-142/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_142">
+          <num>346-142</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>[§346-142]  Definitions.
+As used in
+this part:
+&quot;Alien&quot; means any person not a
+citizen or national of the United States but who is allowed, under federal law,
+to reside in the United States.
+&quot;Homeland&quot; means the country in which
+a person was born.
+&quot;Naturalized citizen&quot; means a person
+who was not born in the United States, but who has the rights and privileges of
+a citizen bestowed upon the person by law.
+&quot;Qualified person&quot; means an alien or
+naturalized citizen of the United States who:
+(1)  Is a resident of the State of Hawaii;
+(2)  Is sixty years of age or older;
+(3)  Is eligible to receive or receives financial
+assistance under this chapter on the date of the application for transportation
+assistance under this part.
+&quot;Transportation assistance&quot; means the
+amount determined by the director under section 346-145. [L 1980, c 276, pt of
+§2]
+Revision Note
+Pursuant to §23G-15:
+(1)   Numeric
+designations deleted and punctuation changed; and
+(2)   In the
+definition of &quot;qualified person&quot;, paragraphs redesignated and in
+paragraph (3), &quot;and&quot; deleted.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

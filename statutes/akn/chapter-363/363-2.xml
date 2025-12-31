@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/363-2"/>
+          <FRBRuri value="/us-hi/act/hrs/363-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/363-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/363-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/363-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/363-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_363">
+        <num>Chapter 363</num>
+        <heading>Hawaiian Home Lands Trust</heading>
+        <section eId="sec_363_2">
+          <num>363-2</num>
+          <heading>Section 363-2</heading>
+          <content>
+            <p>§363-2  Office of veterans' services;
+director.
+(a)  The office of veterans' services shall be responsible for
+the conduct or supervision of all activities provided for by this chapter and
+for the formulation and adoption of all policies and rules for the
+administration of this chapter and is established in the department of defense
+for administrative purposes.
+(b)  The head of the office shall be known as
+the director of the office of veterans' services.  The director shall be
+nominated and appointed by the governor without regard to chapters 76 and 89. 
+Effective July 1, 2005, the director shall be paid a salary set by the
+appointing authority that shall not exceed sixty-nine per cent of the salary of
+the director of human resources development.  The director shall be included in
+any benefit program generally applicable to the officers and employees of the State.
+(c)  The director shall have the following
+principal functions, duties, and powers:
+(1)  Serve as the principal official in state
+government responsible for the performance, development, and control of
+programs, policies, and activities under this chapter;
+(2)  Oversee, supervise, and direct the performance by
+the director's subordinates of activities in such areas as planning,
+evaluation, and coordination of veterans programs and development of a
+statewide service delivery network;
+(3)  Assess the policies and practices of other
+agencies with respect to delivery of services and benefits to veterans;
+(4)  Administer funds allocated for the office, and
+apply for, receive, and disburse grants and donations from all sources for
+veterans programs and services provided under this chapter;
+(5)  Establish a clearinghouse for complaints of
+persons regarding services to veterans, or operations of state and county
+agencies affecting veterans, investigate such complaints, and refer the
+complaints and the director's findings to the appropriate agency for corrective
+action;
+(6)  Adopt, amend, and repeal rules pursuant to
+chapter 91 for the purposes of this chapter;
+(7)  Employ and retain such staff as may be necessary
+for the purposes of this chapter, in conformance with chapters 76, 89, and the
+appropriate collective bargaining agreements, executive orders, executive
+directives, or rules, except for the position of coordinator and executive
+secretary to the director, who shall be hired without regard to chapters 76 and
+89;
+(8)  Contract for or grant such services as may be
+necessary for the purposes of this chapter, including a master contract with
+other state agencies receiving federal and state funds for programs and
+services for veterans, and purchase of service agreements with appropriate
+agencies;
+(9)  Oversee the development, establishment, and
+operation of a state veterans cemetery on Oahu; develop and administer the
+policies and procedures of the state veterans cemetery in accordance with the
+United States Department of Veterans Affairs and existing state guidelines;
+oversee the maintenance of state veterans cemeteries on all islands; and
+(10)  Act on behalf of deceased veterans found to be
+indigent at the time of death and without surviving immediate family members to
+ensure burial or cremation services are provided and that the veteran's remains
+are buried or inurned in a state veterans cemetery. [L 1951, c 75, §4; RL 1955,
+§349-4; am L Sp 1959 2d, c 1, §20; HRS §363-2; am L 1970, c 105, §5; am L 1987,
+c 339, §4; am L 1988, c 115, §4; am L 1990, c 140, §6; am L 2002, c 148, §40;
+am L 2005, c 226, §11; am L 2010, c 27, §1]
+Cross References
+Rulemaking, see chapter 91.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="363_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The office of veterans' services shall be responsible for
+the conduct or supervision of all activities provided for by this chapter and
+for the formulation and adoption of all policies and rules for the
+administration of this chapter and is established in the department of defense
+for administrative purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The head of the office shall be known as
+the director of the office of veterans' services.  The director shall be
+nominated and appointed by the governor without regard to chapters 76 and 89. 
+Effective July 1, 2005, the director shall be paid a salary set by the
+appointing authority that shall not exceed sixty-nine per cent of the salary of
+the director of human resources development.  The director shall be included in
+any benefit program generally applicable to the officers and employees of the State.</p>
+            </content>
+          </subsection>
+          <subsection eId="363_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director shall have the following
+principal functions, duties, and powers:</p>
+            </content>
+            <paragraph eId="363_2__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Serve as the principal official in state
+government responsible for the performance, development, and control of
+programs, policies, and activities under this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Oversee, supervise, and direct the performance by
+the director's subordinates of activities in such areas as planning,
+evaluation, and coordination of veterans programs and development of a
+statewide service delivery network;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Assess the policies and practices of other
+agencies with respect to delivery of services and benefits to veterans;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Administer funds allocated for the office, and
+apply for, receive, and disburse grants and donations from all sources for
+veterans programs and services provided under this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Establish a clearinghouse for complaints of
+persons regarding services to veterans, or operations of state and county
+agencies affecting veterans, investigate such complaints, and refer the
+complaints and the director's findings to the appropriate agency for corrective
+action;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Adopt, amend, and repeal rules pursuant to
+chapter 91 for the purposes of this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Employ and retain such staff as may be necessary
+for the purposes of this chapter, in conformance with chapters 76, 89, and the
+appropriate collective bargaining agreements, executive orders, executive
+directives, or rules, except for the position of coordinator and executive
+secretary to the director, who shall be hired without regard to chapters 76 and
+89;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Contract for or grant such services as may be
+necessary for the purposes of this chapter, including a master contract with
+other state agencies receiving federal and state funds for programs and
+services for veterans, and purchase of service agreements with appropriate
+agencies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Oversee the development, establishment, and
+operation of a state veterans cemetery on Oahu; develop and administer the
+policies and procedures of the state veterans cemetery in accordance with the
+United States Department of Veterans Affairs and existing state guidelines;
+oversee the maintenance of state veterans cemeteries on all islands; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="363_2__subsec_c__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Act on behalf of deceased veterans found to be
+indigent at the time of death and without surviving immediate family members to
+ensure burial or cremation services are provided and that the veteran's remains
+are buried or inurned in a state veterans cemetery. [L 1951, c 75, §4; RL 1955,
+§349-4; am L Sp 1959 2d, c 1, §20; HRS §363-2; am L 1970, c 105, §5; am L 1987,
+c 339, §4; am L 1988, c 115, §4; am L 1990, c 140, §6; am L 2002, c 148, §40;
+am L 2005, c 226, §11; am L 2010, c 27, §1]
+Cross References
+Rulemaking, see chapter 91.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

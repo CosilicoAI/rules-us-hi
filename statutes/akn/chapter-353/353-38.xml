@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-38"/>
+          <FRBRuri value="/us-hi/act/hrs/353-38"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-38/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-38/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-38/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-38/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_38">
+          <num>353-38</num>
+          <heading>Section 353-38</heading>
+          <content>
+            <p>[§353-38]  Federal reimbursement
+maximization special fund.
+(a)  There is established in the state treasury
+the federal reimbursement maximization special fund, into which shall be
+deposited all federal reimbursements received by the department relating to the
+State Criminal Alien Assistance Program.  Unless otherwise provided by law, all
+other receipts shall immediately be deposited to the credit of the general fund
+of the State.
+(b)  Moneys in the federal reimbursement
+maximization special fund shall be used by the department for the following
+purposes:
+(1)  To meet the state match requirement for federal
+grants and costs associated with federal grant reporting requirements,
+including administrative expenses such as the hiring of temporary staff;
+(2)  For any other purpose deemed necessary by the
+department for maintaining or pursuing federal grants;
+(3)  To hire consultants to provide training for
+corrections officers;
+(4)  To hire consultants to conduct facility or
+program evaluations;
+(5)  To rent or purchase vehicles to transport
+inmates;
+(6)  To provide pre-release and reentry programs;
+(7)  To improve technology; and
+(8)  To recruit and retain corrections workforce.
+(c)  The department shall prepare and submit an
+annual report on the status of the federal reimbursement maximization special
+fund to the legislature no later than twenty days before the convening of each
+regular session.  The annual report shall include a description of the use of
+the funds. [L 2022, c 278, pt of §18]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_38__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established in the state treasury
+the federal reimbursement maximization special fund, into which shall be
+deposited all federal reimbursements received by the department relating to the
+State Criminal Alien Assistance Program.  Unless otherwise provided by law, all
+other receipts shall immediately be deposited to the credit of the general fund
+of the State.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_38__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Moneys in the federal reimbursement
+maximization special fund shall be used by the department for the following
+purposes:</p>
+            </content>
+            <paragraph eId="353_38__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>To meet the state match requirement for federal
+grants and costs associated with federal grant reporting requirements,
+including administrative expenses such as the hiring of temporary staff;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_38__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>For any other purpose deemed necessary by the
+department for maintaining or pursuing federal grants;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_38__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>To hire consultants to provide training for
+corrections officers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_38__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>To hire consultants to conduct facility or
+program evaluations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_38__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>To rent or purchase vehicles to transport
+inmates;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_38__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>To provide pre-release and reentry programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_38__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>To improve technology; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_38__subsec_b__para_8">
+              <num>(8)</num>
+              <content>
+                <p>To recruit and retain corrections workforce.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="353_38__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall prepare and submit an
+annual report on the status of the federal reimbursement maximization special
+fund to the legislature no later than twenty days before the convening of each
+regular session.  The annual report shall include a description of the use of
+the funds. [L 2022, c 278, pt of §18]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-241"/>
+          <FRBRuri value="/us-hi/act/hrs/346-241"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-241/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-241/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-241/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-241/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_241">
+          <num>346-241</num>
+          <heading>Disposition</heading>
+          <content>
+            <p>§346-241  Disposition.
+(a)  The
+department shall prepare a proposed protective order and a written protective
+services plan and submit copies to the court and each of the parties or their
+counsel at least seven days prior to the disposition hearing.
+(b)  The proposed protective order may include
+any of the provisions set forth in section 346-231, and, in addition may
+include an order that:
+(1)  The person inflicting abuse on the vulnerable
+adult participate in counseling or therapy as the court deems appropriate;
+(2)  Any party report to the department any violation
+of the protective order or protective services plan;
+(3)  The department make periodic home visits to the
+vulnerable adult; and
+(4)  The department monitor compliance with the order.
+(c)  The proposed protective services plan
+shall set forth the following:
+(1)  Specific services or treatment to be provided to
+the vulnerable adult and the specific actions the parties shall take;
+(2)  Specific responsibilities that the parties shall
+assume;
+(3)  Period during which the services shall be
+provided;
+(4)  Dates by which the actions shall be completed;
+(5)  Specific consequences that may be reasonably
+anticipated to result from a party's failure to comply with any terms and
+conditions of the plan; and
+(6)  Steps that shall be necessary to terminate the
+court's jurisdiction.
+(d)  In preparing such a proposed protective
+order, the department shall seek to impose the least restrictive limitation on
+the freedom and liberties of the vulnerable adult.  To the greatest extent
+possible, the vulnerable adult should be permitted to participate in decisions
+concerning the vulnerable adult's person, or property, or both.
+(e)  The court shall conduct a disposition
+hearing concerning the terms and conditions set forth in the proposed
+protective order and proposed protective services plan unless each of the
+appropriate parties accepts the order and plan, in which event, the court may
+approve the order and plan without a hearing. [L 1989, c 381, pt of §1; am L
+1990, c 144, §1 and c 234, §9; am L 1992, c 62, §§3, 4; am L 2008, c 154, §22]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_241__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The
+department shall prepare a proposed protective order and a written protective
+services plan and submit copies to the court and each of the parties or their
+counsel at least seven days prior to the disposition hearing.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_241__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The proposed protective order may include
+any of the provisions set forth in section 346-231, and, in addition may
+include an order that:</p>
+            </content>
+            <paragraph eId="346_241__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The person inflicting abuse on the vulnerable
+adult participate in counseling or therapy as the court deems appropriate;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_241__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Any party report to the department any violation
+of the protective order or protective services plan;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_241__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The department make periodic home visits to the
+vulnerable adult; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_241__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The department monitor compliance with the order.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_241__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The proposed protective services plan
+shall set forth the following:</p>
+            </content>
+            <paragraph eId="346_241__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Specific services or treatment to be provided to
+the vulnerable adult and the specific actions the parties shall take;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_241__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Specific responsibilities that the parties shall
+assume;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_241__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Period during which the services shall be
+provided;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_241__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Dates by which the actions shall be completed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_241__subsec_c__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Specific consequences that may be reasonably
+anticipated to result from a party's failure to comply with any terms and
+conditions of the plan; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_241__subsec_c__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Steps that shall be necessary to terminate the
+court's jurisdiction.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_241__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In preparing such a proposed protective
+order, the department shall seek to impose the least restrictive limitation on
+the freedom and liberties of the vulnerable adult.  To the greatest extent
+possible, the vulnerable adult should be permitted to participate in decisions
+concerning the vulnerable adult's person, or property, or both.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_241__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The court shall conduct a disposition
+hearing concerning the terms and conditions set forth in the proposed
+protective order and proposed protective services plan unless each of the
+appropriate parties accepts the order and plan, in which event, the court may
+approve the order and plan without a hearing. [L 1989, c 381, pt of §1; am L
+1990, c 144, §1 and c 234, §9; am L 1992, c 62, §§3, 4; am L 2008, c 154, §22]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

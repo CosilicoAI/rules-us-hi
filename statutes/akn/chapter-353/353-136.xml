@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-136"/>
+          <FRBRuri value="/us-hi/act/hrs/353-136"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-136/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-136/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-136/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-136/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_136">
+          <num>353-136</num>
+          <heading>Section 353-136</heading>
+          <content>
+            <p>[§
+353-136]  Automated victim
+information and notification system special fund; authorization of payment.
+(a)  There is established a special fund to be known as the automated victim
+information and notification system special fund, to be administered by the
+department.  Interest and investment earnings credited to the assets of the
+fund shall become part of the fund.  Any remaining balance in the fund at the
+end of any fiscal year shall be carried over to the next fiscal year.
+(b)  Any item purchased by an in-state or
+out-of-state inmate from a correctional facility commissary shall be subject to
+a four per cent surcharge on the item's price.  The proceeds from the surcharge
+shall be deposited into the automated victim information and notification
+system special fund.
+(c)  All proceeds or revenues that are derived
+from any commission that is realized pursuant to a telephone service agreement
+executed by the department for the provision of telephone services for inmates
+shall be deposited into the automated victim information and notification
+system special fund.
+(d)  Moneys received pursuant to subsections
+(b) and (c) shall be used for the development and operating expenses, including
+salaries and benefits of positions as authorized by the legislature, of the
+system.
+(e)  The sum total of all moneys expended for
+development and operating expenses, including salaries and benefits of
+positions as authorized by the legislature, shall not exceed the special fund
+ceiling related to the fund established by the legislature; provided that the
+total moneys expended for these purposes shall not exceed $600,000 in any one
+fiscal year.
+(f)  Federal funds shall not be transferred to,
+or deposited into, the automated victim information and notification system
+special fund. [L 2012, c 190, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_136__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established a special fund to be known as the automated victim
+information and notification system special fund, to be administered by the
+department.  Interest and investment earnings credited to the assets of the
+fund shall become part of the fund.  Any remaining balance in the fund at the
+end of any fiscal year shall be carried over to the next fiscal year.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_136__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any item purchased by an in-state or
+out-of-state inmate from a correctional facility commissary shall be subject to
+a four per cent surcharge on the item's price.  The proceeds from the surcharge
+shall be deposited into the automated victim information and notification
+system special fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_136__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>All proceeds or revenues that are derived
+from any commission that is realized pursuant to a telephone service agreement
+executed by the department for the provision of telephone services for inmates
+shall be deposited into the automated victim information and notification
+system special fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_136__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Moneys received pursuant to subsections</p>
+            </content>
+          </subsection>
+          <subsection eId="353_136__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="353_136__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>shall be used for the development and operating expenses, including
+salaries and benefits of positions as authorized by the legislature, of the
+system.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_136__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The sum total of all moneys expended for
+development and operating expenses, including salaries and benefits of
+positions as authorized by the legislature, shall not exceed the special fund
+ceiling related to the fund established by the legislature; provided that the
+total moneys expended for these purposes shall not exceed $600,000 in any one
+fiscal year.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_136__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Federal funds shall not be transferred to,
+or deposited into, the automated victim information and notification system
+special fund. [L 2012, c 190, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/239-8"/>
+          <FRBRuri value="/us-hi/act/hrs/239-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/239-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/239-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/239-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/239-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_239">
+        <num>Chapter 239</num>
+        <heading>Public Service Company Tax Law</heading>
+        <section eId="sec_239_8">
+          <num>239-8</num>
+          <heading>Allocation and apportionment</heading>
+          <content>
+            <p>§239-8  Allocation and apportionment.
+(a)  The gross income included in the measure of the tax, as defined in
+paragraphs (2) and (3) of the definition of &quot;gross income&quot; in section
+239-2, shall be determined by an allocation and separate accounting so far as
+practicable.
+(b)  If under paragraph (2) of the definition
+of &quot;gross income&quot; in section 239-2, an apportionment of gross income
+is necessary, there shall be apportioned to the State and included in the
+measure of the tax that proportion of the total gross income, so requiring
+apportionment, that the direct cost of the transportation, conveyance, or
+transmission designated in paragraph (2) of the definition of &quot;gross
+income&quot; in section 239-2, bears to the total direct cost of the
+transportation, conveyance, or transmission the gross income from which
+requires apportionment.
+(c)  If under paragraph (3) of the definition
+of &quot;gross income&quot; in section 239-2, an apportionment of gross income
+is necessary, there shall be apportioned to the State and included in the
+measure of the tax that proportion of the total gross income, so requiring
+apportionment, that the total direct cost of the transportation, conveyance, or
+transmission within the State bears to the total direct cost of the
+transportation, conveyance, or transmission the gross income from which
+requires apportionment. [L 1963, c 147, §2(i); Supp, §126-7.1; HRS §239-8; am L
+1997, c 178, §8; am L 2017, c 12, §55]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="239_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The gross income included in the measure of the tax, as defined in
+paragraphs</p>
+            </content>
+            <paragraph eId="239_8__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239_8__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>of the definition of &quot;gross income&quot; in section
+239-2, shall be determined by an allocation and separate accounting so far as
+practicable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="239_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If under paragraph</p>
+            </content>
+            <paragraph eId="239_8__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>of the definition
+of &quot;gross income&quot; in section 239-2, an apportionment of gross income
+is necessary, there shall be apportioned to the State and included in the
+measure of the tax that proportion of the total gross income, so requiring
+apportionment, that the direct cost of the transportation, conveyance, or
+transmission designated in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="239_8__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>of the definition of &quot;gross
+income&quot; in section 239-2, bears to the total direct cost of the
+transportation, conveyance, or transmission the gross income from which
+requires apportionment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="239_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If under paragraph</p>
+            </content>
+            <paragraph eId="239_8__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>of the definition
+of &quot;gross income&quot; in section 239-2, an apportionment of gross income
+is necessary, there shall be apportioned to the State and included in the
+measure of the tax that proportion of the total gross income, so requiring
+apportionment, that the total direct cost of the transportation, conveyance, or
+transmission within the State bears to the total direct cost of the
+transportation, conveyance, or transmission the gross income from which
+requires apportionment. [L 1963, c 147, §2</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

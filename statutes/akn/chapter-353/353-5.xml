@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-5"/>
+          <FRBRuri value="/us-hi/act/hrs/353-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_5">
+          <num>353-5</num>
+          <heading>Section 353-5</heading>
+          <content>
+            <p>§353-5  Offender release recommendations to
+the court.
+The intake service center shall notify the prosecutor's office
+of the appropriate county whenever it is recommending to the court that a
+person who is accused of murder or attempted murder in any degree or a class A
+felony involving force or violence against another person be conditionally
+released or that bail for such person be lowered.  Such notice shall be made
+upon the completion of the intake service center's investigation on the
+offender's case so as to allow the prosecutor's office of the appropriate
+county to be present when the court considers the recommendation. [L 1987, c
+338, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

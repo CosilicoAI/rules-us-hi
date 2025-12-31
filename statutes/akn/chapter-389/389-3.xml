@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-3"/>
+          <FRBRuri value="/us-hi/act/hrs/389-3"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-3/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-3/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-3/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-3/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_3">
+          <num>389-3</num>
+          <heading>Section 389-3</heading>
+          <content>
+            <p>[§389-3]  Hawaii retirement savings board;
+establishment; purpose.
+(a)  There is established within the department
+for administrative purposes only, a Hawaii retirement savings board to
+implement and administer a state-facilitated payroll-deduction retirement
+savings program for private-sector employees who do not have access to employer-sponsored
+retirement plans.
+(b)  The board shall consist of nine members as
+follows:
+(1)  Two ex officio, voting members who shall serve as
+the co-chairs of the board, consisting of:
+(A)  The director or the director's designee;
+and
+(B)  The director of finance or the director's
+designee;
+(2)  Two ex officio, nonvoting members, consisting of:
+(A)  A member of the house of representatives
+appointed by the speaker of the house of representatives; and
+(B)  A member of the senate appointed by the
+president of the senate; and
+(3)  Five voting members who shall hold no other
+public office, to be appointed by the governor and serve on the board in
+accordance with section 26-34, consisting of:
+(A)  One member with professional knowledge
+and experience in establishing retirement savings plans and retirement
+investment products;
+(B)  One member representing the interests of
+small businesses in Hawaii;
+(C)  One member with professional knowledge
+and experience in representing the interests of employers in terms of
+retirement savings;
+(D)  One member with professional knowledge
+and experience in representing the interests of employees in terms of
+retirement savings; and
+(E)  One member who is a retiree who resides
+in Hawaii, representing retirees in Hawaii.
+(c)  The terms of board members shall be four
+years; provided that the initial appointments shall be for staggered terms, as
+determined by the governor; provided further that ex-officio board members shall
+serve at the pleasure of the appointing authority.
+(d)  A simple majority of voting members of the
+board shall constitute quorum to do business.  Any action taken by the board
+shall be approved by a simple majority of the voting members present.  Any
+vacancy on the board shall not impair the authority of the remaining members to
+exercise all the powers of the board.  All decisions of the board shall be
+reduced into writing and shall state separately the board's findings of fact
+and conclusions.
+(e)  The members of the board shall serve
+without compensation but shall be reimbursed for their actual and necessary
+expenses, including travel expenses, incurred in carrying out their duties.
+(f)  The board, or its co-chairs with the
+approval of the board, may employ an executive director exempt from chapters 76
+and 89, and other staff necessary to perform its duties. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established within the department
+for administrative purposes only, a Hawaii retirement savings board to
+implement and administer a state-facilitated payroll-deduction retirement
+savings program for private-sector employees who do not have access to employer-sponsored
+retirement plans.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The board shall consist of nine members as
+follows:</p>
+            </content>
+            <paragraph eId="389_3__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Two ex officio, voting members who shall serve as
+the co-chairs of the board, consisting of:</p>
+              </content>
+              <subparagraph eId="389_3__subsec_b__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>The director or the director's designee;
+and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_3__subsec_b__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The director of finance or the director's
+designee;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="389_3__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Two ex officio, nonvoting members, consisting of:</p>
+              </content>
+              <subparagraph eId="389_3__subsec_b__para_2__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>A member of the house of representatives
+appointed by the speaker of the house of representatives; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_3__subsec_b__para_2__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>A member of the senate appointed by the
+president of the senate; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="389_3__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Five voting members who shall hold no other
+public office, to be appointed by the governor and serve on the board in
+accordance with section 26-34, consisting of:</p>
+              </content>
+              <subparagraph eId="389_3__subsec_b__para_3__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>One member with professional knowledge
+and experience in establishing retirement savings plans and retirement
+investment products;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_3__subsec_b__para_3__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>One member representing the interests of
+small businesses in Hawaii;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_3__subsec_b__para_3__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>One member with professional knowledge
+and experience in representing the interests of employers in terms of
+retirement savings;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_3__subsec_b__para_3__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>One member with professional knowledge
+and experience in representing the interests of employees in terms of
+retirement savings; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="389_3__subsec_b__para_3__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>One member who is a retiree who resides
+in Hawaii, representing retirees in Hawaii.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="389_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The terms of board members shall be four
+years; provided that the initial appointments shall be for staggered terms, as
+determined by the governor; provided further that ex-officio board members shall
+serve at the pleasure of the appointing authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A simple majority of voting members of the
+board shall constitute quorum to do business.  Any action taken by the board
+shall be approved by a simple majority of the voting members present.  Any
+vacancy on the board shall not impair the authority of the remaining members to
+exercise all the powers of the board.  All decisions of the board shall be
+reduced into writing and shall state separately the board's findings of fact
+and conclusions.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The members of the board shall serve
+without compensation but shall be reimbursed for their actual and necessary
+expenses, including travel expenses, incurred in carrying out their duties.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The board, or its co-chairs with the
+approval of the board, may employ an executive director exempt from chapters 76
+and 89, and other staff necessary to perform its duties. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

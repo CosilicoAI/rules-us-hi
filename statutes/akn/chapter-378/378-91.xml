@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-91"/>
+          <FRBRuri value="/us-hi/act/hrs/378-91"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-91/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-91/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-91/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-91/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_91">
+          <num>378-91</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>[PART VII.] 
+OPPORTUNITY TO EXPRESS MILK
+Cross References
+Breastfeeding in public accommodations, see §§489-21 to
+489-23.
+[
+§378-91]  Definitions.
+As used
+in this part:
+&quot;Employee&quot; means an individual who
+performs a service for wages or other remuneration under a contract for hire,
+written or oral, or expressed or implied.  &quot;Employee&quot; includes an
+individual employed by the State or a political subdivision of the State.
+&quot;Employer&quot; means a person who has one
+or more employees.  &quot;Employer&quot; includes an agent of an employer or of
+the State or a political subdivision thereof, but does not include the United
+States. [L 2013, c 249, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

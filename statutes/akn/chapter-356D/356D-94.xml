@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-94"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-94"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-94/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-94/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-94/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-94/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_94">
+          <num>356D-94</num>
+          <heading>Eviction</heading>
+          <content>
+            <p>[§356D-94]  Eviction.
+(a)  If it is
+proven to the satisfaction of the eviction board that there is cause to
+terminate a lease or rental agreement and evict the tenant, the authority shall
+provide the tenant with a written notice of the authority's decision to
+terminate the tenancy.  The notice shall inform the tenant that a writ of
+possession may be issued by the authority within ten business days.  The notice
+shall also inform the tenant whether the grounds for eviction are considered
+curable and, if so, what the tenant must do to remedy the grounds, by when it
+must be done, and what the tenant must do to document for the authority that
+the grounds have been remedied.
+(b)  When the grounds for termination of the
+tenancy may be cured by the tenant, the tenant shall have ten business days
+from receipt of the notice provided for in subsection (a) to cure the grounds. 
+If the grounds are cured within the ten-day period, no writ of possession may
+be issued.  If the grounds are not cured within the ten-day period, the
+authority may issue a writ of possession forthwith.
+(c)  The authority may adopt rules pursuant to
+chapter 91 to define curable and noncurable grounds for eviction.  The
+authority may consider a tenant's history in determining noncurable grounds for
+eviction.  A tenant's history may include chronic or consistent delinquency, or
+repeated violations of the terms of the rental agreement.
+(d)  Enforcement of the order by a writ of
+possession shall be effected either by an officer appointed by the authority,
+who shall have all of the powers of a police officer for all action in
+connection with the enforcement of the order, or by a sheriff or any other law
+enforcement officer of the State or any county, whose duty it shall be to carry
+out the order.  The person enforcing the order shall remove all persons from
+the premises and put the authority in full possession thereof.
+(e)  Upon eviction, the household goods and
+personal effects of the person against whom the order is entered, and those of
+any persons using the premises incident to the person's holding, may be removed
+from the premises and stored by the authority.  If the action is taken, the
+authority shall have a lien on the property so taken for the expenses incurred
+by it in moving and storing the same, and the authority is authorized to sell
+or otherwise dispose of the property if unclaimed after thirty days. [L 2006, c
+180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_94__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If it is
+proven to the satisfaction of the eviction board that there is cause to
+terminate a lease or rental agreement and evict the tenant, the authority shall
+provide the tenant with a written notice of the authority's decision to
+terminate the tenancy.  The notice shall inform the tenant that a writ of
+possession may be issued by the authority within ten business days.  The notice
+shall also inform the tenant whether the grounds for eviction are considered
+curable and, if so, what the tenant must do to remedy the grounds, by when it
+must be done, and what the tenant must do to document for the authority that
+the grounds have been remedied.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_94__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When the grounds for termination of the
+tenancy may be cured by the tenant, the tenant shall have ten business days
+from receipt of the notice provided for in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_94__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>to cure the grounds. 
+If the grounds are cured within the ten-day period, no writ of possession may
+be issued.  If the grounds are not cured within the ten-day period, the
+authority may issue a writ of possession forthwith.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_94__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The authority may adopt rules pursuant to
+chapter 91 to define curable and noncurable grounds for eviction.  The
+authority may consider a tenant's history in determining noncurable grounds for
+eviction.  A tenant's history may include chronic or consistent delinquency, or
+repeated violations of the terms of the rental agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_94__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Enforcement of the order by a writ of
+possession shall be effected either by an officer appointed by the authority,
+who shall have all of the powers of a police officer for all action in
+connection with the enforcement of the order, or by a sheriff or any other law
+enforcement officer of the State or any county, whose duty it shall be to carry
+out the order.  The person enforcing the order shall remove all persons from
+the premises and put the authority in full possession thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_94__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Upon eviction, the household goods and
+personal effects of the person against whom the order is entered, and those of
+any persons using the premises incident to the person's holding, may be removed
+from the premises and stored by the authority.  If the action is taken, the
+authority shall have a lien on the property so taken for the expenses incurred
+by it in moving and storing the same, and the authority is authorized to sell
+or otherwise dispose of the property if unclaimed after thirty days. [L 2006, c
+180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

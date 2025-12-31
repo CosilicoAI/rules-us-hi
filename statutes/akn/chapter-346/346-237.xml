@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-237"/>
+          <FRBRuri value="/us-hi/act/hrs/346-237"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-237/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-237/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-237/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-237/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_237">
+          <num>346-237</num>
+          <heading>Notice of proceedings</heading>
+          <content>
+            <p>§346-237  Notice of proceedings.
+(a) 
+After a petition has been filed, the matter shall be set for hearing and a
+notice of hearing shall be issued to all parties to the proceeding.  The
+parties to the proceeding shall include:
+(1)  The vulnerable adult;
+(2)  Any caregiver of the vulnerable adult;
+(3)  A representative of the facility in which the
+vulnerable adult resides or is a patient;
+(4)  The spouse and adult children of the vulnerable
+adult;
+(5)  The parents of the vulnerable adult, unless
+waived by the court for good cause;
+(6)  Any guardian or conservator who may have been
+appointed; and
+(7)  Any other person or entity affected by the order
+for immediate protection.
+(b)  Where the name or whereabouts of a
+potential party is unknown, the court may require the petitioner to set forth
+the reasonable efforts the petitioner made to ascertain the party's name or
+whereabouts and why the petitioner has been unable to determine those facts. [L
+1989, c 381, pt of §1; am L 1990, c 144, §1 and c 234, §7; am L 2004, c 161,
+§10; am L 2008, c 154, §18]
+Note
+L 2004, c 161, §36 purports to amend this section.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_237__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>After a petition has been filed, the matter shall be set for hearing and a
+notice of hearing shall be issued to all parties to the proceeding.  The
+parties to the proceeding shall include:</p>
+            </content>
+            <paragraph eId="346_237__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The vulnerable adult;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_237__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Any caregiver of the vulnerable adult;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_237__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A representative of the facility in which the
+vulnerable adult resides or is a patient;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_237__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The spouse and adult children of the vulnerable
+adult;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_237__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>The parents of the vulnerable adult, unless
+waived by the court for good cause;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_237__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Any guardian or conservator who may have been
+appointed; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_237__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Any other person or entity affected by the order
+for immediate protection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_237__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Where the name or whereabouts of a
+potential party is unknown, the court may require the petitioner to set forth
+the reasonable efforts the petitioner made to ascertain the party's name or
+whereabouts and why the petitioner has been unable to determine those facts. [L
+1989, c 381, pt of §1; am L 1990, c 144, §1 and c 234, §7; am L 2004, c 161,
+§10; am L 2008, c 154, §18]
+Note
+L 2004, c 161, §36 purports to amend this section.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

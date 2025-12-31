@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-60"/>
+          <FRBRuri value="/us-hi/act/hrs/346-60"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-60/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-60/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-60/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-60/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_60">
+          <num>346-60</num>
+          <heading>Section 346-60</heading>
+          <content>
+            <p>[§346-60]  Group therapy; reimbursement for
+services.
+(a)  The department shall establish rules pursuant to chapter 91
+to permit payment to providers of group therapy services to recipients under
+this chapter.
+(b)  For the purposes of this section,
+&quot;group therapy&quot; shall be defined as psychotherapeutic treatment
+delivery in which a patient receives treatment as a member of a group of
+patients receiving similar treatment, involving interaction both between the
+patient and the practitioner and among patients, and which is supervised by a
+practitioner licensed under chapters 453 or 465. [L 1976, c 236, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_60__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall establish rules pursuant to chapter 91
+to permit payment to providers of group therapy services to recipients under
+this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_60__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purposes of this section,
+&quot;group therapy&quot; shall be defined as psychotherapeutic treatment
+delivery in which a patient receives treatment as a member of a group of
+patients receiving similar treatment, involving interaction both between the
+patient and the practitioner and among patients, and which is supervised by a
+practitioner licensed under chapters 453 or 465. [L 1976, c 236, §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

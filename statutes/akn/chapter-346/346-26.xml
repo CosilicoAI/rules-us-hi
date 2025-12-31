@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-26"/>
+          <FRBRuri value="/us-hi/act/hrs/346-26"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-26/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-26/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-26/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-26/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_26">
+          <num>346-26</num>
+          <heading>Section 346-26</heading>
+          <content>
+            <p>§346-26  Prevention and treatment of
+conditions giving rise to need.
+The department of human services may carry
+on or administer or cooperate with other public or private agencies in work or
+activities for the purpose of preventing or treating conditions giving rise to
+the need for public assistance in any case in which such work or activities may
+prevent, shorten, or eliminate the need of public assistance.  Such work or
+activities, if any, shall be taken into consideration in deciding upon or
+deferring action upon any application for public assistance. [L 1941, c 296, pt
+of §1; RL 1945, §4831; RL 1955, §108-12; HRS §346-26; am L 1970, c 105, §5; am
+L 1987, c 339, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

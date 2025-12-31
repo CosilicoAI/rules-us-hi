@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/347-10"/>
+          <FRBRuri value="/us-hi/act/hrs/347-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/347-10/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/347-10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/347-10/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/347-10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_347">
+        <num>Chapter 347</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_347_10">
+          <num>347-10</num>
+          <heading>Section 347-10</heading>
+          <content>
+            <p>§347-10  Donations and examinations for
+sight conservation.
+(a)  Donations.  The department of human services in
+its sight conservation program may accept and expend or distribute donations,
+eye glasses, and other services for sight conservation and for assistance to
+blind and visually handicapped persons; provided that any donations of money so
+received shall be deposited in the state treasury and disbursed therefrom for
+such purposes pursuant to this chapter.
+(b)  Cause and prevention of blindness,
+examinations.  The department of human services, in consultation and
+cooperation with the department of health, shall make investigation of the
+causes of blindness, learn what proportion of the cases are preventible, and
+inaugurate and cooperate in any such preventive measures as may seem advisable
+for the State.  They, or either of them, may arrange for the examination of the
+eyes of the individual blind or visually handicapped persons and may provide or
+secure medical and surgical treatment of such persons whenever, in its
+judgment, the sight of the persons may be benefited thereby. [L 1941, c 296, pt
+of §1; RL 1945, §4862, ren §4877; am L 1945, c 113, §5; RL 1955, §109-11; am L
+1959, c 129, §1 and c 246, §8; am L 1965, c 246, §4; HRS §347-10; am L 1970, c
+105, §5; am L 1987, c 339, §4]
+Cross References
+Health department program, see §321-101.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="347_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Donations.  The department of human services in
+its sight conservation program may accept and expend or distribute donations,
+eye glasses, and other services for sight conservation and for assistance to
+blind and visually handicapped persons; provided that any donations of money so
+received shall be deposited in the state treasury and disbursed therefrom for
+such purposes pursuant to this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="347_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Cause and prevention of blindness,
+examinations.  The department of human services, in consultation and
+cooperation with the department of health, shall make investigation of the
+causes of blindness, learn what proportion of the cases are preventible, and
+inaugurate and cooperate in any such preventive measures as may seem advisable
+for the State.  They, or either of them, may arrange for the examination of the
+eyes of the individual blind or visually handicapped persons and may provide or
+secure medical and surgical treatment of such persons whenever, in its
+judgment, the sight of the persons may be benefited thereby. [L 1941, c 296, pt
+of §1; RL 1945, §4862, ren §4877; am L 1945, c 113, §5; RL 1955, §109-11; am L
+1959, c 129, §1 and c 246, §8; am L 1965, c 246, §4; HRS §347-10; am L 1970, c
+105, §5; am L 1987, c 339, §4]
+Cross References
+Health department program, see §321-101.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

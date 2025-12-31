@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-24"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-24"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-24/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-24/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-24/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-24/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_24">
+          <num>356D-24</num>
+          <heading>Trust indenture</heading>
+          <content>
+            <p>[§356D-24]  Trust indenture.
+(a)  A
+trust indenture may contain covenants and provisions authorized by part III of
+chapter 39, and as deemed necessary or convenient by the authority for the
+purposes of this part.
+(b)  A trust indenture may allow the authority
+to pledge and assign to the trustee agreements related to the public housing
+project or projects and the rights of the authority thereunder, including the
+right to receive revenues thereunder and to enforce the provision thereof.
+(c)  Where a trust indenture provides that any
+bond issued under that trust indenture is not valid or obligatory for any
+purpose unless certified or authenticated by the trustee, all signatures of the
+officers of the State upon the bonds required by section 39-56 may be
+facsimiles of their signatures.
+(d)  A trust indenture shall also contain
+provisions as to:
+(1)  The investment of the proceeds of the bonds, the
+investment of any reserve for the bonds, the investment of the revenues of the
+public housing project or system of public housing projects, and the use and
+application of the earnings from investments; and
+(2)  The terms and conditions upon which the holders
+of the bonds or any portion of them or any trustee thereof may institute
+proceedings for the enforcement of any agreement or any note or other
+undertaking, obligation, or property securing the payment of the bonds and the
+use and application of the moneys derived therefrom.
+(e)  A trust indenture may also contain
+provisions deemed necessary or desirable by the authority to obtain or permit,
+by grant, interest subsidy, or otherwise, the participation of the federal
+government in the public housing projects or in the financing of the costs of
+administering, operating, or maintaining the public housing projects. [L 2006,
+c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_24__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A
+trust indenture may contain covenants and provisions authorized by part III of
+chapter 39, and as deemed necessary or convenient by the authority for the
+purposes of this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_24__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A trust indenture may allow the authority
+to pledge and assign to the trustee agreements related to the public housing
+project or projects and the rights of the authority thereunder, including the
+right to receive revenues thereunder and to enforce the provision thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_24__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Where a trust indenture provides that any
+bond issued under that trust indenture is not valid or obligatory for any
+purpose unless certified or authenticated by the trustee, all signatures of the
+officers of the State upon the bonds required by section 39-56 may be
+facsimiles of their signatures.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_24__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A trust indenture shall also contain
+provisions as to:</p>
+            </content>
+            <paragraph eId="356D_24__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The investment of the proceeds of the bonds, the
+investment of any reserve for the bonds, the investment of the revenues of the
+public housing project or system of public housing projects, and the use and
+application of the earnings from investments; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="356D_24__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The terms and conditions upon which the holders
+of the bonds or any portion of them or any trustee thereof may institute
+proceedings for the enforcement of any agreement or any note or other
+undertaking, obligation, or property securing the payment of the bonds and the
+use and application of the moneys derived therefrom.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="356D_24__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A trust indenture may also contain
+provisions deemed necessary or desirable by the authority to obtain or permit,
+by grant, interest subsidy, or otherwise, the participation of the federal
+government in the public housing projects or in the financing of the costs of
+administering, operating, or maintaining the public housing projects. [L 2006,
+c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

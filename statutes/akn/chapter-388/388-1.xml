@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/388-1"/>
+          <FRBRuri value="/us-hi/act/hrs/388-1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/388-1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/388-1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/388-1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/388-1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_388">
+        <num>Chapter 388</num>
+        <heading>Payment of Wages and Other Compensation</heading>
+        <section eId="sec_388_1">
+          <num>388-1</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>PART I
+§388-1  Definitions.
+As used in this
+chapter:
+&quot;Director&quot; means the director of
+labor and industrial relations.
+&quot;Electronic transfer&quot; means any
+transfer of funds, other than transactions originated by check, draft, or
+similar paper instrument, which is initiated through an electronic terminal or
+computer so as to order, instruct, or authorize a federally insured depository
+institution to debit or credit an account.  &quot;Electronic transfer&quot;
+includes but is not limited to point-of-sale transfers, automated teller
+machine transactions, direct deposits or withdrawals of funds, and transfers
+initiated by a telephone conversation.
+&quot;Employ&quot; includes to permit or suffer
+to work.
+&quot;Employee&quot; includes any person
+suffered or permitted to work.
+&quot;Employer&quot; includes any individual;
+partnership; association; joint-stock company; trust; corporation; the personal
+representative of the estate of a deceased individual or the receiver, trustee,
+or successor of any of the same; general contractor, for purposes of wages owed
+to the employees of a subcontractor, as those terms are defined in section 388-11.5;
+employing any person, but shall not include the State or any political
+subdivision thereof or the United States.
+&quot;Issuer&quot; means the pay card issuer
+authorized to accept deposits and whose deposits are federally insured, and
+includes a person acting as a direct or indirect agent or administrator of an
+issuer.
+&quot;Pay card&quot; means a prepaid debit card
+distributed to an employee by an employer, or by another entity by arrangement
+with the employer, through which the employer provides the employee access to
+the employee's wages and is:
+(1)  Issued by a federally insured depository
+institution authorized to accept deposits; and
+(2)  Used by an employee to access wages from a pay
+card account and is redeemable at multiple unaffiliated merchants or service
+providers or automated teller machines.
+&quot;Pay card account&quot; means an account
+that is directly or indirectly established by an employer and to which
+transfers of the employee's wages are made.
+&quot;Pay card fee schedule&quot; means a
+written list of fees that may be charged to an employee by an issuer in
+connection with a pay card account or an explanation of how the fees will be
+determined.
+&quot;Wages&quot; means compensation for labor
+or services rendered by an employee, whether the amount is determined on a
+time, task, piece, commission, or other basis of calculation.  It shall include
+the reasonable cost, as determined by the director under chapter 387, to the
+employer of furnishing an employee with board, lodging, or other facilities if
+such board, lodging, or other facilities are customarily furnished by the
+employer to the employer's employees but shall not include tips or gratuities
+of any kind, provided that for the purposes of section 388-6, &quot;wages&quot;
+shall include tips or gratuities of any kind. [L 1963, c 158, pt of §3; Supp,
+§95-1; HRS §388-1; am L 1972, c 122, §1; am L 1976, c 200, pt of §1; gen ch
+1985; am L 2014, c 208, §3; am L 2023, c 47, §2]
+Revision Note
+Numeric designations deleted and definitions rearranged
+pursuant to §23G-15.
+Case Notes
+Because defendant concedes that it is contractually
+responsible for managing the resorts that plaintiff employees have worked at
+and had the authority to do so, there was no genuine issue of fact that
+defendant &quot;permit[ted] or suffer[ed]&quot; plaintiffs to work, and was
+therefore their &quot;employer&quot; under this section.  810 F. Supp. 2d 1145
+(2011).
+In reading §388-3 in the context of the entire statute and in
+light of the common law, the trial court did not err in concluding that payment
+for unused vacation upon separation from employment did not constitute
+&quot;wages&quot; under the plain meaning of this section.  108 H. 411, 121
+P.3d 391 (2005).
+Where defendant had authority over the operation of the
+hotels at which plaintiffs were employed, and defendant failed to raise an
+argument regarding defendant's status as &quot;employer&quot; until after the
+court had entered its final judgment, the circuit court did not err in
+concluding that defendant was an &quot;employer&quot; under this chapter.  133
+H. 1, 323 P.3d 792 (2014).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

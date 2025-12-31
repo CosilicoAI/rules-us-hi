@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-31"/>
+          <FRBRuri value="/us-hi/act/hrs/349-31"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-31/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-31/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-31/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-31/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_31">
+          <num>349-31</num>
+          <heading>]</heading>
+          <content>
+            <p>[PART IV.] 
+AGING AND DISABILITY RESOURCE CENTERS PROGRAM
+[
+§349-31]
+Definitions.
+As used in this part, unless the context otherwise requires:
+&quot;Aging and disability resource
+centers&quot; means an entity established by the State as part of the state
+system of long-term care serving as a highly visible and trusted source where
+people of all incomes and ages can obtain information on the full range of
+long-term support options and a single point of entry for access to public
+long-term support programs and benefits.
+&quot;Area
+agency on aging&quot; means the agency in each county designated by the
+executive office on aging, under section 305(a)(2)(A) of the Older Americans
+Act, P.L. 89-73, as amended, to facilitate the area-wide development and
+implementation of a comprehensive, coordinated system for providing long-term
+care in home and community-based settings, in a manner responsive to the needs
+and preferences of older individuals and their family caregivers.
+&quot;Dementia&quot; means a group of symptoms
+affecting intellectual and social abilities severely enough to interfere with
+daily functioning.
+&quot;Developmental disability&quot; means a
+severe, chronic disability of an individual that:
+(1)  Is attributable to a mental or physical
+impairment or combination of mental and physical impairments;
+(2)  Is manifested before the individual attains age
+twenty-two;
+(3)  Is likely to continue indefinitely;
+(4)  Results in substantial functional limitations in
+three or more of the following areas of major life activity:
+(A)  Self-care;
+(B)  Receptive and expressive language;
+(C)  Learning;
+(D)  Mobility;
+(E)  Self-direction;
+(F)  Capacity for independent living; or
+(G)  Economic self-sufficiency; and
+(5)  Reflects the individual's need for a combination
+and sequence of special, interdisciplinary, or generic services, individualized
+supports, or other forms of assistance that are of lifelong or extended
+duration and are individually planned and coordinated.
+An individual from birth to age nine, inclusive, who
+has a substantial developmental delay or specific congenital or acquired
+condition, may be considered to have a developmental disability without meeting
+three or more of the criteria described in paragraphs (1) through (5) of this
+definition if the individual, without services and supports, has a high
+probability of meeting three or more of those criteria later in life.
+&quot;Family caregiver&quot; means a spouse,
+adult child, other relative, partner, or friend who has a personal relationship
+with, and provides a broad range of unpaid assistance for an older adult with a
+chronic or disabling condition.
+&quot;Informal caregiver&quot; means a person
+who provides care for an older person or person with a disability who needs
+long-term supports and services, but does not receive compensation.
+&quot;Intellectual disability&quot; means a
+person's attributes or characteristics that demonstrate a limitation in
+intellectual functioning and adaptive behavior as expressed in conceptual,
+social, and practical skills, which are apparent prior to the age of eighteen. 
+This definition shall be based on the following assumptions:
+(1)  Limitations in present functioning shall be
+considered within the context of community environments typical of the
+individual's age peers and culture;
+(2)  Validate assessment considers cultural and
+linguistic diversity as well as differences in communication, sensory, motor,
+and behavioral factors;
+(3)  Within the individual, limitations often coexist
+with strengths;
+(4)  An important purpose of describing limitations is
+to develop a profile of needed supports; and
+(5)  With appropriate personalized supports over a
+sustained period, the life functioning of the person with intellectual
+disability generally will improve.
+&quot;Long-term supports and services&quot;
+means the broad range of assistance and care needed by older persons or persons
+with physical or mental disabilities who have lost or never acquired the
+ability to function independently.
+&quot;Options counseling&quot; means an
+interactive decision-support process whereby consumers, family members, and
+significant others are supported in their deliberations to determine
+appropriate long-term care choices in the context of a consumer's needs,
+preferences, values, and individual circumstances.
+&quot;Physical disability&quot; means the broad
+range of disabilities including orthopedic, neuromuscular, cardiovascular, and
+pulmonary disorders, which may be congenital or a result of aging or injury.
+&quot;Severe mental illness&quot; means one of
+several diseases that affects the brain and significantly and functionally
+impairs an individual for an indefinite period of time. [L 2012, c 237, pt of
+§2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

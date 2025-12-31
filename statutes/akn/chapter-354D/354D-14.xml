@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/354D-14"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-14"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/354D-14/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-14/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/354D-14/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-14/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_354D">
+        <num>Chapter 354D</num>
+        <heading>Hawaii Paroling Authority</heading>
+        <section eId="sec_354D_14">
+          <num>354D-14</num>
+          <heading>Disclosure of interests</heading>
+          <content>
+            <p>[§354D-14]  Disclosure of interests.
+Any employee, adviser, or any other agent of the correctional industries
+program who has a direct or indirect interest in any contract or transaction
+with the correctional industries program shall disclose this interest to the
+administrator.  No employee, adviser, or agent having an interest shall
+participate on behalf of the correctional industries program in the
+authorization of any contract or transaction. [L 1990, c 341, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

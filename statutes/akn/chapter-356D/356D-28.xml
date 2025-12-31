@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-28"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-28"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-28/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-28/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-28/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-28/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_28">
+          <num>356D-28</num>
+          <heading>Public housing special fund</heading>
+          <content>
+            <p>§356D-28  Public housing special fund.
+(a) 
+There is established the public housing special fund to be administered by the
+authority.  Notwithstanding section 36-21, the proceeds in the fund shall be
+used for long-term and other special financings of the authority and for
+necessary expenses in administering this chapter.
+(b)  All moneys received and collected by the
+authority, not otherwise pledged, obligated, or required by law to be placed in
+any other special fund, shall be deposited into the public housing special
+fund. [L 2006, c 180, pt of §2; am L 2016, c 42, §11; am L Sp 2021, c 9, §76]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="356D_28__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is established the public housing special fund to be administered by the
+authority.  Notwithstanding section 36-21, the proceeds in the fund shall be
+used for long-term and other special financings of the authority and for
+necessary expenses in administering this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="356D_28__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All moneys received and collected by the
+authority, not otherwise pledged, obligated, or required by law to be placed in
+any other special fund, shall be deposited into the public housing special
+fund. [L 2006, c 180, pt of §2; am L 2016, c 42, §11; am L Sp 2021, c 9, §76]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

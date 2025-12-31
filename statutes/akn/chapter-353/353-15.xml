@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-15"/>
+          <FRBRuri value="/us-hi/act/hrs/353-15"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-15/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-15/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-15/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-15/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_15">
+          <num>353-15</num>
+          <heading>Section 353-15</heading>
+          <content>
+            <p>§353-15  Transfer of committed persons
+affected with communicable disease.
+Upon written recommendation of the
+director of health that a committed person determined to have a communicable
+disease be removed to any hospital, settlement, or place for care and treatment
+of the communicable disease as designated by the director of health for such
+specialized care and treatment, the director of corrections and rehabilitation
+may direct any official having custody of any committed person convicted of a
+felony and incarcerated in a state correctional facility to cause the committed
+person to be removed to such a place as designated by the director of health,
+until discharged under chapter 325 or 326 or until the maximum sentence has
+been served.  Any such committed person who may be discharged before the
+maximum term of imprisonment shall be returned to the state correctional
+facility from which the committed person was removed.  Any such person who has
+served the maximum sentence before the committed person is discharged under
+chapter 325 or 326 shall remain in the custody of the director of health until
+lawfully discharged or removed by direction or permission.  Supervision, care,
+and treatment of the committed person transferred to any hospital, settlement,
+or place for the care and treatment of the communicable disease shall be governed
+by the rules, policies, and procedures of the department of health. [L 1987, c
+338, pt of §3; am L 1989, c 211, §8; am L 2022, c 278, §29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-31"/>
+          <FRBRuri value="/us-hi/act/hrs/346-31"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-31/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-31/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-31/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-31/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_31">
+          <num>346-31</num>
+          <heading>Section 346-31</heading>
+          <content>
+            <p>§346-31  Assignment of persons in need of
+public assistance to work on public projects.
+The department of human
+services as far as permissible under the then existing federal laws, may assign
+persons in need of public assistance to work on state, county, or other public
+projects whether or not the projects are conducted in cooperation with any
+federal agency for the relief of unemployment.
+The amount of assistance to be paid to such
+persons shall be fixed by the department, taking into consideration the work
+performed, and may exceed the amount or value of the grant of public
+assistance, which would have been made had no such assignment to a work project
+been made, but in no event shall such additional assistance, granted because of
+assignment to a work project, exceed the amount necessary to provide for extra
+expenses, incurred by the recipient for food, clothing, transportation, and incidentals.
+[L 1941, c 296, pt of §1; RL 1945, §4836; RL 1955, §108-17; HRS §346-31; am L
+1970, c 105, §5; am L 1987, c 339, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

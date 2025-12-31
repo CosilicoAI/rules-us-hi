@@ -1,0 +1,322 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-152.5"/>
+          <FRBRuri value="/us-hi/act/hrs/346-152.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-152.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-152.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-152.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-152.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_152_5">
+          <num>346-152.5</num>
+          <heading>Section 346-152.5</heading>
+          <content>
+            <p>§346-152  Exclusions; exemptions.
+(a) 
+Nothing in this part shall be construed to include:
+(1)  A person caring for children who is related to
+each child by blood, marriage, or adoption as:
+(A)  A parent's sibling; grandparent; great-grandparent;
+great-great grandparent; first cousin; sibling's child; sibling's grandchild;
+or grandparent's sibling;
+(B)  A stepparent or stepsibling; or
+(C)  The spouse of a person named in
+subparagraph (A) or (B), even if the marriage is terminated by death,
+separation, or divorce;
+(2)  A person, group of persons, or facility caring
+for a child less than six hours a week;
+(3)  A kindergarten, school, or child care program
+licensed or certified by the department of education;
+(4)  A program that provides exclusively for a
+specialized training or skill development for children who are eligible pupils
+in grades kindergarten through twelve in public or private schools, including
+but not limited to programs providing activities including athletic sports,
+foreign language, the Hawaiian language, dance, drama, music, or martial arts;
+(5)  A multiservice organization or community
+association, duly incorporated under the laws of the State, that operates for
+the purpose of promoting recreation, health, safety, or social group functions
+for eligible pupils in public and private schools through seventeen years of
+age;
+(6)  Programs for children four years of age and older
+that operate for no more than two consecutive calendar weeks in a three-month
+period;
+(7)  A provider agency operating or managing a
+homeless facility or any other program for homeless persons authorized under
+part XVII;
+(8)  After-school, weekend, and summer recess programs
+conducted by the department of education pursuant to section 302A-408;
+(9)  Child care programs conducted by counties
+pursuant to section 302A-408; provided that each county adopts rules for its
+programs;
+(10)  Any person who enters a home in a child caring
+capacity and only cares for children who are of that household;
+(11)  A person caring for two or fewer children
+unrelated to the caregiver by blood, marriage, or adoption as described in
+paragraph (1);
+(12)  A child care program licensed by the Hawaii
+council of private schools.  A child care program claiming an exemption under
+this paragraph shall submit an application for the exemption on a form provided
+by the department and shall provide to the department evidence that the
+licensing standards of the Hawaii council of private schools meet or exceed the
+department's standards for a comparable program, including a monitoring
+component.  Upon application of a child care program for the exemption under
+this paragraph, the department shall have the discretion to determine whether
+the licensing standards of the Hawaii council of private schools meet or exceed
+the department's standards;
+(13)  A kindergarten, school, or child care program
+certified by the United States Department of Defense; and
+(14)  A classroom administered by the executive office
+on early learning pursuant to section 302L-7.
+(b)  Staff members of programs taught solely in
+Hawaiian that promote fluency in the Hawaiian language shall be exempt from any
+rules requiring academic training or certification.
+(c)  Minimum health and safety requirements or
+standards as required by federal law may be imposed on any of the groups listed
+in this section that provide child care for a child whose family receives a
+child care subsidy from the department.
+(d)  Any person or child care facility
+asserting an exemption under this section shall:
+(1)  Cooperate with the department in investigations
+relating to unlicensed or unregistered child care;
+(2)  Have the burden of proving that the person or
+child care facility falls within an exemption pursuant to subsection (a); and
+(3)  Provide verification to the department that the
+person or child care facility falls within an exemption pursuant to subsection
+(a). [L 1985, c 208, pt of §2; am L 1986, c 79, §1; am L 1988, c 125, §2; am L
+1991, c 212, §5; am L 1992, c 114, §1; am L 1997, c 250, §1 and c 350, §17; am
+L 1998, c 212, §3; am L 2002, c 33, §2; am L 2007, c 249, §21; am L 2010, c 89,
+§5; am L 2012, c 163, §1; am L 2013, c 140, §1; am L 2019, c 276, §11; am L
+2020, c 66, §2; am L 2024, c 146, §2]
+Attorney General Opinions
+No exemption for child care program connected with religious
+organization or offering some religious instruction.  Att. Gen. Op. 85-25.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_152_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Nothing in this part shall be construed to include:</p>
+            </content>
+            <paragraph eId="346_152_5__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>A person caring for children who is related to
+each child by blood, marriage, or adoption as:</p>
+              </content>
+              <subparagraph eId="346_152_5__subsec_a__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>A parent's sibling; grandparent; great-grandparent;
+great-great grandparent; first cousin; sibling's child; sibling's grandchild;
+or grandparent's sibling;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_152_5__subsec_a__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>A stepparent or stepsibling; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_152_5__subsec_a__para_1__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>The spouse of a person named in
+subparagraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="346_152_5__subsec_a__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>or (B), even if the marriage is terminated by death,
+separation, or divorce;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A person, group of persons, or facility caring
+for a child less than six hours a week;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A kindergarten, school, or child care program
+licensed or certified by the department of education;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>A program that provides exclusively for a
+specialized training or skill development for children who are eligible pupils
+in grades kindergarten through twelve in public or private schools, including
+but not limited to programs providing activities including athletic sports,
+foreign language, the Hawaiian language, dance, drama, music, or martial arts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>A multiservice organization or community
+association, duly incorporated under the laws of the State, that operates for
+the purpose of promoting recreation, health, safety, or social group functions
+for eligible pupils in public and private schools through seventeen years of
+age;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Programs for children four years of age and older
+that operate for no more than two consecutive calendar weeks in a three-month
+period;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>A provider agency operating or managing a
+homeless facility or any other program for homeless persons authorized under
+part XVII;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>After-school, weekend, and summer recess programs
+conducted by the department of education pursuant to section 302A-408;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Child care programs conducted by counties
+pursuant to section 302A-408; provided that each county adopts rules for its
+programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Any person who enters a home in a child caring
+capacity and only cares for children who are of that household;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_11">
+              <num>(11)</num>
+              <content>
+                <p>A person caring for two or fewer children
+unrelated to the caregiver by blood, marriage, or adoption as described in
+paragraph (1);</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_12">
+              <num>(12)</num>
+              <content>
+                <p>A child care program licensed by the Hawaii
+council of private schools.  A child care program claiming an exemption under
+this paragraph shall submit an application for the exemption on a form provided
+by the department and shall provide to the department evidence that the
+licensing standards of the Hawaii council of private schools meet or exceed the
+department's standards for a comparable program, including a monitoring
+component.  Upon application of a child care program for the exemption under
+this paragraph, the department shall have the discretion to determine whether
+the licensing standards of the Hawaii council of private schools meet or exceed
+the department's standards;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_13">
+              <num>(13)</num>
+              <content>
+                <p>A kindergarten, school, or child care program
+certified by the United States Department of Defense; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_a__para_14">
+              <num>(14)</num>
+              <content>
+                <p>A classroom administered by the executive office
+on early learning pursuant to section 302L-7.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_152_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Staff members of programs taught solely in
+Hawaiian that promote fluency in the Hawaiian language shall be exempt from any
+rules requiring academic training or certification.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_152_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Minimum health and safety requirements or
+standards as required by federal law may be imposed on any of the groups listed
+in this section that provide child care for a child whose family receives a
+child care subsidy from the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_152_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any person or child care facility
+asserting an exemption under this section shall:</p>
+            </content>
+            <paragraph eId="346_152_5__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Cooperate with the department in investigations
+relating to unlicensed or unregistered child care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Have the burden of proving that the person or
+child care facility falls within an exemption pursuant to subsection</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_152_5__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Provide verification to the department that the
+person or child care facility falls within an exemption pursuant to subsection</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-201"/>
+          <FRBRuri value="/us-hi/act/hrs/386-201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-201/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-201/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_201">
+          <num>386-201</num>
+          <heading>Section 386-201</heading>
+          <content>
+            <p>§386-201  Financial statements and other
+reports.
+(a)  Each group shall submit to the insurance commissioner a
+statement of financial condition audited by an independent certified public
+accountant on or before the last day of the sixth month following the end of
+the group's fiscal year.  The financial statement shall be on a form prescribed
+by the insurance commissioner and shall include, but not be limited to,
+actuarially appropriate reserves for:
+(1)  Known claims and expenses associated therewith;
+(2)  Claims incurred but not reported and expenses
+associated therewith;
+(3)  Unearned premiums; and
+(4)  Bad debts, reserves for which shall be shown as
+liabilities.
+An actuarial opinion regarding reserves for known
+claims and expenses associated therewith and claims incurred but not reported
+and expenses associated therewith shall be included in the audited financial
+statement.  The actuarial opinion shall be given by a member of the American
+Academy of Actuaries or other qualified loss reserve specialist as defined in
+the annual statement adopted by the National Association of Insurance
+Commissioners.
+(b)  No person shall make any untrue statement
+of a material fact in connection with the solicitation of membership of a
+group.  No person shall omit to state a material fact which makes the statement
+misleading, in light of the circumstances under which it is made, in connection
+with the solicitation of membership of a group.
+(c)  The insurance commissioner may prescribe
+the format and frequency of other reports which may include, but shall not be
+limited to, payroll audit reports, summary loss reports, and quarterly
+financial statements. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="386_201__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each group shall submit to the insurance commissioner a
+statement of financial condition audited by an independent certified public
+accountant on or before the last day of the sixth month following the end of
+the group's fiscal year.  The financial statement shall be on a form prescribed
+by the insurance commissioner and shall include, but not be limited to,
+actuarially appropriate reserves for:</p>
+            </content>
+            <paragraph eId="386_201__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Known claims and expenses associated therewith;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_201__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Claims incurred but not reported and expenses
+associated therewith;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_201__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Unearned premiums; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="386_201__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Bad debts, reserves for which shall be shown as
+liabilities.
+An actuarial opinion regarding reserves for known
+claims and expenses associated therewith and claims incurred but not reported
+and expenses associated therewith shall be included in the audited financial
+statement.  The actuarial opinion shall be given by a member of the American
+Academy of Actuaries or other qualified loss reserve specialist as defined in
+the annual statement adopted by the National Association of Insurance
+Commissioners.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="386_201__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No person shall make any untrue statement
+of a material fact in connection with the solicitation of membership of a
+group.  No person shall omit to state a material fact which makes the statement
+misleading, in light of the circumstances under which it is made, in connection
+with the solicitation of membership of a group.</p>
+            </content>
+          </subsection>
+          <subsection eId="386_201__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The insurance commissioner may prescribe
+the format and frequency of other reports which may include, but shall not be
+limited to, payroll audit reports, summary loss reports, and quarterly
+financial statements. [L 1986, c 304, pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

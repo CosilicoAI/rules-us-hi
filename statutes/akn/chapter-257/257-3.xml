@@ -1,0 +1,246 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/257-3"/>
+          <FRBRuri value="/us-hi/act/hrs/257-3"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/257-3/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/257-3/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/257-3/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/257-3/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_257">
+        <num>Chapter 257</num>
+        <heading>Uniform Division of Income for Tax Purposes Act</heading>
+        <section eId="sec_257_3">
+          <num>257-3</num>
+          <heading>Fiduciary organizations</heading>
+          <content>
+            <p>[§257-3]  Fiduciary organizations.
+(a) 
+Fiduciary organizations shall serve as an intermediary between individual
+development account holders and financial institutions holding accounts.  The
+fiduciary organization's responsibilities may include:
+(1)  Marketing participation;
+(2)  Soliciting matching contributions;
+(3)  Counseling program participants; and
+(4)  Conducting verification and compliance
+activities.
+(b)  Locally-based organizations shall enter
+into a competitive process for the right to become fiduciary organizations for
+a portion of the state matching dollars that would be authorized initially. 
+Fiduciary organization proposals shall be evaluated and participation rights
+awarded on the basis of such items as:
+(1)  Their ability to market the program to potential
+individual development account holders and potential matching fund
+contributors;
+(2)  Their ability to provide safe and secure
+investments for individual development accounts;
+(3)  Their overall administrative capacity, including:
+(A)  Certifications or verifications required
+to assure compliance with eligibility requirements;
+(B)  Authorized uses of the accounts matching
+contributions by individuals or businesses; and
+(C)  Penalties for unauthorized distributions;
+(4)  Their capacity to provide financial counseling
+and other related services to potential participants; and
+(5)  Their links to other activities designed to
+increase the independence of individuals and families through high return
+investments, including homeownership, education and training, and small
+business development.
+(c)  If the State approves an application to
+fund an individual development account project under this section, the State
+shall, not later than one month after June 28, 1999, authorize the applicant to
+conduct the project with state funds for five project years in accordance with
+the approved application and this section; provided that an applicant may apply
+for funding during future fiscal years for five project years if the State
+lacks the resources to fund an individual development account project pursuant
+to this subsection.
+(d)  For each individual development account
+program approved under this section, the State shall make a grant to the
+qualified entity or collaboration of entities authorized to conduct the project
+on the first day of the project year in an amount not to exceed $100,000 per
+year for five years.
+(e)  From among the individuals eligible for
+assistance under the Hawaii individual development account program, each
+selected fiduciary organization shall select the individuals whom the fiduciary
+organization deems to be best suited to receive such assistance. [L 1999, c
+160, pt of §25]
+Revision Note
+&quot;June 28,
+1999&quot; substituted for &quot;the date of the enactment of this Act&quot;
+pursuant to
+§
+23G-15.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="257_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Fiduciary organizations shall serve as an intermediary between individual
+development account holders and financial institutions holding accounts.  The
+fiduciary organization's responsibilities may include:</p>
+            </content>
+            <paragraph eId="257_3__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Marketing participation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_3__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Soliciting matching contributions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_3__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Counseling program participants; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_3__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Conducting verification and compliance
+activities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="257_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Locally-based organizations shall enter
+into a competitive process for the right to become fiduciary organizations for
+a portion of the state matching dollars that would be authorized initially. 
+Fiduciary organization proposals shall be evaluated and participation rights
+awarded on the basis of such items as:</p>
+            </content>
+            <paragraph eId="257_3__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Their ability to market the program to potential
+individual development account holders and potential matching fund
+contributors;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_3__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Their ability to provide safe and secure
+investments for individual development accounts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_3__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Their overall administrative capacity, including:</p>
+              </content>
+              <subparagraph eId="257_3__subsec_b__para_3__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Certifications or verifications required
+to assure compliance with eligibility requirements;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="257_3__subsec_b__para_3__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Authorized uses of the accounts matching
+contributions by individuals or businesses; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="257_3__subsec_b__para_3__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Penalties for unauthorized distributions;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="257_3__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Their capacity to provide financial counseling
+and other related services to potential participants; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="257_3__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Their links to other activities designed to
+increase the independence of individuals and families through high return
+investments, including homeownership, education and training, and small
+business development.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="257_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the State approves an application to
+fund an individual development account project under this section, the State
+shall, not later than one month after June 28, 1999, authorize the applicant to
+conduct the project with state funds for five project years in accordance with
+the approved application and this section; provided that an applicant may apply
+for funding during future fiscal years for five project years if the State
+lacks the resources to fund an individual development account project pursuant
+to this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="257_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For each individual development account
+program approved under this section, the State shall make a grant to the
+qualified entity or collaboration of entities authorized to conduct the project
+on the first day of the project year in an amount not to exceed $100,000 per
+year for five years.</p>
+            </content>
+          </subsection>
+          <subsection eId="257_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>From among the individuals eligible for
+assistance under the Hawaii individual development account program, each
+selected fiduciary organization shall select the individuals whom the fiduciary
+organization deems to be best suited to receive such assistance. [L 1999, c
+160, pt of §25]
+Revision Note
+&quot;June 28,
+1999&quot; substituted for &quot;the date of the enactment of this Act&quot;
+pursuant to
+§
+23G-15.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,304 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-382"/>
+          <FRBRuri value="/us-hi/act/hrs/346-382"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-382/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-382/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-382/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-382/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_382">
+          <num>346-382</num>
+          <heading>Membership</heading>
+          <content>
+            <p>§346-382  Membership.
+(a)  The Hawaii
+interagency council on homelessness shall be composed of the following members
+or the member's designee:
+(1)  Governor's coordinator on homelessness, who shall
+serve as chair;
+(2)  Director of human services;
+(3)  Administrator of the
+homeless programs office of the department of human services;
+(4)  Director of health;
+(5)  Director of labor and
+industrial relations;
+(6)  Director of law
+enforcement;
+(7)  Director of business,
+economic development, and tourism;
+(8)  Chairperson of the
+Hawaiian homes commission;
+(9)  Adjutant general;
+(10)  Chairperson of the
+board of trustees of the office of Hawaiian affairs;
+(11)  Attorney general;
+(12)  Superintendent of
+education;
+(13)  Two members of the
+house of representatives to be designated by the speaker of the house of
+representatives, of whom one member shall be designated by the speaker of the
+house of representatives to serve as an alternate member on the Hawaii
+interagency council on homelessness to serve in the other member's absence;
+(14)  Two members of the
+senate to be designated by the president of the senate, of whom one member
+shall be designated by the president of the senate to serve as an alternate
+member on the Hawaii interagency council on homelessness to serve in the other
+member's absence;
+(15)  A representative of the
+Hawaii public housing authority;
+(16)  The mayor of each
+county;
+(17)  A representative of the
+continuum of care programs in each county, to be designated by the respective
+mayors;
+(18)  A representative of the
+United States Department of Veterans Affairs who shall be requested to serve by
+the governor;
+(19)  A representative from
+the Office of Community Planning and Development, United States Department of
+Housing and Urban Development, who shall be requested to serve by the governor;
+(20)  A representative of a
+faith-based organization with interfaith relationships, to be designated by the
+governor; and
+(21)  A representative of the business community, to be
+designated by the governor.
+(b)  The nongovernmental members of the Hawaii
+interagency council on homelessness shall serve without compensation but shall
+be reimbursed for expenses, including travel expenses, necessary for the
+performance of their duties.
+(c)  Except as provided in subsection (a)(13)
+and (a)(14), if a member of the Hawaii interagency council on homelessness is
+unable to attend a meeting, that member may appoint a designee to attend and to
+act on the member's behalf during the meeting.
+(d)  Chapter 84 shall not apply to the members
+of the Hawaii interagency council on homelessness. [L 2012, c 105, pt of §2; am
+L 2013, c 76, §1; am L 2022, c 278, §17]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_382__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Hawaii
+interagency council on homelessness shall be composed of the following members
+or the member's designee:</p>
+            </content>
+            <paragraph eId="346_382__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Governor's coordinator on homelessness, who shall
+serve as chair;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Director of human services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Administrator of the
+homeless programs office of the department of human services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Director of health;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Director of labor and
+industrial relations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Director of law
+enforcement;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Director of business,
+economic development, and tourism;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Chairperson of the
+Hawaiian homes commission;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Adjutant general;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Chairperson of the
+board of trustees of the office of Hawaiian affairs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_11">
+              <num>(11)</num>
+              <content>
+                <p>Attorney general;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_12">
+              <num>(12)</num>
+              <content>
+                <p>Superintendent of
+education;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_13">
+              <num>(13)</num>
+              <content>
+                <p>Two members of the
+house of representatives to be designated by the speaker of the house of
+representatives, of whom one member shall be designated by the speaker of the
+house of representatives to serve as an alternate member on the Hawaii
+interagency council on homelessness to serve in the other member's absence;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_14">
+              <num>(14)</num>
+              <content>
+                <p>Two members of the
+senate to be designated by the president of the senate, of whom one member
+shall be designated by the president of the senate to serve as an alternate
+member on the Hawaii interagency council on homelessness to serve in the other
+member's absence;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_15">
+              <num>(15)</num>
+              <content>
+                <p>A representative of the
+Hawaii public housing authority;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_16">
+              <num>(16)</num>
+              <content>
+                <p>The mayor of each
+county;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_17">
+              <num>(17)</num>
+              <content>
+                <p>A representative of the
+continuum of care programs in each county, to be designated by the respective
+mayors;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_18">
+              <num>(18)</num>
+              <content>
+                <p>A representative of the
+United States Department of Veterans Affairs who shall be requested to serve by
+the governor;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_19">
+              <num>(19)</num>
+              <content>
+                <p>A representative from
+the Office of Community Planning and Development, United States Department of
+Housing and Urban Development, who shall be requested to serve by the governor;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_20">
+              <num>(20)</num>
+              <content>
+                <p>A representative of a
+faith-based organization with interfaith relationships, to be designated by the
+governor; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_382__subsec_a__para_21">
+              <num>(21)</num>
+              <content>
+                <p>A representative of the business community, to be
+designated by the governor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_382__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The nongovernmental members of the Hawaii
+interagency council on homelessness shall serve without compensation but shall
+be reimbursed for expenses, including travel expenses, necessary for the
+performance of their duties.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_382__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Except as provided in subsection</p>
+            </content>
+            <paragraph eId="346_382__subsec_c__para_13">
+              <num>(13)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_382__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Chapter 84 shall not apply to the members
+of the Hawaii interagency council on homelessness. [L 2012, c 105, pt of §2; am
+L 2013, c 76, §1; am L 2022, c 278, §17]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

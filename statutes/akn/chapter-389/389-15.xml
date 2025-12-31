@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-15"/>
+          <FRBRuri value="/us-hi/act/hrs/389-15"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-15/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-15/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-15/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-15/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_15">
+          <num>389-15</num>
+          <heading>Rulemaking</heading>
+          <content>
+            <p>[§389-15]  Rulemaking.
+(a)  The
+department, in consultation with the department of budget and finance, may
+adopt rules pursuant to chapter 91 to govern the actions of the board.
+(b)  The board, in consultation with the
+department and department of budget and finance, may adopt rules pursuant to
+chapter 91 to carry out the purposes of this chapter.  The rules adopted by the
+board may include but not be limited to rules and procedures governing:
+(1)  Enrollment and contributions to an IRA under the
+program, including withholding by covered employers of employee payroll, rights
+of covered employees, and obligations of covered employers;
+(2)  Withdrawals, rollovers, and direct transfers from
+an IRA under the program in the interest of facilitating portability and
+maximization of benefits;
+(3)  Phasing in the enrollment of eligible covered
+employees by the size or type of covered employer, beginning with the initial
+applicability date specified in this chapter;
+(4)  Outreach to covered employees, covered employers,
+other stakeholders, and the public regarding the program;
+(5)  Actions of the program manager;
+(6)  Distribution
+of funds from
+the program
+;
+(7)  Portability of benefits, including the ability to
+make tax-free rollovers or transfers from IRAs under the program to other IRAs
+or to tax-qualified plans that accept rollovers; and
+(8)  Prescribed forms to be used by covered employers
+and covered employees. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_15__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The
+department, in consultation with the department of budget and finance, may
+adopt rules pursuant to chapter 91 to govern the actions of the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="389_15__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The board, in consultation with the
+department and department of budget and finance, may adopt rules pursuant to
+chapter 91 to carry out the purposes of this chapter.  The rules adopted by the
+board may include but not be limited to rules and procedures governing:</p>
+            </content>
+            <paragraph eId="389_15__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Enrollment and contributions to an IRA under the
+program, including withholding by covered employers of employee payroll, rights
+of covered employees, and obligations of covered employers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_15__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Withdrawals, rollovers, and direct transfers from
+an IRA under the program in the interest of facilitating portability and
+maximization of benefits;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_15__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Phasing in the enrollment of eligible covered
+employees by the size or type of covered employer, beginning with the initial
+applicability date specified in this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_15__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Outreach to covered employees, covered employers,
+other stakeholders, and the public regarding the program;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_15__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Actions of the program manager;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_15__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Distribution
+of funds from
+the program
+;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_15__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Portability of benefits, including the ability to
+make tax-free rollovers or transfers from IRAs under the program to other IRAs
+or to tax-qualified plans that accept rollovers; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="389_15__subsec_b__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Prescribed forms to be used by covered employers
+and covered employees. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/378-81"/>
+          <FRBRuri value="/us-hi/act/hrs/378-81"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/378-81/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/378-81/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/378-81/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/378-81/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_378">
+        <num>Chapter 378</num>
+        <heading>Employment Practices</heading>
+        <section eId="sec_378_81">
+          <num>378-81</num>
+          <heading>Reasonable accommodations</heading>
+          <content>
+            <p>[C.] 
+Reasonable Accommodations in the Workplace
+[§378-81]  Reasonable accommodations.
+[(a)]  An employer shall make reasonable accommodations in the workplace for an
+employee who is a victim of domestic or sexual violence, including:
+(1)  Changing the contact information, such as
+telephone numbers, fax numbers, or electronic-mail addresses, of the employee;
+(2)  Screening the telephone calls of the employee;
+(3)  Restructuring the job functions of the employee;
+(4)  Changing the work location of the employee;
+(5)  Installing locks and other security devices; and
+(6)  Allowing the employee to work flexible hours;
+provided that an employer shall not be required to
+make the reasonable accommodations if they cause undue hardship on the work
+operations of the employer.
+(b)  Prior to making the reasonable
+accommodations under this section, an employer may verify that an employee is a
+victim of domestic or sexual violence as provided in section 378-2(b).
+(c)  As used in this section, &quot;undue
+hardship&quot; means an action requiring significant difficulty or expense on
+the operation of an employer, when considered in light of the following
+factors:
+(1)  The
+nature and cost of the reasonable accommodation needed under this section;
+(2)  The
+overall financial resources of the employer; the number of employees of the
+employer; and the number, type, and placement of the work locations of an
+employer; and
+(3)  The type of operation of the employer, including
+the composition, structure, and functions of the workforce of the employer, the
+geographic separateness of the victim's work location from the employer, and
+the administrative or fiscal relationship of the work location to the employer.
+[L 2011, c 206, pt of §3(4)]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="378_81__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Prior to making the reasonable
+accommodations under this section, an employer may verify that an employee is a
+victim of domestic or sexual violence as provided in section 378-2</p>
+            </content>
+          </subsection>
+          <subsection eId="378_81__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>As used in this section, &quot;undue
+hardship&quot; means an action requiring significant difficulty or expense on
+the operation of an employer, when considered in light of the following
+factors:</p>
+            </content>
+            <paragraph eId="378_81__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The
+nature and cost of the reasonable accommodation needed under this section;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="378_81__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The
+overall financial resources of the employer; the number of employees of the
+employer; and the number, type, and placement of the work locations of an
+employer; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="378_81__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The type of operation of the employer, including
+the composition, structure, and functions of the workforce of the employer, the
+geographic separateness of the victim's work location from the employer, and
+the administrative or fiscal relationship of the work location to the employer.
+[L 2011, c 206, pt of §3(4)]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

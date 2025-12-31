@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-2.7"/>
+          <FRBRuri value="/us-hi/act/hrs/245-2.7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-2.7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-2.7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-2.7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-2.7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_2_7">
+          <num>245-2.7</num>
+          <heading>Section 245-2.7</heading>
+          <content>
+            <p>§245-2  License.
+(a)  It shall be
+unlawful for any person to engage in the business of a wholesaler or dealer in
+the State without having received first a license therefor issued by the
+department of taxation under this chapter; provided that this section shall not
+be construed to supersede any other law relating to licensing of persons in the
+same business.
+(b)  The license shall be issued by the
+department upon application therefor, in the form and manner required by rule
+of the department, and the payment of a fee of $250, and shall be renewable
+annually on July 1 for the twelve months ending the succeeding June 30.
+(c)  Any license issued under this chapter
+shall not be assignable and shall be conspicuously displayed on the licensed
+premises of the licensee.  Whenever a license is defaced, destroyed, or lost,
+or the licensed premises are relocated, the department may issue a duplicate
+license to the licensee upon the payment of a fee of 50 cents.
+(d)  The department may suspend, revoke, or
+decline to renew any license issued under this chapter whenever the department
+finds that the applicant or licensee has failed to comply with this chapter or
+any rule adopted under this chapter, or for any other good cause.  Good cause
+includes but is not limited to instances where an applicant or licensee has:
+(1)  Submitted a false or fraudulent application or
+provided a false statement in an application;
+(2)  Possessed or displayed a false or fraudulent
+license;
+(3)  Failed to comply with, violated, or been
+convicted of violating any county, state, or federal law directly pertaining to
+the sale, importation, acquisition, possession, stamping, distribution,
+transportation, or smuggling of cigarettes, counterfeit cigarettes, counterfeit
+tax stamps, or other tobacco products; or
+(4)  Failed to maintain complete and accurate records
+when and if required to be kept.
+Upon suspending or revoking any license, the
+department may request that the licensee immediately surrender the license or
+any duplicate issued to or printed by the licensee, and the licensee shall
+surrender the license or duplicate promptly to the department as requested.
+(e)  Whenever the department suspends, revokes,
+or declines to renew a license, the department shall notify the applicant or
+licensee immediately and afford the applicant or licensee a hearing, if
+requested; provided that a hearing has not already been afforded.  The
+department shall provide no less than thirty days' notice to the applicant or
+licensee of a hearing afforded under this subsection.  After the hearing, the
+department shall:
+(1)  Rescind its order of suspension;
+(2)  Continue the suspension;
+(3)  Revoke the license;
+(4)  Rescind its order of revocation;
+(5)  Decline to renew the license; or
+(6)  Renew the license. [L 1939, c 220, §3; RL 1945,
+§5752; RL 1955, §125-2; am L Sp 1957, c 1, §8(a); am L Sp 1959 2d, c 1, §16;
+HRS §245-2; am L 1993, c 220, §8; am L 1995, c 92, §17; am L 2005, c 131, §§3,
+9(2); am L 2009, c 30, §2; am L 2021, c 116, §7; am L 2023, c 62, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="245_2_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>It shall be
+unlawful for any person to engage in the business of a wholesaler or dealer in
+the State without having received first a license therefor issued by the
+department of taxation under this chapter; provided that this section shall not
+be construed to supersede any other law relating to licensing of persons in the
+same business.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_2_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The license shall be issued by the
+department upon application therefor, in the form and manner required by rule
+of the department, and the payment of a fee of $250, and shall be renewable
+annually on July 1 for the twelve months ending the succeeding June 30.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_2_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any license issued under this chapter
+shall not be assignable and shall be conspicuously displayed on the licensed
+premises of the licensee.  Whenever a license is defaced, destroyed, or lost,
+or the licensed premises are relocated, the department may issue a duplicate
+license to the licensee upon the payment of a fee of 50 cents.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_2_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department may suspend, revoke, or
+decline to renew any license issued under this chapter whenever the department
+finds that the applicant or licensee has failed to comply with this chapter or
+any rule adopted under this chapter, or for any other good cause.  Good cause
+includes but is not limited to instances where an applicant or licensee has:</p>
+            </content>
+            <paragraph eId="245_2_7__subsec_d__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Submitted a false or fraudulent application or
+provided a false statement in an application;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_2_7__subsec_d__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Possessed or displayed a false or fraudulent
+license;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_2_7__subsec_d__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Failed to comply with, violated, or been
+convicted of violating any county, state, or federal law directly pertaining to
+the sale, importation, acquisition, possession, stamping, distribution,
+transportation, or smuggling of cigarettes, counterfeit cigarettes, counterfeit
+tax stamps, or other tobacco products; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_2_7__subsec_d__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Failed to maintain complete and accurate records
+when and if required to be kept.
+Upon suspending or revoking any license, the
+department may request that the licensee immediately surrender the license or
+any duplicate issued to or printed by the licensee, and the licensee shall
+surrender the license or duplicate promptly to the department as requested.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="245_2_7__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Whenever the department suspends, revokes,
+or declines to renew a license, the department shall notify the applicant or
+licensee immediately and afford the applicant or licensee a hearing, if
+requested; provided that a hearing has not already been afforded.  The
+department shall provide no less than thirty days' notice to the applicant or
+licensee of a hearing afforded under this subsection.  After the hearing, the
+department shall:</p>
+            </content>
+            <paragraph eId="245_2_7__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Rescind its order of suspension;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_2_7__subsec_e__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Continue the suspension;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_2_7__subsec_e__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Revoke the license;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_2_7__subsec_e__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Rescind its order of revocation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_2_7__subsec_e__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Decline to renew the license; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="245_2_7__subsec_e__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Renew the license. [L 1939, c 220, §3; RL 1945,
+§5752; RL 1955, §125-2; am L Sp 1957, c 1, §8</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

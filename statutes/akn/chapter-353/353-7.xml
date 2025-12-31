@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-7"/>
+          <FRBRuri value="/us-hi/act/hrs/353-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_7">
+          <num>353-7</num>
+          <heading>High security correctional facility</heading>
+          <content>
+            <p>§
+353-7  High security correctional facility.
+(a)  The director shall maintain a high security correctional facility for the
+residential care, correctional services, and control of high custodial risk
+convicted felons or the temporary detention of high custodial risk persons
+awaiting trial.  The high security correctional facility may be integrated and
+operated concurrently with any other correctional facility or facilities.
+(b)  The facility shall:
+(1)  Provide extensive control and correctional
+programs for categories of persons who cannot be held or treated in other
+correctional facilities including, but not limited to:
+(A)  Individuals committed because of serious
+predatory or violent crimes against the person;
+(B)  Intractable recidivists;
+(C)  Persons characterized by varying degrees
+of personality disorders;
+(D)  Recidivists identified with organized
+crime; and
+(E)  Violent and dangerously deviant persons;
+(2)  Provide correctional services including, but not
+limited to, psychiatric and psychological evaluation, social inventory,
+correctional programming, and medical and dental services; and
+(3)  Provide recreational, educational, occupational
+training, and social adjustment programs. [L 1987, c 338, pt of §3; am L 1989,
+c 41, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="353_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director shall maintain a high security correctional facility for the
+residential care, correctional services, and control of high custodial risk
+convicted felons or the temporary detention of high custodial risk persons
+awaiting trial.  The high security correctional facility may be integrated and
+operated concurrently with any other correctional facility or facilities.</p>
+            </content>
+          </subsection>
+          <subsection eId="353_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The facility shall:</p>
+            </content>
+            <paragraph eId="353_7__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Provide extensive control and correctional
+programs for categories of persons who cannot be held or treated in other
+correctional facilities including, but not limited to:</p>
+              </content>
+              <subparagraph eId="353_7__subsec_b__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Individuals committed because of serious
+predatory or violent crimes against the person;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_7__subsec_b__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Intractable recidivists;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_7__subsec_b__para_1__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Persons characterized by varying degrees
+of personality disorders;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_7__subsec_b__para_1__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>Recidivists identified with organized
+crime; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="353_7__subsec_b__para_1__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>Violent and dangerously deviant persons;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="353_7__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Provide correctional services including, but not
+limited to, psychiatric and psychological evaluation, social inventory,
+correctional programming, and medical and dental services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="353_7__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Provide recreational, educational, occupational
+training, and social adjustment programs. [L 1987, c 338, pt of §3; am L 1989,
+c 41, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,296 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-5.5"/>
+          <FRBRuri value="/us-hi/act/hrs/349-5.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-5.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-5.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-5.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-5.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_5_5">
+          <num>349-5.5</num>
+          <heading>Section 349-5.5</heading>
+          <content>
+            <p>§349-5  Administrative and program support
+for the executive office on aging.
+(a)  The provision of administrative
+and program support for the executive office on aging shall be accomplished by
+the creation of two principal organizational divisions in the executive office
+on aging.  One division shall be known as the planning and administrative
+services division and the other shall be known as the community assistance and
+program management division.
+(b)  The planning and administrative services
+division shall engage in the following activities, including but not limited
+to:
+(1)  Preparation and submission of programs and
+budgets;
+(2)  Preparation of an annual evaluation report on
+elder programs for the governor and legislature, which shall include a section
+detailing outcomes of the kupuna caregivers program, including but not limited
+to:
+(A)  Evaluation metrics;
+(B)  A cost breakdown and de-identified,
+aggregated analysis of individuals served, by county and type of service
+received;
+(C)  Identification of the number of service
+providers contracted by county and the types of services provided;
+(D)  Consolidated data of the existing waiting
+list broken down by county; and
+(E)  Recommendations to support the
+implementation and execution of the program to maximize the number of
+caregivers served by the program;
+(3)  Preparation of studies and analysis;
+(4)  Maintenance of personnel records;
+(5)  Management of contracts and agreements entered
+into by the executive office on aging with public and private vendors,
+consultants, and suppliers;
+(6)  Monitoring the purchase of service agreements
+with public and private agencies and rendering technical assistance to elder
+program service providers; and
+(7)  Establishment and maintenance of reimbursement
+systems for services provided by agreement with federal, state, and county
+agencies, as well as private groups.
+(c)  The community assistance and program
+management division shall engage in the following activities, including but not
+limited to:
+(1)  Legislative research and development as well as
+liaison on state and federal legislative matters;
+(2)  Conducting public affairs programs on elder
+affairs programs, projects, and needs;
+(3)  Development and implementation of educational,
+recreational, and cultural programs for elder persons;
+(4)  Provision of technical assistance and liaison
+with community groups, organizations, and independent programs of benefit to
+elders;
+(5)  Development and implementation of active programs
+of consumer protection and pre-retirement counseling;
+(6)  Establishment of a statewide information and
+referral system, and an annual inventory of elder programs and service
+agencies;
+(7)  Technical assistance and liaison for the purpose
+of establishing elder-controlled local service delivery systems providing
+comprehensive services and employment opportunities for elders throughout the
+State; and
+(8)  Development and management of federally funded
+programs and special projects under the federal Older Americans Act and other
+federal sources. [L 1976, c 217, pt of §2; am L 1990, c 67, §8; am L 2019, c
+126, §2]
+Cross References
+Annual reports, see §93-12.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_5_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provision of administrative
+and program support for the executive office on aging shall be accomplished by
+the creation of two principal organizational divisions in the executive office
+on aging.  One division shall be known as the planning and administrative
+services division and the other shall be known as the community assistance and
+program management division.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_5_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The planning and administrative services
+division shall engage in the following activities, including but not limited
+to:</p>
+            </content>
+            <paragraph eId="349_5_5__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Preparation and submission of programs and
+budgets;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Preparation of an annual evaluation report on
+elder programs for the governor and legislature, which shall include a section
+detailing outcomes of the kupuna caregivers program, including but not limited
+to:</p>
+              </content>
+              <subparagraph eId="349_5_5__subsec_b__para_2__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Evaluation metrics;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_5_5__subsec_b__para_2__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>A cost breakdown and de-identified,
+aggregated analysis of individuals served, by county and type of service
+received;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_5_5__subsec_b__para_2__subpara_C">
+                <num>(C)</num>
+                <content>
+                  <p>Identification of the number of service
+providers contracted by county and the types of services provided;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_5_5__subsec_b__para_2__subpara_D">
+                <num>(D)</num>
+                <content>
+                  <p>Consolidated data of the existing waiting
+list broken down by county; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="349_5_5__subsec_b__para_2__subpara_E">
+                <num>(E)</num>
+                <content>
+                  <p>Recommendations to support the
+implementation and execution of the program to maximize the number of
+caregivers served by the program;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Preparation of studies and analysis;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Maintenance of personnel records;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Management of contracts and agreements entered
+into by the executive office on aging with public and private vendors,
+consultants, and suppliers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Monitoring the purchase of service agreements
+with public and private agencies and rendering technical assistance to elder
+program service providers; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Establishment and maintenance of reimbursement
+systems for services provided by agreement with federal, state, and county
+agencies, as well as private groups.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_5_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The community assistance and program
+management division shall engage in the following activities, including but not
+limited to:</p>
+            </content>
+            <paragraph eId="349_5_5__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Legislative research and development as well as
+liaison on state and federal legislative matters;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Conducting public affairs programs on elder
+affairs programs, projects, and needs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Development and implementation of educational,
+recreational, and cultural programs for elder persons;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Provision of technical assistance and liaison
+with community groups, organizations, and independent programs of benefit to
+elders;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_c__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Development and implementation of active programs
+of consumer protection and pre-retirement counseling;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_c__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Establishment of a statewide information and
+referral system, and an annual inventory of elder programs and service
+agencies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_c__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Technical assistance and liaison for the purpose
+of establishing elder-controlled local service delivery systems providing
+comprehensive services and employment opportunities for elders throughout the
+State; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_5_5__subsec_c__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Development and management of federally funded
+programs and special projects under the federal Older Americans Act and other
+federal sources. [L 1976, c 217, pt of §2; am L 1990, c 67, §8; am L 2019, c
+126, §2]
+Cross References
+Annual reports, see §93-12.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

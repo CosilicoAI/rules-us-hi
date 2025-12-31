@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-5"/>
+          <FRBRuri value="/us-hi/act/hrs/245-5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_5">
+          <num>245-5</num>
+          <heading>Returns</heading>
+          <content>
+            <p>§245-5  Returns.
+Every wholesaler or
+dealer, on or before the twentieth day of each month, shall file with the
+department a return showing the cigarettes and tobacco products sold,
+possessed, or used by the wholesaler or dealer during the preceding calendar
+month and of the taxes chargeable against the taxpayer in accordance with this
+chapter.  The form of the return shall be prescribed by the department and
+shall include:
+(1)  A separate statement of the number and wholesale
+price of cigarettes;
+(2)  The amount of stamps purchased and used;
+(3)  The wholesale price of tobacco products, sold,
+possessed, or used; and
+(4)  Any other information that the department may
+deem necessary, for the proper administration of this chapter. [L 1939, c 220,
+§6; RL 1945, §5755; RL 1955, §125-5; am L Sp 1959 2d, c 1, §16; am L 1966, c
+19, §5; HRS §245-5; gen ch 1985; am L 1993, c 220, §10; am L 1994, c 104, §3;
+am L 2000, c 249, §§5, 20(2); am L 2002, c 94, §3; am L 2010, c 22, §6]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

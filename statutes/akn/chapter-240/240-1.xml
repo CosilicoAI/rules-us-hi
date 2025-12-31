@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/240-1"/>
+          <FRBRuri value="/us-hi/act/hrs/240-1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/240-1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/240-1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/240-1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/240-1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_240">
+        <num>Chapter 240</num>
+        <heading>Rental Motor Vehicle, Tour Vehicle, and Car-Sharing Vehicle Surcharge Tax</heading>
+        <section eId="sec_240_1">
+          <num>240-1</num>
+          <heading>Electric light and power companies, tax on</heading>
+          <content>
+            <p>§240-1  Electric light and power companies,
+tax on.
+Every person operating in the State an electric light or power
+business as a public utility, whose franchise does not provide for the payment
+to the county in which the public utility operates of a tax, or a tax of less
+than two and one-half per cent, based upon the gross receipts of such person
+from all electric light or power furnished to consumers during each calendar
+year, shall file with the director of finance of the county in which the public
+utility operates, within one month after the expiration of each calendar year,
+a detailed statement showing all gross receipts from all electric light or
+power furnished to consumers during the preceding calendar year.  Such person
+shall, at the same time pay to the director of finance, for and on behalf of such
+county, in addition to any and all other payments required to be made by law,
+two and one-half per cent of the gross receipts; or, if such person's franchise
+provides for a tax of less than two and one-half per cent of the gross
+proceeds, the difference between the tax required under such franchise and two
+and one-half per cent of the gross receipts, of such person from all electric
+light or power furnished to consumers during the preceding calendar year. [L
+1937, c 105, pt of §1; RL 1945, pt of §5681; RL 1955, §131-1; HRS §240-1; am L
+1982, c 167, §1]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,271 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/396-8"/>
+          <FRBRuri value="/us-hi/act/hrs/396-8"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/396-8/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/396-8/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/396-8/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/396-8/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_396">
+        <num>Chapter 396</num>
+        <heading>Occupational Safety and Health</heading>
+        <section eId="sec_396_8">
+          <num>396-8</num>
+          <heading>Employee responsibility and rights</heading>
+          <content>
+            <p>§396-8  Employee responsibility and rights.
+(a)  Employee compliance.  Each employee shall comply with occupational safety
+and health standards and all rules, regulations and orders issued under this
+chapter which are applicable to the employee's own actions and
+conduct.
+(b)  Complaints to the department.  Complaints
+may be made to the department and where reasonable grounds exist for the
+department to believe there may be a hazard, there shall be an inspection in
+response to the complaint.
+(c)  Opportunity for employees to participate
+in inspections.  At the time and place of inspections under section
+396-4(b)(2), (3), and (4), an opportunity shall be provided for employees and
+their representatives to bring possible violations to the attention of the
+authorized representative of the director conducting said inspection in order
+to aid inspections.  This requirement may be fulfilled by allowing a
+representative of the employees and a representative of the employer to
+accompany the director's authorized representative during the physical
+inspection of the workplace, or in absence of the employees' representative,
+there shall be a consultation with a reasonable number of employees.
+(d)  Notice of nonaction to employees.  The
+department shall notify the employees when the department decides not to take
+compliance action as a result of violations alleged by any employee or any
+representative of the employees.  This notice shall state the decision not to
+take compliance action, the reasons therefor, and the procedures for informal
+review of such decision.
+(e)  Discharge or discrimination against
+employees for exercising any right under this chapter is prohibited.  In
+consideration of this prohibition:
+(1)  No person shall discharge, suspend or otherwise
+discriminate in terms and conditions of employment against any employee by
+reason of:
+(A)  The employee's failure or refusal to
+operate or handle any machine, device, apparatus, or equipment which is in any
+unsafe condition; or
+(B)  The employee's failure or refusal to
+engage in unsafe practices in violation of this chapter or of any standard,
+rule, regulation, citation or order issued under the authority of this chapter;
+(2)  Upon discretion of the director or request, names
+of complainants may be withheld from the employer;
+(3)  No person shall discharge or in any manner
+discriminate against any employee because the employee has filed any complaint
+or instituted or caused to be instituted any proceeding under or related to
+this chapter, or has testified or intends to testify in any such proceeding, or
+acting to exercise or exercised on behalf of the employee or others any right
+afforded by this chapter;
+(4)  Any employee who believes that there has been a
+discharge or discrimination against the employee by any person in violation of
+this subsection may, within sixty days after the violation occurs, file a
+complaint with the director alleging unlawful discharge or discrimination and
+setting forth the circumstances thereof;
+(5)  Upon receipt of the complaint, the director shall
+investigate to determine if a discharge or discrimination in violation of this
+subsection has occurred;
+(6)  If upon investigation the director determines
+that the provisions of this subsection have been violated, the director shall
+order the employer to provide all appropriate relief to the employee, including
+rehiring or reinstating the employee to the former position with back pay and
+restoration of seniority;
+(7)  Within ninety days of receipt of a complaint
+filed under this subsection, unless extended by the director, the director
+shall notify the employee of the final determination and any subsequent action
+the department will take to resolve the complaint; and
+(8)  Nothing in this subsection shall preclude any
+employee or representative of an employee from simultaneously pursuing a cause
+of action for injunctive relief or any other remedy provided by law.
+(f)  Except for those complainants alleging
+violations under subsection (e) above, names of all complainants and witnesses
+shall be withheld from the employer unless prior permission is given by the
+complainant or witness to release the complainant's or witness' name. [L 1972,
+c 57, pt of §1; am L 1974, c 152, §4; am L 1976, c 95, §7; am L 1977, c 179,
+§2; gen ch 1985; am L 1993, c 204, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="396_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Employee compliance.  Each employee shall comply with occupational safety
+and health standards and all rules, regulations and orders issued under this
+chapter which are applicable to the employee's own actions and
+conduct.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Complaints to the department.  Complaints
+may be made to the department and where reasonable grounds exist for the
+department to believe there may be a hazard, there shall be an inspection in
+response to the complaint.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Opportunity for employees to participate
+in inspections.  At the time and place of inspections under section
+396-4</p>
+            </content>
+          </subsection>
+          <subsection eId="396_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Notice of nonaction to employees.  The
+department shall notify the employees when the department decides not to take
+compliance action as a result of violations alleged by any employee or any
+representative of the employees.  This notice shall state the decision not to
+take compliance action, the reasons therefor, and the procedures for informal
+review of such decision.</p>
+            </content>
+          </subsection>
+          <subsection eId="396_8__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Discharge or discrimination against
+employees for exercising any right under this chapter is prohibited.  In
+consideration of this prohibition:</p>
+            </content>
+            <paragraph eId="396_8__subsec_e__para_1">
+              <num>(1)</num>
+              <content>
+                <p>No person shall discharge, suspend or otherwise
+discriminate in terms and conditions of employment against any employee by
+reason of:</p>
+              </content>
+              <subparagraph eId="396_8__subsec_e__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>The employee's failure or refusal to
+operate or handle any machine, device, apparatus, or equipment which is in any
+unsafe condition; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="396_8__subsec_e__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>The employee's failure or refusal to
+engage in unsafe practices in violation of this chapter or of any standard,
+rule, regulation, citation or order issued under the authority of this chapter;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="396_8__subsec_e__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Upon discretion of the director or request, names
+of complainants may be withheld from the employer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="396_8__subsec_e__para_3">
+              <num>(3)</num>
+              <content>
+                <p>No person shall discharge or in any manner
+discriminate against any employee because the employee has filed any complaint
+or instituted or caused to be instituted any proceeding under or related to
+this chapter, or has testified or intends to testify in any such proceeding, or
+acting to exercise or exercised on behalf of the employee or others any right
+afforded by this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="396_8__subsec_e__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Any employee who believes that there has been a
+discharge or discrimination against the employee by any person in violation of
+this subsection may, within sixty days after the violation occurs, file a
+complaint with the director alleging unlawful discharge or discrimination and
+setting forth the circumstances thereof;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="396_8__subsec_e__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Upon receipt of the complaint, the director shall
+investigate to determine if a discharge or discrimination in violation of this
+subsection has occurred;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="396_8__subsec_e__para_6">
+              <num>(6)</num>
+              <content>
+                <p>If upon investigation the director determines
+that the provisions of this subsection have been violated, the director shall
+order the employer to provide all appropriate relief to the employee, including
+rehiring or reinstating the employee to the former position with back pay and
+restoration of seniority;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="396_8__subsec_e__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Within ninety days of receipt of a complaint
+filed under this subsection, unless extended by the director, the director
+shall notify the employee of the final determination and any subsequent action
+the department will take to resolve the complaint; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="396_8__subsec_e__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Nothing in this subsection shall preclude any
+employee or representative of an employee from simultaneously pursuing a cause
+of action for injunctive relief or any other remedy provided by law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="396_8__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Except for those complainants alleging
+violations under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="396_8__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>above, names of all complainants and witnesses
+shall be withheld from the employer unless prior permission is given by the
+complainant or witness to release the complainant's or witness' name. [L 1972,
+c 57, pt of §1; am L 1974, c 152, §4; am L 1976, c 95, §7; am L 1977, c 179,
+§2; gen ch 1985; am L 1993, c 204, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

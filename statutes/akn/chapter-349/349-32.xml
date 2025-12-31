@@ -1,0 +1,263 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-32"/>
+          <FRBRuri value="/us-hi/act/hrs/349-32"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-32/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-32/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-32/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-32/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_32">
+          <num>349-32</num>
+          <heading>]</heading>
+          <content>
+            <p>[
+§349-32]
+Aging
+and disability resource centers; established.
+(a)  A statewide aging and
+disability resource center may be established with sites in each county to
+streamline access to long-term supports and services by integrating the full
+range of long-term supports and services into a single, coordinated system.
+(b)  The aging and disability resource center
+may be the single point of entry in every county where persons of all ages,
+incomes, and disabilities may access information in a person-centered manner on
+the full range of long-term supports and services options, including but not
+limited to:
+(1)  Federal, state, and county revenue-funded
+programs and services including those funded by medicaid, medicare, the Older
+Americans Act, the Department of Veterans Affairs, and kupuna care;
+(2)  A centralized application process for publicly
+funded long-term services and supports;
+(3)  Privately administered programs and services;
+(4)  Supports and services for persons with Alzheimer's
+disease and other related dementia;
+(5)  Transportation services;
+(6)  Housing options;
+(7)  Elder rights protection;
+(8)  Hospital and nursing home discharge planning and
+care transition;
+(9)  Health, prevention, and wellness programs;
+(10)  Support for grandparents raising grandchildren
+and other relatives age fifty-five years or older caring for children;
+(11)  Informal and family caregiver support services;
+and
+(12)  Community resources and services for individuals
+with disabilities.
+(c)  The aging and disability resource centers
+shall target delivery of services to:
+(1)  Persons sixty years of age and older;
+(2)  Persons of any age with physical disabilities, severe
+mental illness, dementia, and developmental or intellectual disabilities;
+(3)  Informal and family caregivers providing
+assistance to persons needing long-term supports and services;
+(4)  Professionals seeking long-term supports and
+services on behalf of their clients; and
+(5)  Persons planning for their future long-term
+supports and services needs.
+(d)  The executive office on aging shall
+coordinate the implementation of the statewide aging and disability resource
+center.
+(e)  The aging and disability resource center
+may be a function of each area agency on aging within the respective geographic
+service area. [L 2012, c 237, pt of §2]
+Cross References
+Executive office on aging administrative claiming special
+fund, see §349-5.5.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="349_32__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A statewide aging and
+disability resource center may be established with sites in each county to
+streamline access to long-term supports and services by integrating the full
+range of long-term supports and services into a single, coordinated system.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_32__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The aging and disability resource center
+may be the single point of entry in every county where persons of all ages,
+incomes, and disabilities may access information in a person-centered manner on
+the full range of long-term supports and services options, including but not
+limited to:</p>
+            </content>
+            <paragraph eId="349_32__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Federal, state, and county revenue-funded
+programs and services including those funded by medicaid, medicare, the Older
+Americans Act, the Department of Veterans Affairs, and kupuna care;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A centralized application process for publicly
+funded long-term services and supports;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Privately administered programs and services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Supports and services for persons with Alzheimer's
+disease and other related dementia;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Transportation services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Housing options;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Elder rights protection;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_8">
+              <num>(8)</num>
+              <content>
+                <p>Hospital and nursing home discharge planning and
+care transition;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_9">
+              <num>(9)</num>
+              <content>
+                <p>Health, prevention, and wellness programs;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Support for grandparents raising grandchildren
+and other relatives age fifty-five years or older caring for children;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_11">
+              <num>(11)</num>
+              <content>
+                <p>Informal and family caregiver support services;
+and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_b__para_12">
+              <num>(12)</num>
+              <content>
+                <p>Community resources and services for individuals
+with disabilities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_32__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The aging and disability resource centers
+shall target delivery of services to:</p>
+            </content>
+            <paragraph eId="349_32__subsec_c__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Persons sixty years of age and older;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_c__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Persons of any age with physical disabilities, severe
+mental illness, dementia, and developmental or intellectual disabilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_c__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Informal and family caregivers providing
+assistance to persons needing long-term supports and services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_c__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Professionals seeking long-term supports and
+services on behalf of their clients; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="349_32__subsec_c__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Persons planning for their future long-term
+supports and services needs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="349_32__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The executive office on aging shall
+coordinate the implementation of the statewide aging and disability resource
+center.</p>
+            </content>
+          </subsection>
+          <subsection eId="349_32__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The aging and disability resource center
+may be a function of each area agency on aging within the respective geographic
+service area. [L 2012, c 237, pt of §2]
+Cross References
+Executive office on aging administrative claiming special
+fund, see §349-5.5.
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

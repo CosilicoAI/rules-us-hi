@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/356D-152"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-152"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/356D-152/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-152/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/356D-152/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/356D-152/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_356D">
+        <num>Chapter 356D</num>
+        <heading>Hawaii Public Housing Authority</heading>
+        <section eId="sec_356D_152">
+          <num>356D-152</num>
+          <heading>Housing owner; defined</heading>
+          <content>
+            <p>[§356D-152]  Housing owner; defined.
+As
+used in this part, the term &quot;housing owner&quot; means:
+(1)  A private nonprofit corporation or other private
+nonprofit legal entity, a limited dividend corporation or other limited
+dividend legal entity, or a cooperative housing corporation, that is a
+mortgagor under section 202, 207, 213, 221(d)(3), 221(d)(5), or 231 of the
+United States Housing Act of 1937, as amended, or that conforms to the
+standards of those sections but that is not a mortgagor under those sections or
+any other private mortgagor under the United States Housing Act of 1937, as
+amended, for very low-income, low-income, or moderate‑income family housing,
+regulated or supervised under federal or state laws or by political
+subdivisions of the State, or agencies thereof, as to rents, charges, capital
+structure, rate of return, and methods of operation, from the time of issuance
+of the building permit for the project;
+(2)  Any other owner of a standard housing unit or
+units deemed qualified by the authority; and
+(3)  The authority. [L 2006, c 180, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

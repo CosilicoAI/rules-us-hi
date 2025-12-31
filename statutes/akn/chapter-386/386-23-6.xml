@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/386-23.6"/>
+          <FRBRuri value="/us-hi/act/hrs/386-23.6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/386-23.6/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/386-23.6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/386-23.6/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/386-23.6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_386">
+        <num>Chapter 386</num>
+        <heading>Workers' Compensation Law</heading>
+        <section eId="sec_386_23_6">
+          <num>386-23.6</num>
+          <heading>Section 386-23.6</heading>
+          <content>
+            <p>§386-23  Services of attendant.
+When
+the director of labor and industrial relations finds that the service of an
+attendant for the injured employee is constantly necessary the director may
+award a monthly sum of not more than the product of four times the effective
+maximum weekly benefit rate prescribed in section 386-31, as the director may
+deem necessary, for the procurement of such service.  Payment for the services
+of an attendant shall be the liability of the employer, but shall be subject to
+the deductible under section 386-100. [L 1963, c 116, pt of §1; Supp, §97-22;
+HRS §386-23; am L 1971, c 25, §1; am L 1976, c 17, §1; am L 1985, c 296, §17;
+gen ch 1985]
+Case Notes
+Section allows compensation
+for attendant care services so long as claimants can establish their inability
+to function or perform activities of daily living on a consistent basis.  83 H.
+361, 926 P.2d 1284 (1996).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/237-29.55"/>
+          <FRBRuri value="/us-hi/act/hrs/237-29.55"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/237-29.55/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/237-29.55/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/237-29.55/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/237-29.55/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_237">
+        <num>Chapter 237</num>
+        <heading>General Excise Tax Law</heading>
+        <section eId="sec_237_29_55">
+          <num>237-29.55</num>
+          <heading>Section 237-29.55</heading>
+          <content>
+            <p>§237-29  Exemptions for certified or
+approved housing projects.
+(a)  All gross income received by any qualified
+person or firm for the planning, design, financing, construction, sale, or
+lease in the State of a housing project that has been certified or approved
+under section 201H-36 shall be exempt from general excise taxes.
+(b)  All gross income received by a nonprofit
+or a limited distribution mortgagor for a low- and moderate-income housing
+project certified or approved under section 201H-36 shall be exempt from
+general excise taxes.
+(c)  The director of taxation and the Hawaii
+housing finance and development corporation shall adopt rules pursuant to
+chapter 91 for the purpose of this section, including any time limitation for
+the exemptions. [L 1967, c 140, §§1, 2; HRS §237-29; am L 1969, c 132, §1; am L
+1983, c 228, §1; am L 1985, c 77, §1; am L 1987, c 337, §11; am L 1988, c 153,
+§3; am L 1989, c 237, §2; am L 1990, c 68, §2; am L 1997, c 350, §§14 to 16; am
+L 2005, c 196, §26(b); am L 2006, c 180, §16; am L 2007, c 249, §18]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="237_29_55__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All gross income received by any qualified
+person or firm for the planning, design, financing, construction, sale, or
+lease in the State of a housing project that has been certified or approved
+under section 201H-36 shall be exempt from general excise taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_29_55__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All gross income received by a nonprofit
+or a limited distribution mortgagor for a low- and moderate-income housing
+project certified or approved under section 201H-36 shall be exempt from
+general excise taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="237_29_55__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The director of taxation and the Hawaii
+housing finance and development corporation shall adopt rules pursuant to
+chapter 91 for the purpose of this section, including any time limitation for
+the exemptions. [L 1967, c 140, §§1, 2; HRS §237-29; am L 1969, c 132, §1; am L
+1983, c 228, §1; am L 1985, c 77, §1; am L 1987, c 337, §11; am L 1988, c 153,
+§3; am L 1989, c 237, §2; am L 1990, c 68, §2; am L 1997, c 350, §§14 to 16; am
+L 2005, c 196, §26</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

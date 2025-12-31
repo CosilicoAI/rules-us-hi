@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-371"/>
+          <FRBRuri value="/us-hi/act/hrs/346-371"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-371/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-371/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-371/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-371/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_371">
+          <num>346-371</num>
+          <heading>Annual financial audit</heading>
+          <content>
+            <p>§346-371  Annual financial audit.
+(a) 
+The department shall require any provider agency that dispensed shelter or
+assistance for any homeless facility or any other program for the homeless
+authorized by this part to submit to the department a financial audit when
+requested, but at least annually.  The audit shall be conducted by a certified
+public accounting firm.  This audit shall contain information specific to the
+funds received under state homeless program contracts.  The audit shall include
+recommendations to address any problems found.
+(b)  Continuing contracts with provider
+agencies to participate in any program for the homeless authorized by this part
+shall require that the provider agency address the recommendations made by the
+audit, subject to exceptions as set by the department.
+(c)  Failure to carry out the recommendations
+made by the audit may be grounds for the department to bar a provider agency
+from further contracts for programs authorized by this part until the barred
+provider has addressed all deficiencies. [L 2010, c 89, pt of §2; am L 2016, c
+234, §4; am L 2017, c 100, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_371__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall require any provider agency that dispensed shelter or
+assistance for any homeless facility or any other program for the homeless
+authorized by this part to submit to the department a financial audit when
+requested, but at least annually.  The audit shall be conducted by a certified
+public accounting firm.  This audit shall contain information specific to the
+funds received under state homeless program contracts.  The audit shall include
+recommendations to address any problems found.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_371__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Continuing contracts with provider
+agencies to participate in any program for the homeless authorized by this part
+shall require that the provider agency address the recommendations made by the
+audit, subject to exceptions as set by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_371__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Failure to carry out the recommendations
+made by the audit may be grounds for the department to bar a provider agency
+from further contracts for programs authorized by this part until the barred
+provider has addressed all deficiencies. [L 2010, c 89, pt of §2; am L 2016, c
+234, §4; am L 2017, c 100, §4]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

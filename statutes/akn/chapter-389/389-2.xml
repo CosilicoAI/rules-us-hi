@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/389-2"/>
+          <FRBRuri value="/us-hi/act/hrs/389-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/389-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/389-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/389-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/389-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_389">
+        <num>Chapter 389</num>
+        <heading>Whistleblowers' Protection Act</heading>
+        <section eId="sec_389_2">
+          <num>389-2</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>[§389-2]  Definitions.
+As used in this
+chapter, unless the context otherwise requires:
+&quot;Board&quot; means the Hawaii retirement
+savings board established under section 389-3.
+&quot;Covered employee&quot; means an
+individual who:
+(1)  Is a resident of the State;
+(2)  Is eighteen years of age or older;
+(3)  Is in the employ of a covered employer; and
+(4)  Receives wages or other remunerations from a covered
+employer for services rendered that are subject to income tax as compensation
+paid in the State pursuant to section 235-34.
+&quot;Covered employee&quot; does not include an
+individual covered under the federal Railway Labor Act (45 United States Code chapter
+8) or on whose behalf the employer makes contributions to a Taft-Hartley
+multiemployer pension trust fund.
+&quot;Covered employer&quot; means any person who
+is in business in the State and has one or more individuals in employment.  &quot;Covered
+employer&quot; does not include:
+(1)  The United States;
+(2)  The State or any of its political subdivisions;
+or
+(3)  A person that has been maintaining for all
+employees during the preceding two years a retirement plan that is tax-qualified
+under or is described in and satisfies the requirements of section 401(a),
+401(k), 403(a), 403(b), 408(k), or 408(p) of the Internal Revenue Code.
+&quot;Department&quot; means the department of labor
+and industrial relations.
+&quot;Director&quot; means the director of labor
+and industrial relations.
+&quot;Individual retirement account&quot; or
+&quot;IRA&quot; means a traditional or Roth individual retirement account or
+individual retirement annuity under section 408(a), 408(b), or 408A of the
+Internal Revenue Code.
+&quot;Internal Revenue Code&quot; means the
+Internal Revenue Code of 1986, as amended (title 26 of the United States Code).
+&quot;Participant&quot; means an individual who
+is contributing to an IRA under the program or has an IRA account balance under
+the program.
+&quot;Person&quot; means any individual, firm,
+association, organization, sole proprietorship, partnership, company,
+corporation, joint venture, trust, or any other form of business, legal entity,
+or group of individuals.
+&quot;Program&quot; means the Hawaii retirement
+savings program established pursuant to this chapter.
+&quot;Roth IRA&quot; means a Roth individual
+retirement account or individual retirement annuity under section 408A of the
+Internal Revenue Code.
+&quot;Special fund&quot; means the Hawaii
+retirement savings special fund established in section 389-8.
+&quot;Total fees and expenses&quot; means all
+fees, costs, and expenses, including but not limited to administrative
+expenses, investment expenses, investment advice expenses, accounting costs,
+actuarial costs, legal costs, marketing expenses, education expenses, trading
+costs, insurance annuitization costs, and other miscellaneous costs.
+&quot;Traditional IRA&quot; means a traditional
+individual retirement account or traditional individual retirement annuity
+under section 408(a) or (b) of the Internal Revenue Code.
+&quot;Wages&quot; has the same meaning as in
+section 388-1. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="389_2__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>of the Internal Revenue Code.
+&quot;Department&quot; means the department of labor
+and industrial relations.
+&quot;Director&quot; means the director of labor
+and industrial relations.
+&quot;Individual retirement account&quot; or
+&quot;IRA&quot; means a traditional or Roth individual retirement account or
+individual retirement annuity under section 408</p>
+            </content>
+          </subsection>
+          <subsection eId="389_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="389_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of the Internal Revenue Code.
+&quot;Wages&quot; has the same meaning as in
+section 388-1. [L 2022, c 296, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

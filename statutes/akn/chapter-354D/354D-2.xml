@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/354D-2"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/354D-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/354D-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/354D-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_354D">
+        <num>Chapter 354D</num>
+        <heading>Hawaii Paroling Authority</heading>
+        <section eId="sec_354D_2">
+          <num>354D-2</num>
+          <heading>Definitions</heading>
+          <content>
+            <p>§354D-2  Definitions.
+As used in this
+chapter, unless the context otherwise requires:
+&quot;Able-bodied inmate&quot; means any person
+in the custody of the department of corrections and rehabilitation who, as
+determined by the department, is physically and mentally able to participate in
+a work program or other training program authorized by this chapter.
+&quot;Administrator&quot; means the
+administrator of the correctional industries program.
+&quot;Advisory committee&quot; means the
+correctional industries advisory committee established in section 354D-5.
+&quot;Department&quot; means the department of
+corrections and rehabilitation.
+&quot;Director&quot; means the director of
+corrections and rehabilitation. [L 1990, c 341, pt of §1; am L 1992, c 36, §1
+; am L 2022, c 278,
+§29]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

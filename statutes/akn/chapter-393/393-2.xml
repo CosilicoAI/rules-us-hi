@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/393-2"/>
+          <FRBRuri value="/us-hi/act/hrs/393-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/393-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/393-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/393-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/393-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_393">
+        <num>Chapter 393</num>
+        <heading>Prepaid Health Care Act</heading>
+        <section eId="sec_393_2">
+          <num>393-2</num>
+          <heading>Findings and purpose</heading>
+          <content>
+            <p>§393-2  Findings and purpose.
+The cost
+of medical care in case of sudden need may consume all or an excessive part of
+a person's resources.  Prepaid health care plans offer a certain measure of
+protection against such emergencies.  It is the purpose of this chapter in view
+of the spiraling cost of comprehensive medical care to provide this type of
+protection for the employees in this State.  Although a large segment of the
+labor force in the State already enjoys coverage of this type either by virtue
+of collective bargaining agreements, employer-sponsored plans, or individual
+initiative, there is a need to extend that protection to workers who at present
+do not possess any or possess only inadequate prepayment coverage.
+This chapter shall not be construed to diminish
+any protection already provided pursuant to collective bargaining agreements or
+employer-sponsored plans that is more favorable to the employees benefited
+thereby than the protection provided by this chapter or at least equivalent
+thereto, provided that presently existing collective bargaining agreements
+shall not be affected by the provisions of this section. [L 1974, c 210, pt of
+§1; am L 1978, c 199, §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

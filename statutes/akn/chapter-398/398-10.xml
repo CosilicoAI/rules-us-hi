@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/398-10"/>
+          <FRBRuri value="/us-hi/act/hrs/398-10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/398-10/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/398-10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/398-10/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/398-10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_398">
+        <num>Chapter 398</num>
+        <heading>Family Leave</heading>
+        <section eId="sec_398_10">
+          <num>398-10</num>
+          <heading>Applicability</heading>
+          <content>
+            <p>[§398-10]  Applicability.
+(a)  Section
+398-3 shall set a minimum standard that is not intended to replace family leave
+policies that exist as of the effective date of this Act and that provide for
+equal or greater employment benefits than those benefits afforded under this
+chapter.
+(b)  Nothing in this chapter shall be construed
+to modify, eliminate, or otherwise abrogate any existing family leave policies,
+employment benefits, or protections that employees may have pursuant to any
+employment contracts or collective bargaining agreements, to the extent that
+the contracts and agreements provide greater protections than those afforded
+under this chapter.
+(c)  To the extent the provisions of this
+chapter contradict or otherwise conflict with any contract rights or collective
+bargaining agreements in existence as of the date of this Act, the provisions
+that provide greater benefits to the employees shall control. [L 1991, c 328,
+pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="398_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Section
+398-3 shall set a minimum standard that is not intended to replace family leave
+policies that exist as of the effective date of this Act and that provide for
+equal or greater employment benefits than those benefits afforded under this
+chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Nothing in this chapter shall be construed
+to modify, eliminate, or otherwise abrogate any existing family leave policies,
+employment benefits, or protections that employees may have pursuant to any
+employment contracts or collective bargaining agreements, to the extent that
+the contracts and agreements provide greater protections than those afforded
+under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To the extent the provisions of this
+chapter contradict or otherwise conflict with any contract rights or collective
+bargaining agreements in existence as of the date of this Act, the provisions
+that provide greater benefits to the employees shall control. [L 1991, c 328,
+pt of §1]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

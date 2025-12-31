@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/349-3.1"/>
+          <FRBRuri value="/us-hi/act/hrs/349-3.1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/349-3.1/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/349-3.1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/349-3.1/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/349-3.1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_349">
+        <num>Chapter 349</num>
+        <heading>Child Care</heading>
+        <section eId="sec_349_3_1">
+          <num>349-3.1</num>
+          <heading>Section 349-3.1</heading>
+          <content>
+            <p>§349-3  General functions, duties, and
+powers of the director.
+The director shall have the following principal
+functions, duties, and powers:
+(1)  Serve as the principal official in state
+government solely responsible for the performance, development, and control of
+programs, policies, and activities on behalf of elders;
+(2)  Oversee, supervise, and direct the performance by
+the director's subordinates of activities in such areas as planning,
+evaluation, and coordination of elder programs and development of a statewide
+service delivery network;
+(3)  Assess the policies and practices of other
+agencies impacting on elders and conduct advocacy efforts for elders;
+(4)  Advise the governor on new legislation, programs,
+and policy initiatives and conduct such liaison as would be required to
+implement them;
+(5)  Serve as a member of advisory boards and
+regulatory panels of state agencies in such areas as income maintenance, public
+employment, retirement systems, certification of health care facilities and
+programs, social service and medical assistance, and housing and employment,
+among others;
+(6)  Administer funds allocated for the executive
+office on aging; and apply for, receive, and disburse grants and donations from
+all sources for elder programs and services;
+(7)  Establish a clearinghouse for complaints of
+persons regarding services to elders, or operations of state and county
+agencies affecting elders, investigate the complaints, and refer the complaints
+and the director's findings to the appropriate agency for corrective action;
+(8)  Adopt, amend, and repeal rules pursuant to
+chapter 91 for the purposes of this chapter;
+(9)  Employ and retain such staff as may be necessary
+for the purposes of this chapter, in conformity with chapter 76; and
+(10)  Contract for or grant such services as may be
+necessary for the purposes of this chapter, including master contract with
+other state agencies receiving federal and state funds for programs and
+services for the aging, and purchase of service agreements with appropriate
+agencies. [L 1976, c 217, pt of §2; gen ch 1985; am L 1990, c 67, §8; am L
+2000, c 253, §150]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

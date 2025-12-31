@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/353-69"/>
+          <FRBRuri value="/us-hi/act/hrs/353-69"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/353-69/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/353-69/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/353-69/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/353-69/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_353">
+        <num>Chapter 353</num>
+        <heading>Corrections</heading>
+        <section eId="sec_353_69">
+          <num>353-69</num>
+          <heading>Parole when</heading>
+          <content>
+            <p>§353-69  Parole when.
+[Repeal and
+reenactment on July 1, 2018, by L 2013, c 67, §2 deleted by 2017, c 77, §2.]
+Except
+as provided in section 706-670, no parole shall be granted unless it appears to
+the Hawaii paroling authority that there is a reasonable probability that the
+prisoner concerned will live and remain at liberty without violating the law
+and that the prisoner's release is not incompatible with the welfare and safety
+of society. [L 1917, c 103, §4; RL 1925, §1563; am L 1931, c 126, §5; RL 1935,
+§6457; RL 1945, §3962; RL 1955, §83-67; HRS §353-69; am L 1976, c 92, pt of §8;
+gen ch 1985; am L 2012, c 139, §§11, 14(4); am L 2016, C 231, §69]
+Case Notes
+No due process liberty interest in parole is created under
+this section.  795 F. Supp. 1020 (1992).
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

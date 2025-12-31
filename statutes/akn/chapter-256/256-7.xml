@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/256-7"/>
+          <FRBRuri value="/us-hi/act/hrs/256-7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/256-7/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/256-7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/256-7/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/256-7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_256">
+        <num>Chapter 256</num>
+        <heading>Multistate Tax Compact</heading>
+        <section eId="sec_256_7">
+          <num>256-7</num>
+          <heading>Tax reporting</heading>
+          <content>
+            <p>[§256-7]  Tax reporting.
+The director
+of finance or the program manager of the college savings program, or a
+designee, shall file a report annually, with the director of taxation, setting
+forth the names and identification numbers of account owners, designated
+beneficiaries, and distributees of college accounts, the amounts contributed to
+the accounts, the amounts distributed from the accounts, and the nature of the
+distributions as qualified withdrawals or as withdrawals other than qualified
+withdrawals, and any other information that the director of taxation may
+require regarding the taxation under this chapter of amounts contributed to or
+withdrawn from the accounts. [L 1999, c 81, pt of §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

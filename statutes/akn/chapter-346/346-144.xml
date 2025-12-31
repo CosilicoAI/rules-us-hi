@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-144"/>
+          <FRBRuri value="/us-hi/act/hrs/346-144"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-144/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-144/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-144/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-144/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_144">
+          <num>346-144</num>
+          <heading>Section 346-144</heading>
+          <content>
+            <p>[§346-144]  Application; approval;
+statement; return.
+(a)  A person desiring to return to the person's
+homeland may make application to the director.  The application shall include
+evidence from a recognized agency or other acceptable means to ensure that the
+person's health and welfare will be protected upon return to the person's
+homeland.  The director shall examine the application and determine whether the
+person is a qualified person and the person's health and welfare will be
+protected.  If the director determines that the person is a qualified person,
+the person's health and welfare will be protected, and funds are available, the
+director shall approve the application.  Upon approval, the qualified person
+shall be required to sign a statement of intent to take up permanent residence
+in the qualified person's homeland.  Upon signing the statement, the director
+shall enter into a contract as provided under section 346-143 to provide
+transportation assistance for the qualified person.
+(b)  A person who has used the transportation
+assistance under this part and returns to and reestablishes residency in Hawaii
+shall repay to the State the amount of the transportation assistance used in
+returning to the person's homeland with interest.  The rate of interest shall
+be established by the director by rule under chapter 91.
+(c)  The statement of intent under subsection
+(a) shall explain the requirements for reestablishing residency in Hawaii and
+indicate that the qualified person understands these requirements.
+(d)  A person shall not be eligible to use the
+transportation assistance under this chapter more than once in the person's
+lifetime. [L 1980, c 276, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_144__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A person desiring to return to the person's
+homeland may make application to the director.  The application shall include
+evidence from a recognized agency or other acceptable means to ensure that the
+person's health and welfare will be protected upon return to the person's
+homeland.  The director shall examine the application and determine whether the
+person is a qualified person and the person's health and welfare will be
+protected.  If the director determines that the person is a qualified person,
+the person's health and welfare will be protected, and funds are available, the
+director shall approve the application.  Upon approval, the qualified person
+shall be required to sign a statement of intent to take up permanent residence
+in the qualified person's homeland.  Upon signing the statement, the director
+shall enter into a contract as provided under section 346-143 to provide
+transportation assistance for the qualified person.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_144__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person who has used the transportation
+assistance under this part and returns to and reestablishes residency in Hawaii
+shall repay to the State the amount of the transportation assistance used in
+returning to the person's homeland with interest.  The rate of interest shall
+be established by the director by rule under chapter 91.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_144__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The statement of intent under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="346_144__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>shall explain the requirements for reestablishing residency in Hawaii and
+indicate that the qualified person understands these requirements.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_144__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A person shall not be eligible to use the
+transportation assistance under this chapter more than once in the person's
+lifetime. [L 1980, c 276, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

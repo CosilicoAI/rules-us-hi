@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-389"/>
+          <FRBRuri value="/us-hi/act/hrs/346-389"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-389/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-389/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-389/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-389/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_389">
+          <num>346-389</num>
+          <heading>Annual report</heading>
+          <content>
+            <p>[
+§346-389]  Annual report.
+The
+coordinator shall submit an annual progress report to the legislature no later
+than twenty days prior to the convening of each regular session.  The report
+shall include:
+(1)  Performance metrics relating to reducing the
+number of persons experiencing homelessness in the State;
+(2)  Performance metrics relating to housing and
+services inventory gaps, including but not limited to the number of persons
+experiencing homelessness served and placed into permanent housing and the cost
+per person served; and
+(3)  Performance metrics to evaluate the State's
+performance on homeless services, housing, care coordination, and other needed
+services to end homelessness in the State. [L 2022, c 252, pt of §2]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

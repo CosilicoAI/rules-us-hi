@@ -1,0 +1,383 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/346-97"/>
+          <FRBRuri value="/us-hi/act/hrs/346-97"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/346-97/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/346-97/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/346-97/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/346-97/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_346">
+        <num>Chapter 346</num>
+        <heading>Department of Human Services</heading>
+        <section eId="sec_346_97">
+          <num>346-97</num>
+          <heading>Criminal history record checks</heading>
+          <content>
+            <p>[C.  General
+Provisions]
+§346-97  Criminal history record checks.
+(a)  For the purposes of this section:
+&quot;Conviction for a relevant crime&quot;
+means any federal or state conviction for any relevant crime as defined in this
+section.
+&quot;Criminal history record name
+inquiry&quot; means a search by name, and other identifying information, using
+the state computerized criminal history record information system.
+″Department″ means the department of human
+services.
+″Name inquiry″ means a criminal history record
+check conducted by using the name and other identifying information of the
+individual, in lieu of a fingerprint check.
+&quot;Relevant crime&quot; means:
+(1)  Any offense described in 42 United States Code
+§1320a-7 (section 1128(a) of the Social Security Act); or
+(2)  A crime of such a serious nature or circumstance
+that the department finds its perpetrator to pose a risk to the health, safety,
+or well-being of a patient or resident.  This includes but is not limited to
+murder, manslaughter, assault, sex offenses, domestic violence, theft or
+forgery, arson, kidnapping, or possession, use, sale, manufacture, or
+distribution of dangerous drugs or controlled substances.
+(b)  The department shall adopt rules pursuant
+to chapter 91 establishing standards regarding the reputable and responsible
+character of service providers who have direct contact with individuals
+receiving services under this part, including:
+(1)  Purchase of service contracted and subcontracted
+service providers and their employees serving clients of the adult protective and
+community services branch;
+(2)  The foster grandparent program, senior companion
+program, and respite companion program participants; and
+(3)  Contracted and subcontracted service providers
+and their employees and new employees who provide home and community-based
+services under section 1915(c) of the Social Security Act (42 U.S.C.
+§1396n(c)), or under any other applicable section or sections of the Social
+Security Act for the purposes of providing home and community-based services.
+(c)  Individuals identified in subsection (b)
+shall:
+(1)  Meet the standards regarding the reputable and
+responsible character of service providers;
+(2)  Be subject to criminal history record checks in
+accordance with section 846-2.7;
+(3)  Shall sign a waiver form stating that the
+department shall not be liable to the individual; and
+(4)  Provide consent to the department or its designee
+to obtain criminal history record information for verification.
+New employees and adult volunteers shall consent to
+be fingerprinted, shall supply the necessary information to enable the criminal
+history record check prior to the start of employment or volunteering, and
+shall sign a waiver form stating that the department shall not be liable to the
+employee or volunteer.
+(d)  The department or its designee shall
+obtain criminal history record information through the Hawaii criminal justice
+data center on individuals identified in subsection (b) for the first two years
+that an individual identified in subsection (b) is required to have such
+checks, and shall conduct a criminal history record name inquiry into the state
+criminal history records annually or biennially thereafter.
+(e)  The department may take appropriate action
+if it finds that the criminal history of the individual identified under
+subsection (b) may pose a risk to the health, welfare, and safety of service
+recipients.  An action may include refusing to use an individual as a service
+provider.
+(f)  Notwithstanding any other law to the
+contrary, for purposes of this section, the department shall be exempt from
+section 831-3.1 and need not conduct investigations, notifications, or hearings
+under this section in accordance with chapter 91.
+(g)  The costs of processing fingerprints and
+the state criminal history record checks may be borne by the employer or by the
+employee or individual who is being screened.
+(h)  The department, in obtaining and relying
+upon the results of the state criminal history record checks, is presumed to be
+acting in good faith and shall be immune from civil liability for taking or
+recommending action based upon the criminal history record information.  The
+good faith presumption may be rebutted upon a showing by the person or entity
+alleging a lack of good faith, and by a preponderance of the evidence, that the
+department relied upon information or opinion that it knew was false or
+misleading.
+(i)  Nothing in this section shall affect the
+rights, obligations, remedies, liabilities, or standards of proof under
+chapters 368 and 378.
+(j)  The criminal history record information
+obtained under this section shall be used exclusively by the department for the
+purpose of establishing the reputable and responsible character of the
+individuals identified in subsection (b) such that the health, welfare, and
+safety of service recipients will not be at risk. [L 2006, c 220, §3; am L
+2008, c 136, §3; am L 2012, c 93, §4; am L 2015, c 35, §8]
+Note
+L 2006, c 220, §6 provides:
+&quot;SECTION 6.  There shall be established a working
+committee of five members with representatives from the department of health,
+department of human services, provider organizations and community, as
+appointed by the directors of the department of health and department of human
+services to meet minimally on a quarterly basis to review and evaluate the
+process undertaken by the departments in effecting criminal history record
+checks and provide recommendations to the directors of the departments as
+relevant.  Members shall serve a term of two years which may be extended at the
+discretion of the directors of the departments and will report to departmental
+administrators as designated by the directors.&quot;
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="346_97__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section:
+&quot;Conviction for a relevant crime&quot;
+means any federal or state conviction for any relevant crime as defined in this
+section.
+&quot;Criminal history record name
+inquiry&quot; means a search by name, and other identifying information, using
+the state computerized criminal history record information system.
+″Department″ means the department of human
+services.
+″Name inquiry″ means a criminal history record
+check conducted by using the name and other identifying information of the
+individual, in lieu of a fingerprint check.
+&quot;Relevant crime&quot; means:</p>
+            </content>
+            <paragraph eId="346_97__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Any offense described in 42 United States Code
+§1320a-7 (section 1128</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_97__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the Social Security Act); or</p>
+            </content>
+            <paragraph eId="346_97__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A crime of such a serious nature or circumstance
+that the department finds its perpetrator to pose a risk to the health, safety,
+or well-being of a patient or resident.  This includes but is not limited to
+murder, manslaughter, assault, sex offenses, domestic violence, theft or
+forgery, arson, kidnapping, or possession, use, sale, manufacture, or
+distribution of dangerous drugs or controlled substances.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_97__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall adopt rules pursuant
+to chapter 91 establishing standards regarding the reputable and responsible
+character of service providers who have direct contact with individuals
+receiving services under this part, including:</p>
+            </content>
+            <paragraph eId="346_97__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Purchase of service contracted and subcontracted
+service providers and their employees serving clients of the adult protective and
+community services branch;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_97__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The foster grandparent program, senior companion
+program, and respite companion program participants; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_97__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Contracted and subcontracted service providers
+and their employees and new employees who provide home and community-based
+services under section 1915</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_97__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the Social Security Act (42 U.S.C.
+§1396n</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Individuals identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>shall:</p>
+            </content>
+            <paragraph eId="346_97__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Meet the standards regarding the reputable and
+responsible character of service providers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_97__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Be subject to criminal history record checks in
+accordance with section 846-2.7;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_97__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Shall sign a waiver form stating that the
+department shall not be liable to the individual; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="346_97__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Provide consent to the department or its designee
+to obtain criminal history record information for verification.
+New employees and adult volunteers shall consent to
+be fingerprinted, shall supply the necessary information to enable the criminal
+history record check prior to the start of employment or volunteering, and
+shall sign a waiver form stating that the department shall not be liable to the
+employee or volunteer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="346_97__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department or its designee shall
+obtain criminal history record information through the Hawaii criminal justice
+data center on individuals identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>for the first two years
+that an individual identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>is required to have such
+checks, and shall conduct a criminal history record name inquiry into the state
+criminal history records annually or biennially thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department may take appropriate action
+if it finds that the criminal history of the individual identified under
+subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>may pose a risk to the health, welfare, and safety of service
+recipients.  An action may include refusing to use an individual as a service
+provider.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Notwithstanding any other law to the
+contrary, for purposes of this section, the department shall be exempt from
+section 831-3.1 and need not conduct investigations, notifications, or hearings
+under this section in accordance with chapter 91.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The costs of processing fingerprints and
+the state criminal history record checks may be borne by the employer or by the
+employee or individual who is being screened.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The department, in obtaining and relying
+upon the results of the state criminal history record checks, is presumed to be
+acting in good faith and shall be immune from civil liability for taking or
+recommending action based upon the criminal history record information.  The
+good faith presumption may be rebutted upon a showing by the person or entity
+alleging a lack of good faith, and by a preponderance of the evidence, that the
+department relied upon information or opinion that it knew was false or
+misleading.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Nothing in this section shall affect the
+rights, obligations, remedies, liabilities, or standards of proof under
+chapters 368 and 378.</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>The criminal history record information
+obtained under this section shall be used exclusively by the department for the
+purpose of establishing the reputable and responsible character of the
+individuals identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="346_97__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>such that the health, welfare, and
+safety of service recipients will not be at risk. [L 2006, c 220, §3; am L
+2008, c 136, §3; am L 2012, c 93, §4; am L 2015, c 35, §8]
+Note
+L 2006, c 220, §6 provides:
+&quot;SECTION 6.  There shall be established a working
+committee of five members with representatives from the department of health,
+department of human services, provider organizations and community, as
+appointed by the directors of the department of health and department of human
+services to meet minimally on a quarterly basis to review and evaluate the
+process undertaken by the departments in effecting criminal history record
+checks and provide recommendations to the directors of the departments as
+relevant.  Members shall serve a term of two years which may be extended at the
+discretion of the directors of the departments and will report to departmental
+administrators as designated by the directors.&quot;
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

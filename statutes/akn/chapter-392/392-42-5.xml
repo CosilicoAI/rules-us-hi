@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/392-42.5"/>
+          <FRBRuri value="/us-hi/act/hrs/392-42.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/392-42.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/392-42.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/392-42.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/392-42.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_392">
+        <num>Chapter 392</num>
+        <heading>Temporary Disability Insurance</heading>
+        <section eId="sec_392_42_5">
+          <num>392-42.5</num>
+          <heading>Section 392-42.5</heading>
+          <content>
+            <p>§392-42  Notice of insurance.
+If
+payment of disability benefits is provided for in whole or in part by insurance
+pursuant to section 392-41(a)(1), (4), or (5), the employer or insurer shall
+forthwith file with the director in form prescribed by the director a notice of
+the employer's or insurer's insurance together with a statement of benefits
+provided by the policy.  If an employer or insurer fails to file the notice of
+insurance within thirty days after purchase of insurance, the director may levy
+a penalty of not more than $10 for each delinquent notice, unless good cause
+for failure to file can be shown by the employer or insurer. [L 1969, c 148, pt
+of §1; am L 1971, c 109, §1(e); gen ch 1985]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

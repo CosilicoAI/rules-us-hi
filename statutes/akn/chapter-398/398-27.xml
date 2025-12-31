@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/398-27"/>
+          <FRBRuri value="/us-hi/act/hrs/398-27"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/398-27/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/398-27/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/398-27/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/398-27/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_398">
+        <num>Chapter 398</num>
+        <heading>Family Leave</heading>
+        <section eId="sec_398_27">
+          <num>398-27</num>
+          <heading>Section 398-27</heading>
+          <content>
+            <p>[§398-27]  Notice of right to sue and
+employee remedies.
+(a)  The department may issue a notice of right to
+sue.  Within ninety days after the receipt of a notice of right to sue, the
+complainant may bring a civil action under this chapter.  The department may
+intervene in a civil action brought pursuant to this chapter if the case is of
+general importance.
+(b)  An action by an employee to enforce the
+provisions of this chapter may be maintained in any court of competent
+jurisdiction by any one or more employees for and in behalf of oneself or
+themselves, or the employee or employees may designate an agent or
+representative to maintain the action.
+(c)  The court in any action brought under this
+section, in addition to any judgment awarded to the plaintiff or plaintiffs,
+shall allow costs of action, including costs of fees of any nature, and
+reasonable attorney's fees, to be paid by the defendant.
+(d)  The court also may provide injunctive
+relief in appropriate circumstances. [L 1995, c 154, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+          </content>
+          <subsection eId="398_27__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department may issue a notice of right to
+sue.  Within ninety days after the receipt of a notice of right to sue, the
+complainant may bring a civil action under this chapter.  The department may
+intervene in a civil action brought pursuant to this chapter if the case is of
+general importance.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_27__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An action by an employee to enforce the
+provisions of this chapter may be maintained in any court of competent
+jurisdiction by any one or more employees for and in behalf of oneself or
+themselves, or the employee or employees may designate an agent or
+representative to maintain the action.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_27__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The court in any action brought under this
+section, in addition to any judgment awarded to the plaintiff or plaintiffs,
+shall allow costs of action, including costs of fees of any nature, and
+reasonable attorney's fees, to be paid by the defendant.</p>
+            </content>
+          </subsection>
+          <subsection eId="398_27__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The court also may provide injunctive
+relief in appropriate circumstances. [L 1995, c 154, pt of §3]
+Previous
+Vol07_Ch0346-0398
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

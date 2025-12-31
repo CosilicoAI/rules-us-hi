@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/247-6.5"/>
+          <FRBRuri value="/us-hi/act/hrs/247-6.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/247-6.5/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/247-6.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/247-6.5/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/247-6.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_247">
+        <num>Chapter 247</num>
+        <heading>Conveyance Tax</heading>
+        <section eId="sec_247_6_5">
+          <num>247-6.5</num>
+          <heading>Section 247-6.5</heading>
+          <content>
+            <p>§247-6  Certificate of conveyance required.
+(a)  Any party, with the exception of governmental bodies, agencies, or
+officers, to a document or instrument subject to this chapter, or the party's
+authorized representative, shall file, in the manner and place which the
+director of taxation shall prescribe, a certificate of conveyance setting forth
+the actual and full consideration of the property transferred, including any
+lien or encumbrance on the property, and any other facts as the director may by
+rules prescribe.  The certificate of conveyance shall be verified by a written
+declaration thereon that the statements made therein are subject to the
+penalties in section 231-36.  The certificate shall be appended to the document
+or instrument made subject to this chapter and shall be filed with the director
+simultaneously with the aforementioned document or instrument for the
+imprinting of the required seal or seals.
+(b)  No certificate is required to be filed for
+any document or instrument made exempt by section 247-3, except that in the
+following situations, a certificate shall be filed in the manner and place that
+the director shall prescribe, within ninety days after the transaction or prior
+to the recordation or filing of the document or instrument with the registrar
+of conveyances or the assistant registrar of the land court or after the
+ninety-day period, recordation, or filing as the director shall prescribe:
+(1)  For any document or instrument described under
+section 247-3(3), any party to the document or instrument shall file a
+certificate declaring that the document or instrument merely confirms or
+corrects a deed, lease, sublease, assignment, transfer, or conveyance
+previously recorded or filed.
+(2)  For any document or instrument described under
+section 247-3(4), any party to the document or instrument shall file a
+certificate declaring the amount of the nominal consideration paid and marital
+or parental relationship of the parties.
+(3)  For any document or instrument described under
+section 247-3(5), any party to the document or instrument shall file a
+certificate declaring the reasons why the consideration is $100 or less.
+(4)  For any document or instrument described in
+section 247-3(6), any party to the document or instrument shall file a
+certificate declaring that the document or instrument is made pursuant to an
+agreement of sale, and where applicable, an assignment or assignments of
+agreements of sale.
+(5)  For any document or instrument described under
+section 247-3(8), any person made a party to the document or instrument as
+grantee, assignee, or transferee shall file a certificate declaring the full
+and actual consideration of the property transferred.
+(6)  For any document or instrument described under
+section 247-3(11), any party to the document or instrument shall file a
+certificate declaring each owner's:
+(A)  Undivided interest in the real property
+and the value of that interest before partition; and
+(B)  Proportionate interest and the value of
+that interest after partition.
+(7)  For any document or instrument described under
+section 247-3(12), any party to the document or instrument shall file a
+certificate declaring that the document or instrument is made pursuant to an
+order of the court and containing the court case number.
+(8)  For any document or instrument described under
+section 247-3(13), any party to the document or instrument shall file a
+certificate declaring that the document or instrument conveys real property
+from a testamentary trust to a trust beneficiary.
+(9)  For any document or instrument described under
+section 247-3(14), any party to the document or instrument shall file a
+certificate declaring that the document or instrument conveys real property
+from the grantor to a grantor's revocable living trust or from a grantor's
+revocable living trust to the grantor.
+(c)  The form of the certificate and the
+procedure to be followed for the submission of the certificate shall be
+prescribed by the director.
+(d)  Notwithstanding the foregoing, where the
+director deems it impracticable to require the filing of a certificate or
+certificates or to obtain the signatures of any or all parties to a certificate
+or certificates required under this section, the director may, in the
+director's discretion, waive the requirement of filing the certificate or
+certificates or of securing the signature of any or all parties to the
+certificate or certificates.
+(e)  No document or instrument, on account of
+which a certificate is required to be filed with the office of the director
+under this section, shall be accepted for recordation or filing with the
+registrar of conveyances or the assistant registrar of the land court, unless
+the certificate has been duly filed.
+(f)  Within twenty-one business days after the
+end of each week, or as soon thereafter as possible, the director of taxation
+shall provide to the administrator of each county's real property assessment
+division, without charge, an image of all certificates of conveyance that were
+filed.  For each certificate of conveyance, the image shall include the
+following:
+(1)  Document number;
+(2)  Date of the filing;
+(3)  Name of grantor and grantee;
+(4)  Tax map key number;
+(5)  Location of the real property by island; and
+(6)  Address for real property assessment notice and
+tax bill. [L 1966, c 10, pt of §1; am L 1967, c 293, §2; HRS §247-6; am L 1968,
+c 5, §§11 to 15; am L 1983, c 286, §1; gen ch 1985; am L 1993, c 195, §4; am L
+1995, c 92, §18; am L 2011, c 116, §2]
+Cross References
+Bureau of
+conveyances, recording, see chapter 502.
+Land court
+registration, see chapter 501.
+Rules of Court
+Recordation, see RLC
+rule 66.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="247_6_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any party, with the exception of governmental bodies, agencies, or
+officers, to a document or instrument subject to this chapter, or the party's
+authorized representative, shall file, in the manner and place which the
+director of taxation shall prescribe, a certificate of conveyance setting forth
+the actual and full consideration of the property transferred, including any
+lien or encumbrance on the property, and any other facts as the director may by
+rules prescribe.  The certificate of conveyance shall be verified by a written
+declaration thereon that the statements made therein are subject to the
+penalties in section 231-36.  The certificate shall be appended to the document
+or instrument made subject to this chapter and shall be filed with the director
+simultaneously with the aforementioned document or instrument for the
+imprinting of the required seal or seals.</p>
+            </content>
+          </subsection>
+          <subsection eId="247_6_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No certificate is required to be filed for
+any document or instrument made exempt by section 247-3, except that in the
+following situations, a certificate shall be filed in the manner and place that
+the director shall prescribe, within ninety days after the transaction or prior
+to the recordation or filing of the document or instrument with the registrar
+of conveyances or the assistant registrar of the land court or after the
+ninety-day period, recordation, or filing as the director shall prescribe:</p>
+            </content>
+            <paragraph eId="247_6_5__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>For any document or instrument described under
+section 247-3(3), any party to the document or instrument shall file a
+certificate declaring that the document or instrument merely confirms or
+corrects a deed, lease, sublease, assignment, transfer, or conveyance
+previously recorded or filed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>For any document or instrument described under
+section 247-3(4), any party to the document or instrument shall file a
+certificate declaring the amount of the nominal consideration paid and marital
+or parental relationship of the parties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_b__para_3">
+              <num>(3)</num>
+              <content>
+                <p>For any document or instrument described under
+section 247-3(5), any party to the document or instrument shall file a
+certificate declaring the reasons why the consideration is $100 or less.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_b__para_4">
+              <num>(4)</num>
+              <content>
+                <p>For any document or instrument described in
+section 247-3(6), any party to the document or instrument shall file a
+certificate declaring that the document or instrument is made pursuant to an
+agreement of sale, and where applicable, an assignment or assignments of
+agreements of sale.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_b__para_5">
+              <num>(5)</num>
+              <content>
+                <p>For any document or instrument described under
+section 247-3(8), any person made a party to the document or instrument as
+grantee, assignee, or transferee shall file a certificate declaring the full
+and actual consideration of the property transferred.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_b__para_6">
+              <num>(6)</num>
+              <content>
+                <p>For any document or instrument described under
+section 247-3(11), any party to the document or instrument shall file a
+certificate declaring each owner's:</p>
+              </content>
+              <subparagraph eId="247_6_5__subsec_b__para_6__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Undivided interest in the real property
+and the value of that interest before partition; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="247_6_5__subsec_b__para_6__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Proportionate interest and the value of
+that interest after partition.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_b__para_7">
+              <num>(7)</num>
+              <content>
+                <p>For any document or instrument described under
+section 247-3(12), any party to the document or instrument shall file a
+certificate declaring that the document or instrument is made pursuant to an
+order of the court and containing the court case number.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_b__para_8">
+              <num>(8)</num>
+              <content>
+                <p>For any document or instrument described under
+section 247-3(13), any party to the document or instrument shall file a
+certificate declaring that the document or instrument conveys real property
+from a testamentary trust to a trust beneficiary.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_b__para_9">
+              <num>(9)</num>
+              <content>
+                <p>For any document or instrument described under
+section 247-3(14), any party to the document or instrument shall file a
+certificate declaring that the document or instrument conveys real property
+from the grantor to a grantor's revocable living trust or from a grantor's
+revocable living trust to the grantor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="247_6_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The form of the certificate and the
+procedure to be followed for the submission of the certificate shall be
+prescribed by the director.</p>
+            </content>
+          </subsection>
+          <subsection eId="247_6_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Notwithstanding the foregoing, where the
+director deems it impracticable to require the filing of a certificate or
+certificates or to obtain the signatures of any or all parties to a certificate
+or certificates required under this section, the director may, in the
+director's discretion, waive the requirement of filing the certificate or
+certificates or of securing the signature of any or all parties to the
+certificate or certificates.</p>
+            </content>
+          </subsection>
+          <subsection eId="247_6_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>No document or instrument, on account of
+which a certificate is required to be filed with the office of the director
+under this section, shall be accepted for recordation or filing with the
+registrar of conveyances or the assistant registrar of the land court, unless
+the certificate has been duly filed.</p>
+            </content>
+          </subsection>
+          <subsection eId="247_6_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Within twenty-one business days after the
+end of each week, or as soon thereafter as possible, the director of taxation
+shall provide to the administrator of each county's real property assessment
+division, without charge, an image of all certificates of conveyance that were
+filed.  For each certificate of conveyance, the image shall include the
+following:</p>
+            </content>
+            <paragraph eId="247_6_5__subsec_f__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Document number;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_f__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Date of the filing;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_f__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Name of grantor and grantee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_f__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Tax map key number;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_f__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Location of the real property by island; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="247_6_5__subsec_f__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Address for real property assessment notice and
+tax bill. [L 1966, c 10, pt of §1; am L 1967, c 293, §2; HRS §247-6; am L 1968,
+c 5, §§11 to 15; am L 1983, c 286, §1; gen ch 1985; am L 1993, c 195, §4; am L
+1995, c 92, §18; am L 2011, c 116, §2]
+Cross References
+Bureau of
+conveyances, recording, see chapter 502.
+Land court
+registration, see chapter 501.
+Rules of Court
+Recordation, see RLC
+rule 66.
+Previous
+Vol04_Ch0201-0257
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

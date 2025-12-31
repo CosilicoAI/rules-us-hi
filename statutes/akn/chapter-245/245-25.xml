@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/245-25"/>
+          <FRBRuri value="/us-hi/act/hrs/245-25"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/245-25/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/245-25/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/245-25/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/245-25/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_245">
+        <num>Chapter 245</num>
+        <heading>Tax on Intoxicating Liquor</heading>
+        <section eId="sec_245_25">
+          <num>245-25</num>
+          <heading>]</heading>
+          <content>
+            <p>[§245-25]
+Purchase of stamps; when;
+by licensee or designee.
+(a)  A licensee may apply to the department to
+purchase stamps beginning December 15, 2000.
+(b)  A licensee may authorize a designee to
+order purchases of stamps for the licensee at a location where stamps are
+sold.  Authorization of a designee shall be in writing.  The written
+authorization shall continue in effect until written notice of revocation of
+the authority is delivered at the sales location in the manner prescribed by
+rule. [L 2000, c 249, pt of §1, §20(2); am L 2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="245_25__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A licensee may apply to the department to
+purchase stamps beginning December 15, 2000.</p>
+            </content>
+          </subsection>
+          <subsection eId="245_25__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A licensee may authorize a designee to
+order purchases of stamps for the licensee at a location where stamps are
+sold.  Authorization of a designee shall be in writing.  The written
+authorization shall continue in effect until written notice of revocation of
+the authority is delivered at the sales location in the manner prescribed by
+rule. [L 2000, c 249, pt of §1, §20(2); am L 2002, c 94, §3]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

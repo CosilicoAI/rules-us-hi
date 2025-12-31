@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#hi-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-hi/act/hrs/251-2"/>
+          <FRBRuri value="/us-hi/act/hrs/251-2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRcountry value="us-hi"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-hi/act/hrs/251-2/eng"/>
+          <FRBRuri value="/us-hi/act/hrs/251-2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#hi-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-hi/act/hrs/251-2/eng/akn"/>
+          <FRBRuri value="/us-hi/act/hrs/251-2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="hi-legislature" href="/ontology/organization/us-hi/legislature" showAs="Hawaii Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_251">
+        <num>Chapter 251</num>
+        <heading>Transient Accommodations Tax</heading>
+        <section eId="sec_251_2">
+          <num>251-2</num>
+          <heading>Section 251-2</heading>
+          <content>
+            <p>§251-2
+Rental motor vehicle and tour
+vehicle surcharge tax.
+(a)  There is levied and shall be assessed and
+collected each month a rental motor vehicle surcharge tax of $5 a day, or any
+portion of a day that a rental motor vehicle is rented or leased.  Beginning
+January 1, 2022, and each subsequent year on January 1 until December 31, 2027,
+the rental motor vehicle surcharge tax shall increase by $0.50.  The rental
+motor vehicle surcharge tax shall be levied upon the lessor; provided that the tax
+shall not be levied on the lessor if:
+(1)  The lessor is renting the vehicle to replace a
+vehicle of the lessee that:
+(A)  Is being repaired; or
+(B)  Has been stolen and is unrecovered or
+will not be repaired due to a total loss of the vehicle; and
+(2)  A record of the repair order, the stolen vehicle
+record, or total loss vehicle claim for the vehicle is retained either by the
+lessor for two years for verification purposes or by a motor vehicle repair
+dealer for two years as provided in section 437B-16.
+In addition to the requirements imposed by
+section 251-4, a lessor shall disclose, to the department, the portion of the
+remittance attributed to the county in which the motor vehicle was operated
+under rental or lease.  A peer-to-peer car-sharing program, as defined in
+chapter 279L, shall be subject to the tax imposed by this subsection and be
+subject to the other requirements of this chapter.
+(b)  There is levied and shall be assessed and
+collected each month a tour vehicle surcharge tax of:
+(1)  $66 for each tour vehicle used or partially used
+during the month that falls into the over twenty-five passenger seat category;
+and
+(2)  $16 for each tour vehicle used or partially used
+during the month that falls into the eight to twenty-five passenger seat
+category.
+The tour vehicle surcharge tax shall be levied
+upon the tour vehicle operator. [L 1991, c 263, pt of §1; am L 1992, c 77, §2;
+am L 1999, c 223, §1; am L 2005, c 67, §1; am L 2006, c 142, §2; am L 2007, c
+258, §2; am L 2008, c 226, §13; am L 2011, c 104, §3; am L 2018, c 215, §3; am
+L 2019, c 174, §2; am L 2021, c 237, §1; am L 2022, c 77, §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+          </content>
+          <subsection eId="251_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There is levied and shall be assessed and
+collected each month a rental motor vehicle surcharge tax of $5 a day, or any
+portion of a day that a rental motor vehicle is rented or leased.  Beginning
+January 1, 2022, and each subsequent year on January 1 until December 31, 2027,
+the rental motor vehicle surcharge tax shall increase by $0.50.  The rental
+motor vehicle surcharge tax shall be levied upon the lessor; provided that the tax
+shall not be levied on the lessor if:</p>
+            </content>
+            <paragraph eId="251_2__subsec_a__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The lessor is renting the vehicle to replace a
+vehicle of the lessee that:</p>
+              </content>
+              <subparagraph eId="251_2__subsec_a__para_1__subpara_A">
+                <num>(A)</num>
+                <content>
+                  <p>Is being repaired; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="251_2__subsec_a__para_1__subpara_B">
+                <num>(B)</num>
+                <content>
+                  <p>Has been stolen and is unrecovered or
+will not be repaired due to a total loss of the vehicle; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="251_2__subsec_a__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A record of the repair order, the stolen vehicle
+record, or total loss vehicle claim for the vehicle is retained either by the
+lessor for two years for verification purposes or by a motor vehicle repair
+dealer for two years as provided in section 437B-16.
+In addition to the requirements imposed by
+section 251-4, a lessor shall disclose, to the department, the portion of the
+remittance attributed to the county in which the motor vehicle was operated
+under rental or lease.  A peer-to-peer car-sharing program, as defined in
+chapter 279L, shall be subject to the tax imposed by this subsection and be
+subject to the other requirements of this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="251_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There is levied and shall be assessed and
+collected each month a tour vehicle surcharge tax of:</p>
+            </content>
+            <paragraph eId="251_2__subsec_b__para_1">
+              <num>(1)</num>
+              <content>
+                <p>$66 for each tour vehicle used or partially used
+during the month that falls into the over twenty-five passenger seat category;
+and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="251_2__subsec_b__para_2">
+              <num>(2)</num>
+              <content>
+                <p>$16 for each tour vehicle used or partially used
+during the month that falls into the eight to twenty-five passenger seat
+category.
+The tour vehicle surcharge tax shall be levied
+upon the tour vehicle operator. [L 1991, c 263, pt of §1; am L 1992, c 77, §2;
+am L 1999, c 223, §1; am L 2005, c 67, §1; am L 2006, c 142, §2; am L 2007, c
+258, §2; am L 2008, c 226, §13; am L 2011, c 104, §3; am L 2018, c 215, §3; am
+L 2019, c 174, §2; am L 2021, c 237, §1; am L 2022, c 77, §2]
+Previous
+Vol04_Ch0201-0257
+Next</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
